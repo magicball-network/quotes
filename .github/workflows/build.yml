@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Validate JSON
-        run: sh bin/validate-json.sh lba1/*.json lba2/*.json
+        run: bin/validate-json.sh lba1/*.json lba2/*.json
       - name: Merge JSON
-        run: sh bin/merge.sh lba1 lba2
+        run: bin/merge.sh lba1 lba2
