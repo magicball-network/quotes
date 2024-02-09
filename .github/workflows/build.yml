@@ -1,0 +1,15 @@
+name: Build
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate JSON
+        run: sh bin/validate-json.sh lba1/*.json lba2/*.json
+      - name: Merge JSON
+        run: sh bin/merge.sh lba1 lba2
