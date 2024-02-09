@@ -1,0 +1,354 @@
+[
+  {
+    "source": "12",
+    "id": "12:1",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Here's your book."
+  },
+  {
+    "source": "12",
+    "id": "12:2",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Good day"
+  },
+  {
+    "source": "12",
+    "id": "12:3",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Good day, all this talk about the Legend is strange, don't you think?"
+  },
+  {
+    "source": "12",
+    "id": "12:4",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Very strange indeed. I'm just an old fool who would like to grow flowers in the desert, but... I know about this Legend that Dr. FunFrock forbade. I'll tell you what I know if you bring me a sacred book. It is in the Temple of Bù which was buried by a violent sand storm. You can still get in, however, through one of the ventilation shafts still visible just behind me. But be careful: there is danger everywhere!"
+  },
+  {
+    "source": "12",
+    "id": "12:5",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "\" This book is a keeper of knowledge. It allows you to read the rocks and to talk to the animals. \""
+  },
+  {
+    "source": "12",
+    "id": "12:6",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "To Principal Island."
+  },
+  {
+    "source": "12",
+    "id": "12:7",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I'll leave later on."
+  },
+  {
+    "source": "12",
+    "id": "12:8",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I can get you to where you want to go for only 10 Kashes! Where do you want to go?"
+  },
+  {
+    "source": "12",
+    "id": "12:9",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Sorry, Twinsen, you don't have enough Kashes."
+  },
+  {
+    "source": "12",
+    "id": "12:10",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "To Citadel Island."
+  },
+  {
+    "source": "12",
+    "id": "12:11",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Thanks for opening the grotto. My name is Joe the Elf. I was locked up here because I wasn't meant to be in the story, there might have been some bugs in the game!"
+  },
+  {
+    "source": "12",
+    "id": "12:12",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "See you later, and thanks again."
+  },
+  {
+    "source": "12",
+    "id": "12:13",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "You're too aggressive! Come back later when you've calmed down."
+  },
+  {
+    "source": "12",
+    "id": "12:14",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Ow, you crazy or what? You don't deserve to be an elf, give me your membership card!"
+  },
+  {
+    "source": "12",
+    "id": "12:15",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Where do you want to go?"
+  },
+  {
+    "source": "12",
+    "id": "12:16",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Home."
+  },
+  {
+    "source": "12",
+    "id": "12:17",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Proxima island."
+  },
+  {
+    "source": "12",
+    "id": "12:18",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Rebellion island."
+  },
+  {
+    "source": "12",
+    "id": "12:19",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "You are the Heir that the prophecy spoke of, Twinsen ! Find your ancestors' legacy, hidden in your home, and pursue your quest. Come back and see me some time."
+  },
+  {
+    "source": "12",
+    "id": "12:20",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Only the Heir could have survived in that Temple! You are the Chosen One that the prophecy spoke of. You are worthy of keeping the Book of Bù, Twinsen. It will allow you to decipher the runes and to speak to the animals. The prophecy that must be accomplished is also revealed in its pages: you must overthrow Dr. FunFrock, the despot who has destroyed the harmony that once existed on this planet. In my dreams, I saw him profaning the Well of Sendell, which caused the immediate destruction of this world. You must go to the Well of Sendell to save us from Dr. FunFrock. I don't know where this well is, but your ancestors must have left instructions for you, somewhere in your home."
+  },
+  {
+    "source": "12",
+    "id": "12:21",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Hello fellow elf."
+  },
+  {
+    "source": "12",
+    "id": "12:22",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Adios! I think I'm going out to discover the world."
+  },
+  {
+    "source": "12",
+    "id": "12:23",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "You seem to be nice enough, I dub thee an honorary elf. Here's your card. It entitles you to a present."
+  },
+  {
+    "source": "12",
+    "id": "12:24",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Hello, quetch !"
+  },
+  {
+    "source": "12",
+    "id": "12:25",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Good day, horse."
+  },
+  {
+    "source": "12",
+    "id": "12:26",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I know the story of the emerald moon, but that's all."
+  },
+  {
+    "source": "12",
+    "id": "12:27",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Hii, hi ! Bbbrrrff ! Brf !"
+  },
+  {
+    "source": "12",
+    "id": "12:28",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I don't know what that could be all about."
+  },
+  {
+    "source": "12",
+    "id": "12:29",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Did you know that there are strange noises coming from that symbol on the rocks?"
+  },
+  {
+    "source": "12",
+    "id": "12:30",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "You were the one who freed that gnome with the hideous hat? He asked me if there was a princess that needed freeing in the neighborhood, but if you want my opinion, he doesn't have what it takes to be a hero."
+  },
+  {
+    "source": "12",
+    "id": "12:31",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "No more gas."
+  },
+  {
+    "source": "12",
+    "id": "12:32",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Then you should go visit the Maritime museum on Proxima island."
+  },
+  {
+    "source": "12",
+    "id": "12:33",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I can't help you, sorry."
+  },
+  {
+    "source": "12",
+    "id": "12:34",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I'm looking for the plans of the Teleportation Center."
+  },
+  {
+    "source": "12",
+    "id": "12:35",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "They say that there are treasures hidden in a temple, somewhere in the desert."
+  },
+  {
+    "source": "12",
+    "id": "12:36",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I'm looking for information about LeBorgne the pirate."
+  },
+  {
+    "source": "12",
+    "id": "12:37",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I read some excerpts from the Captain's log, that LeBorgne was ruthless! If you're still interested, the log is for sale at the Old Burg bazaar, on the Principal island."
+  },
+  {
+    "source": "12",
+    "id": "12:38",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I don't know where they are."
+  },
+  {
+    "source": "12",
+    "id": "12:39",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I don't know anything about it, but I think a while ago the library had some books that spoke of it."
+  },
+  {
+    "source": "12",
+    "id": "12:40",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I don't know where they are, but we elves don't need that sort of stuff. We can teleport ourselves magically! Well, I forgot how, but I'm not a good example."
+  },
+  {
+    "source": "12",
+    "id": "12:41",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "To the Hamalayi mountains."
+  },
+  {
+    "source": "12",
+    "id": "12:42",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "I'll give you my guitar in exchange for the flute that you possess Twinsen, beforehand, though, you will have play it next to the Clear Water Lake in order to obtain the 4th magical symbol."
+  },
+  {
+    "source": "12",
+    "id": "12:43",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "You will no longer need the flute, Twinsen. On the other hand, it might allow me to realize an old dream of mine. I'll trade you for this guitar that I found in the middle of a meteor."
+  },
+  {
+    "source": "12",
+    "id": "12:44",
+    "area": "White Leaf Desert",
+    "location": null,
+    "speaker": null,
+    "message": "Good day"
+  }
+]

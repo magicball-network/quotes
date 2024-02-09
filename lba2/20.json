@@ -1,0 +1,674 @@
+[
+  {
+    "source": "20",
+    "id": "20:1",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Did you say fireflies? Ugh...[sigh]"
+  },
+  {
+    "source": "20",
+    "id": "20:2",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The island of the Mosquibees"
+  },
+  {
+    "source": "20",
+    "id": "20:3",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The island of the volcano"
+  },
+  {
+    "source": "20",
+    "id": "20:4",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Do you know where the Mosquibee village is at?"
+  },
+  {
+    "source": "20",
+    "id": "20:5",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Do you know where I could find the Mosquibees?"
+  },
+  {
+    "source": "20",
+    "id": "20:6",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I asked Mr. Monk how to get to the Mosquibees, and he told me to ask you about the ferryman."
+  },
+  {
+    "source": "20",
+    "id": "20:7",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I'm trying to find the Mosquibees. Can you help me out?"
+  },
+  {
+    "source": "20",
+    "id": "20:8",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "But, I am only trying to go to the Mosquibees..."
+  },
+  {
+    "source": "20",
+    "id": "20:9",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "No thank you, honest!"
+  },
+  {
+    "source": "20",
+    "id": "20:10",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hey! how can I find the Queen of the Mosquibees?"
+  },
+  {
+    "source": "20",
+    "id": "20:11",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I went shopping. Be back soon. Signed: your housemaid."
+  },
+  {
+    "source": "20",
+    "id": "20:12",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "What a weird painting, looks like a monster from the gas."
+  },
+  {
+    "source": "20",
+    "id": "20:13",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ugh, taste in home decor is rather lame."
+  },
+  {
+    "source": "20",
+    "id": "20:14",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Dark Monk's chapel."
+  },
+  {
+    "source": "20",
+    "id": "20:15",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I don't have enough gems."
+  },
+  {
+    "source": "20",
+    "id": "20:16",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hello"
+  },
+  {
+    "source": "20",
+    "id": "20:17",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hi"
+  },
+  {
+    "source": "20",
+    "id": "20:18",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hello"
+  },
+  {
+    "source": "20",
+    "id": "20:19",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Your Majesty, I've come to free you, and ask you to open the door to the passage which leads to island CX. My planet's being threatened and I have to save it."
+  },
+  {
+    "source": "20",
+    "id": "20:20",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "\"You are entering the domain of the Wannies.\""
+  },
+  {
+    "source": "20",
+    "id": "20:21",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ferryman if you please,\ntake me across the raging seas,\nfor a few gems, I take your boat,\nI cannot swim, I cannot float!!"
+  },
+  {
+    "source": "20",
+    "id": "20:22",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "You're at the Building Company, in front of the gem mine."
+  },
+  {
+    "source": "20",
+    "id": "20:23",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "You're at the ferryman's lane."
+  },
+  {
+    "source": "20",
+    "id": "20:24",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "You're in the village of the Wannies."
+  },
+  {
+    "source": "20",
+    "id": "20:25",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hello. Won't you come in and share our meal?"
+  },
+  {
+    "source": "20",
+    "id": "20:26",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "So? How do you like my firefly tart?"
+  },
+  {
+    "source": "20",
+    "id": "20:27",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Dinner is served!"
+  },
+  {
+    "source": "20",
+    "id": "20:28",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Feeling better? Well, it's the first time I find somebody who does not like my tart!!"
+  },
+  {
+    "source": "20",
+    "id": "20:29",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Would you like another slice of tart?"
+  },
+  {
+    "source": "20",
+    "id": "20:30",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I hope the military are not going to come back and wreak havoc here. Since their passage, I haved a tough time finding fireflies for my tarts."
+  },
+  {
+    "source": "20",
+    "id": "20:31",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "He bothering me!!"
+  },
+  {
+    "source": "20",
+    "id": "20:32",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare.\nWhere do you want to go?"
+  },
+  {
+    "source": "20",
+    "id": "20:33",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Help me..."
+  },
+  {
+    "source": "20",
+    "id": "20:34",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ah, thank you, thank you! I'd fallen and couldn't get up. What can I do to thank you?"
+  },
+  {
+    "source": "20",
+    "id": "20:35",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "She's locked up in the premises of the Building Company, the entrance of which is heavily guarded. But from the mine, you can access the nearest hangar. And from there, if you take the roof, you can reach the building where she's being held."
+  },
+  {
+    "source": "20",
+    "id": "20:36",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Be careful Twinsen, all the soldiers are looking for you."
+  },
+  {
+    "source": "20",
+    "id": "20:37",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Here, as a token of my gratitude, I'm giving you this glove. It protects us from fire and lets us get the gems out of the molten lava without burning up."
+  },
+  {
+    "source": "20",
+    "id": "20:38",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Here, to thank you, take this gem."
+  },
+  {
+    "source": "20",
+    "id": "20:39",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hey, pal! Say, if you bring me back a slice of tart, I'll tell you a pretty wacky secret."
+  },
+  {
+    "source": "20",
+    "id": "20:40",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Oh, thanks a bunch, pal! Listen, this kid, he give me the key to the chapel. Here, take it. I've had enough fun with it."
+  },
+  {
+    "source": "20",
+    "id": "20:41",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "That was one hummer of a tart! My boy, 'e sez that I shouldn't eat none 'cause it could make me sick. But that's all a bunch of hogwash. Phooey, I sez."
+  },
+  {
+    "source": "20",
+    "id": "20:42",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hi, pal! Hey, is that you who brought on all this military? They don't look all that strong, if you ask me. In my day, it was different. They fed us firefly tarts, that really built us up!!!"
+  },
+  {
+    "source": "20",
+    "id": "20:43",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Say, I've heard that them Mosquibees got ambushed. Pretty sure they took shelter in the cave near the waterfall at the foot of the volcano."
+  },
+  {
+    "source": "20",
+    "id": "20:44",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Very well. But first, being that you're a stranger, I must warn you."
+  },
+  {
+    "source": "20",
+    "id": "20:45",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Once, long ago, our god, Dark Monk, condemned us, the people of Zeelich, to live forever on our planet which he then turned into hell so as to make it seem more of a real condemnation. Each of the four races received a fragment of a key. These must be reunited during a great ceremony. And when our people have atoned for their sins, Dark Monk will rid us of the curse and give Zeelich back its original appearance. Today, he's returned and we all await the next and last ceremony. Twinsen, do not dare interfere with the religious practice of our people."
+  },
+  {
+    "source": "20",
+    "id": "20:46",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "For that, you'll have to call on the ferryman's services. He provides the only communication between the islands and the under-gas. Go see my housemaid. She shall tell you how to proceed."
+  },
+  {
+    "source": "20",
+    "id": "20:47",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "But it's you who took our fragment. You don't realize what you have done. Listen carefully."
+  },
+  {
+    "source": "20",
+    "id": "20:48",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The time of the ceremony is near. Dark Monk in person will chase away the monsters of the gas cloud when we reunite the four fragments for the last time."
+  },
+  {
+    "source": "20",
+    "id": "20:49",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The time of the ceremony is near. Now that you have taken our fragment, Dark Monk will not chase the monsters of the gas or the cloud which blankets Zeelich!"
+  },
+  {
+    "source": "20",
+    "id": "20:50",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Oh, my, that's pretty far, no. You see, none of us have ever left our island or our beloved old mine."
+  },
+  {
+    "source": "20",
+    "id": "20:51",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "My mommy, she's helping Mr. Monk make Dark Monk come back. And then, when he's here, heads are gonna roll! It'll be so awesome!! My mommy's strong!!"
+  },
+  {
+    "source": "20",
+    "id": "20:52",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Waah!!!"
+  },
+  {
+    "source": "20",
+    "id": "20:53",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget."
+  },
+  {
+    "source": "20",
+    "id": "20:54",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ferryman if you please, take me across the raging seas, for a few gems, I take your boat, I cannot swim, I cannot float!!"
+  },
+  {
+    "source": "20",
+    "id": "20:55",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The Monk impatiently awaits the ceremony of the celebration. It's a major event for our entire population. It represents the end of the curse which lies heavily upon Zeelich. We shall at last resume the course of our lives on a hospitable planet, not in this forlorn place."
+  },
+  {
+    "source": "20",
+    "id": "20:56",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ah, yes, right. Only thing is, they don't live on this island, sir. You have to go to the wharf and call the ferryman. I've never actually seen him, but this rumor has an air of truth. Ask the Monk, he'll be able to answer you."
+  },
+  {
+    "source": "20",
+    "id": "20:57",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I'm in a bind, I've lost my glove in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems."
+  },
+  {
+    "source": "20",
+    "id": "20:58",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The Monk, he threw me out of his choir. It's not fair, I didn't do anything. So I stole the key to the chapel! So I boxed it in and gave it to the old man!"
+  },
+  {
+    "source": "20",
+    "id": "20:59",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I fish fireflies used to bake tarts. It's awfully good you know, a firefly tart."
+  },
+  {
+    "source": "20",
+    "id": "20:60",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I can always look for gems around here, there are none. Nothing doing, they can only be found in the mine. And yet, I was told that they were easy to find on the other islands."
+  },
+  {
+    "source": "20",
+    "id": "20:61",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I knew the Mosquibees live away from the rest, but they must've done something pretty drastic for the emperor to send his army. It's being whispered they're looking for a criminal hostile to Dark Monk!!"
+  },
+  {
+    "source": "20",
+    "id": "20:62",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems."
+  },
+  {
+    "source": "20",
+    "id": "20:63",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "No time."
+  },
+  {
+    "source": "20",
+    "id": "20:64",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hi."
+  },
+  {
+    "source": "20",
+    "id": "20:65",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Leave me alone."
+  },
+  {
+    "source": "20",
+    "id": "20:66",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hello."
+  },
+  {
+    "source": "20",
+    "id": "20:67",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Twinsen!!"
+  },
+  {
+    "source": "20",
+    "id": "20:68",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "You're very brave, but I've got face the emperor. Soon I'll be transferred to his palace, and he'll come to interrogate me. So I suppose I'll just stay here. Here! Take the key to the passage! Go and save your people!!"
+  },
+  {
+    "source": "20",
+    "id": "20:69",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hurry, Twinsen!! You have to penetrate to island CX. The entrance is behind our village! Use it! Quickly!"
+  },
+  {
+    "source": "20",
+    "id": "20:70",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Only you can stop the emperor and Dark Monk."
+  },
+  {
+    "source": "20",
+    "id": "20:71",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Don't stay here! Escape while you still can!"
+  },
+  {
+    "source": "20",
+    "id": "20:72",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "The Monk punished our buddy Johnny 'cause he lost the key to the chapel. Wasn't even true."
+  },
+  {
+    "source": "20",
+    "id": "20:73",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Let's get this over with, so we can go and see the soldiers."
+  },
+  {
+    "source": "20",
+    "id": "20:74",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "As for me, I'm real glad the Monk punished this Johnny. He had it coming he was always making fun of me."
+  },
+  {
+    "source": "20",
+    "id": "20:75",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "I sure hope the army wasted this Johnny. Or, better yet, maybe they fed him to the ferryman!!"
+  },
+  {
+    "source": "20",
+    "id": "20:76",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Look, this job is too much drudgery for us to want to talk about it!"
+  },
+  {
+    "source": "20",
+    "id": "20:77",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Here, there is no hope. All we do is dig. That's all."
+  },
+  {
+    "source": "20",
+    "id": "20:78",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Watch out!!"
+  },
+  {
+    "source": "20",
+    "id": "20:79",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "You don't have business here, get lost!!!"
+  },
+  {
+    "source": "20",
+    "id": "20:80",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Welcome to the Building Company, sir. If you're here to make a cash deposit, we can take care of it right away."
+  },
+  {
+    "source": "20",
+    "id": "20:81",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Er... good day... sir... I'm the manager of this institution. You were let in without an appointment? I take it then you're here to deposit an obscenely large sum of money?"
+  },
+  {
+    "source": "20",
+    "id": "20:82",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "No, have mercy!!"
+  },
+  {
+    "source": "20",
+    "id": "20:83",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Easy, Twinsen, be careful. It's not the time to break this precious fragment!!"
+  },
+  {
+    "source": "20",
+    "id": "20:84",
+    "area": "Wannies Island",
+    "location": null,
+    "speaker": null,
+    "message": "Please leave now and close the door! Here, as we say, \"Idle hands make the Devil's workshop!!!\""
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "source": "06",
+    "id": "06:1",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just rediscovered your Holomap! You can use it by going through your inventory with the (SHIFT) key or access it directly with the (H) key."
+  },
+  {
+    "source": "06",
+    "id": "06:2",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just rediscovered your Magic Ball! Try using it on the clones!"
+  },
+  {
+    "source": "06",
+    "id": "06:3",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just stolen Dr. FunFrock's saber!"
+  },
+  {
+    "source": "06",
+    "id": "06:4",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just found Gawley's Horn, an object left for you by your ancestors."
+  },
+  {
+    "source": "06",
+    "id": "06:5",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just earned the first level of Magic by finding the Tunic left for you by your ancestors. You will be able to store up magic with it."
+  },
+  {
+    "source": "06",
+    "id": "06:6",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just earned the second level of Magic by finding the Book of Bù."
+  },
+  {
+    "source": "06",
+    "id": "06:7",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just earned the third level of Magic by finding Sendell's Medallion."
+  },
+  {
+    "source": "06",
+    "id": "06:8",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just earned the fourth level of Magic by filling up your flask with Clear Water."
+  },
+  {
+    "source": "06",
+    "id": "06:9",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You now have the Red Magnetic Card."
+  },
+  {
+    "source": "06",
+    "id": "06:10",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "With this card you are the fourth member of the Elves club. Anyway, its your own business!"
+  },
+  {
+    "source": "06",
+    "id": "06:11",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just rediscovered your ID card."
+  },
+  {
+    "source": "06",
+    "id": "06:12",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You now have the Architect's pass."
+  },
+  {
+    "source": "06",
+    "id": "06:13",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You now have the Proto-Pack."
+  },
+  {
+    "source": "06",
+    "id": "06:14",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "The Kamis have given you a Snowboard."
+  },
+  {
+    "source": "06",
+    "id": "06:15",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You have a Meca-Penguin."
+  },
+  {
+    "source": "06",
+    "id": "06:16",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just replenished some of your gas supply."
+  },
+  {
+    "source": "06",
+    "id": "06:17",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just stolen a Pirate's Flag."
+  },
+  {
+    "source": "06",
+    "id": "06:18",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just found a Magic Flute."
+  },
+  {
+    "source": "06",
+    "id": "06:19",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "The wise man gave you the Space Guitar."
+  },
+  {
+    "source": "06",
+    "id": "06:20",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just bought a hair dryer."
+  },
+  {
+    "source": "06",
+    "id": "06:21",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just found the key lost by your ancestor Hégésippe."
+  },
+  {
+    "source": "06",
+    "id": "06:22",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You've just found a Bottle of Syrup!"
+  },
+  {
+    "source": "06",
+    "id": "06:23",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "The bottle is now empty."
+  },
+  {
+    "source": "06",
+    "id": "06:24",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You have a Ferry Ticket."
+  },
+  {
+    "source": "06",
+    "id": "06:25",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You just received a keypad that controls a digital locking system."
+  },
+  {
+    "source": "06",
+    "id": "06:26",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "You now possess a coffee pot."
+  },
+  {
+    "source": "06",
+    "id": "06:27",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "M. Lanktir gave you his list."
+  },
+  {
+    "source": "06",
+    "id": "06:28",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Holomap (H) key. The Holomap shows your position on the planet. The arrows represent important places that were pointed out to you during your quest. They will disappear once you have completed your task in each of the corresponding places. The Holomap rotates by pressing simultaneously (CTRL) and the arrow keys. By pressing only the arrow keys, you can scroll through text corresponding to the arrows visible on the Holomap."
+  },
+  {
+    "source": "06",
+    "id": "06:29",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Magic Ball (ALT) key. Each time you reach a higher level of magic, the Magic Ball's striking power will increase. Its trajectories will also become more effective with each new level, as long as you have enough magic in stock! The Ball will use up magic each time it is thrown."
+  },
+  {
+    "source": "06",
+    "id": "06:30",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Magic Saber, once the Saber is in hand (ENTER key), (ALT) key to strike. It is the most powerful weapon on this planet. You can use the Magic Ball again by reselecting it."
+  },
+  {
+    "source": "06",
+    "id": "06:31",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Gawley's Horn: (ENTER) key. For use on the Seals of Sendell. It will allow you to break them open, which will subsequently allow you to access new places."
+  },
+  {
+    "source": "06",
+    "id": "06:32",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Tunic. With this magical symbol, you have just earned the first level of power."
+  },
+  {
+    "source": "06",
+    "id": "06:33",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Book of Bù (and PROPHECY). (ENTER) key. Used to read the prophecy.\nWith this magical symbol, you have just earned the second level of power. You can now also read runes and talk to animals."
+  },
+  {
+    "source": "06",
+    "id": "06:34",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Sendell's Medallion. With this magical symbol, you have just earned the third level of power."
+  },
+  {
+    "source": "06",
+    "id": "06:35",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Sendell's Medallion.\nIt will allow you to earn the third level of power."
+  },
+  {
+    "source": "06",
+    "id": "06:36",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Flask of Clear Water. With this magical symbol, you have just earned the fourth level of power."
+  },
+  {
+    "source": "06",
+    "id": "06:37",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Flask of Clear Water.\nIt will allow you to earn the fourth level of power."
+  },
+  {
+    "source": "06",
+    "id": "06:38",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Red Magnetic Card. It will allow you to open the doors with a red lock."
+  },
+  {
+    "source": "06",
+    "id": "06:39",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "The Elves Club Blue Card. This card is coated with star powder and will allow you to open the doors with blue locks."
+  },
+  {
+    "source": "06",
+    "id": "06:40",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Twinsen's ID card. This card allows you to identify yourself to the authorities. Your smile is especially attractive on the photo!"
+  },
+  {
+    "source": "06",
+    "id": "06:41",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "M. Mies van der Rooh's pass. This pass will grant you access to the Teleportation Center. You will still have to use Gawley's Horn on the left, after the first guard post."
+  },
+  {
+    "source": "06",
+    "id": "06:42",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Proto-Pack. It is controlled with the arrow keys."
+  },
+  {
+    "source": "06",
+    "id": "06:43",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Snowboard. Can only be used in the Himalayi, near the ski lift. Place yourself in between any two flags before using."
+  },
+  {
+    "source": "06",
+    "id": "06:44",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Meca-Penguin. Red clones just hate this stupid toy."
+  },
+  {
+    "source": "06",
+    "id": "06:45",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Gas, extract of molasses. You cannot use vehicles when your gas gauge is at zero."
+  },
+  {
+    "source": "06",
+    "id": "06:46",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Pirate Flag. You can attach it to a boat."
+  },
+  {
+    "source": "06",
+    "id": "06:47",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Magic Flute. The enchanted melodies produced by this instrument can melt frozen Clear Water and make flowers grow in the desert."
+  },
+  {
+    "source": "06",
+    "id": "06:48",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Space Guitar. It was found in the middle of an asteroid that landed in the White Leaf Desert. It brought new harmonics to Twinsun."
+  },
+  {
+    "source": "06",
+    "id": "06:49",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Hair dryer"
+  },
+  {
+    "source": "06",
+    "id": "06:50",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Ancestral Key. Opens the secret compartment in Twinsen's house."
+  },
+  {
+    "source": "06",
+    "id": "06:51",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup."
+  },
+  {
+    "source": "06",
+    "id": "06:52",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Empty Bottle"
+  },
+  {
+    "source": "06",
+    "id": "06:53",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Ferry Ticket"
+  },
+  {
+    "source": "06",
+    "id": "06:54",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Keypad that controls a digital locking system. Once placed on one door inside the Teleportation Center, it allows access to a room filled with Meca-Penguins."
+  },
+  {
+    "source": "06",
+    "id": "06:55",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Coffee Pot. You must return it to one Lanktir who lives next to the bazaar on Proxima island."
+  },
+  {
+    "source": "06",
+    "id": "06:56",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Bonuses List: (ENTER) key to read it."
+  },
+  {
+    "source": "06",
+    "id": "06:57",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Lucky Clover Leaf (ENTER) key: using this clover leaf will use up one of your chances to revitalise yourself to a maximum."
+  },
+  {
+    "source": "06",
+    "id": "06:58",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Empty Space"
+  },
+  {
+    "source": "06",
+    "id": "06:59",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Twinsun is a relatively new planet on the outskirts of a remote galaxy. It's rotational plane has stabilized between two suns.\nThere is a huge mountain range running along its equator, that divides the planet in half; each hemisphere is warmed by a single sun.\nThe Northern hemisphere, with its orange sky, is warmer than the Southern hemisphere. Except for a polar region, the planet's climate is clement. The formation of life forms on the planet was thus favorable. Four species developed over the course of the centuries: The Spheros, the Rabbibunnies, the Quetches and the Grobos. They all lived in harmony until a tyrant named Dr. FunFrock reared his ugly head."
+  },
+  {
+    "source": "06",
+    "id": "06:60",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Ever since FunFrock's rise to power, the population has been living under a reign of terror. FunFrock set up a police state where suspicion is omnipresent. He is all powerful and controls the people with an iron fist. He has at his disposal two high tech weapons that insure his power: cloning and teleportation.\nHe can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet."
+  },
+  {
+    "source": "06",
+    "id": "06:61",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "A few years ago, under the guise of protecting the population, Dr. FunFrock herded the planet's habitants into the southern hemisphere. The repression is harsh. Every day brings more and more arrests, and the people slowly begin to lose hope.\nIn an effort to keep their spirits up, the people sometimes evoke an ancient legend along with the name of a goddess, Sendell. The mentioning of the legend or Sendell has since been forbidden by Dr. FunFrock.\n\nMeanwhile... a young quetch named Twinsen has been having strange dreams..."
+  },
+  {
+    "source": "06",
+    "id": "06:62",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "\"The day will come when someone from the present or future species will rise up and say,\n'This world is mine from now on, and the key to all powers belongs to me!'\nThis day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him! \""
+  },
+  {
+    "source": "06",
+    "id": "06:63",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Locations of several clover leaves and boxes:\nThere is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress."
+  },
+  {
+    "source": "06",
+    "id": "06:64",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "\" To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode:\n6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.\""
+  },
+  {
+    "source": "06",
+    "id": "06:65",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Citadel Island"
+  },
+  {
+    "source": "06",
+    "id": "06:66",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Principal Island"
+  },
+  {
+    "source": "06",
+    "id": "06:67",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "White Leaf Desert"
+  },
+  {
+    "source": "06",
+    "id": "06:68",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Proxima Island"
+  },
+  {
+    "source": "06",
+    "id": "06:69",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Rebellion Island"
+  },
+  {
+    "source": "06",
+    "id": "06:70",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Hamalayi Range"
+  },
+  {
+    "source": "06",
+    "id": "06:71",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Tippett Island"
+  },
+  {
+    "source": "06",
+    "id": "06:72",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Brundle Island"
+  },
+  {
+    "source": "06",
+    "id": "06:73",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Fortress Island"
+  },
+  {
+    "source": "06",
+    "id": "06:74",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Polar Island"
+  },
+  {
+    "source": "06",
+    "id": "06:75",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Clear Water Lake\n(The Hamalayi mountains)"
+  },
+  {
+    "source": "06",
+    "id": "06:76",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Water Tower\n(Principal island)"
+  },
+  {
+    "source": "06",
+    "id": "06:77",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Twinsen's house\n(Citadel island)"
+  },
+  {
+    "source": "06",
+    "id": "06:78",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Forger's Cell\n(Principal island)"
+  },
+  {
+    "source": "06",
+    "id": "06:79",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Drug store\n(Citadel island)"
+  },
+  {
+    "source": "06",
+    "id": "06:80",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Forger's house\n(Proxima island)"
+  },
+  {
+    "source": "06",
+    "id": "06:81",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Dr FunFrock's headquarters\n(Principal island)"
+  },
+  {
+    "source": "06",
+    "id": "06:82",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Teleportation Center\n(Brundle island)"
+  },
+  {
+    "source": "06",
+    "id": "06:83",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Maritime Museum\n(Proxima island)"
+  },
+  {
+    "source": "06",
+    "id": "06:84",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Cloning Center & Fortress\n(Fortress island)"
+  },
+  {
+    "source": "06",
+    "id": "06:85",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Runic Stone\n(Proxima island)"
+  },
+  {
+    "source": "06",
+    "id": "06:86",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Drug store\n(Citadel island)"
+  },
+  {
+    "source": "06",
+    "id": "06:87",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Runic Stone"
+  },
+  {
+    "source": "06",
+    "id": "06:88",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Mr. Mies Van der Rooh the architect's house. Bug street\n(Citadel island)"
+  },
+  {
+    "source": "06",
+    "id": "06:89",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Well of Sendell\n(Polar island)"
+  },
+  {
+    "source": "06",
+    "id": "06:90",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Library\n(Principal Island)"
+  },
+  {
+    "source": "06",
+    "id": "06:91",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Port-Belooga\n(Principal Island)"
+  },
+  {
+    "source": "06",
+    "id": "06:92",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Proxim-City\n(Proxima Island)"
+  },
+  {
+    "source": "06",
+    "id": "06:93",
+    "area": "Inventory, intro and Holomap",
+    "location": null,
+    "speaker": null,
+    "message": "Mutant Factory\n(The Hamalayi mountains)"
+  }
+]

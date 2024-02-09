@@ -1,0 +1,274 @@
+[
+  {
+    "source": "16",
+    "id": "16:1",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Good day."
+  },
+  {
+    "source": "16",
+    "id": "16:2",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "You must be Twinsen. Like you, we have rebelled against that madman FunFrock - and you saw what's left of the city.\nWe don't believe that the Northern hemisphere has become uninhabitable like the propaganda says it has. There may even be some survivors living there who refused to be deported. This is why we have decided to take the road leading to the Okojo pass by force. It leads to the Northern hemisphere. Unfortunately, our leader, Colonel Kroptman, was captured during the attack. We believe that he is still being held in the small fort that guards the pass. Help us free him by raiding the fort. You will be able to get to the Northern hemisphere if you do so. Go back to the hangar, there is a commando waiting for you in the boat."
+  },
+  {
+    "source": "16",
+    "id": "16:3",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Go give your boss FunFrock this message for me, traitor!"
+  },
+  {
+    "source": "16",
+    "id": "16:4",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hi! If I take your flag to be representative of your intentions, I see that you too have chosen Liberty. Lieutenant Grap is down in the trench, go see him - he'll tell you where our leaders are."
+  },
+  {
+    "source": "16",
+    "id": "16:5",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "So, young quetch, you've come to help in the fight against FunFrock? As you can see, this city has suffered because of our rebellion. We are constantly bombed, which is why our leaders have set their camp in the center of the island. You can take my buggy to go see them."
+  },
+  {
+    "source": "16",
+    "id": "16:6",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "\" Welcome to... AAARRGHH !\n\n... glb \""
+  },
+  {
+    "source": "16",
+    "id": "16:7",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Where do you want to go?"
+  },
+  {
+    "source": "16",
+    "id": "16:8",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To Citadel Island."
+  },
+  {
+    "source": "16",
+    "id": "16:9",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To Principal Island."
+  },
+  {
+    "source": "16",
+    "id": "16:10",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To the White Leaf Desert."
+  },
+  {
+    "source": "16",
+    "id": "16:11",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To Proxima island."
+  },
+  {
+    "source": "16",
+    "id": "16:12",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "I'm staying here."
+  },
+  {
+    "source": "16",
+    "id": "16:13",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Go see Grap first if you want to drive. He's a rabbibunny and he's down in the trench."
+  },
+  {
+    "source": "16",
+    "id": "16:14",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Twinsen, you MUST SUCCEED in this mission. That fort is in a strategic position of the utmost importance. Once we've taken it, the two hemispheres can be united once again."
+  },
+  {
+    "source": "16",
+    "id": "16:15",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "We're going to help you take the fort: you will guide me, and I'll follow you with my grenades! Whatever you do, wait for me before you change zones and don't forget to neutralize the emitter. We won't talk during the combats and if I bite it, another rebel will come and take my place, he'll wait for you at the landing site."
+  },
+  {
+    "source": "16",
+    "id": "16:16",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "I'm looking for the plans of the Teleportation Center."
+  },
+  {
+    "source": "16",
+    "id": "16:17",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "You're now one of us, Twinsen."
+  },
+  {
+    "source": "16",
+    "id": "16:18",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Be careful behind the wheel, this isn't a go cart!"
+  },
+  {
+    "source": "16",
+    "id": "16:19",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Calm down! Save your strength for the clones."
+  },
+  {
+    "source": "16",
+    "id": "16:20",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Hey, you look familiar! I just came back from an infiltration mission in Proxim-City and I saw your mug on quite a few wanted posters."
+  },
+  {
+    "source": "16",
+    "id": "16:21",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "I've heard about an underground city that the clones use as a meeting place. It's in the Northern hemisphere, on Tippet island. You should check it out!"
+  },
+  {
+    "source": "16",
+    "id": "16:22",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Ask Grap. He's in the trench, he'll know where to find them."
+  },
+  {
+    "source": "16",
+    "id": "16:23",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "The end is near for FunFrock."
+  },
+  {
+    "source": "16",
+    "id": "16:24",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "You must wait for your partner when you change zones if you want to make it through this mission."
+  },
+  {
+    "source": "16",
+    "id": "16:25",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Thank you Twinsen, we couldn't have done it without you."
+  },
+  {
+    "source": "16",
+    "id": "16:26",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Try over at Funky-Town. You can buy anything over there!"
+  },
+  {
+    "source": "16",
+    "id": "16:27",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "No more gas."
+  },
+  {
+    "source": "16",
+    "id": "16:28",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To the Hamalayi mountains."
+  },
+  {
+    "source": "16",
+    "id": "16:29",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To the rebel camp."
+  },
+  {
+    "source": "16",
+    "id": "16:30",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "To the harbour."
+  },
+  {
+    "source": "16",
+    "id": "16:31",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "I haven't seen them.\nSorry!"
+  },
+  {
+    "source": "16",
+    "id": "16:32",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Good day"
+  },
+  {
+    "source": "16",
+    "id": "16:33",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Good day"
+  },
+  {
+    "source": "16",
+    "id": "16:34",
+    "area": "Rebellion Island",
+    "location": null,
+    "speaker": null,
+    "message": "Sorry, I don't know where they are."
+  }
+]
