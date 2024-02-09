@@ -1,5 +1,7 @@
 # LBA Gamequotes
 
+This repository contains the text from the Little Big Adventure games.
+The text is stored in separate JSON files.
 
 # Development
 
