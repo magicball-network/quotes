@@ -1,42 +1,42 @@
 [
-  {
-    "source": "28",
-    "id": "28:1",
-    "area": "Undergas elevator",
-    "location": null,
-    "speaker": null,
-    "message": "But... who are you?"
-  },
-  {
-    "source": "28",
-    "id": "28:2",
-    "area": "Undergas elevator",
-    "location": null,
-    "speaker": null,
-    "message": "How did you know I would be coming here?"
-  },
-  {
-    "source": "28",
-    "id": "28:3",
-    "area": "Undergas elevator",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, here you are at last! I was beginning to wonder if I would see you today."
-  },
-  {
-    "source": "28",
-    "id": "28:4",
-    "area": "Undergas elevator",
-    "location": null,
-    "speaker": null,
-    "message": "I, my lad, am an assassin that Dark Monk's paid to eliminate you. But, looking at you, it seems I must have the wrong fellow. The lad I hunt is a warrior so fierce, that Dark Monk himself fears him!"
-  },
-  {
-    "source": "28",
-    "id": "28:5",
-    "area": "Undergas elevator",
-    "location": null,
-    "speaker": null,
-    "message": "Laddie, you are as savvy as a monster from the gas. When you established contact with Johnny Rocket, my spies were there. We have followed you since. I knew that you wanted to go down to the under-gas. Thus I waited here to strike. But enough said. Now, lad, prepare yourself to die!!"
-  }
+	{
+		"source": "28",
+		"id": "28:1",
+		"area": "Undergas elevator",
+		"location": null,
+		"speaker": null,
+		"message": "But... who are you?"
+	},
+	{
+		"source": "28",
+		"id": "28:2",
+		"area": "Undergas elevator",
+		"location": null,
+		"speaker": null,
+		"message": "How did you know I would be coming here?"
+	},
+	{
+		"source": "28",
+		"id": "28:3",
+		"area": "Undergas elevator",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, here you are at last! I was beginning to wonder if I would see you today."
+	},
+	{
+		"source": "28",
+		"id": "28:4",
+		"area": "Undergas elevator",
+		"location": null,
+		"speaker": null,
+		"message": "I, my lad, am an assassin that Dark Monk's paid to eliminate you. But, looking at you, it seems I must have the wrong fellow. The lad I hunt is a warrior so fierce, that Dark Monk himself fears him!"
+	},
+	{
+		"source": "28",
+		"id": "28:5",
+		"area": "Undergas elevator",
+		"location": null,
+		"speaker": null,
+		"message": "Laddie, you are as savvy as a monster from the gas. When you established contact with Johnny Rocket, my spies were there. We have followed you since. I knew that you wanted to go down to the under-gas. Thus I waited here to strike. But enough said. Now, lad, prepare yourself to die!!"
+	}
 ]

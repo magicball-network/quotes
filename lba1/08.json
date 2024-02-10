@@ -1,1530 +1,1530 @@
 [
-  {
-    "source": "08",
-    "id": "08:1",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What are you doing here? This sector is off limits to the public."
-  },
-  {
-    "source": "08",
-    "id": "08:2",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Halt!"
-  },
-  {
-    "source": "08",
-    "id": "08:3",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Stop squirming, prisoner Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:4",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, you! You're not one of my nurses! Sound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:5",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, fellow nurse."
-  },
-  {
-    "source": "08",
-    "id": "08:6",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A prisoner has escaped!\nSound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:7",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"RULE# 1024-GH :\nDr. FunFrock reminds you that it is absolutely forbidden to make any allusion whatsoever to the so called Legend.\""
-  },
-  {
-    "source": "08",
-    "id": "08:8",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Long live the venerable Dr. FunFrock, the one who saved us from all the superstitions.\""
-  },
-  {
-    "source": "08",
-    "id": "08:9",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hmmmmm... what if I try to get the guard's attention?"
-  },
-  {
-    "source": "08",
-    "id": "08:10",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:11",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You've returned at last, my love! Come inside quickly - all the clones must be looking for you."
-  },
-  {
-    "source": "08",
-    "id": "08:12",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, where were you? I was worried sick!"
-  },
-  {
-    "source": "08",
-    "id": "08:13",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've just escaped from the asylum. They think that I am a trouble maker because of the strange dreams I have, the ones where Sendell is calling me. I spoke to you about them on several occasions."
-  },
-  {
-    "source": "08",
-    "id": "08:14",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I rummage around here as there's no one guarding this place. I hide in the truck so that the guards won't see me. You just have to jump into the pile of garbage and be VERY DISCREET about it."
-  },
-  {
-    "source": "08",
-    "id": "08:15",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi! What are you doing there? Did you know that you can read the posters? All you have to do is move in front of one and use the ACTION command while in normal mode."
-  },
-  {
-    "source": "08",
-    "id": "08:16",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Uhhh ... How's it going?"
-  },
-  {
-    "source": "08",
-    "id": "08:17",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I know where they went and I'll help you if you buy me a drink. Ask the waiter about it."
-  },
-  {
-    "source": "08",
-    "id": "08:18",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You're being held here because you are a trouble maker. An informant told us that you claim to have prophetic dreams.\nCalm down, we're going to dissect... uh, I mean... take care of you!"
-  },
-  {
-    "source": "08",
-    "id": "08:19",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ok, I just have to wait for the truck to move into place."
-  },
-  {
-    "source": "08",
-    "id": "08:20",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is forbidden to travel outside the Citadel in that kind of attire!"
-  },
-  {
-    "source": "08",
-    "id": "08:21",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen! What are you doing here? I heard you were arrested only yesterday!"
-  },
-  {
-    "source": "08",
-    "id": "08:22",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "They let me out early for good behavior!"
-  },
-  {
-    "source": "08",
-    "id": "08:23",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Impossible! Nobody gets out of the Citadel alive!"
-  },
-  {
-    "source": "08",
-    "id": "08:24",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"ANNOUNCEMENT #357-G:\nA new automatic surveillance device is now operating in the city. All citizens must remain motionless if one of these devices is in their vicinity.\""
-  },
-  {
-    "source": "08",
-    "id": "08:25",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is forbidden to use that robot !"
-  },
-  {
-    "source": "08",
-    "id": "08:26",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You look kind of lost, Mr. Nurse. Use your holomap if you don't know how to get back home!"
-  },
-  {
-    "source": "08",
-    "id": "08:27",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!"
-  },
-  {
-    "source": "08",
-    "id": "08:28",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I think it's time to make use of what you hid in the house."
-  },
-  {
-    "source": "08",
-    "id": "08:29",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Open up! We know you're in there!"
-  },
-  {
-    "source": "08",
-    "id": "08:30",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You are charged with aiding an escapee. Follow us!"
-  },
-  {
-    "source": "08",
-    "id": "08:31",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm looking for a young girl. She is being escorted by two groboclones."
-  },
-  {
-    "source": "08",
-    "id": "08:32",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sound the alarm! It's the escapee!"
-  },
-  {
-    "source": "08",
-    "id": "08:33",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I believe that you can read all the posters. All you have to do is move in front of one and use the ACTION command while in normal mode. I can't really help you out, because I don't know how to read!"
-  },
-  {
-    "source": "08",
-    "id": "08:34",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen them.\nSorry!"
-  },
-  {
-    "source": "08",
-    "id": "08:35",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I saw them at the port a little while ago. They were leaving for another island. It's strange, because prisoners usually stay at the Citadel."
-  },
-  {
-    "source": "08",
-    "id": "08:36",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You need a ticket to board the ferry. You can buy one next door."
-  },
-  {
-    "source": "08",
-    "id": "08:37",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, one ticket for... Sound the alarm! It's the escapee!"
-  },
-  {
-    "source": "08",
-    "id": "08:38",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess."
-  },
-  {
-    "source": "08",
-    "id": "08:39",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey! You over there, come here!"
-  },
-  {
-    "source": "08",
-    "id": "08:40",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can't open this chest with this blasted trick back of mine! Gimme a hand and I'll let you keep some of what's inside. All you have to do is move in front of the chest while in normal mode and use the ACTION command. You can do the same for rummaging through lots of things like cupboards, garbage cans, etc..."
-  },
-  {
-    "source": "08",
-    "id": "08:41",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "My son and I fixed the ventilation flap in your chimney. We'll put up a fence later. It's odd that it is so far away from your house! According to my son, who is an architect, there are a lot of strange things about your house!"
-  },
-  {
-    "source": "08",
-    "id": "08:42",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know, don't worry about putting up a fence around the chimney. I've thought about it and I prefer to keep it as it is."
-  },
-  {
-    "source": "08",
-    "id": "08:43",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day."
-  },
-  {
-    "source": "08",
-    "id": "08:44",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Try the tavern, you never know..."
-  },
-  {
-    "source": "08",
-    "id": "08:45",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The crates are arranged correctly this time. Thank you, and please accept this ferry ticket as a token of my gratitude."
-  },
-  {
-    "source": "08",
-    "id": "08:46",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm on special assignment for the good Dr. FunFrock, and am looking for the plans of the Teleportation Center."
-  },
-  {
-    "source": "08",
-    "id": "08:47",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Come in friend! We will look at them together because they are rather complicated."
-  },
-  {
-    "source": "08",
-    "id": "08:48",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with this same symbol. All this extra work has really ruined my weekend!\nWe're really worried about the Teleportation Center: it's weak point is situated on the left, right after the first guard post."
-  },
-  {
-    "source": "08",
-    "id": "08:49",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You will need my card to get into the center. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me!"
-  },
-  {
-    "source": "08",
-    "id": "08:50",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go ask my son, he has come home from work. Sorry about your house: the clones came with an attack tank, and they were looking for you!"
-  },
-  {
-    "source": "08",
-    "id": "08:51",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I would like to buy a drink for the grobo upstairs."
-  },
-  {
-    "source": "08",
-    "id": "08:52",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Very good sir, but that will cost you 10 Kashes per drink."
-  },
-  {
-    "source": "08",
-    "id": "08:53",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hide! They have itchy trigger fingers!"
-  },
-  {
-    "source": "08",
-    "id": "08:54",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Keep the planet clean!\""
-  },
-  {
-    "source": "08",
-    "id": "08:55",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Let's see now, where did I put my key?"
-  },
-  {
-    "source": "08",
-    "id": "08:56",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Dad! Do you have a key with you?"
-  },
-  {
-    "source": "08",
-    "id": "08:57",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "All you have to do is ask."
-  },
-  {
-    "source": "08",
-    "id": "08:58",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've got to get into the Teleportation Center."
-  },
-  {
-    "source": "08",
-    "id": "08:59",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You don't have to be aggressive all the time. I don't talk to pushy people!"
-  },
-  {
-    "source": "08",
-    "id": "08:60",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "10 Kashes! That's too expensive!"
-  },
-  {
-    "source": "08",
-    "id": "08:61",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You've just got back all the objects that were in your inventory!"
-  },
-  {
-    "source": "08",
-    "id": "08:62",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't ever try teleporting yourself - it's very dangerous! Only the clones can do it."
-  },
-  {
-    "source": "08",
-    "id": "08:63",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Welcome to Lupin-Burg\n(Citadel Island).\""
-  },
-  {
-    "source": "08",
-    "id": "08:64",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Yeah, the clones already confiscated the key to my cellar, so don't be surprised when they come back to close down the tavern!"
-  },
-  {
-    "source": "08",
-    "id": "08:65",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Welcome to Citadel Island\""
-  },
-  {
-    "source": "08",
-    "id": "08:66",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "We are going to close this tavern down. Get out of here!"
-  },
-  {
-    "source": "08",
-    "id": "08:67",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, this talk about the Legend is strange, don't you think?"
-  },
-  {
-    "source": "08",
-    "id": "08:68",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The 4 crates are not on the 4 crosses, try again!"
-  },
-  {
-    "source": "08",
-    "id": "08:69",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about it, and it is forbidden to talk about it!"
-  },
-  {
-    "source": "08",
-    "id": "08:70",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I saw them! They left for another island, but I don't know which one."
-  },
-  {
-    "source": "08",
-    "id": "08:71",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is forbidden to talk about it!"
-  },
-  {
-    "source": "08",
-    "id": "08:72",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bah! That doesn't interest me. Go see at the library or go drown your sorrows at the tavern; or even better, do it the other way around."
-  },
-  {
-    "source": "08",
-    "id": "08:73",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What's strange is that you're talking about it. That's forbidden, you know!"
-  },
-  {
-    "source": "08",
-    "id": "08:74",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know. The books that mention it have been confiscated and sent to Principal Island."
-  },
-  {
-    "source": "08",
-    "id": "08:75",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is forbidden to talk about that!"
-  },
-  {
-    "source": "08",
-    "id": "08:76",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Prisoner Twinsen, I've already had enough of seeing you here, so don't make any more problems for yourself!"
-  },
-  {
-    "source": "08",
-    "id": "08:77",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A piece of advice: surrender instead of trying to provoke us."
-  },
-  {
-    "source": "08",
-    "id": "08:78",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You are not going to get away by evoking that subversive propaganda."
-  },
-  {
-    "source": "08",
-    "id": "08:79",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm a bartender, you know, so I've have had my fill of bar jokes and strange stories!"
-  },
-  {
-    "source": "08",
-    "id": "08:80",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about it, but the tavern will soon be closed down. That's been confirmed!"
-  },
-  {
-    "source": "08",
-    "id": "08:81",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:82",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Well, I don't know anything about it. But you could offer me a drink anyway?"
-  },
-  {
-    "source": "08",
-    "id": "08:83",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today.\""
-  },
-  {
-    "source": "08",
-    "id": "08:84",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" You who read this text, know that there are 3 Runic Stones in this world. Their locations are now indicated on your Holomap. They are large menhirs with runic text written on them. They will help the Heir in his quest for Sendell. The third stone will show the exact location of the Well of Sendell. In addition to the help provided by the text, each stone conceals a secret.\""
-  },
-  {
-    "source": "08",
-    "id": "08:85",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Bug street\n(Citadel Island).\""
-  },
-  {
-    "source": "08",
-    "id": "08:86",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It's ok, let's go!"
-  },
-  {
-    "source": "08",
-    "id": "08:87",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You don't have enough Kashes, come back later!"
-  },
-  {
-    "source": "08",
-    "id": "08:88",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:89",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Life candy: do you want 10 hearts for 10 Kashes?\""
-  },
-  {
-    "source": "08",
-    "id": "08:90",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ok, I'll take them."
-  },
-  {
-    "source": "08",
-    "id": "08:91",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, thank you."
-  },
-  {
-    "source": "08",
-    "id": "08:92",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not enough Kashes!"
-  },
-  {
-    "source": "08",
-    "id": "08:93",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, I would like some information about LeBorgne the pirate."
-  },
-  {
-    "source": "08",
-    "id": "08:94",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"L.B.A.\nLupin-Burg sewer service\nLittle Vachond street\""
-  },
-  {
-    "source": "08",
-    "id": "08:95",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"L.B.A.\nLupin-Burg sewer service\nDr FunFrock Square\""
-  },
-  {
-    "source": "08",
-    "id": "08:96",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Halt!"
-  },
-  {
-    "source": "08",
-    "id": "08:97",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, you! You're not one of my nurses! Sound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:98",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, fellow nurse."
-  },
-  {
-    "source": "08",
-    "id": "08:99",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, fellow nurse."
-  },
-  {
-    "source": "08",
-    "id": "08:100",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A prisoner is escaping!\nSound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:101",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A prisoner is escaping!\nSound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:102",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A prisoner is escaping!\nSound the alarm!"
-  },
-  {
-    "source": "08",
-    "id": "08:103",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, neighbor."
-  },
-  {
-    "source": "08",
-    "id": "08:104",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, neighbor."
-  },
-  {
-    "source": "08",
-    "id": "08:105",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:106",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:107",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:108",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey buddy!"
-  },
-  {
-    "source": "08",
-    "id": "08:109",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:110",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:111",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You are being held here because you are a trouble maker."
-  },
-  {
-    "source": "08",
-    "id": "08:112",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, Mr. Nurse! Use your holomap if you're lost."
-  },
-  {
-    "source": "08",
-    "id": "08:113",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know, the holomap is activated by the \"H\" key. And you'd better try to get it back or buy another one at the bazaar on Principal Island."
-  },
-  {
-    "source": "08",
-    "id": "08:114",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen them.\n\nSorry!"
-  },
-  {
-    "source": "08",
-    "id": "08:115",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'd like to help you, but I haven't seen them."
-  },
-  {
-    "source": "08",
-    "id": "08:116",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen them.\n\nSorry!"
-  },
-  {
-    "source": "08",
-    "id": "08:117",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Didn't see 'em. I ain't budged an inch!"
-  },
-  {
-    "source": "08",
-    "id": "08:118",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see them. Try at the tavern, you never know..."
-  },
-  {
-    "source": "08",
-    "id": "08:119",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen anyone, but ask inside the tavern."
-  },
-  {
-    "source": "08",
-    "id": "08:120",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You need a ticket to board the ferry. You can buy one next door."
-  },
-  {
-    "source": "08",
-    "id": "08:121",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Leave me alone, I have nothing to say to you."
-  },
-  {
-    "source": "08",
-    "id": "08:122",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Try the tavern, you never know."
-  },
-  {
-    "source": "08",
-    "id": "08:123",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Try the tavern, that sounds like something they would be familiar with."
-  },
-  {
-    "source": "08",
-    "id": "08:124",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't get all excited, son! I prefer talking calmly."
-  },
-  {
-    "source": "08",
-    "id": "08:125",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Calm down quickly! If you are going to be like that, I won't speak to you any more."
-  },
-  {
-    "source": "08",
-    "id": "08:126",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Did you know that the telepods are dangerous for all species? Only the clones can use them!"
-  },
-  {
-    "source": "08",
-    "id": "08:127",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A piece of advice: surrender instead of provoking us."
-  },
-  {
-    "source": "08",
-    "id": "08:128",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Quiet!"
-  },
-  {
-    "source": "08",
-    "id": "08:129",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thanks, mate!"
-  },
-  {
-    "source": "08",
-    "id": "08:130",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was trying to dig a tunnel, but the noise tipped them off!"
-  },
-  {
-    "source": "08",
-    "id": "08:131",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Where do you want to go?"
-  },
-  {
-    "source": "08",
-    "id": "08:132",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Principal Island"
-  },
-  {
-    "source": "08",
-    "id": "08:133",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the White Leaf Desert"
-  },
-  {
-    "source": "08",
-    "id": "08:134",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Proxima Island"
-  },
-  {
-    "source": "08",
-    "id": "08:135",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Rebellion Island"
-  },
-  {
-    "source": "08",
-    "id": "08:136",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm staying here!"
-  },
-  {
-    "source": "08",
-    "id": "08:137",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bah! That doesn't interest me."
-  },
-  {
-    "source": "08",
-    "id": "08:138",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi!"
-  },
-  {
-    "source": "08",
-    "id": "08:139",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I haven't seen her!"
-  },
-  {
-    "source": "08",
-    "id": "08:140",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know what those things are!"
-  },
-  {
-    "source": "08",
-    "id": "08:141",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Yes... Hey, stop talking about it, ok? That's a sure way to wind up in the Citadel."
-  },
-  {
-    "source": "08",
-    "id": "08:142",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know what that is all about."
-  },
-  {
-    "source": "08",
-    "id": "08:143",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I know that LeBorgne had some kind of a captain's log written for him (he was practically illiterate), and the boss of the tavern on Principal Island knows where it is!"
-  },
-  {
-    "source": "08",
-    "id": "08:144",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "They took a fast boat a little while ago. Destination unknown."
-  },
-  {
-    "source": "08",
-    "id": "08:145",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
-  },
-  {
-    "source": "08",
-    "id": "08:146",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can't help you out, my friend. Don't know what you're talking about."
-  },
-  {
-    "source": "08",
-    "id": "08:147",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "That's none of your business!"
-  },
-  {
-    "source": "08",
-    "id": "08:148",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask the sailor, he would have know who LeBorgne was."
-  },
-  {
-    "source": "08",
-    "id": "08:149",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not me!"
-  },
-  {
-    "source": "08",
-    "id": "08:150",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bah, you think so? And in the first place, I don't know it."
-  },
-  {
-    "source": "08",
-    "id": "08:151",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Asks one of my colleagues working in the warehouse on the port. He will know about this LeBorgne."
-  },
-  {
-    "source": "08",
-    "id": "08:152",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "There is a library on Principal Island, but I don't know if they have any books about the Legend there."
-  },
-  {
-    "source": "08",
-    "id": "08:153",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about that story."
-  },
-  {
-    "source": "08",
-    "id": "08:154",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but I don't know what that could be about."
-  },
-  {
-    "source": "08",
-    "id": "08:155",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't know him!"
-  },
-  {
-    "source": "08",
-    "id": "08:156",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was not informed about this mission!"
-  },
-  {
-    "source": "08",
-    "id": "08:157",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Really! Well that's too bad, but I don't know anything about it."
-  },
-  {
-    "source": "08",
-    "id": "08:158",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've never seen those plans."
-  },
-  {
-    "source": "08",
-    "id": "08:159",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What legend? I don't know about any legend!"
-  },
-  {
-    "source": "08",
-    "id": "08:160",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "08",
-    "id": "08:161",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask a sailor that type of question."
-  },
-  {
-    "source": "08",
-    "id": "08:162",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I don't know where they are."
-  },
-  {
-    "source": "08",
-    "id": "08:163",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bah! That holds little interest for me."
-  },
-  {
-    "source": "08",
-    "id": "08:164",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "That's in the past now, there are no pirates living today."
-  },
-  {
-    "source": "08",
-    "id": "08:165",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but I don't know what that could be about."
-  },
-  {
-    "source": "08",
-    "id": "08:166",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see them, but try asking at the tavern."
-  },
-  {
-    "source": "08",
-    "id": "08:167",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never heard anything about it!"
-  },
-  {
-    "source": "08",
-    "id": "08:168",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm looking for the plans of the Teleportation Center - I'm on a special assignment!"
-  },
-  {
-    "source": "08",
-    "id": "08:169",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen them.\n\nSorry!"
-  },
-  {
-    "source": "08",
-    "id": "08:170",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry neighbor, I don't know what you're talking about."
-  },
-  {
-    "source": "08",
-    "id": "08:171",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Try over at the port, all the sailors knew that pirate."
-  },
-  {
-    "source": "08",
-    "id": "08:172",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, I'm looking for a friend. She is escorted by two groboclones."
-  },
-  {
-    "source": "08",
-    "id": "08:173",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her, but if she was arrested, where she is, surely isn't any of your business!"
-  },
-  {
-    "source": "08",
-    "id": "08:174",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know what you are talking about."
-  },
-  {
-    "source": "08",
-    "id": "08:175",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Can I see your ferry ticket please?"
-  },
-  {
-    "source": "08",
-    "id": "08:176",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask a sailor, he might be able to help you."
-  },
-  {
-    "source": "08",
-    "id": "08:177",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "08",
-    "id": "08:178",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I haven't seen them."
-  },
-  {
-    "source": "08",
-    "id": "08:179",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you still want to take the ferry, I can sell you some tickets for only 5 kashes each. I print them up myself."
-  },
-  {
-    "source": "08",
-    "id": "08:180",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You don't have enough Kashes, come back later."
-  },
-  {
-    "source": "08",
-    "id": "08:181",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No more gas."
-  },
-  {
-    "source": "08",
-    "id": "08:182",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but someone came by for the robot. Apparently, they needed it at a top secret construction site."
-  },
-  {
-    "source": "08",
-    "id": "08:183",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thank you for preventing them from closing down my tavern. If you see something of interest in my cellar, please help yourself."
-  },
-  {
-    "source": "08",
-    "id": "08:184",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Do what I do: gather up the clover leaves and the boxes. You need one box to hold each clover leaf. Each clover leaf will give you another chance when you are in an extremely dangerous situation."
-  },
-  {
-    "source": "08",
-    "id": "08:185",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I read some extracts from the captain's log - LeBorgne was ruthless! If you're still interested in the log, it's for sale at the Old Burg bazaar on Principal Island."
-  },
-  {
-    "source": "08",
-    "id": "08:186",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "08",
-    "id": "08:187",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm not sure, but I seem to remember before, at the library, there were some books that talked about it."
-  },
-  {
-    "source": "08",
-    "id": "08:188",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi"
-  },
-  {
-    "source": "08",
-    "id": "08:189",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "On the Hamalayi"
-  },
-  {
-    "source": "08",
-    "id": "08:190",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can't help you, ask someone else."
-  },
-  {
-    "source": "08",
-    "id": "08:191",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Mercy!"
-  }
+	{
+		"source": "08",
+		"id": "08:1",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What are you doing here? This sector is off limits to the public."
+	},
+	{
+		"source": "08",
+		"id": "08:2",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Halt!"
+	},
+	{
+		"source": "08",
+		"id": "08:3",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Stop squirming, prisoner Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:4",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, you! You're not one of my nurses! Sound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:5",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, fellow nurse."
+	},
+	{
+		"source": "08",
+		"id": "08:6",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A prisoner has escaped!\nSound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:7",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"RULE# 1024-GH :\nDr. FunFrock reminds you that it is absolutely forbidden to make any allusion whatsoever to the so called Legend.\""
+	},
+	{
+		"source": "08",
+		"id": "08:8",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Long live the venerable Dr. FunFrock, the one who saved us from all the superstitions.\""
+	},
+	{
+		"source": "08",
+		"id": "08:9",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hmmmmm... what if I try to get the guard's attention?"
+	},
+	{
+		"source": "08",
+		"id": "08:10",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:11",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You've returned at last, my love! Come inside quickly - all the clones must be looking for you."
+	},
+	{
+		"source": "08",
+		"id": "08:12",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, where were you? I was worried sick!"
+	},
+	{
+		"source": "08",
+		"id": "08:13",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've just escaped from the asylum. They think that I am a trouble maker because of the strange dreams I have, the ones where Sendell is calling me. I spoke to you about them on several occasions."
+	},
+	{
+		"source": "08",
+		"id": "08:14",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I rummage around here as there's no one guarding this place. I hide in the truck so that the guards won't see me. You just have to jump into the pile of garbage and be VERY DISCREET about it."
+	},
+	{
+		"source": "08",
+		"id": "08:15",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi! What are you doing there? Did you know that you can read the posters? All you have to do is move in front of one and use the ACTION command while in normal mode."
+	},
+	{
+		"source": "08",
+		"id": "08:16",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Uhhh ... How's it going?"
+	},
+	{
+		"source": "08",
+		"id": "08:17",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I know where they went and I'll help you if you buy me a drink. Ask the waiter about it."
+	},
+	{
+		"source": "08",
+		"id": "08:18",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You're being held here because you are a trouble maker. An informant told us that you claim to have prophetic dreams.\nCalm down, we're going to dissect... uh, I mean... take care of you!"
+	},
+	{
+		"source": "08",
+		"id": "08:19",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ok, I just have to wait for the truck to move into place."
+	},
+	{
+		"source": "08",
+		"id": "08:20",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is forbidden to travel outside the Citadel in that kind of attire!"
+	},
+	{
+		"source": "08",
+		"id": "08:21",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen! What are you doing here? I heard you were arrested only yesterday!"
+	},
+	{
+		"source": "08",
+		"id": "08:22",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "They let me out early for good behavior!"
+	},
+	{
+		"source": "08",
+		"id": "08:23",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Impossible! Nobody gets out of the Citadel alive!"
+	},
+	{
+		"source": "08",
+		"id": "08:24",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"ANNOUNCEMENT #357-G:\nA new automatic surveillance device is now operating in the city. All citizens must remain motionless if one of these devices is in their vicinity.\""
+	},
+	{
+		"source": "08",
+		"id": "08:25",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is forbidden to use that robot !"
+	},
+	{
+		"source": "08",
+		"id": "08:26",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You look kind of lost, Mr. Nurse. Use your holomap if you don't know how to get back home!"
+	},
+	{
+		"source": "08",
+		"id": "08:27",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!"
+	},
+	{
+		"source": "08",
+		"id": "08:28",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I think it's time to make use of what you hid in the house."
+	},
+	{
+		"source": "08",
+		"id": "08:29",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Open up! We know you're in there!"
+	},
+	{
+		"source": "08",
+		"id": "08:30",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You are charged with aiding an escapee. Follow us!"
+	},
+	{
+		"source": "08",
+		"id": "08:31",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm looking for a young girl. She is being escorted by two groboclones."
+	},
+	{
+		"source": "08",
+		"id": "08:32",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sound the alarm! It's the escapee!"
+	},
+	{
+		"source": "08",
+		"id": "08:33",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I believe that you can read all the posters. All you have to do is move in front of one and use the ACTION command while in normal mode. I can't really help you out, because I don't know how to read!"
+	},
+	{
+		"source": "08",
+		"id": "08:34",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen them.\nSorry!"
+	},
+	{
+		"source": "08",
+		"id": "08:35",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I saw them at the port a little while ago. They were leaving for another island. It's strange, because prisoners usually stay at the Citadel."
+	},
+	{
+		"source": "08",
+		"id": "08:36",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You need a ticket to board the ferry. You can buy one next door."
+	},
+	{
+		"source": "08",
+		"id": "08:37",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, one ticket for... Sound the alarm! It's the escapee!"
+	},
+	{
+		"source": "08",
+		"id": "08:38",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess."
+	},
+	{
+		"source": "08",
+		"id": "08:39",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey! You over there, come here!"
+	},
+	{
+		"source": "08",
+		"id": "08:40",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can't open this chest with this blasted trick back of mine! Gimme a hand and I'll let you keep some of what's inside. All you have to do is move in front of the chest while in normal mode and use the ACTION command. You can do the same for rummaging through lots of things like cupboards, garbage cans, etc..."
+	},
+	{
+		"source": "08",
+		"id": "08:41",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "My son and I fixed the ventilation flap in your chimney. We'll put up a fence later. It's odd that it is so far away from your house! According to my son, who is an architect, there are a lot of strange things about your house!"
+	},
+	{
+		"source": "08",
+		"id": "08:42",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know, don't worry about putting up a fence around the chimney. I've thought about it and I prefer to keep it as it is."
+	},
+	{
+		"source": "08",
+		"id": "08:43",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day."
+	},
+	{
+		"source": "08",
+		"id": "08:44",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Try the tavern, you never know..."
+	},
+	{
+		"source": "08",
+		"id": "08:45",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The crates are arranged correctly this time. Thank you, and please accept this ferry ticket as a token of my gratitude."
+	},
+	{
+		"source": "08",
+		"id": "08:46",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm on special assignment for the good Dr. FunFrock, and am looking for the plans of the Teleportation Center."
+	},
+	{
+		"source": "08",
+		"id": "08:47",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Come in friend! We will look at them together because they are rather complicated."
+	},
+	{
+		"source": "08",
+		"id": "08:48",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with this same symbol. All this extra work has really ruined my weekend!\nWe're really worried about the Teleportation Center: it's weak point is situated on the left, right after the first guard post."
+	},
+	{
+		"source": "08",
+		"id": "08:49",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You will need my card to get into the center. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me!"
+	},
+	{
+		"source": "08",
+		"id": "08:50",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go ask my son, he has come home from work. Sorry about your house: the clones came with an attack tank, and they were looking for you!"
+	},
+	{
+		"source": "08",
+		"id": "08:51",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I would like to buy a drink for the grobo upstairs."
+	},
+	{
+		"source": "08",
+		"id": "08:52",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Very good sir, but that will cost you 10 Kashes per drink."
+	},
+	{
+		"source": "08",
+		"id": "08:53",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hide! They have itchy trigger fingers!"
+	},
+	{
+		"source": "08",
+		"id": "08:54",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Keep the planet clean!\""
+	},
+	{
+		"source": "08",
+		"id": "08:55",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Let's see now, where did I put my key?"
+	},
+	{
+		"source": "08",
+		"id": "08:56",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Dad! Do you have a key with you?"
+	},
+	{
+		"source": "08",
+		"id": "08:57",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "All you have to do is ask."
+	},
+	{
+		"source": "08",
+		"id": "08:58",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've got to get into the Teleportation Center."
+	},
+	{
+		"source": "08",
+		"id": "08:59",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You don't have to be aggressive all the time. I don't talk to pushy people!"
+	},
+	{
+		"source": "08",
+		"id": "08:60",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "10 Kashes! That's too expensive!"
+	},
+	{
+		"source": "08",
+		"id": "08:61",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You've just got back all the objects that were in your inventory!"
+	},
+	{
+		"source": "08",
+		"id": "08:62",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't ever try teleporting yourself - it's very dangerous! Only the clones can do it."
+	},
+	{
+		"source": "08",
+		"id": "08:63",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Welcome to Lupin-Burg\n(Citadel Island).\""
+	},
+	{
+		"source": "08",
+		"id": "08:64",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Yeah, the clones already confiscated the key to my cellar, so don't be surprised when they come back to close down the tavern!"
+	},
+	{
+		"source": "08",
+		"id": "08:65",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Welcome to Citadel Island\""
+	},
+	{
+		"source": "08",
+		"id": "08:66",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "We are going to close this tavern down. Get out of here!"
+	},
+	{
+		"source": "08",
+		"id": "08:67",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, this talk about the Legend is strange, don't you think?"
+	},
+	{
+		"source": "08",
+		"id": "08:68",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The 4 crates are not on the 4 crosses, try again!"
+	},
+	{
+		"source": "08",
+		"id": "08:69",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about it, and it is forbidden to talk about it!"
+	},
+	{
+		"source": "08",
+		"id": "08:70",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I saw them! They left for another island, but I don't know which one."
+	},
+	{
+		"source": "08",
+		"id": "08:71",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is forbidden to talk about it!"
+	},
+	{
+		"source": "08",
+		"id": "08:72",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bah! That doesn't interest me. Go see at the library or go drown your sorrows at the tavern; or even better, do it the other way around."
+	},
+	{
+		"source": "08",
+		"id": "08:73",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What's strange is that you're talking about it. That's forbidden, you know!"
+	},
+	{
+		"source": "08",
+		"id": "08:74",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know. The books that mention it have been confiscated and sent to Principal Island."
+	},
+	{
+		"source": "08",
+		"id": "08:75",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is forbidden to talk about that!"
+	},
+	{
+		"source": "08",
+		"id": "08:76",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Prisoner Twinsen, I've already had enough of seeing you here, so don't make any more problems for yourself!"
+	},
+	{
+		"source": "08",
+		"id": "08:77",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A piece of advice: surrender instead of trying to provoke us."
+	},
+	{
+		"source": "08",
+		"id": "08:78",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You are not going to get away by evoking that subversive propaganda."
+	},
+	{
+		"source": "08",
+		"id": "08:79",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm a bartender, you know, so I've have had my fill of bar jokes and strange stories!"
+	},
+	{
+		"source": "08",
+		"id": "08:80",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about it, but the tavern will soon be closed down. That's been confirmed!"
+	},
+	{
+		"source": "08",
+		"id": "08:81",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:82",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Well, I don't know anything about it. But you could offer me a drink anyway?"
+	},
+	{
+		"source": "08",
+		"id": "08:83",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today.\""
+	},
+	{
+		"source": "08",
+		"id": "08:84",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" You who read this text, know that there are 3 Runic Stones in this world. Their locations are now indicated on your Holomap. They are large menhirs with runic text written on them. They will help the Heir in his quest for Sendell. The third stone will show the exact location of the Well of Sendell. In addition to the help provided by the text, each stone conceals a secret.\""
+	},
+	{
+		"source": "08",
+		"id": "08:85",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Bug street\n(Citadel Island).\""
+	},
+	{
+		"source": "08",
+		"id": "08:86",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It's ok, let's go!"
+	},
+	{
+		"source": "08",
+		"id": "08:87",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You don't have enough Kashes, come back later!"
+	},
+	{
+		"source": "08",
+		"id": "08:88",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:89",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Life candy: do you want 10 hearts for 10 Kashes?\""
+	},
+	{
+		"source": "08",
+		"id": "08:90",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ok, I'll take them."
+	},
+	{
+		"source": "08",
+		"id": "08:91",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, thank you."
+	},
+	{
+		"source": "08",
+		"id": "08:92",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not enough Kashes!"
+	},
+	{
+		"source": "08",
+		"id": "08:93",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, I would like some information about LeBorgne the pirate."
+	},
+	{
+		"source": "08",
+		"id": "08:94",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"L.B.A.\nLupin-Burg sewer service\nLittle Vachond street\""
+	},
+	{
+		"source": "08",
+		"id": "08:95",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"L.B.A.\nLupin-Burg sewer service\nDr FunFrock Square\""
+	},
+	{
+		"source": "08",
+		"id": "08:96",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Halt!"
+	},
+	{
+		"source": "08",
+		"id": "08:97",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, you! You're not one of my nurses! Sound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:98",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, fellow nurse."
+	},
+	{
+		"source": "08",
+		"id": "08:99",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, fellow nurse."
+	},
+	{
+		"source": "08",
+		"id": "08:100",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A prisoner is escaping!\nSound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:101",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A prisoner is escaping!\nSound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:102",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A prisoner is escaping!\nSound the alarm!"
+	},
+	{
+		"source": "08",
+		"id": "08:103",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, neighbor."
+	},
+	{
+		"source": "08",
+		"id": "08:104",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, neighbor."
+	},
+	{
+		"source": "08",
+		"id": "08:105",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:106",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:107",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:108",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey buddy!"
+	},
+	{
+		"source": "08",
+		"id": "08:109",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:110",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:111",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You are being held here because you are a trouble maker."
+	},
+	{
+		"source": "08",
+		"id": "08:112",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, Mr. Nurse! Use your holomap if you're lost."
+	},
+	{
+		"source": "08",
+		"id": "08:113",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know, the holomap is activated by the \"H\" key. And you'd better try to get it back or buy another one at the bazaar on Principal Island."
+	},
+	{
+		"source": "08",
+		"id": "08:114",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen them.\n\nSorry!"
+	},
+	{
+		"source": "08",
+		"id": "08:115",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'd like to help you, but I haven't seen them."
+	},
+	{
+		"source": "08",
+		"id": "08:116",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen them.\n\nSorry!"
+	},
+	{
+		"source": "08",
+		"id": "08:117",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Didn't see 'em. I ain't budged an inch!"
+	},
+	{
+		"source": "08",
+		"id": "08:118",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see them. Try at the tavern, you never know..."
+	},
+	{
+		"source": "08",
+		"id": "08:119",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen anyone, but ask inside the tavern."
+	},
+	{
+		"source": "08",
+		"id": "08:120",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You need a ticket to board the ferry. You can buy one next door."
+	},
+	{
+		"source": "08",
+		"id": "08:121",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Leave me alone, I have nothing to say to you."
+	},
+	{
+		"source": "08",
+		"id": "08:122",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Try the tavern, you never know."
+	},
+	{
+		"source": "08",
+		"id": "08:123",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Try the tavern, that sounds like something they would be familiar with."
+	},
+	{
+		"source": "08",
+		"id": "08:124",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't get all excited, son! I prefer talking calmly."
+	},
+	{
+		"source": "08",
+		"id": "08:125",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Calm down quickly! If you are going to be like that, I won't speak to you any more."
+	},
+	{
+		"source": "08",
+		"id": "08:126",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Did you know that the telepods are dangerous for all species? Only the clones can use them!"
+	},
+	{
+		"source": "08",
+		"id": "08:127",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A piece of advice: surrender instead of provoking us."
+	},
+	{
+		"source": "08",
+		"id": "08:128",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Quiet!"
+	},
+	{
+		"source": "08",
+		"id": "08:129",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thanks, mate!"
+	},
+	{
+		"source": "08",
+		"id": "08:130",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was trying to dig a tunnel, but the noise tipped them off!"
+	},
+	{
+		"source": "08",
+		"id": "08:131",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Where do you want to go?"
+	},
+	{
+		"source": "08",
+		"id": "08:132",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Principal Island"
+	},
+	{
+		"source": "08",
+		"id": "08:133",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the White Leaf Desert"
+	},
+	{
+		"source": "08",
+		"id": "08:134",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Proxima Island"
+	},
+	{
+		"source": "08",
+		"id": "08:135",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Rebellion Island"
+	},
+	{
+		"source": "08",
+		"id": "08:136",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm staying here!"
+	},
+	{
+		"source": "08",
+		"id": "08:137",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bah! That doesn't interest me."
+	},
+	{
+		"source": "08",
+		"id": "08:138",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi!"
+	},
+	{
+		"source": "08",
+		"id": "08:139",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I haven't seen her!"
+	},
+	{
+		"source": "08",
+		"id": "08:140",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know what those things are!"
+	},
+	{
+		"source": "08",
+		"id": "08:141",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Yes... Hey, stop talking about it, ok? That's a sure way to wind up in the Citadel."
+	},
+	{
+		"source": "08",
+		"id": "08:142",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know what that is all about."
+	},
+	{
+		"source": "08",
+		"id": "08:143",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I know that LeBorgne had some kind of a captain's log written for him (he was practically illiterate), and the boss of the tavern on Principal Island knows where it is!"
+	},
+	{
+		"source": "08",
+		"id": "08:144",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "They took a fast boat a little while ago. Destination unknown."
+	},
+	{
+		"source": "08",
+		"id": "08:145",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
+	},
+	{
+		"source": "08",
+		"id": "08:146",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can't help you out, my friend. Don't know what you're talking about."
+	},
+	{
+		"source": "08",
+		"id": "08:147",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "That's none of your business!"
+	},
+	{
+		"source": "08",
+		"id": "08:148",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask the sailor, he would have know who LeBorgne was."
+	},
+	{
+		"source": "08",
+		"id": "08:149",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not me!"
+	},
+	{
+		"source": "08",
+		"id": "08:150",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bah, you think so? And in the first place, I don't know it."
+	},
+	{
+		"source": "08",
+		"id": "08:151",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Asks one of my colleagues working in the warehouse on the port. He will know about this LeBorgne."
+	},
+	{
+		"source": "08",
+		"id": "08:152",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "There is a library on Principal Island, but I don't know if they have any books about the Legend there."
+	},
+	{
+		"source": "08",
+		"id": "08:153",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about that story."
+	},
+	{
+		"source": "08",
+		"id": "08:154",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but I don't know what that could be about."
+	},
+	{
+		"source": "08",
+		"id": "08:155",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't know him!"
+	},
+	{
+		"source": "08",
+		"id": "08:156",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was not informed about this mission!"
+	},
+	{
+		"source": "08",
+		"id": "08:157",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Really! Well that's too bad, but I don't know anything about it."
+	},
+	{
+		"source": "08",
+		"id": "08:158",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've never seen those plans."
+	},
+	{
+		"source": "08",
+		"id": "08:159",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What legend? I don't know about any legend!"
+	},
+	{
+		"source": "08",
+		"id": "08:160",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "08",
+		"id": "08:161",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask a sailor that type of question."
+	},
+	{
+		"source": "08",
+		"id": "08:162",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I don't know where they are."
+	},
+	{
+		"source": "08",
+		"id": "08:163",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bah! That holds little interest for me."
+	},
+	{
+		"source": "08",
+		"id": "08:164",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "That's in the past now, there are no pirates living today."
+	},
+	{
+		"source": "08",
+		"id": "08:165",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but I don't know what that could be about."
+	},
+	{
+		"source": "08",
+		"id": "08:166",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see them, but try asking at the tavern."
+	},
+	{
+		"source": "08",
+		"id": "08:167",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never heard anything about it!"
+	},
+	{
+		"source": "08",
+		"id": "08:168",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm looking for the plans of the Teleportation Center - I'm on a special assignment!"
+	},
+	{
+		"source": "08",
+		"id": "08:169",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen them.\n\nSorry!"
+	},
+	{
+		"source": "08",
+		"id": "08:170",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry neighbor, I don't know what you're talking about."
+	},
+	{
+		"source": "08",
+		"id": "08:171",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Try over at the port, all the sailors knew that pirate."
+	},
+	{
+		"source": "08",
+		"id": "08:172",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, I'm looking for a friend. She is escorted by two groboclones."
+	},
+	{
+		"source": "08",
+		"id": "08:173",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her, but if she was arrested, where she is, surely isn't any of your business!"
+	},
+	{
+		"source": "08",
+		"id": "08:174",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know what you are talking about."
+	},
+	{
+		"source": "08",
+		"id": "08:175",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Can I see your ferry ticket please?"
+	},
+	{
+		"source": "08",
+		"id": "08:176",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask a sailor, he might be able to help you."
+	},
+	{
+		"source": "08",
+		"id": "08:177",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "08",
+		"id": "08:178",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I haven't seen them."
+	},
+	{
+		"source": "08",
+		"id": "08:179",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you still want to take the ferry, I can sell you some tickets for only 5 kashes each. I print them up myself."
+	},
+	{
+		"source": "08",
+		"id": "08:180",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You don't have enough Kashes, come back later."
+	},
+	{
+		"source": "08",
+		"id": "08:181",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No more gas."
+	},
+	{
+		"source": "08",
+		"id": "08:182",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but someone came by for the robot. Apparently, they needed it at a top secret construction site."
+	},
+	{
+		"source": "08",
+		"id": "08:183",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thank you for preventing them from closing down my tavern. If you see something of interest in my cellar, please help yourself."
+	},
+	{
+		"source": "08",
+		"id": "08:184",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Do what I do: gather up the clover leaves and the boxes. You need one box to hold each clover leaf. Each clover leaf will give you another chance when you are in an extremely dangerous situation."
+	},
+	{
+		"source": "08",
+		"id": "08:185",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I read some extracts from the captain's log - LeBorgne was ruthless! If you're still interested in the log, it's for sale at the Old Burg bazaar on Principal Island."
+	},
+	{
+		"source": "08",
+		"id": "08:186",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "08",
+		"id": "08:187",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm not sure, but I seem to remember before, at the library, there were some books that talked about it."
+	},
+	{
+		"source": "08",
+		"id": "08:188",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi"
+	},
+	{
+		"source": "08",
+		"id": "08:189",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "On the Hamalayi"
+	},
+	{
+		"source": "08",
+		"id": "08:190",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can't help you, ask someone else."
+	},
+	{
+		"source": "08",
+		"id": "08:191",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Mercy!"
+	}
 ]

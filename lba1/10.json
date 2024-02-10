@@ -1,2146 +1,2146 @@
 [
-  {
-    "source": "10",
-    "id": "10:1",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Halt!"
-  },
-  {
-    "source": "10",
-    "id": "10:2",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, I'm looking for a friend. She is escorted by two groboclones."
-  },
-  {
-    "source": "10",
-    "id": "10:3",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I didn't see them but try going to the astronomer's house in the Old Burg; he knows a lot about what is going on."
-  },
-  {
-    "source": "10",
-    "id": "10:4",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is forbidden to talk about that!"
-  },
-  {
-    "source": "10",
-    "id": "10:5",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you want to see my cousin, go in front of the sink and wash your hands! Ha ha!"
-  },
-  {
-    "source": "10",
-    "id": "10:6",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was arrested for sneezing in public, it's ridiculous! There's also, however, a forger in the cell to the right of general headquarters."
-  },
-  {
-    "source": "10",
-    "id": "10:7",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can't help you. Except perhaps... considering the risks you've taken, I guess I can trust you. I was arrested on this island, but earlier on I gave a fake red card to my brother who was living on Proxima island. He will give it to you if you say \"Amos\" to him (the location of the house is now indicated on your Holomap)."
-  },
-  {
-    "source": "10",
-    "id": "10:8",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Dr. FUNFROCK's headquarters. Access IS FORBIDDEN!\""
-  },
-  {
-    "source": "10",
-    "id": "10:9",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Young male quetch seeks young female rabbibunny for friendship (and maybe more...)\""
-  },
-  {
-    "source": "10",
-    "id": "10:10",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bah! Not interested."
-  },
-  {
-    "source": "10",
-    "id": "10:11",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "As I live and breathe, you will never see me drink any tap water in this city, mate. And all you have to do is drink some of it to understand why!"
-  },
-  {
-    "source": "10",
-    "id": "10:12",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "That old pirate is right, the tap water tastes funny. They should be able to improve its quality, and by the way the water tower is located in the North mountains (check your holomap)."
-  },
-  {
-    "source": "10",
-    "id": "10:13",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Legend is a weak spot in FunFrock's power. You must discover why; it's the only way of seeing your friend again."
-  },
-  {
-    "source": "10",
-    "id": "10:14",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, this talk about the Legend is strange, don't you think?"
-  },
-  {
-    "source": "10",
-    "id": "10:15",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"ANNOUNCEMENT #358-G : A prisoner named Twinsen has escaped from the Citadel. Anyone seeing the escapee must notify the nearest clone.\""
-  },
-  {
-    "source": "10",
-    "id": "10:16",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Opening hours for the Principal Island library:\nMore or less, all the time.\""
-  },
-  {
-    "source": "10",
-    "id": "10:17",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "We have some documents on the \"Legend\" somewhere in the Censored Publications Department, but you need special authorization to look at them. Let me see your ID card."
-  },
-  {
-    "source": "10",
-    "id": "10:18",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day. You need a boarding ticket to go to Citadel Island."
-  },
-  {
-    "source": "10",
-    "id": "10:19",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" My dear and respected Dr. FunFrock, I took the plans of the Teleportation Center home with me, to work on them over the week-end. I will bring them back on Monday. Signed: Mies Van der Rooh, Architect, Bug Street, Citadel Island. \""
-  },
-  {
-    "source": "10",
-    "id": "10:20",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm interested in the story of LeBorgne the pirate."
-  },
-  {
-    "source": "10",
-    "id": "10:21",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm looking for the plans of the Teleportation Center. I'm on a special assignment!"
-  },
-  {
-    "source": "10",
-    "id": "10:22",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sound the alarm! It's the escapee!"
-  },
-  {
-    "source": "10",
-    "id": "10:23",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:24",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "A ferry ticket costs 10 kashes. However as I have a WANTED poster in my office, you will have to pay 30 Kashes to make me overlook the fact that you look a lot like the guy on it."
-  },
-  {
-    "source": "10",
-    "id": "10:25",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Halt! You are a wanted escapee!"
-  },
-  {
-    "source": "10",
-    "id": "10:26",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you give me 10 Kashes I'll let you read the poster behind me."
-  },
-  {
-    "source": "10",
-    "id": "10:27",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I saw them a little while ago on Citadel Island. But they left on a fast boat. Destination unknown!"
-  },
-  {
-    "source": "10",
-    "id": "10:28",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Welcome, dear customer! I don't have any more cherry flavored syrup, but there is a pharmacy open on Citadel Island.\nP Move in front of the item that interests you and use the ACTION command."
-  },
-  {
-    "source": "10",
-    "id": "10:29",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Mister, Mister! There's a loose stone in the back wall. I might be able to escape!"
-  },
-  {
-    "source": "10",
-    "id": "10:30",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "A loose stone? Let me see that."
-  },
-  {
-    "source": "10",
-    "id": "10:31",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "The passage will only open when you come from my cousin's house. Now stop rummaging everywhere!"
-  },
-  {
-    "source": "10",
-    "id": "10:32",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but you don't have enough Kashes. Come back later."
-  },
-  {
-    "source": "10",
-    "id": "10:33",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Here you can't just talk to just anybody. Prove that you are not working for FunFrock. Go clobber a clone for starters!"
-  },
-  {
-    "source": "10",
-    "id": "10:34",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Didn't see anything, but if you have any problems, you should talk to the Astronomer who is under house arrest, up above the Old Burg."
-  },
-  {
-    "source": "10",
-    "id": "10:35",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "So you're the one that beats up on clones? Good job! I haven't seen your friend but you should go see the Astronomer. He will certainly be able to help you."
-  },
-  {
-    "source": "10",
-    "id": "10:36",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Leave me alone, this job is already hard enough."
-  },
-  {
-    "source": "10",
-    "id": "10:37",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "This young girl must be someone important if that tyrant FunFrock is holding her outside of Citadel Island. Something funny is going on with this forbidding of any talk about the Legend: this must be some kind of weakness in his power! Find out what is behind this Legend, it's your only hope of seeing your friend again. If you need to leave the island, I know a friend who can help you at Port-Belooga (check your holomap). Tell him that I sent you. And be discreet in your quest."
-  },
-  {
-    "source": "10",
-    "id": "10:38",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Unfortunately, I don't know anything about the Legend, but I have a fisherman friend who could help you in your travels if you tell him that I sent you. He lives at Port-Belooga (check your holomap)."
-  },
-  {
-    "source": "10",
-    "id": "10:39",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ha ha! It's a colleague, he's looking for a wife."
-  },
-  {
-    "source": "10",
-    "id": "10:40",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about it, and anyway, it's a forbidden subject."
-  },
-  {
-    "source": "10",
-    "id": "10:41",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "According to my doctor, I can drink only the city's tap water. But it tastes too bad. If someone could improve its taste, I would be willing to show him the Censored Publication Department, and that would be quite a privilege."
-  },
-  {
-    "source": "10",
-    "id": "10:42",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hold on a minute, I'm going to taste the water."
-  },
-  {
-    "source": "10",
-    "id": "10:43",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hmmmmm, cherry flavor, not bad... but I would have preferred carrot. But anyway, as promised, I will show you where the documents about the \"Legend\" are."
-  },
-  {
-    "source": "10",
-    "id": "10:44",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never saw 'em! The sea is my only concern.\nSometimes I even take voyagers on my boat, but only people that I can trust."
-  },
-  {
-    "source": "10",
-    "id": "10:45",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "If the Astronomer sent you, I guess I can trust you. Despite the solidarity in the resistance against FunFrock, you know, times are hard. For 10 Kashes I'll take you where you want to go."
-  },
-  {
-    "source": "10",
-    "id": "10:46",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know yet."
-  },
-  {
-    "source": "10",
-    "id": "10:47",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the White Leaf Desert."
-  },
-  {
-    "source": "10",
-    "id": "10:48",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm not going to leave just yet."
-  },
-  {
-    "source": "10",
-    "id": "10:49",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You don't have enough Kashes to make the trip Twinsen. See you later!"
-  },
-  {
-    "source": "10",
-    "id": "10:50",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"In the distant past, when the spheros, rabbibunnies, Quetches and grobos emerged from the original primordial soup, centuries before Dr. FunFrock's coup, a prophecy was pronounced. Its text is hardly remembered today and that is why people now refer to it as the \"Legend\". It explained how \"the Heir,\" when his time had come, would be called to overthrow a tyrant! The secret of the Legend can still be learned somewhere in the White Leaf Desert.\""
-  },
-  {
-    "source": "10",
-    "id": "10:51",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You've just got back all the objects that were in your inventory!"
-  },
-  {
-    "source": "10",
-    "id": "10:52",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You can come aboard sir, we were just getting underway."
-  },
-  {
-    "source": "10",
-    "id": "10:53",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Welcome to Principal Island.\""
-  },
-  {
-    "source": "10",
-    "id": "10:54",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her, but I think that I can trust you now. Follow me, I know how to get to the Astronomer's home."
-  },
-  {
-    "source": "10",
-    "id": "10:55",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "My cousin is a locksmith. He will open the unguarded door for you. Follow me!"
-  },
-  {
-    "source": "10",
-    "id": "10:56",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know if I can help you. I am a locksmith and I can open doors... but only for people that I can trust!"
-  },
-  {
-    "source": "10",
-    "id": "10:57",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you already know about that passage, I can open the unguarded door for you. After you!"
-  },
-  {
-    "source": "10",
-    "id": "10:58",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can help you get rid of the Supergro. Follow me, but wait until he moves away from the steps before going by!"
-  },
-  {
-    "source": "10",
-    "id": "10:59",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thief!\nLeave my money box alone!"
-  },
-  {
-    "source": "10",
-    "id": "10:60",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You are too aggressive! Get out of here, and don't come back until you have calmed down!"
-  },
-  {
-    "source": "10",
-    "id": "10:61",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Shut up stupid, it is forbidden to talk about it!"
-  },
-  {
-    "source": "10",
-    "id": "10:62",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" Principal island sanitation department: NO SWIMMING! \""
-  },
-  {
-    "source": "10",
-    "id": "10:63",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Where do you want to go?"
-  },
-  {
-    "source": "10",
-    "id": "10:64",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Port-Belooga."
-  },
-  {
-    "source": "10",
-    "id": "10:65",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the water tower."
-  },
-  {
-    "source": "10",
-    "id": "10:66",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm paying to see!"
-  },
-  {
-    "source": "10",
-    "id": "10:67",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "No way, this smells like a scam!"
-  },
-  {
-    "source": "10",
-    "id": "10:68",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can guide you through the Censored Publications Department. There is one book that talks about the Legend. I could show it to you, but first, I would like you to change the taste of the tap water, here in the city. It is the only type of water that I am allowed to drink, and it is really disgusting."
-  },
-  {
-    "source": "10",
-    "id": "10:69",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Old Burg\n(Principal island)\""
-  },
-  {
-    "source": "10",
-    "id": "10:70",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Peg Leg Street\n(Principal island)\""
-  },
-  {
-    "source": "10",
-    "id": "10:71",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but you don't have enough Kashes. Come back later."
-  },
-  {
-    "source": "10",
-    "id": "10:72",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Proxima Island."
-  },
-  {
-    "source": "10",
-    "id": "10:73",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I read some of the Captain's log - LeBorgne was ruthless! If you are still interested, the log is on sale at the Old Burg bazaar, on this island."
-  },
-  {
-    "source": "10",
-    "id": "10:74",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?"
-  },
-  {
-    "source": "10",
-    "id": "10:75",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Astronomer sent me."
-  },
-  {
-    "source": "10",
-    "id": "10:76",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Come back when you know where you want to go."
-  },
-  {
-    "source": "10",
-    "id": "10:77",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" Life candy: would you like 10 hearts for 10 Kashes? \""
-  },
-  {
-    "source": "10",
-    "id": "10:78",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ok, I'll buy."
-  },
-  {
-    "source": "10",
-    "id": "10:79",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, thank you."
-  },
-  {
-    "source": "10",
-    "id": "10:80",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not enough Kashes!"
-  },
-  {
-    "source": "10",
-    "id": "10:81",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day. Come this way, I'll open the door for you."
-  },
-  {
-    "source": "10",
-    "id": "10:82",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sound the alarm! A prisoner is escaping!"
-  },
-  {
-    "source": "10",
-    "id": "10:83",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "My poor friend! I really don't know what you are talking about."
-  },
-  {
-    "source": "10",
-    "id": "10:84",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly."
-  },
-  {
-    "source": "10",
-    "id": "10:85",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Very good sir, wait here please."
-  },
-  {
-    "source": "10",
-    "id": "10:86",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "What are you doing there, who are you?"
-  },
-  {
-    "source": "10",
-    "id": "10:87",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm fixing the antennas."
-  },
-  {
-    "source": "10",
-    "id": "10:88",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, I'm escaping."
-  },
-  {
-    "source": "10",
-    "id": "10:89",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Santa Claus."
-  },
-  {
-    "source": "10",
-    "id": "10:90",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Welcome to Port-Belooga\n(Principal Island)\nSea calm to choppy, gusty winds.\""
-  },
-  {
-    "source": "10",
-    "id": "10:91",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm not interested."
-  },
-  {
-    "source": "10",
-    "id": "10:92",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'll buy."
-  },
-  {
-    "source": "10",
-    "id": "10:93",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:94",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"L.B.A.\nOld Burg Sewer service. Emerald Moon Street.\""
-  },
-  {
-    "source": "10",
-    "id": "10:95",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Feel free to look through my stuff, creep!"
-  },
-  {
-    "source": "10",
-    "id": "10:96",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "She's not here. I would have noticed her. We don't have many readers these days."
-  },
-  {
-    "source": "10",
-    "id": "10:97",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've been all over the island today, and I haven't seen those people."
-  },
-  {
-    "source": "10",
-    "id": "10:98",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:99",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:100",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry. I haven't seen your trio."
-  },
-  {
-    "source": "10",
-    "id": "10:101",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her, but ..."
-  },
-  {
-    "source": "10",
-    "id": "10:102",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "The water is drinkable, but it is true that it tastes funny. You'll have to go to the water tower if you want to change something."
-  },
-  {
-    "source": "10",
-    "id": "10:103",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:104",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, mate."
-  },
-  {
-    "source": "10",
-    "id": "10:105",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bye, say hi to my cousin when you see him."
-  },
-  {
-    "source": "10",
-    "id": "10:106",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:107",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but you don't have enough Kashes. Come back later."
-  },
-  {
-    "source": "10",
-    "id": "10:108",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "We don't trust people easily here. Prove that you don't work for FunFrock, clobber a clone!"
-  },
-  {
-    "source": "10",
-    "id": "10:109",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Citadel Island."
-  },
-  {
-    "source": "10",
-    "id": "10:110",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Rebellion Island."
-  },
-  {
-    "source": "10",
-    "id": "10:111",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Here it is: like new, good handling and fast, this catamaran is for you!... for 200 Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:112",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Too expensive for my blood!"
-  },
-  {
-    "source": "10",
-    "id": "10:113",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Great, I'll take it."
-  },
-  {
-    "source": "10",
-    "id": "10:114",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not enough Kashes!"
-  },
-  {
-    "source": "10",
-    "id": "10:115",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've got to tell you something. It's awful! My best friend (Beatrice) is in love with Steven. But Paul, Steven's half brother, left Cindy when Linda got out of the clinic after her bobsleigh accident. But not for Linda, for Tatjana! Only Serge (who secretly admires Steven) has been trying for months to win the love of Tatjana who refuses to talk to Christy since she died. All the while Stephanie - who remarried Serge - discovered the letter from Paulina in which she explained where was the box of clover leaves left behind by Roy. So, evidently, Beatrice wonders if Linda knows about the accident.\nYou get all that?"
-  },
-  {
-    "source": "10",
-    "id": "10:116",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Wake up, I've just found the escapee!"
-  },
-  {
-    "source": "10",
-    "id": "10:117",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thief!\n\nLeave my money box alone!"
-  },
-  {
-    "source": "10",
-    "id": "10:118",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry dear customer, but all that interests me is my modest concern."
-  },
-  {
-    "source": "10",
-    "id": "10:119",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Fool, don't do that! ANYTHING can happen now!"
-  },
-  {
-    "source": "10",
-    "id": "10:120",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ha, ha! You too are looking for his treasure? Well, I sure once had an old dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library."
-  },
-  {
-    "source": "10",
-    "id": "10:121",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I have not seen this young lady. But go over to the Astronomer's house. Even though he is not allowed to leave his own house, he knows everything. He lives in the last house on the hill overlooking the city."
-  },
-  {
-    "source": "10",
-    "id": "10:122",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "It tastes EXACTLY the same as before. I won't guide you through the library."
-  },
-  {
-    "source": "10",
-    "id": "10:123",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?"
-  },
-  {
-    "source": "10",
-    "id": "10:124",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "It was me! Not bad, huh?"
-  },
-  {
-    "source": "10",
-    "id": "10:125",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Probably another FunFrock stunt."
-  },
-  {
-    "source": "10",
-    "id": "10:126",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bravo! This little twinge of cherry is fantastic. Ever since my doctor told me that I could only drink tap water and... well you know all that. In gratitude, I can show you all the ancient works that are here, even the LEGENDARY ones!"
-  },
-  {
-    "source": "10",
-    "id": "10:127",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh, so Dr. FunFrock is taking care of us now. Funny, I find it hard to believe that it was him."
-  },
-  {
-    "source": "10",
-    "id": "10:128",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I have not seen this person."
-  },
-  {
-    "source": "10",
-    "id": "10:129",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "My dear sir, I have been looking for Captain LeBorgne's log for years now. And would you believe that I found it today while shopping in the Old Burg? Naturally, such a piece should be consulted on site. Go look on the table in the back of the room next to the projection room."
-  },
-  {
-    "source": "10",
-    "id": "10:130",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Wait here, I'll go get them for you."
-  },
-  {
-    "source": "10",
-    "id": "10:131",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "We must have something about LeBorgne. Go check with the chief librarian. You know him already, he's a rather large, orange rabbibunny."
-  },
-  {
-    "source": "10",
-    "id": "10:132",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ok, I'll read you an extract from this book if you promise to leave me alone. What do you want me to read about?"
-  },
-  {
-    "source": "10",
-    "id": "10:133",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Pirate recipes."
-  },
-  {
-    "source": "10",
-    "id": "10:134",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Leborgne's treasure."
-  },
-  {
-    "source": "10",
-    "id": "10:135",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Why LeBorgne?"
-  },
-  {
-    "source": "10",
-    "id": "10:136",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "As you know, this is a French game, and our respect for the culinary arts prevents us from revealing the ingredients used in pirate recipes."
-  },
-  {
-    "source": "10",
-    "id": "10:137",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode:\n6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.\""
-  },
-  {
-    "source": "10",
-    "id": "10:138",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"That was his nickname because he was always chewing an old toothpick. One day, during a typhoon, he sneezed: he found his toothpick, but lost an eye!\""
-  },
-  {
-    "source": "10",
-    "id": "10:139",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "There's no need to be aggressive, I was here before you!"
-  },
-  {
-    "source": "10",
-    "id": "10:140",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day!"
-  },
-  {
-    "source": "10",
-    "id": "10:141",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they could be."
-  },
-  {
-    "source": "10",
-    "id": "10:142",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "This is rebellion, it is forbidden to speak of that Legend!"
-  },
-  {
-    "source": "10",
-    "id": "10:143",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her, but the Astronomer will certainly be able to help you."
-  },
-  {
-    "source": "10",
-    "id": "10:144",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You should talk to the sailors about that kind of story."
-  },
-  {
-    "source": "10",
-    "id": "10:145",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'd like to help you, but I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:146",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere a few hundred years ago. My fisherman friend told me that the Bazaar is selling an object that belonged to LeBorgne."
-  },
-  {
-    "source": "10",
-    "id": "10:147",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:148",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hiiii hi ! Bbbrrfff !"
-  },
-  {
-    "source": "10",
-    "id": "10:149",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "One of my colleagues was galloping at full speed across the White Leaf Desert and he said that he saw someone locked up in a grotto, behind a giant symbol of some kind."
-  },
-  {
-    "source": "10",
-    "id": "10:150",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never heard anything about it!"
-  },
-  {
-    "source": "10",
-    "id": "10:151",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "What's a Teleportation Center?"
-  },
-  {
-    "source": "10",
-    "id": "10:152",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi!"
-  },
-  {
-    "source": "10",
-    "id": "10:153",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah! That LeBorgne was quite a man!"
-  },
-  {
-    "source": "10",
-    "id": "10:154",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ha ha, that's a good one! Sorry I don't have any with me."
-  },
-  {
-    "source": "10",
-    "id": "10:155",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island."
-  },
-  {
-    "source": "10",
-    "id": "10:156",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:157",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I cannot help you, my friend. Don't know what you are talking about."
-  },
-  {
-    "source": "10",
-    "id": "10:158",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Take that, rebel!"
-  },
-  {
-    "source": "10",
-    "id": "10:159",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Move along!"
-  },
-  {
-    "source": "10",
-    "id": "10:160",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:161",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go to the tavern, they love pirate stories there!"
-  },
-  {
-    "source": "10",
-    "id": "10:162",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Leave me alone, I have nothing to say."
-  },
-  {
-    "source": "10",
-    "id": "10:163",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:164",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "It is strictly forbidden to talk about that!"
-  },
-  {
-    "source": "10",
-    "id": "10:165",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never heard anything about it."
-  },
-  {
-    "source": "10",
-    "id": "10:166",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:167",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I don't know what you're talking about."
-  },
-  {
-    "source": "10",
-    "id": "10:168",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi!"
-  },
-  {
-    "source": "10",
-    "id": "10:169",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Calm down!"
-  },
-  {
-    "source": "10",
-    "id": "10:170",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:171",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Look, you seem like a nice guy, but you're a big boy now. Figure it out for yourself, I'm not a library!"
-  },
-  {
-    "source": "10",
-    "id": "10:172",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about all that."
-  },
-  {
-    "source": "10",
-    "id": "10:173",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:174",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they could be."
-  },
-  {
-    "source": "10",
-    "id": "10:175",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Pirates, phooey! Those sailors will say anything to get someone to buy them a drink!"
-  },
-  {
-    "source": "10",
-    "id": "10:176",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:177",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough."
-  },
-  {
-    "source": "10",
-    "id": "10:178",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Come in!"
-  },
-  {
-    "source": "10",
-    "id": "10:179",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, my good sir."
-  },
-  {
-    "source": "10",
-    "id": "10:180",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "No. Not at all."
-  },
-  {
-    "source": "10",
-    "id": "10:181",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street."
-  },
-  {
-    "source": "10",
-    "id": "10:182",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Julia spoke a lot about you."
-  },
-  {
-    "source": "10",
-    "id": "10:183",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about pirating, try talking to the sailors instead."
-  },
-  {
-    "source": "10",
-    "id": "10:184",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are, kind sir."
-  },
-  {
-    "source": "10",
-    "id": "10:185",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, young quetch."
-  },
-  {
-    "source": "10",
-    "id": "10:186",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:187",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know what you're talking about!"
-  },
-  {
-    "source": "10",
-    "id": "10:188",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "They say that the tap water tastes better now. Great! Another publicity stunt from the anti-alcohol foundation."
-  },
-  {
-    "source": "10",
-    "id": "10:189",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I never saw 'em"
-  },
-  {
-    "source": "10",
-    "id": "10:190",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know her, but go see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that!"
-  },
-  {
-    "source": "10",
-    "id": "10:191",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, I never heard that one. But the one about the pirate that had rheumatisms in one leg and termites in the other cracks me up every time!"
-  },
-  {
-    "source": "10",
-    "id": "10:192",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi mate!"
-  },
-  {
-    "source": "10",
-    "id": "10:193",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:194",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "LeBorgne! Since he didn't know how to read, he had his cook write the Captain's log. I know that it is for sale at the bazaar next door."
-  },
-  {
-    "source": "10",
-    "id": "10:195",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I don't know anything about that."
-  },
-  {
-    "source": "10",
-    "id": "10:196",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "This super Holomap costs only 20 Kashes (you will find that it is very useful!)."
-  },
-  {
-    "source": "10",
-    "id": "10:197",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Gas for 10 voyages costs 30 Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:198",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "15 hearts of life powder will cost you 30 Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:199",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "10 flasks of magic powder will cost you 30 Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:200",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "A meca-penguin will cost you 3 Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:201",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I didn't see her."
-  },
-  {
-    "source": "10",
-    "id": "10:202",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I never heard anything about that."
-  },
-  {
-    "source": "10",
-    "id": "10:203",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi friend."
-  },
-  {
-    "source": "10",
-    "id": "10:204",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:205",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:206",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask the boss or the sailor at the table."
-  },
-  {
-    "source": "10",
-    "id": "10:207",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know that it is forbidden to talk about that! But this is your lucky day: I'd most happily turn you in, but that would deprive me of a chance to line my pockets with your Kashes."
-  },
-  {
-    "source": "10",
-    "id": "10:208",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:209",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm a huge STAR WARS™ fan. The saga's sequel should be released soon, so I already reserved my seat in the movie theater!"
-  },
-  {
-    "source": "10",
-    "id": "10:210",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'd like to help you, but I really don't know much, except about movies. Good luck!"
-  },
-  {
-    "source": "10",
-    "id": "10:211",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I found this page ripped out of a book. It says \"... pull the middle lever ONCE, then pull the right lever ONCE.\" This must be the answer to some kind of puzzle!"
-  },
-  {
-    "source": "10",
-    "id": "10:212",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are. Sorry."
-  },
-  {
-    "source": "10",
-    "id": "10:213",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:214",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask the rabbibunny with the yellow T-shirt, he's the librarian."
-  },
-  {
-    "source": "10",
-    "id": "10:215",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ow! But I found this page on the ground, I didn't rip it out. I promise!"
-  },
-  {
-    "source": "10",
-    "id": "10:216",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "According to the book I have, there is a \"Clear water\" lake in the Hamalayi mountains, somewhere to the North West of Principal Island. Did you know that the Hamalayi range is impossible to cross? It marks the border with the Northern hemisphere, the one that Dr. FunFrock cleared out. The sun is too hot for us over there: the temperature is unbearable, and the changes in climate caused the development of mutant monsters. And despite the fact that the good doctor spared us from all that, there are still rebels out there who want to overthrow him - it's shameful!"
-  },
-  {
-    "source": "10",
-    "id": "10:217",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I don't know what you're talking about."
-  },
-  {
-    "source": "10",
-    "id": "10:218",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ask the librarian, he knows a lot about the history of LeBorgne."
-  },
-  {
-    "source": "10",
-    "id": "10:219",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Did you know that Dr. FunFrock installed busts of his effigy to protect us? The ones that don't have a pedestal are placed on ancient seals. Since these symbols were indestructible, at least the busts hide them now!"
-  },
-  {
-    "source": "10",
-    "id": "10:220",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where they are."
-  },
-  {
-    "source": "10",
-    "id": "10:221",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go see the librarian."
-  },
-  {
-    "source": "10",
-    "id": "10:222",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I never saw him, but try a little further up at the Bazaar. Wadbull knows a lot and he SELLS A BIT OF EVERYTHING!"
-  },
-  {
-    "source": "10",
-    "id": "10:223",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Nobody remembers that nowadays. I even wonder if the library still has books about the Legend."
-  },
-  {
-    "source": "10",
-    "id": "10:224",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know her. Sorry."
-  },
-  {
-    "source": "10",
-    "id": "10:225",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know anything about it, but some people say that there used to be some books over at the library that spoke of it."
-  },
-  {
-    "source": "10",
-    "id": "10:226",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Stop doing that, you're going to put ashes everywhere!"
-  },
-  {
-    "source": "10",
-    "id": "10:227",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't know where they are, but forget about it! Teleportation makes me sick."
-  },
-  {
-    "source": "10",
-    "id": "10:228",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ewwwww! Teleportation makes me nauseous."
-  },
-  {
-    "source": "10",
-    "id": "10:229",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "No more gas."
-  },
-  {
-    "source": "10",
-    "id": "10:230",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "By the way - thanks, I have the red card!"
-  },
-  {
-    "source": "10",
-    "id": "10:231",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You can't imagine what it's like to be locked up!\nIt's awful... just awful!"
-  },
-  {
-    "source": "10",
-    "id": "10:232",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I doubt that she is being held here."
-  },
-  {
-    "source": "10",
-    "id": "10:233",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never heard anything about it."
-  },
-  {
-    "source": "10",
-    "id": "10:234",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "They say that he was never captured!"
-  },
-  {
-    "source": "10",
-    "id": "10:235",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but I really don't know anything about it."
-  },
-  {
-    "source": "10",
-    "id": "10:236",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Drinking water for Principal Island: DO NOT THROW ANYTHING IN THE TANK!\""
-  },
-  {
-    "source": "10",
-    "id": "10:237",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry dear customer, but this is a bazaar here, not a library!"
-  },
-  {
-    "source": "10",
-    "id": "10:238",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "No one remembers that stuff today, that's just a lot of bunk."
-  },
-  {
-    "source": "10",
-    "id": "10:239",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Well ... I don't know, but someone in the Old Burg must know something about this stupid Legend."
-  },
-  {
-    "source": "10",
-    "id": "10:240",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "She's not being held here. But if you want my red card, go and see my brother. Our house's location is marked on your holomap."
-  },
-  {
-    "source": "10",
-    "id": "10:241",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was just thinking as well, that I've seen this quetch somewhere before!"
-  },
-  {
-    "source": "10",
-    "id": "10:242",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go try at the Old Burg tavern, and talk to the bar tender."
-  },
-  {
-    "source": "10",
-    "id": "10:243",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi, I've just returned from a trip around this hemisphere and I'm selling my boat. Follow me if you're interested."
-  },
-  {
-    "source": "10",
-    "id": "10:244",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, so you've been around the hemisphere? Watch out for the icebergs near the Hamalayi mountains!"
-  },
-  {
-    "source": "10",
-    "id": "10:245",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "You might get into trouble with the authorities if you carry this flag. It's a rebel's emblem."
-  },
-  {
-    "source": "10",
-    "id": "10:246",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Come here! Now that's a real sailor! LeBorgne had a log that must have contained the location of his treasure somewhere."
-  },
-  {
-    "source": "10",
-    "id": "10:247",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never seen 'em, don't even know what you're talking about."
-  },
-  {
-    "source": "10",
-    "id": "10:248",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Well, well, what do we have here? A snooper? Twinsen I presume. I would like to know what you're doing here."
-  },
-  {
-    "source": "10",
-    "id": "10:249",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "There's a treasure on this island: you must blow into a magic horn in front of FunFrock's bust to gain access to it."
-  },
-  {
-    "source": "10",
-    "id": "10:250",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am not familiar with that story."
-  },
-  {
-    "source": "10",
-    "id": "10:251",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know what that could be all about."
-  },
-  {
-    "source": "10",
-    "id": "10:252",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:253",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day"
-  },
-  {
-    "source": "10",
-    "id": "10:254",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello"
-  },
-  {
-    "source": "10",
-    "id": "10:255",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day dear friend."
-  },
-  {
-    "source": "10",
-    "id": "10:256",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, those plans are not present in our books."
-  },
-  {
-    "source": "10",
-    "id": "10:257",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the Hamalayi mountains."
-  },
-  {
-    "source": "10",
-    "id": "10:258",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Wherever you go, come back soon. We are waiting for the imminent return of a solitary navigator, and he will sell his boat."
-  },
-  {
-    "source": "10",
-    "id": "10:259",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't know anything about it!"
-  },
-  {
-    "source": "10",
-    "id": "10:260",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "It's kind of you to help me, but I managed to steal the guard's key. Take it, I don't need it any more."
-  },
-  {
-    "source": "10",
-    "id": "10:261",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I just discovered a secret passage by using the ACTION command, incredible! Do you like my red card otherwise?"
-  },
-  {
-    "source": "10",
-    "id": "10:262",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, it's impossible to open it without a red card."
-  },
-  {
-    "source": "10",
-    "id": "10:263",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, it's impossible to open it without a blue card."
-  },
-  {
-    "source": "10",
-    "id": "10:264",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the military camp."
-  },
-  {
-    "source": "10",
-    "id": "10:265",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Peg Leg Street."
-  },
-  {
-    "source": "10",
-    "id": "10:266",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am cured. I don't kown what you poured in the water this time but my kidney stone vanished. Thank you!"
-  },
-  {
-    "source": "10",
-    "id": "10:267",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello"
-  },
-  {
-    "source": "10",
-    "id": "10:268",
-    "area": "Principal Island",
-    "location": null,
-    "speaker": null,
-    "message": "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
-  }
+	{
+		"source": "10",
+		"id": "10:1",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Halt!"
+	},
+	{
+		"source": "10",
+		"id": "10:2",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, I'm looking for a friend. She is escorted by two groboclones."
+	},
+	{
+		"source": "10",
+		"id": "10:3",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I didn't see them but try going to the astronomer's house in the Old Burg; he knows a lot about what is going on."
+	},
+	{
+		"source": "10",
+		"id": "10:4",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is forbidden to talk about that!"
+	},
+	{
+		"source": "10",
+		"id": "10:5",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you want to see my cousin, go in front of the sink and wash your hands! Ha ha!"
+	},
+	{
+		"source": "10",
+		"id": "10:6",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was arrested for sneezing in public, it's ridiculous! There's also, however, a forger in the cell to the right of general headquarters."
+	},
+	{
+		"source": "10",
+		"id": "10:7",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can't help you. Except perhaps... considering the risks you've taken, I guess I can trust you. I was arrested on this island, but earlier on I gave a fake red card to my brother who was living on Proxima island. He will give it to you if you say \"Amos\" to him (the location of the house is now indicated on your Holomap)."
+	},
+	{
+		"source": "10",
+		"id": "10:8",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Dr. FUNFROCK's headquarters. Access IS FORBIDDEN!\""
+	},
+	{
+		"source": "10",
+		"id": "10:9",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Young male quetch seeks young female rabbibunny for friendship (and maybe more...)\""
+	},
+	{
+		"source": "10",
+		"id": "10:10",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bah! Not interested."
+	},
+	{
+		"source": "10",
+		"id": "10:11",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "As I live and breathe, you will never see me drink any tap water in this city, mate. And all you have to do is drink some of it to understand why!"
+	},
+	{
+		"source": "10",
+		"id": "10:12",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "That old pirate is right, the tap water tastes funny. They should be able to improve its quality, and by the way the water tower is located in the North mountains (check your holomap)."
+	},
+	{
+		"source": "10",
+		"id": "10:13",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Legend is a weak spot in FunFrock's power. You must discover why; it's the only way of seeing your friend again."
+	},
+	{
+		"source": "10",
+		"id": "10:14",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, this talk about the Legend is strange, don't you think?"
+	},
+	{
+		"source": "10",
+		"id": "10:15",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"ANNOUNCEMENT #358-G : A prisoner named Twinsen has escaped from the Citadel. Anyone seeing the escapee must notify the nearest clone.\""
+	},
+	{
+		"source": "10",
+		"id": "10:16",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Opening hours for the Principal Island library:\nMore or less, all the time.\""
+	},
+	{
+		"source": "10",
+		"id": "10:17",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "We have some documents on the \"Legend\" somewhere in the Censored Publications Department, but you need special authorization to look at them. Let me see your ID card."
+	},
+	{
+		"source": "10",
+		"id": "10:18",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day. You need a boarding ticket to go to Citadel Island."
+	},
+	{
+		"source": "10",
+		"id": "10:19",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" My dear and respected Dr. FunFrock, I took the plans of the Teleportation Center home with me, to work on them over the week-end. I will bring them back on Monday. Signed: Mies Van der Rooh, Architect, Bug Street, Citadel Island. \""
+	},
+	{
+		"source": "10",
+		"id": "10:20",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm interested in the story of LeBorgne the pirate."
+	},
+	{
+		"source": "10",
+		"id": "10:21",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm looking for the plans of the Teleportation Center. I'm on a special assignment!"
+	},
+	{
+		"source": "10",
+		"id": "10:22",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sound the alarm! It's the escapee!"
+	},
+	{
+		"source": "10",
+		"id": "10:23",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:24",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "A ferry ticket costs 10 kashes. However as I have a WANTED poster in my office, you will have to pay 30 Kashes to make me overlook the fact that you look a lot like the guy on it."
+	},
+	{
+		"source": "10",
+		"id": "10:25",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Halt! You are a wanted escapee!"
+	},
+	{
+		"source": "10",
+		"id": "10:26",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you give me 10 Kashes I'll let you read the poster behind me."
+	},
+	{
+		"source": "10",
+		"id": "10:27",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I saw them a little while ago on Citadel Island. But they left on a fast boat. Destination unknown!"
+	},
+	{
+		"source": "10",
+		"id": "10:28",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Welcome, dear customer! I don't have any more cherry flavored syrup, but there is a pharmacy open on Citadel Island.\nP Move in front of the item that interests you and use the ACTION command."
+	},
+	{
+		"source": "10",
+		"id": "10:29",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Mister, Mister! There's a loose stone in the back wall. I might be able to escape!"
+	},
+	{
+		"source": "10",
+		"id": "10:30",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "A loose stone? Let me see that."
+	},
+	{
+		"source": "10",
+		"id": "10:31",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "The passage will only open when you come from my cousin's house. Now stop rummaging everywhere!"
+	},
+	{
+		"source": "10",
+		"id": "10:32",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but you don't have enough Kashes. Come back later."
+	},
+	{
+		"source": "10",
+		"id": "10:33",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Here you can't just talk to just anybody. Prove that you are not working for FunFrock. Go clobber a clone for starters!"
+	},
+	{
+		"source": "10",
+		"id": "10:34",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Didn't see anything, but if you have any problems, you should talk to the Astronomer who is under house arrest, up above the Old Burg."
+	},
+	{
+		"source": "10",
+		"id": "10:35",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "So you're the one that beats up on clones? Good job! I haven't seen your friend but you should go see the Astronomer. He will certainly be able to help you."
+	},
+	{
+		"source": "10",
+		"id": "10:36",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Leave me alone, this job is already hard enough."
+	},
+	{
+		"source": "10",
+		"id": "10:37",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "This young girl must be someone important if that tyrant FunFrock is holding her outside of Citadel Island. Something funny is going on with this forbidding of any talk about the Legend: this must be some kind of weakness in his power! Find out what is behind this Legend, it's your only hope of seeing your friend again. If you need to leave the island, I know a friend who can help you at Port-Belooga (check your holomap). Tell him that I sent you. And be discreet in your quest."
+	},
+	{
+		"source": "10",
+		"id": "10:38",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Unfortunately, I don't know anything about the Legend, but I have a fisherman friend who could help you in your travels if you tell him that I sent you. He lives at Port-Belooga (check your holomap)."
+	},
+	{
+		"source": "10",
+		"id": "10:39",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ha ha! It's a colleague, he's looking for a wife."
+	},
+	{
+		"source": "10",
+		"id": "10:40",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about it, and anyway, it's a forbidden subject."
+	},
+	{
+		"source": "10",
+		"id": "10:41",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "According to my doctor, I can drink only the city's tap water. But it tastes too bad. If someone could improve its taste, I would be willing to show him the Censored Publication Department, and that would be quite a privilege."
+	},
+	{
+		"source": "10",
+		"id": "10:42",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hold on a minute, I'm going to taste the water."
+	},
+	{
+		"source": "10",
+		"id": "10:43",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hmmmmm, cherry flavor, not bad... but I would have preferred carrot. But anyway, as promised, I will show you where the documents about the \"Legend\" are."
+	},
+	{
+		"source": "10",
+		"id": "10:44",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never saw 'em! The sea is my only concern.\nSometimes I even take voyagers on my boat, but only people that I can trust."
+	},
+	{
+		"source": "10",
+		"id": "10:45",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "If the Astronomer sent you, I guess I can trust you. Despite the solidarity in the resistance against FunFrock, you know, times are hard. For 10 Kashes I'll take you where you want to go."
+	},
+	{
+		"source": "10",
+		"id": "10:46",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know yet."
+	},
+	{
+		"source": "10",
+		"id": "10:47",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the White Leaf Desert."
+	},
+	{
+		"source": "10",
+		"id": "10:48",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm not going to leave just yet."
+	},
+	{
+		"source": "10",
+		"id": "10:49",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You don't have enough Kashes to make the trip Twinsen. See you later!"
+	},
+	{
+		"source": "10",
+		"id": "10:50",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"In the distant past, when the spheros, rabbibunnies, Quetches and grobos emerged from the original primordial soup, centuries before Dr. FunFrock's coup, a prophecy was pronounced. Its text is hardly remembered today and that is why people now refer to it as the \"Legend\". It explained how \"the Heir,\" when his time had come, would be called to overthrow a tyrant! The secret of the Legend can still be learned somewhere in the White Leaf Desert.\""
+	},
+	{
+		"source": "10",
+		"id": "10:51",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You've just got back all the objects that were in your inventory!"
+	},
+	{
+		"source": "10",
+		"id": "10:52",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You can come aboard sir, we were just getting underway."
+	},
+	{
+		"source": "10",
+		"id": "10:53",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Welcome to Principal Island.\""
+	},
+	{
+		"source": "10",
+		"id": "10:54",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her, but I think that I can trust you now. Follow me, I know how to get to the Astronomer's home."
+	},
+	{
+		"source": "10",
+		"id": "10:55",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "My cousin is a locksmith. He will open the unguarded door for you. Follow me!"
+	},
+	{
+		"source": "10",
+		"id": "10:56",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know if I can help you. I am a locksmith and I can open doors... but only for people that I can trust!"
+	},
+	{
+		"source": "10",
+		"id": "10:57",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you already know about that passage, I can open the unguarded door for you. After you!"
+	},
+	{
+		"source": "10",
+		"id": "10:58",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can help you get rid of the Supergro. Follow me, but wait until he moves away from the steps before going by!"
+	},
+	{
+		"source": "10",
+		"id": "10:59",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thief!\nLeave my money box alone!"
+	},
+	{
+		"source": "10",
+		"id": "10:60",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You are too aggressive! Get out of here, and don't come back until you have calmed down!"
+	},
+	{
+		"source": "10",
+		"id": "10:61",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Shut up stupid, it is forbidden to talk about it!"
+	},
+	{
+		"source": "10",
+		"id": "10:62",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" Principal island sanitation department: NO SWIMMING! \""
+	},
+	{
+		"source": "10",
+		"id": "10:63",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Where do you want to go?"
+	},
+	{
+		"source": "10",
+		"id": "10:64",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Port-Belooga."
+	},
+	{
+		"source": "10",
+		"id": "10:65",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the water tower."
+	},
+	{
+		"source": "10",
+		"id": "10:66",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm paying to see!"
+	},
+	{
+		"source": "10",
+		"id": "10:67",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "No way, this smells like a scam!"
+	},
+	{
+		"source": "10",
+		"id": "10:68",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can guide you through the Censored Publications Department. There is one book that talks about the Legend. I could show it to you, but first, I would like you to change the taste of the tap water, here in the city. It is the only type of water that I am allowed to drink, and it is really disgusting."
+	},
+	{
+		"source": "10",
+		"id": "10:69",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Old Burg\n(Principal island)\""
+	},
+	{
+		"source": "10",
+		"id": "10:70",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Peg Leg Street\n(Principal island)\""
+	},
+	{
+		"source": "10",
+		"id": "10:71",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but you don't have enough Kashes. Come back later."
+	},
+	{
+		"source": "10",
+		"id": "10:72",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Proxima Island."
+	},
+	{
+		"source": "10",
+		"id": "10:73",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I read some of the Captain's log - LeBorgne was ruthless! If you are still interested, the log is on sale at the Old Burg bazaar, on this island."
+	},
+	{
+		"source": "10",
+		"id": "10:74",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?"
+	},
+	{
+		"source": "10",
+		"id": "10:75",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Astronomer sent me."
+	},
+	{
+		"source": "10",
+		"id": "10:76",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Come back when you know where you want to go."
+	},
+	{
+		"source": "10",
+		"id": "10:77",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" Life candy: would you like 10 hearts for 10 Kashes? \""
+	},
+	{
+		"source": "10",
+		"id": "10:78",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ok, I'll buy."
+	},
+	{
+		"source": "10",
+		"id": "10:79",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, thank you."
+	},
+	{
+		"source": "10",
+		"id": "10:80",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not enough Kashes!"
+	},
+	{
+		"source": "10",
+		"id": "10:81",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day. Come this way, I'll open the door for you."
+	},
+	{
+		"source": "10",
+		"id": "10:82",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sound the alarm! A prisoner is escaping!"
+	},
+	{
+		"source": "10",
+		"id": "10:83",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "My poor friend! I really don't know what you are talking about."
+	},
+	{
+		"source": "10",
+		"id": "10:84",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly."
+	},
+	{
+		"source": "10",
+		"id": "10:85",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Very good sir, wait here please."
+	},
+	{
+		"source": "10",
+		"id": "10:86",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "What are you doing there, who are you?"
+	},
+	{
+		"source": "10",
+		"id": "10:87",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm fixing the antennas."
+	},
+	{
+		"source": "10",
+		"id": "10:88",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, I'm escaping."
+	},
+	{
+		"source": "10",
+		"id": "10:89",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Santa Claus."
+	},
+	{
+		"source": "10",
+		"id": "10:90",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Welcome to Port-Belooga\n(Principal Island)\nSea calm to choppy, gusty winds.\""
+	},
+	{
+		"source": "10",
+		"id": "10:91",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm not interested."
+	},
+	{
+		"source": "10",
+		"id": "10:92",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'll buy."
+	},
+	{
+		"source": "10",
+		"id": "10:93",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:94",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"L.B.A.\nOld Burg Sewer service. Emerald Moon Street.\""
+	},
+	{
+		"source": "10",
+		"id": "10:95",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Feel free to look through my stuff, creep!"
+	},
+	{
+		"source": "10",
+		"id": "10:96",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "She's not here. I would have noticed her. We don't have many readers these days."
+	},
+	{
+		"source": "10",
+		"id": "10:97",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've been all over the island today, and I haven't seen those people."
+	},
+	{
+		"source": "10",
+		"id": "10:98",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:99",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:100",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry. I haven't seen your trio."
+	},
+	{
+		"source": "10",
+		"id": "10:101",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her, but ..."
+	},
+	{
+		"source": "10",
+		"id": "10:102",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "The water is drinkable, but it is true that it tastes funny. You'll have to go to the water tower if you want to change something."
+	},
+	{
+		"source": "10",
+		"id": "10:103",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:104",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, mate."
+	},
+	{
+		"source": "10",
+		"id": "10:105",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bye, say hi to my cousin when you see him."
+	},
+	{
+		"source": "10",
+		"id": "10:106",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:107",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but you don't have enough Kashes. Come back later."
+	},
+	{
+		"source": "10",
+		"id": "10:108",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "We don't trust people easily here. Prove that you don't work for FunFrock, clobber a clone!"
+	},
+	{
+		"source": "10",
+		"id": "10:109",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Citadel Island."
+	},
+	{
+		"source": "10",
+		"id": "10:110",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Rebellion Island."
+	},
+	{
+		"source": "10",
+		"id": "10:111",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Here it is: like new, good handling and fast, this catamaran is for you!... for 200 Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:112",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Too expensive for my blood!"
+	},
+	{
+		"source": "10",
+		"id": "10:113",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Great, I'll take it."
+	},
+	{
+		"source": "10",
+		"id": "10:114",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not enough Kashes!"
+	},
+	{
+		"source": "10",
+		"id": "10:115",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've got to tell you something. It's awful! My best friend (Beatrice) is in love with Steven. But Paul, Steven's half brother, left Cindy when Linda got out of the clinic after her bobsleigh accident. But not for Linda, for Tatjana! Only Serge (who secretly admires Steven) has been trying for months to win the love of Tatjana who refuses to talk to Christy since she died. All the while Stephanie - who remarried Serge - discovered the letter from Paulina in which she explained where was the box of clover leaves left behind by Roy. So, evidently, Beatrice wonders if Linda knows about the accident.\nYou get all that?"
+	},
+	{
+		"source": "10",
+		"id": "10:116",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Wake up, I've just found the escapee!"
+	},
+	{
+		"source": "10",
+		"id": "10:117",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thief!\n\nLeave my money box alone!"
+	},
+	{
+		"source": "10",
+		"id": "10:118",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry dear customer, but all that interests me is my modest concern."
+	},
+	{
+		"source": "10",
+		"id": "10:119",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Fool, don't do that! ANYTHING can happen now!"
+	},
+	{
+		"source": "10",
+		"id": "10:120",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ha, ha! You too are looking for his treasure? Well, I sure once had an old dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library."
+	},
+	{
+		"source": "10",
+		"id": "10:121",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I have not seen this young lady. But go over to the Astronomer's house. Even though he is not allowed to leave his own house, he knows everything. He lives in the last house on the hill overlooking the city."
+	},
+	{
+		"source": "10",
+		"id": "10:122",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "It tastes EXACTLY the same as before. I won't guide you through the library."
+	},
+	{
+		"source": "10",
+		"id": "10:123",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?"
+	},
+	{
+		"source": "10",
+		"id": "10:124",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "It was me! Not bad, huh?"
+	},
+	{
+		"source": "10",
+		"id": "10:125",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Probably another FunFrock stunt."
+	},
+	{
+		"source": "10",
+		"id": "10:126",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bravo! This little twinge of cherry is fantastic. Ever since my doctor told me that I could only drink tap water and... well you know all that. In gratitude, I can show you all the ancient works that are here, even the LEGENDARY ones!"
+	},
+	{
+		"source": "10",
+		"id": "10:127",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh, so Dr. FunFrock is taking care of us now. Funny, I find it hard to believe that it was him."
+	},
+	{
+		"source": "10",
+		"id": "10:128",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I have not seen this person."
+	},
+	{
+		"source": "10",
+		"id": "10:129",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "My dear sir, I have been looking for Captain LeBorgne's log for years now. And would you believe that I found it today while shopping in the Old Burg? Naturally, such a piece should be consulted on site. Go look on the table in the back of the room next to the projection room."
+	},
+	{
+		"source": "10",
+		"id": "10:130",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Wait here, I'll go get them for you."
+	},
+	{
+		"source": "10",
+		"id": "10:131",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "We must have something about LeBorgne. Go check with the chief librarian. You know him already, he's a rather large, orange rabbibunny."
+	},
+	{
+		"source": "10",
+		"id": "10:132",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ok, I'll read you an extract from this book if you promise to leave me alone. What do you want me to read about?"
+	},
+	{
+		"source": "10",
+		"id": "10:133",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Pirate recipes."
+	},
+	{
+		"source": "10",
+		"id": "10:134",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Leborgne's treasure."
+	},
+	{
+		"source": "10",
+		"id": "10:135",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Why LeBorgne?"
+	},
+	{
+		"source": "10",
+		"id": "10:136",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "As you know, this is a French game, and our respect for the culinary arts prevents us from revealing the ingredients used in pirate recipes."
+	},
+	{
+		"source": "10",
+		"id": "10:137",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode:\n6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.\""
+	},
+	{
+		"source": "10",
+		"id": "10:138",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"That was his nickname because he was always chewing an old toothpick. One day, during a typhoon, he sneezed: he found his toothpick, but lost an eye!\""
+	},
+	{
+		"source": "10",
+		"id": "10:139",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "There's no need to be aggressive, I was here before you!"
+	},
+	{
+		"source": "10",
+		"id": "10:140",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day!"
+	},
+	{
+		"source": "10",
+		"id": "10:141",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they could be."
+	},
+	{
+		"source": "10",
+		"id": "10:142",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "This is rebellion, it is forbidden to speak of that Legend!"
+	},
+	{
+		"source": "10",
+		"id": "10:143",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her, but the Astronomer will certainly be able to help you."
+	},
+	{
+		"source": "10",
+		"id": "10:144",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You should talk to the sailors about that kind of story."
+	},
+	{
+		"source": "10",
+		"id": "10:145",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'd like to help you, but I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:146",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere a few hundred years ago. My fisherman friend told me that the Bazaar is selling an object that belonged to LeBorgne."
+	},
+	{
+		"source": "10",
+		"id": "10:147",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:148",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hiiii hi ! Bbbrrfff !"
+	},
+	{
+		"source": "10",
+		"id": "10:149",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "One of my colleagues was galloping at full speed across the White Leaf Desert and he said that he saw someone locked up in a grotto, behind a giant symbol of some kind."
+	},
+	{
+		"source": "10",
+		"id": "10:150",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never heard anything about it!"
+	},
+	{
+		"source": "10",
+		"id": "10:151",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "What's a Teleportation Center?"
+	},
+	{
+		"source": "10",
+		"id": "10:152",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi!"
+	},
+	{
+		"source": "10",
+		"id": "10:153",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah! That LeBorgne was quite a man!"
+	},
+	{
+		"source": "10",
+		"id": "10:154",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ha ha, that's a good one! Sorry I don't have any with me."
+	},
+	{
+		"source": "10",
+		"id": "10:155",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island."
+	},
+	{
+		"source": "10",
+		"id": "10:156",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:157",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I cannot help you, my friend. Don't know what you are talking about."
+	},
+	{
+		"source": "10",
+		"id": "10:158",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Take that, rebel!"
+	},
+	{
+		"source": "10",
+		"id": "10:159",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Move along!"
+	},
+	{
+		"source": "10",
+		"id": "10:160",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:161",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go to the tavern, they love pirate stories there!"
+	},
+	{
+		"source": "10",
+		"id": "10:162",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Leave me alone, I have nothing to say."
+	},
+	{
+		"source": "10",
+		"id": "10:163",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:164",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "It is strictly forbidden to talk about that!"
+	},
+	{
+		"source": "10",
+		"id": "10:165",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never heard anything about it."
+	},
+	{
+		"source": "10",
+		"id": "10:166",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:167",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I don't know what you're talking about."
+	},
+	{
+		"source": "10",
+		"id": "10:168",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi!"
+	},
+	{
+		"source": "10",
+		"id": "10:169",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Calm down!"
+	},
+	{
+		"source": "10",
+		"id": "10:170",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:171",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Look, you seem like a nice guy, but you're a big boy now. Figure it out for yourself, I'm not a library!"
+	},
+	{
+		"source": "10",
+		"id": "10:172",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about all that."
+	},
+	{
+		"source": "10",
+		"id": "10:173",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:174",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they could be."
+	},
+	{
+		"source": "10",
+		"id": "10:175",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Pirates, phooey! Those sailors will say anything to get someone to buy them a drink!"
+	},
+	{
+		"source": "10",
+		"id": "10:176",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:177",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough."
+	},
+	{
+		"source": "10",
+		"id": "10:178",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Come in!"
+	},
+	{
+		"source": "10",
+		"id": "10:179",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, my good sir."
+	},
+	{
+		"source": "10",
+		"id": "10:180",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "No. Not at all."
+	},
+	{
+		"source": "10",
+		"id": "10:181",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street."
+	},
+	{
+		"source": "10",
+		"id": "10:182",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Julia spoke a lot about you."
+	},
+	{
+		"source": "10",
+		"id": "10:183",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about pirating, try talking to the sailors instead."
+	},
+	{
+		"source": "10",
+		"id": "10:184",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are, kind sir."
+	},
+	{
+		"source": "10",
+		"id": "10:185",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, young quetch."
+	},
+	{
+		"source": "10",
+		"id": "10:186",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:187",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know what you're talking about!"
+	},
+	{
+		"source": "10",
+		"id": "10:188",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "They say that the tap water tastes better now. Great! Another publicity stunt from the anti-alcohol foundation."
+	},
+	{
+		"source": "10",
+		"id": "10:189",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I never saw 'em"
+	},
+	{
+		"source": "10",
+		"id": "10:190",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know her, but go see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that!"
+	},
+	{
+		"source": "10",
+		"id": "10:191",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, I never heard that one. But the one about the pirate that had rheumatisms in one leg and termites in the other cracks me up every time!"
+	},
+	{
+		"source": "10",
+		"id": "10:192",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi mate!"
+	},
+	{
+		"source": "10",
+		"id": "10:193",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:194",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "LeBorgne! Since he didn't know how to read, he had his cook write the Captain's log. I know that it is for sale at the bazaar next door."
+	},
+	{
+		"source": "10",
+		"id": "10:195",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I don't know anything about that."
+	},
+	{
+		"source": "10",
+		"id": "10:196",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "This super Holomap costs only 20 Kashes (you will find that it is very useful!)."
+	},
+	{
+		"source": "10",
+		"id": "10:197",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Gas for 10 voyages costs 30 Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:198",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "15 hearts of life powder will cost you 30 Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:199",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "10 flasks of magic powder will cost you 30 Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:200",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "A meca-penguin will cost you 3 Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:201",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I didn't see her."
+	},
+	{
+		"source": "10",
+		"id": "10:202",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I never heard anything about that."
+	},
+	{
+		"source": "10",
+		"id": "10:203",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi friend."
+	},
+	{
+		"source": "10",
+		"id": "10:204",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:205",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:206",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask the boss or the sailor at the table."
+	},
+	{
+		"source": "10",
+		"id": "10:207",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know that it is forbidden to talk about that! But this is your lucky day: I'd most happily turn you in, but that would deprive me of a chance to line my pockets with your Kashes."
+	},
+	{
+		"source": "10",
+		"id": "10:208",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:209",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm a huge STAR WARS™ fan. The saga's sequel should be released soon, so I already reserved my seat in the movie theater!"
+	},
+	{
+		"source": "10",
+		"id": "10:210",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'd like to help you, but I really don't know much, except about movies. Good luck!"
+	},
+	{
+		"source": "10",
+		"id": "10:211",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I found this page ripped out of a book. It says \"... pull the middle lever ONCE, then pull the right lever ONCE.\" This must be the answer to some kind of puzzle!"
+	},
+	{
+		"source": "10",
+		"id": "10:212",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are. Sorry."
+	},
+	{
+		"source": "10",
+		"id": "10:213",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:214",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask the rabbibunny with the yellow T-shirt, he's the librarian."
+	},
+	{
+		"source": "10",
+		"id": "10:215",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ow! But I found this page on the ground, I didn't rip it out. I promise!"
+	},
+	{
+		"source": "10",
+		"id": "10:216",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "According to the book I have, there is a \"Clear water\" lake in the Hamalayi mountains, somewhere to the North West of Principal Island. Did you know that the Hamalayi range is impossible to cross? It marks the border with the Northern hemisphere, the one that Dr. FunFrock cleared out. The sun is too hot for us over there: the temperature is unbearable, and the changes in climate caused the development of mutant monsters. And despite the fact that the good doctor spared us from all that, there are still rebels out there who want to overthrow him - it's shameful!"
+	},
+	{
+		"source": "10",
+		"id": "10:217",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I don't know what you're talking about."
+	},
+	{
+		"source": "10",
+		"id": "10:218",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ask the librarian, he knows a lot about the history of LeBorgne."
+	},
+	{
+		"source": "10",
+		"id": "10:219",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Did you know that Dr. FunFrock installed busts of his effigy to protect us? The ones that don't have a pedestal are placed on ancient seals. Since these symbols were indestructible, at least the busts hide them now!"
+	},
+	{
+		"source": "10",
+		"id": "10:220",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where they are."
+	},
+	{
+		"source": "10",
+		"id": "10:221",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go see the librarian."
+	},
+	{
+		"source": "10",
+		"id": "10:222",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I never saw him, but try a little further up at the Bazaar. Wadbull knows a lot and he SELLS A BIT OF EVERYTHING!"
+	},
+	{
+		"source": "10",
+		"id": "10:223",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Nobody remembers that nowadays. I even wonder if the library still has books about the Legend."
+	},
+	{
+		"source": "10",
+		"id": "10:224",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know her. Sorry."
+	},
+	{
+		"source": "10",
+		"id": "10:225",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know anything about it, but some people say that there used to be some books over at the library that spoke of it."
+	},
+	{
+		"source": "10",
+		"id": "10:226",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Stop doing that, you're going to put ashes everywhere!"
+	},
+	{
+		"source": "10",
+		"id": "10:227",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't know where they are, but forget about it! Teleportation makes me sick."
+	},
+	{
+		"source": "10",
+		"id": "10:228",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ewwwww! Teleportation makes me nauseous."
+	},
+	{
+		"source": "10",
+		"id": "10:229",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "No more gas."
+	},
+	{
+		"source": "10",
+		"id": "10:230",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "By the way - thanks, I have the red card!"
+	},
+	{
+		"source": "10",
+		"id": "10:231",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You can't imagine what it's like to be locked up!\nIt's awful... just awful!"
+	},
+	{
+		"source": "10",
+		"id": "10:232",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I doubt that she is being held here."
+	},
+	{
+		"source": "10",
+		"id": "10:233",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never heard anything about it."
+	},
+	{
+		"source": "10",
+		"id": "10:234",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "They say that he was never captured!"
+	},
+	{
+		"source": "10",
+		"id": "10:235",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but I really don't know anything about it."
+	},
+	{
+		"source": "10",
+		"id": "10:236",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Drinking water for Principal Island: DO NOT THROW ANYTHING IN THE TANK!\""
+	},
+	{
+		"source": "10",
+		"id": "10:237",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry dear customer, but this is a bazaar here, not a library!"
+	},
+	{
+		"source": "10",
+		"id": "10:238",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "No one remembers that stuff today, that's just a lot of bunk."
+	},
+	{
+		"source": "10",
+		"id": "10:239",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Well ... I don't know, but someone in the Old Burg must know something about this stupid Legend."
+	},
+	{
+		"source": "10",
+		"id": "10:240",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "She's not being held here. But if you want my red card, go and see my brother. Our house's location is marked on your holomap."
+	},
+	{
+		"source": "10",
+		"id": "10:241",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was just thinking as well, that I've seen this quetch somewhere before!"
+	},
+	{
+		"source": "10",
+		"id": "10:242",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go try at the Old Burg tavern, and talk to the bar tender."
+	},
+	{
+		"source": "10",
+		"id": "10:243",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi, I've just returned from a trip around this hemisphere and I'm selling my boat. Follow me if you're interested."
+	},
+	{
+		"source": "10",
+		"id": "10:244",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, so you've been around the hemisphere? Watch out for the icebergs near the Hamalayi mountains!"
+	},
+	{
+		"source": "10",
+		"id": "10:245",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "You might get into trouble with the authorities if you carry this flag. It's a rebel's emblem."
+	},
+	{
+		"source": "10",
+		"id": "10:246",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Come here! Now that's a real sailor! LeBorgne had a log that must have contained the location of his treasure somewhere."
+	},
+	{
+		"source": "10",
+		"id": "10:247",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never seen 'em, don't even know what you're talking about."
+	},
+	{
+		"source": "10",
+		"id": "10:248",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Well, well, what do we have here? A snooper? Twinsen I presume. I would like to know what you're doing here."
+	},
+	{
+		"source": "10",
+		"id": "10:249",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "There's a treasure on this island: you must blow into a magic horn in front of FunFrock's bust to gain access to it."
+	},
+	{
+		"source": "10",
+		"id": "10:250",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am not familiar with that story."
+	},
+	{
+		"source": "10",
+		"id": "10:251",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know what that could be all about."
+	},
+	{
+		"source": "10",
+		"id": "10:252",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:253",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day"
+	},
+	{
+		"source": "10",
+		"id": "10:254",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello"
+	},
+	{
+		"source": "10",
+		"id": "10:255",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day dear friend."
+	},
+	{
+		"source": "10",
+		"id": "10:256",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, those plans are not present in our books."
+	},
+	{
+		"source": "10",
+		"id": "10:257",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the Hamalayi mountains."
+	},
+	{
+		"source": "10",
+		"id": "10:258",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Wherever you go, come back soon. We are waiting for the imminent return of a solitary navigator, and he will sell his boat."
+	},
+	{
+		"source": "10",
+		"id": "10:259",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't know anything about it!"
+	},
+	{
+		"source": "10",
+		"id": "10:260",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "It's kind of you to help me, but I managed to steal the guard's key. Take it, I don't need it any more."
+	},
+	{
+		"source": "10",
+		"id": "10:261",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I just discovered a secret passage by using the ACTION command, incredible! Do you like my red card otherwise?"
+	},
+	{
+		"source": "10",
+		"id": "10:262",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, it's impossible to open it without a red card."
+	},
+	{
+		"source": "10",
+		"id": "10:263",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, it's impossible to open it without a blue card."
+	},
+	{
+		"source": "10",
+		"id": "10:264",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the military camp."
+	},
+	{
+		"source": "10",
+		"id": "10:265",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Peg Leg Street."
+	},
+	{
+		"source": "10",
+		"id": "10:266",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am cured. I don't kown what you poured in the water this time but my kidney stone vanished. Thank you!"
+	},
+	{
+		"source": "10",
+		"id": "10:267",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello"
+	},
+	{
+		"source": "10",
+		"id": "10:268",
+		"area": "Principal Island",
+		"location": null,
+		"speaker": null,
+		"message": "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
+	}
 ]

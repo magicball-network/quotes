@@ -1,2778 +1,2778 @@
 [
-  {
-    "source": "08",
-    "id": "08:1",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Yes, the family will soon be larger."
-  },
-  {
-    "source": "08",
-    "id": "08:2",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Let's go to the lighthouse!"
-  },
-  {
-    "source": "08",
-    "id": "08:3",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Could you help me treat my injured Dino-Fly ?"
-  },
-  {
-    "source": "08",
-    "id": "08:4",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "How're you doing, Dino buddy?"
-  },
-  {
-    "source": "08",
-    "id": "08:5",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm looking for something to cure my injured Dino-fly."
-  },
-  {
-    "source": "08",
-    "id": "08:6",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "OK, I'll buy it!"
-  },
-  {
-    "source": "08",
-    "id": "08:7",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, I am not interested."
-  },
-  {
-    "source": "08",
-    "id": "08:8",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "OK!"
-  },
-  {
-    "source": "08",
-    "id": "08:9",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "10 Life points! Cool!"
-  },
-  {
-    "source": "08",
-    "id": "08:10",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "10 Magic points! All right!"
-  },
-  {
-    "source": "08",
-    "id": "08:11",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "All right Zoé, I'll take you back."
-  },
-  {
-    "source": "08",
-    "id": "08:12",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello?"
-  },
-  {
-    "source": "08",
-    "id": "08:13",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "This is the text of the ancient prophecy. It is intended for my family, in case my descendants are also called by Sendell. Hopefully, I'll never need it again.\nAnd that's all I've got left from the house that FunFrock razed."
-  },
-  {
-    "source": "08",
-    "id": "08:14",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I freed him!"
-  },
-  {
-    "source": "08",
-    "id": "08:15",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, this looks like a map. But I can't read it!"
-  },
-  {
-    "source": "08",
-    "id": "08:16",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The umbrella please."
-  },
-  {
-    "source": "08",
-    "id": "08:17",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Give me my tunic back!"
-  },
-  {
-    "source": "08",
-    "id": "08:18",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Errr, ... nothing. See ya."
-  },
-  {
-    "source": "08",
-    "id": "08:19",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To knock you out!"
-  },
-  {
-    "source": "08",
-    "id": "08:20",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To the glory of Dr. FunFrock.\". This bust makes an excellent target."
-  },
-  {
-    "source": "08",
-    "id": "08:21",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Master, how do you explain a storm in this season?"
-  },
-  {
-    "source": "08",
-    "id": "08:22",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Just looking."
-  },
-  {
-    "source": "08",
-    "id": "08:23",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To Woodbridge island."
-  },
-  {
-    "source": "08",
-    "id": "08:24",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm going back to Lupin-Bourg."
-  },
-  {
-    "source": "08",
-    "id": "08:25",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "To the wizard's lane."
-  },
-  {
-    "source": "08",
-    "id": "08:26",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "They claim to be peaceful but let's be careful, they look sort of aggressive to me."
-  },
-  {
-    "source": "08",
-    "id": "08:27",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "We are ready, Master."
-  },
-  {
-    "source": "08",
-    "id": "08:28",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Luc."
-  },
-  {
-    "source": "08",
-    "id": "08:29",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello miss."
-  },
-  {
-    "source": "08",
-    "id": "08:30",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Dome of the Slate.\""
-  },
-  {
-    "source": "08",
-    "id": "08:31",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Ruins of the old citadel.\""
-  },
-  {
-    "source": "08",
-    "id": "08:32",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Beach headland.\""
-  },
-  {
-    "source": "08",
-    "id": "08:33",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Lupin-Bourg.\""
-  },
-  {
-    "source": "08",
-    "id": "08:34",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Ridge of the Flowers Circle.\""
-  },
-  {
-    "source": "08",
-    "id": "08:35",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Cliffs of the Woodbridge.\""
-  },
-  {
-    "source": "08",
-    "id": "08:36",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Lighthouse at the end of the island.\""
-  },
-  {
-    "source": "08",
-    "id": "08:37",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Harbor of Citadel Island.\""
-  },
-  {
-    "source": "08",
-    "id": "08:38",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Wizard's lane.\""
-  },
-  {
-    "source": "08",
-    "id": "08:39",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To the lighthouse at the end of the island.\""
-  },
-  {
-    "source": "08",
-    "id": "08:40",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To the Weather Wizard. \""
-  },
-  {
-    "source": "08",
-    "id": "08:41",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To the cliffs of the Woodbridge.\""
-  },
-  {
-    "source": "08",
-    "id": "08:42",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Downtown.\""
-  },
-  {
-    "source": "08",
-    "id": "08:43",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Access to the cliffs.\""
-  },
-  {
-    "source": "08",
-    "id": "08:44",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To the harbor.\""
-  },
-  {
-    "source": "08",
-    "id": "08:45",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Honey Bee\""
-  },
-  {
-    "source": "08",
-    "id": "08:46",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"LBA's Theme\""
-  },
-  {
-    "source": "08",
-    "id": "08:47",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"The Empire\""
-  },
-  {
-    "source": "08",
-    "id": "08:48",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"When on Desert Island, visit the Temple of Bù, an eventful episode in the history of Twinsen.\""
-  },
-  {
-    "source": "08",
-    "id": "08:49",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Diploma of Elementary-Weather Magic. The Wizard Bersimon has proven his talents as a master of the elements. He has reached the rank of Grand Master of sea winds and tornadoes. \""
-  },
-  {
-    "source": "08",
-    "id": "08:50",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"In the secret room, in the center of the sewers, there is an enchanted globe. The Weather Wizard put it there. According to him, it has to do with the Prophecy of Sendell. I preferred to lock this room : it can be opened only with the small pyramid.\""
-  },
-  {
-    "source": "08",
-    "id": "08:51",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.\""
-  },
-  {
-    "source": "08",
-    "id": "08:52",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Representation of our planet Twinsun, in stable orbit between 2 suns.\""
-  },
-  {
-    "source": "08",
-    "id": "08:53",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"I really like this image of my trusty Dino-Fly.\""
-  },
-  {
-    "source": "08",
-    "id": "08:54",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A portrait of me, back when I was charged with the power of Sendell..."
-  },
-  {
-    "source": "08",
-    "id": "08:55",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, a portrait of Sendell! They must have used my descriptions to make it."
-  },
-  {
-    "source": "08",
-    "id": "08:56",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Cross-section of Twinsun.\n\n1: Sendell\n\n2: Well of Sendell\n\n3: Temple of Bù"
-  },
-  {
-    "source": "08",
-    "id": "08:57",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Personnel only.\""
-  },
-  {
-    "source": "08",
-    "id": "08:58",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Vial which once contained the Clear Water. \""
-  },
-  {
-    "source": "08",
-    "id": "08:59",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Rock from the Temple of Bù.\""
-  },
-  {
-    "source": "08",
-    "id": "08:60",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Book of Bù. It allows me to speak with the animals of Twinsun.\""
-  },
-  {
-    "source": "08",
-    "id": "08:61",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Horn of Gawley.\""
-  },
-  {
-    "source": "08",
-    "id": "08:62",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Aha !, Sendell's Medallion and my Ancestral Tunic."
-  },
-  {
-    "source": "08",
-    "id": "08:63",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Safeguard Street\""
-  },
-  {
-    "source": "08",
-    "id": "08:64",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Green Corulla Street\""
-  },
-  {
-    "source": "08",
-    "id": "08:65",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello."
-  },
-  {
-    "source": "08",
-    "id": "08:66",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi."
-  },
-  {
-    "source": "08",
-    "id": "08:67",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am looking for the lighthouse keeper."
-  },
-  {
-    "source": "08",
-    "id": "08:68",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It's locked."
-  },
-  {
-    "source": "08",
-    "id": "08:69",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Good day, Master"
-  },
-  {
-    "source": "08",
-    "id": "08:70",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Aha! a sign from Sendell. They are venerated by all the wizards."
-  },
-  {
-    "source": "08",
-    "id": "08:71",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm staying here."
-  },
-  {
-    "source": "08",
-    "id": "08:72",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't have enough Kashes."
-  },
-  {
-    "source": "08",
-    "id": "08:73",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi kiddo!"
-  },
-  {
-    "source": "08",
-    "id": "08:74",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello miss Bloop."
-  },
-  {
-    "source": "08",
-    "id": "08:75",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Tim."
-  },
-  {
-    "source": "08",
-    "id": "08:76",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Mr. Paul."
-  },
-  {
-    "source": "08",
-    "id": "08:77",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello neighbor."
-  },
-  {
-    "source": "08",
-    "id": "08:78",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Mrs. Brune."
-  },
-  {
-    "source": "08",
-    "id": "08:79",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Mr. Bazoo."
-  },
-  {
-    "source": "08",
-    "id": "08:80",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi Felix."
-  },
-  {
-    "source": "08",
-    "id": "08:81",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Bob."
-  },
-  {
-    "source": "08",
-    "id": "08:82",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi Zed."
-  },
-  {
-    "source": "08",
-    "id": "08:83",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello little one."
-  },
-  {
-    "source": "08",
-    "id": "08:84",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Do you know where I can find Raph the lighthouse keeper ?"
-  },
-  {
-    "source": "08",
-    "id": "08:85",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't see my buddy Dino-Fly. He must have landed a little further away."
-  },
-  {
-    "source": "08",
-    "id": "08:86",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "This portrait of Zoé is magnificent."
-  },
-  {
-    "source": "08",
-    "id": "08:87",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous FunFrock."
-  },
-  {
-    "source": "08",
-    "id": "08:88",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "So, miss, Raph is not here?"
-  },
-  {
-    "source": "08",
-    "id": "08:89",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I was told to go see the healing wizard on Desert Island. He'll be able to help my Dino."
-  },
-  {
-    "source": "08",
-    "id": "08:90",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, not yet."
-  },
-  {
-    "source": "08",
-    "id": "08:91",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Desert Island."
-  },
-  {
-    "source": "08",
-    "id": "08:92",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The island of the Dome of the Slate."
-  },
-  {
-    "source": "08",
-    "id": "08:93",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Take me back home."
-  },
-  {
-    "source": "08",
-    "id": "08:94",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The island across from the hacienda."
-  },
-  {
-    "source": "08",
-    "id": "08:95",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "And nobody did anything?"
-  },
-  {
-    "source": "08",
-    "id": "08:96",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But what can I do? How do I find the trail of the lost children?"
-  },
-  {
-    "source": "08",
-    "id": "08:97",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What happened, miss?"
-  },
-  {
-    "source": "08",
-    "id": "08:98",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't forget to finish the lightning potion. To do so, go to the Desert Island to find a pearl of incandescence."
-  },
-  {
-    "source": "08",
-    "id": "08:99",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Joe? What are you doing here?"
-  },
-  {
-    "source": "08",
-    "id": "08:100",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't worry miss, I'll find the kids!"
-  },
-  {
-    "source": "08",
-    "id": "08:101",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "He told me the ball of Sendell would help me find the children. I've got to find it."
-  },
-  {
-    "source": "08",
-    "id": "08:102",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But how can I do that, you left on your spaceship and I don't have one."
-  },
-  {
-    "source": "08",
-    "id": "08:103",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The car's not working. Zoé said there's still a part she needs. She asked Baldino to make it for her."
-  },
-  {
-    "source": "08",
-    "id": "08:104",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Geez, the counter-clerk is as smart as ever, he never recognizes me. What's more, he always charges me admission."
-  },
-  {
-    "source": "08",
-    "id": "08:105",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I want to get back my Tunic and my Sendell's Medallion."
-  },
-  {
-    "source": "08",
-    "id": "08:106",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But I saw the keeper! He's being held prisoner inside a cave under the cliff! I've got to get him free!"
-  },
-  {
-    "source": "08",
-    "id": "08:107",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm still looking for a cure. Don't worry, I'll find one."
-  },
-  {
-    "source": "08",
-    "id": "08:108",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Desert Island."
-  },
-  {
-    "source": "08",
-    "id": "08:109",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Dome of the Slate."
-  },
-  {
-    "source": "08",
-    "id": "08:110",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Strange, this looks like a keyhole."
-  },
-  {
-    "source": "08",
-    "id": "08:111",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, not yet."
-  },
-  {
-    "source": "08",
-    "id": "08:112",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, I've got to find the school of magic first. They're the only ones who can help me cure him!"
-  },
-  {
-    "source": "08",
-    "id": "08:113",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've decided to become a wizard so that I can help Dino-Fly myself."
-  },
-  {
-    "source": "08",
-    "id": "08:114",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "By graduating from magic school, I've earned this horn that I can use to treat Dino-Fly."
-  },
-  {
-    "source": "08",
-    "id": "08:115",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Could you help me find the school of magic?"
-  },
-  {
-    "source": "08",
-    "id": "08:116",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "All thanks to you. Without your help, Sendell and I would never have been able to push the moon back."
-  },
-  {
-    "source": "08",
-    "id": "08:117",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Most important of all, peace is restored ! !"
-  },
-  {
-    "source": "08",
-    "id": "08:118",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi there Joe! Still having problems with your magical powers?"
-  },
-  {
-    "source": "08",
-    "id": "08:119",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi!"
-  },
-  {
-    "source": "08",
-    "id": "08:120",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You'll need a baggage check to claim anything stored here."
-  },
-  {
-    "source": "08",
-    "id": "08:121",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, Mr. Twinsen. Your friend Baldino left me a crate for you. It's in the basement, a brown crate with a big label on top. Just follow the arrows, bring it back here, and I'll open it. If you need help, ask my colleagues downstairs."
-  },
-  {
-    "source": "08",
-    "id": "08:122",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go ahead, Mr. Twinsen. It's your property, isn't it?"
-  },
-  {
-    "source": "08",
-    "id": "08:123",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You again Mr. Twinsen? But I don't have anything left to give you!"
-  },
-  {
-    "source": "08",
-    "id": "08:124",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "He left work? Hmm! I'll bet he went to play his guitar by the cliffs again!"
-  },
-  {
-    "source": "08",
-    "id": "08:125",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Get out of the way!!"
-  },
-  {
-    "source": "08",
-    "id": "08:126",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Excuse him, he is a nice Grobo. You know, he only gives himself airs."
-  },
-  {
-    "source": "08",
-    "id": "08:127",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You showed up at the right time. The door at the top of the stairs is jammed. We need to find a way to go upstairs to release it and free the bell which protects your tunic."
-  },
-  {
-    "source": "08",
-    "id": "08:128",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thank you for releasing the door, Twinsen. Use your tunic with wisdom."
-  },
-  {
-    "source": "08",
-    "id": "08:129",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "By the way, don't forget that the trajectory of your magic ball changes with your behavior!"
-  },
-  {
-    "source": "08",
-    "id": "08:130",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What? The lighthouse keeper? Ah, no! No, no I didn't see him!"
-  },
-  {
-    "source": "08",
-    "id": "08:131",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah Twinsen ! Still here?"
-  },
-  {
-    "source": "08",
-    "id": "08:132",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh Twinsen !! You look so cute as a wizard!!"
-  },
-  {
-    "source": "08",
-    "id": "08:133",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello !"
-  },
-  {
-    "source": "08",
-    "id": "08:134",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The price of admission is 15 Kashes! Interested?"
-  },
-  {
-    "source": "08",
-    "id": "08:135",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Here, sir, we have a collection devoted to the great Twinsen and to the development of Magic on the planet. Don't hesitate to educate yourself!"
-  },
-  {
-    "source": "08",
-    "id": "08:136",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Know, sir, that I alone have the right to press this button!! You must pay to enter!"
-  },
-  {
-    "source": "08",
-    "id": "08:137",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know this character!"
-  },
-  {
-    "source": "08",
-    "id": "08:138",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey!... you know, you look like the guy in the picture!"
-  },
-  {
-    "source": "08",
-    "id": "08:139",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am not from here, you see... I don't know him."
-  },
-  {
-    "source": "08",
-    "id": "08:140",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Mr. Twinsen! Free me, quick!! I am Raph! You know, the lighthouse keeper!! I've been caught by the Tralü, he wants to turn me into a rabbibunny-melba."
-  },
-  {
-    "source": "08",
-    "id": "08:141",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Help!"
-  },
-  {
-    "source": "08",
-    "id": "08:142",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Please, Mr. Twinsen, go get your fetching little costume and your magic ball. Be our hero again! Come back to save me from the Tralü. I'm scared he's gonna eat me!!"
-  },
-  {
-    "source": "08",
-    "id": "08:143",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thank you, Mr. Twinsen! I was rehearsing a new tune when this filthy Tralü chewed up my guitar. Besides, it looks like he got others before me!! Well, back to the lighthouse, otherwise I'll get in hot water."
-  },
-  {
-    "source": "08",
-    "id": "08:144",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "This storm...I wanted to get rid of it but the lighthouse was closed and I can't find the keeper anywhere. Only he could help me reach the top of the building where I have the view I need to utter a conjuration. It's the only way to stop this storm that neutralizes the island. But I need the lighthouse keeper."
-  },
-  {
-    "source": "08",
-    "id": "08:145",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Please, don't touch the container on the stove. OK? It contains a terrible creature!"
-  },
-  {
-    "source": "08",
-    "id": "08:146",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hmm...er... don't mention it please, it's only... well just a kind of a small personal experiment."
-  },
-  {
-    "source": "08",
-    "id": "08:147",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't touch that! I 'm trying to create an enchanted ring and this pot must not boil. Once I get myself an pearl of incandescence, I 'll be able to call the lightning!"
-  },
-  {
-    "source": "08",
-    "id": "08:148",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I just bumped into the keeper who was going back to the lighthouse. He told me that a true hero had just saved him from a voracious monster."
-  },
-  {
-    "source": "08",
-    "id": "08:149",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bravo! And now, if you appreciate Great Art, let's meet at the lighthouse. You'll see what you'll see!"
-  },
-  {
-    "source": "08",
-    "id": "08:150",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah yes! It is on Desert Island. You'll find it easely, the entry is inside the cemetery !"
-  },
-  {
-    "source": "08",
-    "id": "08:151",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Follow me!"
-  },
-  {
-    "source": "08",
-    "id": "08:152",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Unbelievable, this whole extratwinsunians scare. The storm I chased off has let them land here among us. The second I have less work on my hands, I'll have to go see what they're up to."
-  },
-  {
-    "source": "08",
-    "id": "08:153",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah! No!!"
-  },
-  {
-    "source": "08",
-    "id": "08:154",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, rush to the downtown pharmacy and find a cure for the Dino-Fly ! He has just crashed in the garden and looks injured."
-  },
-  {
-    "source": "08",
-    "id": "08:155",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"Zoé's diary\n\nDear diary: Today, I tell you the story of the Adventure that I had with Twinsen under the dictatorship of Dr. FunFrock:\nIt was long, long ago. This Dr. FunFrock, a quetch, was oppressing the populace with terrible violence thanks to the techniques of cloning and mutation, but mostly through his mastery of teleportation. His power dominated everyone! He even had the northern hemisphere evacuated in order to execute his plan. This plan consisted of a gigantic drilling operation aimed at reaching the heart of Twinsun and grabbing the magic energy of the Sendells. Without the providential intervention of Twinsen who eliminated FunFrock, this demented project would have resulted in the implosion of the planet and the destruction of the Stellar Entity living in its center.\nTwinsen had hardly practiced Magic since this \"Day of Triumph\", when Sendell exceptionally entrusted him with his immense Power ...\""
-  },
-  {
-    "source": "08",
-    "id": "08:156",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am going to see the Dino-Fly, it just landed behind the house. Don't forget that you can change the perspective by pressing \"ENTER\"."
-  },
-  {
-    "source": "08",
-    "id": "08:157",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, what are you doing? I am counting on you to take care of the Dino-Fly, and milord is seeking adventures in the underground instead. It's beyond your control, you have to play the hero!"
-  },
-  {
-    "source": "08",
-    "id": "08:158",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not through there."
-  },
-  {
-    "source": "08",
-    "id": "08:159",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, not through there. First Let's go over to the lighthouse and visit the Weather Wizard."
-  },
-  {
-    "source": "08",
-    "id": "08:160",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where he is. Try the lighthouse."
-  },
-  {
-    "source": "08",
-    "id": "08:161",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "We are so happy you know. It's our first and it should come anytime now."
-  },
-  {
-    "source": "08",
-    "id": "08:162",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "By the way, would you be kind enough to go to Baldino's? I am missing a part for the car."
-  },
-  {
-    "source": "08",
-    "id": "08:163",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, I met that nice lady who works for Ker'aooc, the healing wizard. She said he knows how to cure the Dino-Fly. He lives on the Desert Island. You should go see him."
-  },
-  {
-    "source": "08",
-    "id": "08:164",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Gee, thanks, Twinsen! Now I'll be able to finish up the car. Oh, Baldino called recently -- he says he forgot to give you a portable radio and he wants you to come by to pick it up."
-  },
-  {
-    "source": "08",
-    "id": "08:165",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm worried, Twinsen. These visitors from the sky look weird to me. They act almost too friendly. And get this, I've seen some of them hide in the garbage cans."
-  },
-  {
-    "source": "08",
-    "id": "08:166",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello! Twinsen ! Zoé here! Come quickly to the house, some very strange things are going on!!"
-  },
-  {
-    "source": "08",
-    "id": "08:167",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah Twinsen, you are here! It's horrible. The Esmers have kidnapped the children aboard a shuttle. Nobody knows where they are or how to find them!! You have to go look for them!"
-  },
-  {
-    "source": "08",
-    "id": "08:168",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No, Baldino left a little earlier for the emerald moon, where he'd noticed something was wrong. He left the proto-pack in working order downtown at the baggage claim, where you can pick it up."
-  },
-  {
-    "source": "08",
-    "id": "08:169",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You should go to the school of magic. Now that you're a wizard, they can probably help you!"
-  },
-  {
-    "source": "08",
-    "id": "08:170",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, did you see the dean of the school of magic?"
-  },
-  {
-    "source": "08",
-    "id": "08:171",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, did you find the children's trail?"
-  },
-  {
-    "source": "08",
-    "id": "08:172",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Bravo!!"
-  },
-  {
-    "source": "08",
-    "id": "08:173",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, did you find the healing wizard?"
-  },
-  {
-    "source": "08",
-    "id": "08:174",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Tell me Twinsen , did you find something to cure the Dino-Fly?"
-  },
-  {
-    "source": "08",
-    "id": "08:175",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, is that it, you have become a wizard?!"
-  },
-  {
-    "source": "08",
-    "id": "08:176",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, as soon as I fix the car, I'll call you on the walkie-talkie!"
-  },
-  {
-    "source": "08",
-    "id": "08:177",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "By the way, did you pick up the portable radio at Baldino's?"
-  },
-  {
-    "source": "08",
-    "id": "08:178",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello! Twinsen? Baldino here! How are you? Looks like this transmitter works! If you swing by, I have a portable radio to give you. Also, I will have the proto-pack finished soon. It will allow you to fly in complete safety. Over."
-  },
-  {
-    "source": "08",
-    "id": "08:179",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, I am on Emerald Moon. I have uncovered a diabolical plot organized by the Esmers!! The kidnapping of the wizards and the children was only a small part of their plan. They are about to destroy our planet!!! Listen Twinsen, you must meet me!!"
-  },
-  {
-    "source": "08",
-    "id": "08:180",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Esmers have set up a base somewhere on Desert Island. Find it and steal a shuttle!! You are the only one who can save Twinsun!!!"
-  },
-  {
-    "source": "08",
-    "id": "08:181",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I've got enough problems without you touching stuff...so get lost!"
-  },
-  {
-    "source": "08",
-    "id": "08:182",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ouch!"
-  },
-  {
-    "source": "08",
-    "id": "08:183",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Pfew, I'm totally exhausted moving all these crates."
-  },
-  {
-    "source": "08",
-    "id": "08:184",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey mister! If you want, I can carry your crate up to the exit for 102 little Kashes!"
-  },
-  {
-    "source": "08",
-    "id": "08:185",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Go back upstairs. You'll get your crate, I'm sending it directly to the reception!"
-  },
-  {
-    "source": "08",
-    "id": "08:186",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi, Twinsen. With this storm, I've got lots of customers and I don't have one minute to myself."
-  },
-  {
-    "source": "08",
-    "id": "08:187",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't have the time, Twinsen. Ask Luc, the boss!"
-  },
-  {
-    "source": "08",
-    "id": "08:188",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thief!"
-  },
-  {
-    "source": "08",
-    "id": "08:189",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thank you!"
-  },
-  {
-    "source": "08",
-    "id": "08:190",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, you have no business being here!"
-  },
-  {
-    "source": "08",
-    "id": "08:191",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What a story, those guys showing up from the Emerald Moon, what a story!"
-  },
-  {
-    "source": "08",
-    "id": "08:192",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you are lost, go back and get your holomap."
-  },
-  {
-    "source": "08",
-    "id": "08:193",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you want Life or Magic points, you can get some from one of the vending machines on the bar."
-  },
-  {
-    "source": "08",
-    "id": "08:194",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Better ask his buddies Pat or Fab. They're upstairs. Haven't moved since it started raining."
-  },
-  {
-    "source": "08",
-    "id": "08:195",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello, Twinsen my friend."
-  },
-  {
-    "source": "08",
-    "id": "08:196",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Howdy kiddo! How goes it?"
-  },
-  {
-    "source": "08",
-    "id": "08:197",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "He said he wanted to practice a new piece on his guitar. He usually hides out on the cliffs for peace and quiet. But not this long usually."
-  },
-  {
-    "source": "08",
-    "id": "08:198",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thanks for having freed my buddy Raph, kiddo. Without you, his goose was cooked for sure."
-  },
-  {
-    "source": "08",
-    "id": "08:199",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "These \"Esmers\" look quite nice, they ask lots of questions though. Everything interests them."
-  },
-  {
-    "source": "08",
-    "id": "08:200",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Waiter!"
-  },
-  {
-    "source": "08",
-    "id": "08:201",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Cool!! That music rocks! Don't you think?"
-  },
-  {
-    "source": "08",
-    "id": "08:202",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you where he is now!"
-  },
-  {
-    "source": "08",
-    "id": "08:203",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "It's great that our buddy Raph is back at the lighthouse. But the arrival of these space aliens, that's some thin-I-never-seen-before."
-  },
-  {
-    "source": "08",
-    "id": "08:204",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I sure dig those \"extra-twinsunians\". Their civilization is more advanced than ours, but they are still way cool."
-  },
-  {
-    "source": "08",
-    "id": "08:205",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey!, we need some music here!"
-  },
-  {
-    "source": "08",
-    "id": "08:206",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you go to the cellar, be [hic!]... be careful! I been there my own self... just to get in a couple snorts on the sly: well there's a [hic!] there's a hole smack in the middle. Yessir, smack in the middle! Oh, that falllll, yowza!"
-  },
-  {
-    "source": "08",
-    "id": "08:207",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Darn, I had seen some pink grobos before, but green chaps from outer space, that's a first!"
-  },
-  {
-    "source": "08",
-    "id": "08:208",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Waiter!"
-  },
-  {
-    "source": "08",
-    "id": "08:209",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not being from here, I find your island rather strange. I don't understand why your Weather Wizard does nothing about this storm. By the way, do you know that it's possible to search the garbage cans, the vases and the closets by standing in front of them and doing \"ACTION\"?"
-  },
-  {
-    "source": "08",
-    "id": "08:210",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, I am not from here."
-  },
-  {
-    "source": "08",
-    "id": "08:211",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Waiter!"
-  },
-  {
-    "source": "08",
-    "id": "08:212",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry, but I don't have anything for a Dino-Fly."
-  },
-  {
-    "source": "08",
-    "id": "08:213",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Personally, I have nothing for your Dino-Fly, but the client said she could help you."
-  },
-  {
-    "source": "08",
-    "id": "08:214",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you are interested in an item, stand in front of it and do \"ACTION\"."
-  },
-  {
-    "source": "08",
-    "id": "08:215",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't touch my cash register!"
-  },
-  {
-    "source": "08",
-    "id": "08:216",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know, even though he is my brother, I don't give a hoot about his whereabouts, this lazy bum thinks about nothing but playing his guitar on the cliffs."
-  },
-  {
-    "source": "08",
-    "id": "08:217",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You know, since people are scared, there are only a few shops left open. The Esmers are looking for you, they even had your museum closed down!"
-  },
-  {
-    "source": "08",
-    "id": "08:218",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But I have a customer who works for a healing wizard named Ker'aooc. He lives on Desert Island. According to my friend, he treats everybody for everything."
-  },
-  {
-    "source": "08",
-    "id": "08:219",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The foul weather prevents the boats from leaving the harbor. There's nothing to do, all maritime activity is paralyzed. Let me tell you, Mr. Twinsen, only the Weather Wizard could set things straight!!"
-  },
-  {
-    "source": "08",
-    "id": "08:220",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You need a ticket to board the ferry, Mr. Twinsen."
-  },
-  {
-    "source": "08",
-    "id": "08:221",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What?? Very funny!! Now this good-for-nothing abandons the lighthouse right in the middle of the storm! What a shame!!"
-  },
-  {
-    "source": "08",
-    "id": "08:222",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Your ticket is in order, Mr. Twinsen, you may board. Have a nice trip!"
-  },
-  {
-    "source": "08",
-    "id": "08:223",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "By the way, the missus was looking for you. She tells you to go see Ker'aooc, the healing wizard, on Desert island. He knows how to cure your Dino-Fly."
-  },
-  {
-    "source": "08",
-    "id": "08:224",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Esmers have forbidden all maritime service.. There is nobody left to hop from island to island anyway. They are too scared of the Esmers."
-  },
-  {
-    "source": "08",
-    "id": "08:225",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "There is still no maritime service, but I have the impression that there are less Esmers on our island."
-  },
-  {
-    "source": "08",
-    "id": "08:226",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Insert 5 Kashes if you want 10 Magic points."
-  },
-  {
-    "source": "08",
-    "id": "08:227",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Insert 5 Kashes if you want 10 Life points."
-  },
-  {
-    "source": "08",
-    "id": "08:228",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Insert 5 Kashes if you want to listen to a title:"
-  },
-  {
-    "source": "08",
-    "id": "08:229",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "For 3 Kashes, do you want to use the telescope?"
-  },
-  {
-    "source": "08",
-    "id": "08:230",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi, Twinsen. Far as I'm concerned, I like it when it rains. The grass gets nicely thick. Makes it taste better."
-  },
-  {
-    "source": "08",
-    "id": "08:231",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Yeah, actually I saw him pass by a while back. He was holding his guitar, heading for the cliffs."
-  },
-  {
-    "source": "08",
-    "id": "08:232",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Since the good weather's back, my bird friends are much less on edge. Oh, and be careful, there's a weirdo hiding behind the trees."
-  },
-  {
-    "source": "08",
-    "id": "08:233",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "People from the planet Twinsun, we come to you in a spirit of peace.\nThank you for dispersing this storm which prevented us from landing. We have observed your planet for many cycles now and have decided to come and study your culture on the spot. We have traveled through Space solely with the goal of discovering your civilization."
-  },
-  {
-    "source": "08",
-    "id": "08:234",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We wish only to know you and to share our knowledge with you.\nHave trust in our friendship!"
-  },
-  {
-    "source": "08",
-    "id": "08:235",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will probably find it interesting."
-  },
-  {
-    "source": "08",
-    "id": "08:236",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thank you, Twinsen. Without you, who knows what would have happened to our planets."
-  },
-  {
-    "source": "08",
-    "id": "08:237",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Do not mention it. You have realized our prophecy. Our planet is once again the paradise it was at creation, you have saved Zeelich from the dictatorship that our emperor was preparing, and best of all, by preventing the impostor FunFrock from executing his plans, you have saved both our worlds!!!"
-  },
-  {
-    "source": "08",
-    "id": "08:238",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:239",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I am updating the works of my defunct son. Certain plans here date back from the time when he rebuilt the island's network of sewers."
-  },
-  {
-    "source": "08",
-    "id": "08:240",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Here we have a very instructive map of the sewers. Before you can consult it, you must wait until I restore it. For that, I need a vial of gallic acid. Unfortunately, there's none left on the island."
-  },
-  {
-    "source": "08",
-    "id": "08:241",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Yes, that's exactly what I needed. I am going to use it on the map of the sewers."
-  },
-  {
-    "source": "08",
-    "id": "08:242",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The gallic acid has revealed a text previously invisible. It mentions a small pyramid that was in my possession. Here! It's yours!"
-  },
-  {
-    "source": "08",
-    "id": "08:243",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah yes, the pharmacist's younger brother. No, I don't know where he is."
-  },
-  {
-    "source": "08",
-    "id": "08:244",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'm still busy with my son's documents here. Everybody seems to be terrorized by these few costumed strangers. At my age, one has seen worse!!"
-  },
-  {
-    "source": "08",
-    "id": "08:245",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thanks again for your help, Twinsen. These maps begin to make sense. You should look at them, they talk of things that would interest you."
-  },
-  {
-    "source": "08",
-    "id": "08:246",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello Mr. Twinsen."
-  },
-  {
-    "source": "08",
-    "id": "08:247",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "This rain, will it ever end! Between my kids who were supposed to go on a field trip and my oldest son who keeps forgetting his umbrella...I hope that they're not outside in this weather."
-  },
-  {
-    "source": "08",
-    "id": "08:248",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Personally, I don't know where he is, but go look at the pharmacy. His sister might be able to help you."
-  },
-  {
-    "source": "08",
-    "id": "08:249",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The weather's improving. Now the kids can go on their class outing."
-  },
-  {
-    "source": "08",
-    "id": "08:250",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Welcome to the Inter-islands Ferry, Mr. Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:251",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You can board as soon as the storm is over."
-  },
-  {
-    "source": "08",
-    "id": "08:252",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Why don't you read the posters. And if you are interested in a destination, you tell me."
-  },
-  {
-    "source": "08",
-    "id": "08:253",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What can I do for you?"
-  },
-  {
-    "source": "08",
-    "id": "08:254",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "For 10 Kashes, wher...where do you want to go?"
-  },
-  {
-    "source": "08",
-    "id": "08:255",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Last time I saw him, he was hanging around in town."
-  },
-  {
-    "source": "08",
-    "id": "08:256",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Sorry sir, our ferries do not serve that island."
-  },
-  {
-    "source": "08",
-    "id": "08:257",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "If you'd care to purchase something, you just have to stand in front of it and do \"ACTION\"."
-  },
-  {
-    "source": "08",
-    "id": "08:258",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A Nitro-Meca-Penguin costs 4 Kashes."
-  },
-  {
-    "source": "08",
-    "id": "08:259",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I heard he likes to \"seek inspiration\" by \"The Cliffs of the Woodbridge\". That place is dangerous, if half of what I've heard about the Tralü's for real. Don't go if you are unarmed."
-  },
-  {
-    "source": "08",
-    "id": "08:260",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "A holomap costs 10 kashes."
-  },
-  {
-    "source": "08",
-    "id": "08:261",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Three darts cost 4 Kashes."
-  },
-  {
-    "source": "08",
-    "id": "08:262",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't do that, you fool, it's going to blow up!"
-  },
-  {
-    "source": "08",
-    "id": "08:263",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Nobody touches the cash register!"
-  },
-  {
-    "source": "08",
-    "id": "08:264",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Welcome, Mr. Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:265",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "You've seen the visitors. They are Esmers. Supposedly, they're peaceloving and just want to trade us their technology for some of the wisdom of our wizards."
-  },
-  {
-    "source": "08",
-    "id": "08:266",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh what a fall, I'm hurt badly. Under normal conditions, I could have taken you for a spin in the air. But this time, you will have to treat me first."
-  },
-  {
-    "source": "08",
-    "id": "08:267",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh! I don't know where he is. But if he'd done his job, I'd have seen his light and wouldn't have crashed."
-  },
-  {
-    "source": "08",
-    "id": "08:268",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Aahhh, thank you! I think I can fly now and take you where you want."
-  },
-  {
-    "source": "08",
-    "id": "08:269",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Where do you want to go, Twinsen?"
-  },
-  {
-    "source": "08",
-    "id": "08:270",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen ! Did you see Zoé? She is looking for you everywhere! She has something very important to tell you!!"
-  },
-  {
-    "source": "08",
-    "id": "08:271",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "That alien jalopy's easy on the eyes, but it looks difficult to park."
-  },
-  {
-    "source": "08",
-    "id": "08:272",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't take anybody in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh? By the way, did you notice that you could jump while you are running?"
-  },
-  {
-    "source": "08",
-    "id": "08:273",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Mmm, it's been a while since I last saw him. Not surprising with this blasted storm!!"
-  },
-  {
-    "source": "08",
-    "id": "08:274",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "So, for 8 Kashes, where do I drop you?"
-  },
-  {
-    "source": "08",
-    "id": "08:275",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hang on!"
-  },
-  {
-    "source": "08",
-    "id": "08:276",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I just can't believe these visitors coming from another planet, let alone just to offer us their technology! I hope they are not going to start competing with me ..."
-  },
-  {
-    "source": "08",
-    "id": "08:277",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ouch!!!!"
-  },
-  {
-    "source": "08",
-    "id": "08:278",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't talk to nutcases, Mr. Twinsen!!"
-  },
-  {
-    "source": "08",
-    "id": "08:279",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What a pain these sewers! What a stink and I still have oodles of manhole covers to update. Phew!! I have had it up to here!!"
-  },
-  {
-    "source": "08",
-    "id": "08:280",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Well, I am certain he is not in the sewers, I would have seen him."
-  },
-  {
-    "source": "08",
-    "id": "08:281",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello."
-  },
-  {
-    "source": "08",
-    "id": "08:282",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But I have an idea how you can help your friend!"
-  },
-  {
-    "source": "08",
-    "id": "08:283",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Thief!"
-  },
-  {
-    "source": "08",
-    "id": "08:284",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste..."
-  },
-  {
-    "source": "08",
-    "id": "08:285",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert Island. I work for him and, believe me, he knows tricks that would cure anything, even a Dino-Fly..."
-  },
-  {
-    "source": "08",
-    "id": "08:286",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know. I live on Desert Island."
-  },
-  {
-    "source": "08",
-    "id": "08:287",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped ?"
-  },
-  {
-    "source": "08",
-    "id": "08:288",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Infortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on another of his strolls on the cliffs! One of these days it might be nasty, with all these rumors about the Tralü..."
-  },
-  {
-    "source": "08",
-    "id": "08:289",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "My pretty bunny has come back, thanks to you!! Oh thank you, Mr. Twinsen!!"
-  },
-  {
-    "source": "08",
-    "id": "08:290",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ohhh...I am definitely getting too old for these acrobatics!"
-  },
-  {
-    "source": "08",
-    "id": "08:291",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Now then, meet me at the School of Magic. I've got a surprise for you."
-  },
-  {
-    "source": "08",
-    "id": "08:292",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Twinsen, your performance was exemplary; here's your reward, this slate. It allows you to memorize images that you see, such as maps."
-  },
-  {
-    "source": "08",
-    "id": "08:293",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Mr. Twinsen! Could you tell me why you're following me?!"
-  },
-  {
-    "source": "08",
-    "id": "08:294",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But that's my umb... Oh !!! Excuse me... I thought it was mine. Boohooo, I'm so embarrassed... I keep making mistakes..."
-  },
-  {
-    "source": "08",
-    "id": "08:295",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "But, Mr. Twinsen, I assure you that I don't have your tunic. Maybe you should look at home."
-  },
-  {
-    "source": "08",
-    "id": "08:296",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Help!!"
-  },
-  {
-    "source": "08",
-    "id": "08:297",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Raph ? Ah yeah, he has set up a super combo with his buddies Pat and Fab. But I don't know where he is."
-  },
-  {
-    "source": "08",
-    "id": "08:298",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Not again. What do you want from me now, Mr. Twinsen?"
-  },
-  {
-    "source": "08",
-    "id": "08:299",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We only wish to know you and to share our knowledge with you.\nHave trust in our friendship."
-  },
-  {
-    "source": "08",
-    "id": "08:300",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will certainly be interested should you choose to attend."
-  },
-  {
-    "source": "08",
-    "id": "08:301",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We only wish to know you and to share our knowledge with you.\nHave trust in our friendship."
-  },
-  {
-    "source": "08",
-    "id": "08:302",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will certainly be interested should you choose to attend."
-  },
-  {
-    "source": "08",
-    "id": "08:303",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi Mr. Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:304",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "No school for me today. I'd love to find the Tralü and do it in. 'Cause if I make the Tralü disappear, I'll become a hero and they will erect me a whole museum!!"
-  },
-  {
-    "source": "08",
-    "id": "08:305",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where he is, but his buddies are at the pub \"Chez Luc\"."
-  },
-  {
-    "source": "08",
-    "id": "08:306",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Did you see those weirdoes from the sky? Mebbe they're some of the Tralü's buddies!"
-  },
-  {
-    "source": "08",
-    "id": "08:307",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Why the disguise? You scared of getting caught by the Tralü's buddies?"
-  },
-  {
-    "source": "08",
-    "id": "08:308",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Waaah!!!"
-  },
-  {
-    "source": "08",
-    "id": "08:309",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Say Twinsen, did you ever see that Tralü? They say it's a monster that lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't forget to carry a weapon. I mean your magic ball!"
-  },
-  {
-    "source": "08",
-    "id": "08:310",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know him very well, but try asking around at \"Chez Luc,\" that's his big hangout."
-  },
-  {
-    "source": "08",
-    "id": "08:311",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hey, did you really destroy the Tralü? This monster really existed? Hail to you, may you be prosperous and may the Sendells protect your descendants!"
-  },
-  {
-    "source": "08",
-    "id": "08:312",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'd like to take the kids to the \"Flowers Circle\", but the weather's just too bad."
-  },
-  {
-    "source": "08",
-    "id": "08:313",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where he is, Mr. Twinsen."
-  },
-  {
-    "source": "08",
-    "id": "08:314",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Look at that, this place brings out the music in young souls. In fact, they adore Sendell."
-  },
-  {
-    "source": "08",
-    "id": "08:315",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Brute!"
-  },
-  {
-    "source": "08",
-    "id": "08:316",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hello, Mr. Twinsen!"
-  },
-  {
-    "source": "08",
-    "id": "08:317",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "[Sniff]...the children...we were at the \"Flowers Circle\" [sniff]...suddenly one of those alien ships showed up right overhead. There was this big white flash, and then...nothing. Next thing I remember, I found myself alone, the children nowhere in sight, and the ship was taking off. It's horrible, Mr. Twinsen! You have to find them! You have to!"
-  },
-  {
-    "source": "08",
-    "id": "08:318",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "[Sniff]...thank you, Mr. Twinsen, [sniff]..."
-  },
-  {
-    "source": "08",
-    "id": "08:319",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh, hey, Twinsen. Did you check out my essay on my future plans? Here, I will summarize: Phase 1) Grow up. Phase 2) Become a sailor! And Phase 3) Buy a million umbrellas for my brother."
-  },
-  {
-    "source": "08",
-    "id": "08:320",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I don't know where he might be, but I've always liked him, that Raph. Once he even had me over to the lighthouse. The view was impressive!"
-  },
-  {
-    "source": "08",
-    "id": "08:321",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I think after my big brother cleans your clock, you won't act like such a big shot."
-  },
-  {
-    "source": "08",
-    "id": "08:322",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
-  },
-  {
-    "source": "08",
-    "id": "08:323",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hi there, Mr. Twinsen ! Listen to our new nursery rhyme!!"
-  },
-  {
-    "source": "08",
-    "id": "08:324",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
-  },
-  {
-    "source": "08",
-    "id": "08:325",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Never heard it."
-  },
-  {
-    "source": "08",
-    "id": "08:326",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I'll tell my big brother, he'll beat you up while I laugh, and that'll show you!"
-  },
-  {
-    "source": "08",
-    "id": "08:327",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Nice to see you, Twinsen ! This storm really chaps my hide. I just can't calm down... And you, don't forget that you can change your behavior."
-  },
-  {
-    "source": "08",
-    "id": "08:328",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away!!"
-  },
-  {
-    "source": "08",
-    "id": "08:329",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "So Twinsen, this li'l monster, coming soon?"
-  },
-  {
-    "source": "08",
-    "id": "08:330",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "What's up with these Esmers? Couldn't they have stayed home?"
-  },
-  {
-    "source": "08",
-    "id": "08:331",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Since the weather outside is horrible, the teacher said I could jump rope in the classroom. See?"
-  },
-  {
-    "source": "08",
-    "id": "08:332",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ow! My big brother's gonna take care of you."
-  },
-  {
-    "source": "08",
-    "id": "08:333",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Oh yeah, I know him, he's the one always playing his guitar!!"
-  },
-  {
-    "source": "08",
-    "id": "08:334",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
-  },
-  {
-    "source": "08",
-    "id": "08:335",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "H'lo, Mr. Twinsen. I'm being punished 'cause I ate a whole box of chalk."
-  },
-  {
-    "source": "08",
-    "id": "08:336",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I can't help you, Mr. Twinsen."
-  },
-  {
-    "source": "08",
-    "id": "08:337",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Don't care, not at all! But my big brother, he'll avenge me."
-  },
-  {
-    "source": "08",
-    "id": "08:338",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
-  },
-  {
-    "source": "08",
-    "id": "08:339",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The pharmacist, she is so pretty! I don't know what else to buy in order to see her. One day I ... I'll dare talk to her."
-  },
-  {
-    "source": "08",
-    "id": "08:340",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "My eyes see no one else but the pharmacist, my heart beats for nobody but her. If I dared, I'd scale the cliffs to fetch her the music I have often heard over there."
-  },
-  {
-    "source": "08",
-    "id": "08:341",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "And now, with these aliens showing up in their big fancy ships, there's no way she'll notice me, my beloved pharmacist..."
-  },
-  {
-    "source": "08",
-    "id": "08:342",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Ah Twinsen, with this rain, I found plenty of mushrooms!"
-  },
-  {
-    "source": "08",
-    "id": "08:343",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time."
-  },
-  {
-    "source": "08",
-    "id": "08:344",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly."
-  },
-  {
-    "source": "08",
-    "id": "08:345",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "I had hidden in the shuttle when you left the planet of the strange people. But now, I would like to go back. We left the wizards all alone up there, and they must be getting bored stiff."
-  },
-  {
-    "source": "08",
-    "id": "08:346",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "\"No thanks, seems to be OK now...\""
-  },
-  {
-    "source": "08",
-    "id": "08:347",
-    "area": "Citadel Island",
-    "location": null,
-    "speaker": null,
-    "message": "Hooooo !!!"
-  }
+	{
+		"source": "08",
+		"id": "08:1",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Yes, the family will soon be larger."
+	},
+	{
+		"source": "08",
+		"id": "08:2",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Let's go to the lighthouse!"
+	},
+	{
+		"source": "08",
+		"id": "08:3",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Could you help me treat my injured Dino-Fly ?"
+	},
+	{
+		"source": "08",
+		"id": "08:4",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "How're you doing, Dino buddy?"
+	},
+	{
+		"source": "08",
+		"id": "08:5",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm looking for something to cure my injured Dino-fly."
+	},
+	{
+		"source": "08",
+		"id": "08:6",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "OK, I'll buy it!"
+	},
+	{
+		"source": "08",
+		"id": "08:7",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, I am not interested."
+	},
+	{
+		"source": "08",
+		"id": "08:8",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "OK!"
+	},
+	{
+		"source": "08",
+		"id": "08:9",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "10 Life points! Cool!"
+	},
+	{
+		"source": "08",
+		"id": "08:10",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "10 Magic points! All right!"
+	},
+	{
+		"source": "08",
+		"id": "08:11",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "All right Zoé, I'll take you back."
+	},
+	{
+		"source": "08",
+		"id": "08:12",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello?"
+	},
+	{
+		"source": "08",
+		"id": "08:13",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "This is the text of the ancient prophecy. It is intended for my family, in case my descendants are also called by Sendell. Hopefully, I'll never need it again.\nAnd that's all I've got left from the house that FunFrock razed."
+	},
+	{
+		"source": "08",
+		"id": "08:14",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I freed him!"
+	},
+	{
+		"source": "08",
+		"id": "08:15",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, this looks like a map. But I can't read it!"
+	},
+	{
+		"source": "08",
+		"id": "08:16",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The umbrella please."
+	},
+	{
+		"source": "08",
+		"id": "08:17",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Give me my tunic back!"
+	},
+	{
+		"source": "08",
+		"id": "08:18",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Errr, ... nothing. See ya."
+	},
+	{
+		"source": "08",
+		"id": "08:19",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To knock you out!"
+	},
+	{
+		"source": "08",
+		"id": "08:20",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To the glory of Dr. FunFrock.\". This bust makes an excellent target."
+	},
+	{
+		"source": "08",
+		"id": "08:21",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Master, how do you explain a storm in this season?"
+	},
+	{
+		"source": "08",
+		"id": "08:22",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Just looking."
+	},
+	{
+		"source": "08",
+		"id": "08:23",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To Woodbridge island."
+	},
+	{
+		"source": "08",
+		"id": "08:24",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm going back to Lupin-Bourg."
+	},
+	{
+		"source": "08",
+		"id": "08:25",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "To the wizard's lane."
+	},
+	{
+		"source": "08",
+		"id": "08:26",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "They claim to be peaceful but let's be careful, they look sort of aggressive to me."
+	},
+	{
+		"source": "08",
+		"id": "08:27",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "We are ready, Master."
+	},
+	{
+		"source": "08",
+		"id": "08:28",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Luc."
+	},
+	{
+		"source": "08",
+		"id": "08:29",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello miss."
+	},
+	{
+		"source": "08",
+		"id": "08:30",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Dome of the Slate.\""
+	},
+	{
+		"source": "08",
+		"id": "08:31",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Ruins of the old citadel.\""
+	},
+	{
+		"source": "08",
+		"id": "08:32",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Beach headland.\""
+	},
+	{
+		"source": "08",
+		"id": "08:33",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Lupin-Bourg.\""
+	},
+	{
+		"source": "08",
+		"id": "08:34",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Ridge of the Flowers Circle.\""
+	},
+	{
+		"source": "08",
+		"id": "08:35",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Cliffs of the Woodbridge.\""
+	},
+	{
+		"source": "08",
+		"id": "08:36",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Lighthouse at the end of the island.\""
+	},
+	{
+		"source": "08",
+		"id": "08:37",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Harbor of Citadel Island.\""
+	},
+	{
+		"source": "08",
+		"id": "08:38",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Wizard's lane.\""
+	},
+	{
+		"source": "08",
+		"id": "08:39",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To the lighthouse at the end of the island.\""
+	},
+	{
+		"source": "08",
+		"id": "08:40",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To the Weather Wizard. \""
+	},
+	{
+		"source": "08",
+		"id": "08:41",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To the cliffs of the Woodbridge.\""
+	},
+	{
+		"source": "08",
+		"id": "08:42",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Downtown.\""
+	},
+	{
+		"source": "08",
+		"id": "08:43",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Access to the cliffs.\""
+	},
+	{
+		"source": "08",
+		"id": "08:44",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To the harbor.\""
+	},
+	{
+		"source": "08",
+		"id": "08:45",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Honey Bee\""
+	},
+	{
+		"source": "08",
+		"id": "08:46",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"LBA's Theme\""
+	},
+	{
+		"source": "08",
+		"id": "08:47",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"The Empire\""
+	},
+	{
+		"source": "08",
+		"id": "08:48",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"When on Desert Island, visit the Temple of Bù, an eventful episode in the history of Twinsen.\""
+	},
+	{
+		"source": "08",
+		"id": "08:49",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Diploma of Elementary-Weather Magic. The Wizard Bersimon has proven his talents as a master of the elements. He has reached the rank of Grand Master of sea winds and tornadoes. \""
+	},
+	{
+		"source": "08",
+		"id": "08:50",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"In the secret room, in the center of the sewers, there is an enchanted globe. The Weather Wizard put it there. According to him, it has to do with the Prophecy of Sendell. I preferred to lock this room : it can be opened only with the small pyramid.\""
+	},
+	{
+		"source": "08",
+		"id": "08:51",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.\""
+	},
+	{
+		"source": "08",
+		"id": "08:52",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Representation of our planet Twinsun, in stable orbit between 2 suns.\""
+	},
+	{
+		"source": "08",
+		"id": "08:53",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"I really like this image of my trusty Dino-Fly.\""
+	},
+	{
+		"source": "08",
+		"id": "08:54",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A portrait of me, back when I was charged with the power of Sendell..."
+	},
+	{
+		"source": "08",
+		"id": "08:55",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, a portrait of Sendell! They must have used my descriptions to make it."
+	},
+	{
+		"source": "08",
+		"id": "08:56",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Cross-section of Twinsun.\n\n1: Sendell\n\n2: Well of Sendell\n\n3: Temple of Bù"
+	},
+	{
+		"source": "08",
+		"id": "08:57",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Personnel only.\""
+	},
+	{
+		"source": "08",
+		"id": "08:58",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Vial which once contained the Clear Water. \""
+	},
+	{
+		"source": "08",
+		"id": "08:59",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Rock from the Temple of Bù.\""
+	},
+	{
+		"source": "08",
+		"id": "08:60",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Book of Bù. It allows me to speak with the animals of Twinsun.\""
+	},
+	{
+		"source": "08",
+		"id": "08:61",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Horn of Gawley.\""
+	},
+	{
+		"source": "08",
+		"id": "08:62",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Aha !, Sendell's Medallion and my Ancestral Tunic."
+	},
+	{
+		"source": "08",
+		"id": "08:63",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Safeguard Street\""
+	},
+	{
+		"source": "08",
+		"id": "08:64",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Green Corulla Street\""
+	},
+	{
+		"source": "08",
+		"id": "08:65",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello."
+	},
+	{
+		"source": "08",
+		"id": "08:66",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi."
+	},
+	{
+		"source": "08",
+		"id": "08:67",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am looking for the lighthouse keeper."
+	},
+	{
+		"source": "08",
+		"id": "08:68",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It's locked."
+	},
+	{
+		"source": "08",
+		"id": "08:69",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Good day, Master"
+	},
+	{
+		"source": "08",
+		"id": "08:70",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Aha! a sign from Sendell. They are venerated by all the wizards."
+	},
+	{
+		"source": "08",
+		"id": "08:71",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm staying here."
+	},
+	{
+		"source": "08",
+		"id": "08:72",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't have enough Kashes."
+	},
+	{
+		"source": "08",
+		"id": "08:73",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi kiddo!"
+	},
+	{
+		"source": "08",
+		"id": "08:74",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello miss Bloop."
+	},
+	{
+		"source": "08",
+		"id": "08:75",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Tim."
+	},
+	{
+		"source": "08",
+		"id": "08:76",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Mr. Paul."
+	},
+	{
+		"source": "08",
+		"id": "08:77",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello neighbor."
+	},
+	{
+		"source": "08",
+		"id": "08:78",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Mrs. Brune."
+	},
+	{
+		"source": "08",
+		"id": "08:79",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Mr. Bazoo."
+	},
+	{
+		"source": "08",
+		"id": "08:80",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi Felix."
+	},
+	{
+		"source": "08",
+		"id": "08:81",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Bob."
+	},
+	{
+		"source": "08",
+		"id": "08:82",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi Zed."
+	},
+	{
+		"source": "08",
+		"id": "08:83",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello little one."
+	},
+	{
+		"source": "08",
+		"id": "08:84",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Do you know where I can find Raph the lighthouse keeper ?"
+	},
+	{
+		"source": "08",
+		"id": "08:85",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't see my buddy Dino-Fly. He must have landed a little further away."
+	},
+	{
+		"source": "08",
+		"id": "08:86",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "This portrait of Zoé is magnificent."
+	},
+	{
+		"source": "08",
+		"id": "08:87",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous FunFrock."
+	},
+	{
+		"source": "08",
+		"id": "08:88",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "So, miss, Raph is not here?"
+	},
+	{
+		"source": "08",
+		"id": "08:89",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I was told to go see the healing wizard on Desert Island. He'll be able to help my Dino."
+	},
+	{
+		"source": "08",
+		"id": "08:90",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, not yet."
+	},
+	{
+		"source": "08",
+		"id": "08:91",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Desert Island."
+	},
+	{
+		"source": "08",
+		"id": "08:92",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The island of the Dome of the Slate."
+	},
+	{
+		"source": "08",
+		"id": "08:93",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Take me back home."
+	},
+	{
+		"source": "08",
+		"id": "08:94",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The island across from the hacienda."
+	},
+	{
+		"source": "08",
+		"id": "08:95",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "And nobody did anything?"
+	},
+	{
+		"source": "08",
+		"id": "08:96",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But what can I do? How do I find the trail of the lost children?"
+	},
+	{
+		"source": "08",
+		"id": "08:97",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What happened, miss?"
+	},
+	{
+		"source": "08",
+		"id": "08:98",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't forget to finish the lightning potion. To do so, go to the Desert Island to find a pearl of incandescence."
+	},
+	{
+		"source": "08",
+		"id": "08:99",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Joe? What are you doing here?"
+	},
+	{
+		"source": "08",
+		"id": "08:100",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't worry miss, I'll find the kids!"
+	},
+	{
+		"source": "08",
+		"id": "08:101",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "He told me the ball of Sendell would help me find the children. I've got to find it."
+	},
+	{
+		"source": "08",
+		"id": "08:102",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But how can I do that, you left on your spaceship and I don't have one."
+	},
+	{
+		"source": "08",
+		"id": "08:103",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The car's not working. Zoé said there's still a part she needs. She asked Baldino to make it for her."
+	},
+	{
+		"source": "08",
+		"id": "08:104",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Geez, the counter-clerk is as smart as ever, he never recognizes me. What's more, he always charges me admission."
+	},
+	{
+		"source": "08",
+		"id": "08:105",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I want to get back my Tunic and my Sendell's Medallion."
+	},
+	{
+		"source": "08",
+		"id": "08:106",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But I saw the keeper! He's being held prisoner inside a cave under the cliff! I've got to get him free!"
+	},
+	{
+		"source": "08",
+		"id": "08:107",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm still looking for a cure. Don't worry, I'll find one."
+	},
+	{
+		"source": "08",
+		"id": "08:108",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Desert Island."
+	},
+	{
+		"source": "08",
+		"id": "08:109",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Dome of the Slate."
+	},
+	{
+		"source": "08",
+		"id": "08:110",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Strange, this looks like a keyhole."
+	},
+	{
+		"source": "08",
+		"id": "08:111",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, not yet."
+	},
+	{
+		"source": "08",
+		"id": "08:112",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, I've got to find the school of magic first. They're the only ones who can help me cure him!"
+	},
+	{
+		"source": "08",
+		"id": "08:113",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've decided to become a wizard so that I can help Dino-Fly myself."
+	},
+	{
+		"source": "08",
+		"id": "08:114",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "By graduating from magic school, I've earned this horn that I can use to treat Dino-Fly."
+	},
+	{
+		"source": "08",
+		"id": "08:115",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Could you help me find the school of magic?"
+	},
+	{
+		"source": "08",
+		"id": "08:116",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "All thanks to you. Without your help, Sendell and I would never have been able to push the moon back."
+	},
+	{
+		"source": "08",
+		"id": "08:117",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Most important of all, peace is restored ! !"
+	},
+	{
+		"source": "08",
+		"id": "08:118",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi there Joe! Still having problems with your magical powers?"
+	},
+	{
+		"source": "08",
+		"id": "08:119",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi!"
+	},
+	{
+		"source": "08",
+		"id": "08:120",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You'll need a baggage check to claim anything stored here."
+	},
+	{
+		"source": "08",
+		"id": "08:121",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, Mr. Twinsen. Your friend Baldino left me a crate for you. It's in the basement, a brown crate with a big label on top. Just follow the arrows, bring it back here, and I'll open it. If you need help, ask my colleagues downstairs."
+	},
+	{
+		"source": "08",
+		"id": "08:122",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go ahead, Mr. Twinsen. It's your property, isn't it?"
+	},
+	{
+		"source": "08",
+		"id": "08:123",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You again Mr. Twinsen? But I don't have anything left to give you!"
+	},
+	{
+		"source": "08",
+		"id": "08:124",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "He left work? Hmm! I'll bet he went to play his guitar by the cliffs again!"
+	},
+	{
+		"source": "08",
+		"id": "08:125",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Get out of the way!!"
+	},
+	{
+		"source": "08",
+		"id": "08:126",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Excuse him, he is a nice Grobo. You know, he only gives himself airs."
+	},
+	{
+		"source": "08",
+		"id": "08:127",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You showed up at the right time. The door at the top of the stairs is jammed. We need to find a way to go upstairs to release it and free the bell which protects your tunic."
+	},
+	{
+		"source": "08",
+		"id": "08:128",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thank you for releasing the door, Twinsen. Use your tunic with wisdom."
+	},
+	{
+		"source": "08",
+		"id": "08:129",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "By the way, don't forget that the trajectory of your magic ball changes with your behavior!"
+	},
+	{
+		"source": "08",
+		"id": "08:130",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What? The lighthouse keeper? Ah, no! No, no I didn't see him!"
+	},
+	{
+		"source": "08",
+		"id": "08:131",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah Twinsen ! Still here?"
+	},
+	{
+		"source": "08",
+		"id": "08:132",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh Twinsen !! You look so cute as a wizard!!"
+	},
+	{
+		"source": "08",
+		"id": "08:133",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello !"
+	},
+	{
+		"source": "08",
+		"id": "08:134",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The price of admission is 15 Kashes! Interested?"
+	},
+	{
+		"source": "08",
+		"id": "08:135",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Here, sir, we have a collection devoted to the great Twinsen and to the development of Magic on the planet. Don't hesitate to educate yourself!"
+	},
+	{
+		"source": "08",
+		"id": "08:136",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Know, sir, that I alone have the right to press this button!! You must pay to enter!"
+	},
+	{
+		"source": "08",
+		"id": "08:137",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know this character!"
+	},
+	{
+		"source": "08",
+		"id": "08:138",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey!... you know, you look like the guy in the picture!"
+	},
+	{
+		"source": "08",
+		"id": "08:139",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am not from here, you see... I don't know him."
+	},
+	{
+		"source": "08",
+		"id": "08:140",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Mr. Twinsen! Free me, quick!! I am Raph! You know, the lighthouse keeper!! I've been caught by the Tralü, he wants to turn me into a rabbibunny-melba."
+	},
+	{
+		"source": "08",
+		"id": "08:141",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Help!"
+	},
+	{
+		"source": "08",
+		"id": "08:142",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Please, Mr. Twinsen, go get your fetching little costume and your magic ball. Be our hero again! Come back to save me from the Tralü. I'm scared he's gonna eat me!!"
+	},
+	{
+		"source": "08",
+		"id": "08:143",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thank you, Mr. Twinsen! I was rehearsing a new tune when this filthy Tralü chewed up my guitar. Besides, it looks like he got others before me!! Well, back to the lighthouse, otherwise I'll get in hot water."
+	},
+	{
+		"source": "08",
+		"id": "08:144",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "This storm...I wanted to get rid of it but the lighthouse was closed and I can't find the keeper anywhere. Only he could help me reach the top of the building where I have the view I need to utter a conjuration. It's the only way to stop this storm that neutralizes the island. But I need the lighthouse keeper."
+	},
+	{
+		"source": "08",
+		"id": "08:145",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Please, don't touch the container on the stove. OK? It contains a terrible creature!"
+	},
+	{
+		"source": "08",
+		"id": "08:146",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hmm...er... don't mention it please, it's only... well just a kind of a small personal experiment."
+	},
+	{
+		"source": "08",
+		"id": "08:147",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't touch that! I 'm trying to create an enchanted ring and this pot must not boil. Once I get myself an pearl of incandescence, I 'll be able to call the lightning!"
+	},
+	{
+		"source": "08",
+		"id": "08:148",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I just bumped into the keeper who was going back to the lighthouse. He told me that a true hero had just saved him from a voracious monster."
+	},
+	{
+		"source": "08",
+		"id": "08:149",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bravo! And now, if you appreciate Great Art, let's meet at the lighthouse. You'll see what you'll see!"
+	},
+	{
+		"source": "08",
+		"id": "08:150",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah yes! It is on Desert Island. You'll find it easely, the entry is inside the cemetery !"
+	},
+	{
+		"source": "08",
+		"id": "08:151",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Follow me!"
+	},
+	{
+		"source": "08",
+		"id": "08:152",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Unbelievable, this whole extratwinsunians scare. The storm I chased off has let them land here among us. The second I have less work on my hands, I'll have to go see what they're up to."
+	},
+	{
+		"source": "08",
+		"id": "08:153",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah! No!!"
+	},
+	{
+		"source": "08",
+		"id": "08:154",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, rush to the downtown pharmacy and find a cure for the Dino-Fly ! He has just crashed in the garden and looks injured."
+	},
+	{
+		"source": "08",
+		"id": "08:155",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"Zoé's diary\n\nDear diary: Today, I tell you the story of the Adventure that I had with Twinsen under the dictatorship of Dr. FunFrock:\nIt was long, long ago. This Dr. FunFrock, a quetch, was oppressing the populace with terrible violence thanks to the techniques of cloning and mutation, but mostly through his mastery of teleportation. His power dominated everyone! He even had the northern hemisphere evacuated in order to execute his plan. This plan consisted of a gigantic drilling operation aimed at reaching the heart of Twinsun and grabbing the magic energy of the Sendells. Without the providential intervention of Twinsen who eliminated FunFrock, this demented project would have resulted in the implosion of the planet and the destruction of the Stellar Entity living in its center.\nTwinsen had hardly practiced Magic since this \"Day of Triumph\", when Sendell exceptionally entrusted him with his immense Power ...\""
+	},
+	{
+		"source": "08",
+		"id": "08:156",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am going to see the Dino-Fly, it just landed behind the house. Don't forget that you can change the perspective by pressing \"ENTER\"."
+	},
+	{
+		"source": "08",
+		"id": "08:157",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, what are you doing? I am counting on you to take care of the Dino-Fly, and milord is seeking adventures in the underground instead. It's beyond your control, you have to play the hero!"
+	},
+	{
+		"source": "08",
+		"id": "08:158",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not through there."
+	},
+	{
+		"source": "08",
+		"id": "08:159",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, not through there. First Let's go over to the lighthouse and visit the Weather Wizard."
+	},
+	{
+		"source": "08",
+		"id": "08:160",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where he is. Try the lighthouse."
+	},
+	{
+		"source": "08",
+		"id": "08:161",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "We are so happy you know. It's our first and it should come anytime now."
+	},
+	{
+		"source": "08",
+		"id": "08:162",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "By the way, would you be kind enough to go to Baldino's? I am missing a part for the car."
+	},
+	{
+		"source": "08",
+		"id": "08:163",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, I met that nice lady who works for Ker'aooc, the healing wizard. She said he knows how to cure the Dino-Fly. He lives on the Desert Island. You should go see him."
+	},
+	{
+		"source": "08",
+		"id": "08:164",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Gee, thanks, Twinsen! Now I'll be able to finish up the car. Oh, Baldino called recently -- he says he forgot to give you a portable radio and he wants you to come by to pick it up."
+	},
+	{
+		"source": "08",
+		"id": "08:165",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm worried, Twinsen. These visitors from the sky look weird to me. They act almost too friendly. And get this, I've seen some of them hide in the garbage cans."
+	},
+	{
+		"source": "08",
+		"id": "08:166",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello! Twinsen ! Zoé here! Come quickly to the house, some very strange things are going on!!"
+	},
+	{
+		"source": "08",
+		"id": "08:167",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah Twinsen, you are here! It's horrible. The Esmers have kidnapped the children aboard a shuttle. Nobody knows where they are or how to find them!! You have to go look for them!"
+	},
+	{
+		"source": "08",
+		"id": "08:168",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No, Baldino left a little earlier for the emerald moon, where he'd noticed something was wrong. He left the proto-pack in working order downtown at the baggage claim, where you can pick it up."
+	},
+	{
+		"source": "08",
+		"id": "08:169",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You should go to the school of magic. Now that you're a wizard, they can probably help you!"
+	},
+	{
+		"source": "08",
+		"id": "08:170",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, did you see the dean of the school of magic?"
+	},
+	{
+		"source": "08",
+		"id": "08:171",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, did you find the children's trail?"
+	},
+	{
+		"source": "08",
+		"id": "08:172",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Bravo!!"
+	},
+	{
+		"source": "08",
+		"id": "08:173",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, did you find the healing wizard?"
+	},
+	{
+		"source": "08",
+		"id": "08:174",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Tell me Twinsen , did you find something to cure the Dino-Fly?"
+	},
+	{
+		"source": "08",
+		"id": "08:175",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, is that it, you have become a wizard?!"
+	},
+	{
+		"source": "08",
+		"id": "08:176",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, as soon as I fix the car, I'll call you on the walkie-talkie!"
+	},
+	{
+		"source": "08",
+		"id": "08:177",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "By the way, did you pick up the portable radio at Baldino's?"
+	},
+	{
+		"source": "08",
+		"id": "08:178",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello! Twinsen? Baldino here! How are you? Looks like this transmitter works! If you swing by, I have a portable radio to give you. Also, I will have the proto-pack finished soon. It will allow you to fly in complete safety. Over."
+	},
+	{
+		"source": "08",
+		"id": "08:179",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, I am on Emerald Moon. I have uncovered a diabolical plot organized by the Esmers!! The kidnapping of the wizards and the children was only a small part of their plan. They are about to destroy our planet!!! Listen Twinsen, you must meet me!!"
+	},
+	{
+		"source": "08",
+		"id": "08:180",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Esmers have set up a base somewhere on Desert Island. Find it and steal a shuttle!! You are the only one who can save Twinsun!!!"
+	},
+	{
+		"source": "08",
+		"id": "08:181",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I've got enough problems without you touching stuff...so get lost!"
+	},
+	{
+		"source": "08",
+		"id": "08:182",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ouch!"
+	},
+	{
+		"source": "08",
+		"id": "08:183",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Pfew, I'm totally exhausted moving all these crates."
+	},
+	{
+		"source": "08",
+		"id": "08:184",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey mister! If you want, I can carry your crate up to the exit for 102 little Kashes!"
+	},
+	{
+		"source": "08",
+		"id": "08:185",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Go back upstairs. You'll get your crate, I'm sending it directly to the reception!"
+	},
+	{
+		"source": "08",
+		"id": "08:186",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi, Twinsen. With this storm, I've got lots of customers and I don't have one minute to myself."
+	},
+	{
+		"source": "08",
+		"id": "08:187",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't have the time, Twinsen. Ask Luc, the boss!"
+	},
+	{
+		"source": "08",
+		"id": "08:188",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thief!"
+	},
+	{
+		"source": "08",
+		"id": "08:189",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thank you!"
+	},
+	{
+		"source": "08",
+		"id": "08:190",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, you have no business being here!"
+	},
+	{
+		"source": "08",
+		"id": "08:191",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What a story, those guys showing up from the Emerald Moon, what a story!"
+	},
+	{
+		"source": "08",
+		"id": "08:192",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you are lost, go back and get your holomap."
+	},
+	{
+		"source": "08",
+		"id": "08:193",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you want Life or Magic points, you can get some from one of the vending machines on the bar."
+	},
+	{
+		"source": "08",
+		"id": "08:194",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Better ask his buddies Pat or Fab. They're upstairs. Haven't moved since it started raining."
+	},
+	{
+		"source": "08",
+		"id": "08:195",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello, Twinsen my friend."
+	},
+	{
+		"source": "08",
+		"id": "08:196",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Howdy kiddo! How goes it?"
+	},
+	{
+		"source": "08",
+		"id": "08:197",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "He said he wanted to practice a new piece on his guitar. He usually hides out on the cliffs for peace and quiet. But not this long usually."
+	},
+	{
+		"source": "08",
+		"id": "08:198",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thanks for having freed my buddy Raph, kiddo. Without you, his goose was cooked for sure."
+	},
+	{
+		"source": "08",
+		"id": "08:199",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "These \"Esmers\" look quite nice, they ask lots of questions though. Everything interests them."
+	},
+	{
+		"source": "08",
+		"id": "08:200",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Waiter!"
+	},
+	{
+		"source": "08",
+		"id": "08:201",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Cool!! That music rocks! Don't you think?"
+	},
+	{
+		"source": "08",
+		"id": "08:202",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you where he is now!"
+	},
+	{
+		"source": "08",
+		"id": "08:203",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "It's great that our buddy Raph is back at the lighthouse. But the arrival of these space aliens, that's some thin-I-never-seen-before."
+	},
+	{
+		"source": "08",
+		"id": "08:204",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I sure dig those \"extra-twinsunians\". Their civilization is more advanced than ours, but they are still way cool."
+	},
+	{
+		"source": "08",
+		"id": "08:205",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey!, we need some music here!"
+	},
+	{
+		"source": "08",
+		"id": "08:206",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you go to the cellar, be [hic!]... be careful! I been there my own self... just to get in a couple snorts on the sly: well there's a [hic!] there's a hole smack in the middle. Yessir, smack in the middle! Oh, that falllll, yowza!"
+	},
+	{
+		"source": "08",
+		"id": "08:207",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Darn, I had seen some pink grobos before, but green chaps from outer space, that's a first!"
+	},
+	{
+		"source": "08",
+		"id": "08:208",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Waiter!"
+	},
+	{
+		"source": "08",
+		"id": "08:209",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not being from here, I find your island rather strange. I don't understand why your Weather Wizard does nothing about this storm. By the way, do you know that it's possible to search the garbage cans, the vases and the closets by standing in front of them and doing \"ACTION\"?"
+	},
+	{
+		"source": "08",
+		"id": "08:210",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, I am not from here."
+	},
+	{
+		"source": "08",
+		"id": "08:211",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Waiter!"
+	},
+	{
+		"source": "08",
+		"id": "08:212",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry, but I don't have anything for a Dino-Fly."
+	},
+	{
+		"source": "08",
+		"id": "08:213",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Personally, I have nothing for your Dino-Fly, but the client said she could help you."
+	},
+	{
+		"source": "08",
+		"id": "08:214",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you are interested in an item, stand in front of it and do \"ACTION\"."
+	},
+	{
+		"source": "08",
+		"id": "08:215",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't touch my cash register!"
+	},
+	{
+		"source": "08",
+		"id": "08:216",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know, even though he is my brother, I don't give a hoot about his whereabouts, this lazy bum thinks about nothing but playing his guitar on the cliffs."
+	},
+	{
+		"source": "08",
+		"id": "08:217",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You know, since people are scared, there are only a few shops left open. The Esmers are looking for you, they even had your museum closed down!"
+	},
+	{
+		"source": "08",
+		"id": "08:218",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But I have a customer who works for a healing wizard named Ker'aooc. He lives on Desert Island. According to my friend, he treats everybody for everything."
+	},
+	{
+		"source": "08",
+		"id": "08:219",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The foul weather prevents the boats from leaving the harbor. There's nothing to do, all maritime activity is paralyzed. Let me tell you, Mr. Twinsen, only the Weather Wizard could set things straight!!"
+	},
+	{
+		"source": "08",
+		"id": "08:220",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You need a ticket to board the ferry, Mr. Twinsen."
+	},
+	{
+		"source": "08",
+		"id": "08:221",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What?? Very funny!! Now this good-for-nothing abandons the lighthouse right in the middle of the storm! What a shame!!"
+	},
+	{
+		"source": "08",
+		"id": "08:222",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Your ticket is in order, Mr. Twinsen, you may board. Have a nice trip!"
+	},
+	{
+		"source": "08",
+		"id": "08:223",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "By the way, the missus was looking for you. She tells you to go see Ker'aooc, the healing wizard, on Desert island. He knows how to cure your Dino-Fly."
+	},
+	{
+		"source": "08",
+		"id": "08:224",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Esmers have forbidden all maritime service.. There is nobody left to hop from island to island anyway. They are too scared of the Esmers."
+	},
+	{
+		"source": "08",
+		"id": "08:225",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "There is still no maritime service, but I have the impression that there are less Esmers on our island."
+	},
+	{
+		"source": "08",
+		"id": "08:226",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Insert 5 Kashes if you want 10 Magic points."
+	},
+	{
+		"source": "08",
+		"id": "08:227",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Insert 5 Kashes if you want 10 Life points."
+	},
+	{
+		"source": "08",
+		"id": "08:228",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Insert 5 Kashes if you want to listen to a title:"
+	},
+	{
+		"source": "08",
+		"id": "08:229",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "For 3 Kashes, do you want to use the telescope?"
+	},
+	{
+		"source": "08",
+		"id": "08:230",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi, Twinsen. Far as I'm concerned, I like it when it rains. The grass gets nicely thick. Makes it taste better."
+	},
+	{
+		"source": "08",
+		"id": "08:231",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Yeah, actually I saw him pass by a while back. He was holding his guitar, heading for the cliffs."
+	},
+	{
+		"source": "08",
+		"id": "08:232",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Since the good weather's back, my bird friends are much less on edge. Oh, and be careful, there's a weirdo hiding behind the trees."
+	},
+	{
+		"source": "08",
+		"id": "08:233",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "People from the planet Twinsun, we come to you in a spirit of peace.\nThank you for dispersing this storm which prevented us from landing. We have observed your planet for many cycles now and have decided to come and study your culture on the spot. We have traveled through Space solely with the goal of discovering your civilization."
+	},
+	{
+		"source": "08",
+		"id": "08:234",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We wish only to know you and to share our knowledge with you.\nHave trust in our friendship!"
+	},
+	{
+		"source": "08",
+		"id": "08:235",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will probably find it interesting."
+	},
+	{
+		"source": "08",
+		"id": "08:236",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thank you, Twinsen. Without you, who knows what would have happened to our planets."
+	},
+	{
+		"source": "08",
+		"id": "08:237",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Do not mention it. You have realized our prophecy. Our planet is once again the paradise it was at creation, you have saved Zeelich from the dictatorship that our emperor was preparing, and best of all, by preventing the impostor FunFrock from executing his plans, you have saved both our worlds!!!"
+	},
+	{
+		"source": "08",
+		"id": "08:238",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:239",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I am updating the works of my defunct son. Certain plans here date back from the time when he rebuilt the island's network of sewers."
+	},
+	{
+		"source": "08",
+		"id": "08:240",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Here we have a very instructive map of the sewers. Before you can consult it, you must wait until I restore it. For that, I need a vial of gallic acid. Unfortunately, there's none left on the island."
+	},
+	{
+		"source": "08",
+		"id": "08:241",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Yes, that's exactly what I needed. I am going to use it on the map of the sewers."
+	},
+	{
+		"source": "08",
+		"id": "08:242",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The gallic acid has revealed a text previously invisible. It mentions a small pyramid that was in my possession. Here! It's yours!"
+	},
+	{
+		"source": "08",
+		"id": "08:243",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah yes, the pharmacist's younger brother. No, I don't know where he is."
+	},
+	{
+		"source": "08",
+		"id": "08:244",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'm still busy with my son's documents here. Everybody seems to be terrorized by these few costumed strangers. At my age, one has seen worse!!"
+	},
+	{
+		"source": "08",
+		"id": "08:245",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thanks again for your help, Twinsen. These maps begin to make sense. You should look at them, they talk of things that would interest you."
+	},
+	{
+		"source": "08",
+		"id": "08:246",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello Mr. Twinsen."
+	},
+	{
+		"source": "08",
+		"id": "08:247",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "This rain, will it ever end! Between my kids who were supposed to go on a field trip and my oldest son who keeps forgetting his umbrella...I hope that they're not outside in this weather."
+	},
+	{
+		"source": "08",
+		"id": "08:248",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Personally, I don't know where he is, but go look at the pharmacy. His sister might be able to help you."
+	},
+	{
+		"source": "08",
+		"id": "08:249",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The weather's improving. Now the kids can go on their class outing."
+	},
+	{
+		"source": "08",
+		"id": "08:250",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Welcome to the Inter-islands Ferry, Mr. Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:251",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You can board as soon as the storm is over."
+	},
+	{
+		"source": "08",
+		"id": "08:252",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Why don't you read the posters. And if you are interested in a destination, you tell me."
+	},
+	{
+		"source": "08",
+		"id": "08:253",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What can I do for you?"
+	},
+	{
+		"source": "08",
+		"id": "08:254",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "For 10 Kashes, wher...where do you want to go?"
+	},
+	{
+		"source": "08",
+		"id": "08:255",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Last time I saw him, he was hanging around in town."
+	},
+	{
+		"source": "08",
+		"id": "08:256",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Sorry sir, our ferries do not serve that island."
+	},
+	{
+		"source": "08",
+		"id": "08:257",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "If you'd care to purchase something, you just have to stand in front of it and do \"ACTION\"."
+	},
+	{
+		"source": "08",
+		"id": "08:258",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A Nitro-Meca-Penguin costs 4 Kashes."
+	},
+	{
+		"source": "08",
+		"id": "08:259",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I heard he likes to \"seek inspiration\" by \"The Cliffs of the Woodbridge\". That place is dangerous, if half of what I've heard about the Tralü's for real. Don't go if you are unarmed."
+	},
+	{
+		"source": "08",
+		"id": "08:260",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "A holomap costs 10 kashes."
+	},
+	{
+		"source": "08",
+		"id": "08:261",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Three darts cost 4 Kashes."
+	},
+	{
+		"source": "08",
+		"id": "08:262",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't do that, you fool, it's going to blow up!"
+	},
+	{
+		"source": "08",
+		"id": "08:263",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Nobody touches the cash register!"
+	},
+	{
+		"source": "08",
+		"id": "08:264",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Welcome, Mr. Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:265",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "You've seen the visitors. They are Esmers. Supposedly, they're peaceloving and just want to trade us their technology for some of the wisdom of our wizards."
+	},
+	{
+		"source": "08",
+		"id": "08:266",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh what a fall, I'm hurt badly. Under normal conditions, I could have taken you for a spin in the air. But this time, you will have to treat me first."
+	},
+	{
+		"source": "08",
+		"id": "08:267",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh! I don't know where he is. But if he'd done his job, I'd have seen his light and wouldn't have crashed."
+	},
+	{
+		"source": "08",
+		"id": "08:268",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Aahhh, thank you! I think I can fly now and take you where you want."
+	},
+	{
+		"source": "08",
+		"id": "08:269",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Where do you want to go, Twinsen?"
+	},
+	{
+		"source": "08",
+		"id": "08:270",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen ! Did you see Zoé? She is looking for you everywhere! She has something very important to tell you!!"
+	},
+	{
+		"source": "08",
+		"id": "08:271",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "That alien jalopy's easy on the eyes, but it looks difficult to park."
+	},
+	{
+		"source": "08",
+		"id": "08:272",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't take anybody in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh? By the way, did you notice that you could jump while you are running?"
+	},
+	{
+		"source": "08",
+		"id": "08:273",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Mmm, it's been a while since I last saw him. Not surprising with this blasted storm!!"
+	},
+	{
+		"source": "08",
+		"id": "08:274",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "So, for 8 Kashes, where do I drop you?"
+	},
+	{
+		"source": "08",
+		"id": "08:275",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hang on!"
+	},
+	{
+		"source": "08",
+		"id": "08:276",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I just can't believe these visitors coming from another planet, let alone just to offer us their technology! I hope they are not going to start competing with me ..."
+	},
+	{
+		"source": "08",
+		"id": "08:277",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ouch!!!!"
+	},
+	{
+		"source": "08",
+		"id": "08:278",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't talk to nutcases, Mr. Twinsen!!"
+	},
+	{
+		"source": "08",
+		"id": "08:279",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What a pain these sewers! What a stink and I still have oodles of manhole covers to update. Phew!! I have had it up to here!!"
+	},
+	{
+		"source": "08",
+		"id": "08:280",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Well, I am certain he is not in the sewers, I would have seen him."
+	},
+	{
+		"source": "08",
+		"id": "08:281",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello."
+	},
+	{
+		"source": "08",
+		"id": "08:282",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But I have an idea how you can help your friend!"
+	},
+	{
+		"source": "08",
+		"id": "08:283",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Thief!"
+	},
+	{
+		"source": "08",
+		"id": "08:284",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste..."
+	},
+	{
+		"source": "08",
+		"id": "08:285",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert Island. I work for him and, believe me, he knows tricks that would cure anything, even a Dino-Fly..."
+	},
+	{
+		"source": "08",
+		"id": "08:286",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know. I live on Desert Island."
+	},
+	{
+		"source": "08",
+		"id": "08:287",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped ?"
+	},
+	{
+		"source": "08",
+		"id": "08:288",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Infortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on another of his strolls on the cliffs! One of these days it might be nasty, with all these rumors about the Tralü..."
+	},
+	{
+		"source": "08",
+		"id": "08:289",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "My pretty bunny has come back, thanks to you!! Oh thank you, Mr. Twinsen!!"
+	},
+	{
+		"source": "08",
+		"id": "08:290",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ohhh...I am definitely getting too old for these acrobatics!"
+	},
+	{
+		"source": "08",
+		"id": "08:291",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Now then, meet me at the School of Magic. I've got a surprise for you."
+	},
+	{
+		"source": "08",
+		"id": "08:292",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Twinsen, your performance was exemplary; here's your reward, this slate. It allows you to memorize images that you see, such as maps."
+	},
+	{
+		"source": "08",
+		"id": "08:293",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Mr. Twinsen! Could you tell me why you're following me?!"
+	},
+	{
+		"source": "08",
+		"id": "08:294",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But that's my umb... Oh !!! Excuse me... I thought it was mine. Boohooo, I'm so embarrassed... I keep making mistakes..."
+	},
+	{
+		"source": "08",
+		"id": "08:295",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "But, Mr. Twinsen, I assure you that I don't have your tunic. Maybe you should look at home."
+	},
+	{
+		"source": "08",
+		"id": "08:296",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Help!!"
+	},
+	{
+		"source": "08",
+		"id": "08:297",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Raph ? Ah yeah, he has set up a super combo with his buddies Pat and Fab. But I don't know where he is."
+	},
+	{
+		"source": "08",
+		"id": "08:298",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Not again. What do you want from me now, Mr. Twinsen?"
+	},
+	{
+		"source": "08",
+		"id": "08:299",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We only wish to know you and to share our knowledge with you.\nHave trust in our friendship."
+	},
+	{
+		"source": "08",
+		"id": "08:300",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will certainly be interested should you choose to attend."
+	},
+	{
+		"source": "08",
+		"id": "08:301",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Twinsunian. We are your friends. We come in peace to your planet. We only wish to know you and to share our knowledge with you.\nHave trust in our friendship."
+	},
+	{
+		"source": "08",
+		"id": "08:302",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will certainly be interested should you choose to attend."
+	},
+	{
+		"source": "08",
+		"id": "08:303",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi Mr. Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:304",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "No school for me today. I'd love to find the Tralü and do it in. 'Cause if I make the Tralü disappear, I'll become a hero and they will erect me a whole museum!!"
+	},
+	{
+		"source": "08",
+		"id": "08:305",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where he is, but his buddies are at the pub \"Chez Luc\"."
+	},
+	{
+		"source": "08",
+		"id": "08:306",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Did you see those weirdoes from the sky? Mebbe they're some of the Tralü's buddies!"
+	},
+	{
+		"source": "08",
+		"id": "08:307",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Why the disguise? You scared of getting caught by the Tralü's buddies?"
+	},
+	{
+		"source": "08",
+		"id": "08:308",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Waaah!!!"
+	},
+	{
+		"source": "08",
+		"id": "08:309",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Say Twinsen, did you ever see that Tralü? They say it's a monster that lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't forget to carry a weapon. I mean your magic ball!"
+	},
+	{
+		"source": "08",
+		"id": "08:310",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know him very well, but try asking around at \"Chez Luc,\" that's his big hangout."
+	},
+	{
+		"source": "08",
+		"id": "08:311",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hey, did you really destroy the Tralü? This monster really existed? Hail to you, may you be prosperous and may the Sendells protect your descendants!"
+	},
+	{
+		"source": "08",
+		"id": "08:312",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'd like to take the kids to the \"Flowers Circle\", but the weather's just too bad."
+	},
+	{
+		"source": "08",
+		"id": "08:313",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where he is, Mr. Twinsen."
+	},
+	{
+		"source": "08",
+		"id": "08:314",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Look at that, this place brings out the music in young souls. In fact, they adore Sendell."
+	},
+	{
+		"source": "08",
+		"id": "08:315",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Brute!"
+	},
+	{
+		"source": "08",
+		"id": "08:316",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hello, Mr. Twinsen!"
+	},
+	{
+		"source": "08",
+		"id": "08:317",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "[Sniff]...the children...we were at the \"Flowers Circle\" [sniff]...suddenly one of those alien ships showed up right overhead. There was this big white flash, and then...nothing. Next thing I remember, I found myself alone, the children nowhere in sight, and the ship was taking off. It's horrible, Mr. Twinsen! You have to find them! You have to!"
+	},
+	{
+		"source": "08",
+		"id": "08:318",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "[Sniff]...thank you, Mr. Twinsen, [sniff]..."
+	},
+	{
+		"source": "08",
+		"id": "08:319",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh, hey, Twinsen. Did you check out my essay on my future plans? Here, I will summarize: Phase 1) Grow up. Phase 2) Become a sailor! And Phase 3) Buy a million umbrellas for my brother."
+	},
+	{
+		"source": "08",
+		"id": "08:320",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I don't know where he might be, but I've always liked him, that Raph. Once he even had me over to the lighthouse. The view was impressive!"
+	},
+	{
+		"source": "08",
+		"id": "08:321",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I think after my big brother cleans your clock, you won't act like such a big shot."
+	},
+	{
+		"source": "08",
+		"id": "08:322",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
+	},
+	{
+		"source": "08",
+		"id": "08:323",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hi there, Mr. Twinsen ! Listen to our new nursery rhyme!!"
+	},
+	{
+		"source": "08",
+		"id": "08:324",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
+	},
+	{
+		"source": "08",
+		"id": "08:325",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Never heard it."
+	},
+	{
+		"source": "08",
+		"id": "08:326",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I'll tell my big brother, he'll beat you up while I laugh, and that'll show you!"
+	},
+	{
+		"source": "08",
+		"id": "08:327",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Nice to see you, Twinsen ! This storm really chaps my hide. I just can't calm down... And you, don't forget that you can change your behavior."
+	},
+	{
+		"source": "08",
+		"id": "08:328",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away!!"
+	},
+	{
+		"source": "08",
+		"id": "08:329",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "So Twinsen, this li'l monster, coming soon?"
+	},
+	{
+		"source": "08",
+		"id": "08:330",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "What's up with these Esmers? Couldn't they have stayed home?"
+	},
+	{
+		"source": "08",
+		"id": "08:331",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Since the weather outside is horrible, the teacher said I could jump rope in the classroom. See?"
+	},
+	{
+		"source": "08",
+		"id": "08:332",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ow! My big brother's gonna take care of you."
+	},
+	{
+		"source": "08",
+		"id": "08:333",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Oh yeah, I know him, he's the one always playing his guitar!!"
+	},
+	{
+		"source": "08",
+		"id": "08:334",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
+	},
+	{
+		"source": "08",
+		"id": "08:335",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "H'lo, Mr. Twinsen. I'm being punished 'cause I ate a whole box of chalk."
+	},
+	{
+		"source": "08",
+		"id": "08:336",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I can't help you, Mr. Twinsen."
+	},
+	{
+		"source": "08",
+		"id": "08:337",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Don't care, not at all! But my big brother, he'll avenge me."
+	},
+	{
+		"source": "08",
+		"id": "08:338",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\" It's Sendell which makes her nest\nIn the heart of the planet\nSendell does her magic well\nBut it might make your head swell\nSendell is the prettiest\nFunFrock is a dirty beast.\""
+	},
+	{
+		"source": "08",
+		"id": "08:339",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The pharmacist, she is so pretty! I don't know what else to buy in order to see her. One day I ... I'll dare talk to her."
+	},
+	{
+		"source": "08",
+		"id": "08:340",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "My eyes see no one else but the pharmacist, my heart beats for nobody but her. If I dared, I'd scale the cliffs to fetch her the music I have often heard over there."
+	},
+	{
+		"source": "08",
+		"id": "08:341",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "And now, with these aliens showing up in their big fancy ships, there's no way she'll notice me, my beloved pharmacist..."
+	},
+	{
+		"source": "08",
+		"id": "08:342",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Ah Twinsen, with this rain, I found plenty of mushrooms!"
+	},
+	{
+		"source": "08",
+		"id": "08:343",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time."
+	},
+	{
+		"source": "08",
+		"id": "08:344",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly."
+	},
+	{
+		"source": "08",
+		"id": "08:345",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "I had hidden in the shuttle when you left the planet of the strange people. But now, I would like to go back. We left the wizards all alone up there, and they must be getting bored stiff."
+	},
+	{
+		"source": "08",
+		"id": "08:346",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "\"No thanks, seems to be OK now...\""
+	},
+	{
+		"source": "08",
+		"id": "08:347",
+		"area": "Citadel Island",
+		"location": null,
+		"speaker": null,
+		"message": "Hooooo !!!"
+	}
 ]
