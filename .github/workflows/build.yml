@@ -9,7 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Validate JSON
-        run: bin/validate-json.sh lba1/*.json lba2/*.json
-      - name: Merge JSON
-        run: bin/merge.sh lba1 lba2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: "npm"
+      - run: npm ci
+      - run: npm run validate
+      - run: npm run build

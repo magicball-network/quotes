@@ -1,0 +1,25 @@
+{
+	"name": "lba-quotes",
+	"version": "1.0.0",
+	"description": "Quotes from the LBA video games.",
+	"license": "Apache-2.0",
+	"scripts": {
+		"clean": "rimraf dist",
+		"validate": "run-s validate:*",
+		"build": "run-s build:*",
+		"test": "run-s test:*",
+		"start": "run-s validate build test",
+		"validate:source-json": "node bin/validate-json.mjs lba1/*.json lba2/*.json",
+		"validate:prettier": "prettier --check .",
+		"build:json": "node bin/merge-json.mjs",
+		"test:merged-json": "node bin/validate-json.mjs dist/lba1.json dist/lba2.json",
+		"prettier-write": "prettier --write ."
+	},
+	"devDependencies": {
+		"glob-promise": "^6.0.5",
+		"node-jq": "^4.3.0",
+		"npm-run-all": "^4.1.5",
+		"prettier": "^3.1.1",
+		"rimraf": "^5.0.5"
+	}
+}

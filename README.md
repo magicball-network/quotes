@@ -5,16 +5,15 @@ The text is stored in separate JSON files.
 
 # Development
 
-The `jq` utility is used for a lot of parts in the development process.
+Development makes use of NodeJS.
 
 ## Building
 
-The quotes are stored in separate JSON files for each game, based on the TEXT
-resource file entry.
+Various NPM scripts are defined:
 
-These sperate files can be bundled into a single JSON file with the
-`bin/merge.sh` shell script.
+- clean -- remove generated content
+- validate -- validate input files
+- build -- build the result
+- test -- test the results
 
-```
-bin/merge.sh lba1 lba2
-```
+The start command will execute: validate, build, test
