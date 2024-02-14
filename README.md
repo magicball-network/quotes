@@ -11,9 +11,9 @@ Development makes use of NodeJS.
 
 Various NPM scripts are defined:
 
-- clean -- remove generated content
-- validate -- validate input files
-- build -- build the result
-- test -- test the results
+-   clean -- remove generated content
+-   validate -- validate input files
+-   build -- build the result
+-   test -- test the results
 
 The start command will execute: validate, build, test
