@@ -16,7 +16,7 @@ async function validate_json(filePattern) {
 }
 
 let allValid = true;
-for (let i = 0; i < process.argv.length; i++) {
+for (let i = 2; i < process.argv.length; i++) {
 	allValid &= await validate_json(process.argv[i]);
 }
 
