@@ -1,66 +1,65 @@
 <!doctype html>
 <html lang="en">
+	<head>
+		<title>Little Big Adventure Game Quotes (αlpha)</title>
+		<style>
+			.quote {
+				border: 1px solid silver;
+				margin: 0.5em;
+				padding: 0.5em;
+			}
 
-<head>
-	<title>Little Big Adventure Game Quotes (αlpha)</title>
-	<style>
-		.quote {
-			border: 1px solid silver;
-			margin: 0.5em;
-			padding: 0.5em;
-		}
+			.quote dt {
+				font-weight: bolder;
+			}
 
-		.quote dt {
-			font-weight: bolder;
-		}
+			.quote .message {
+				white-space: pre-line;
+			}
 
-		.quote .message {
-			white-space: pre-line;
-		}
+			footer {
+				font-size: xx-small;
+				color: gray;
+			}
+		</style>
+	</head>
 
-		footer {
-			font-size: xx-small;
-			color: gray;
-		}
-	</style>
-</head>
+	<body>
+		<header>
+			<h1>Little Big Adventure Game Quotes <sup>αlpha</sup></h1>
+		</header>
 
-<body>
-	<header>
-		<h1>Little Big Adventure Game Quotes <sup>αlpha</sup></h1>
-	</header>
+		<section>
+			<fieldset>
+				<label for="gameSelect">Game</label>
+				<select id="gameSelect">
+					<option value="">Any</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<label for="areaSelect">Area</label>
+				<select id="areaSelect">
+					<option value="">Any</option>
+				</select>
+			</fieldset>
+			<fieldset>
+				<label for="search">Search</label>
+				<input id="search" placeholder="Search for a quote" />
+				<button id="searchBtn">Search</button>
+				<button id="randomBtn">Random</button>
+			</fieldset>
+		</section>
 
-	<section>
-		<fieldset>
-			<label for="gameSelect">Game</label>
-			<select id="gameSelect">
-				<option value="">Any</option>
-			</select>
-		</fieldset>
-		<fieldset>
-			<label for="areaSelect">Area</label>
-			<select id="areaSelect">
-				<option value="">Any</option>
-			</select>
-		</fieldset>
-		<fieldset>
-			<label for="search">Search</label>
-			<input id="search" placeholder="Search for a quote" />
-			<button id="searchBtn">Search</button>
-			<button id="randomBtn">Random</button>
-		</fieldset>
-	</section>
+		<section id="quotes"></section>
 
-	<section id="quotes"></section>
+		<footer>
+			Service provided by
+			<a href="https://magicball.net">Magicball Network</a> &mdash;
+			Project hosted on
+			<a href="https://github.com/magicball-network/quotes">Gitlab</a>
+		</footer>
 
-	<footer>
-		Service provided by
-		<a href="https://magicball.net">Magicball Network</a> &mdash;
-		Project hosted on
-		<a href="https://github.com/magicball-network/quotes">Gitlab</a>
-	</footer>
-
-	<script id="tmpl-quote" type="x-tmpl-mustache">
+		<script id="tmpl-quote" type="x-tmpl-mustache">
 			<div class="quote">
 				<dl id="fqnId">
 					<dt>Game</dt>
@@ -83,197 +82,202 @@
 			</div>
 		</script>
 
-	<script type="module">
-		import * as Mustache from "mustache";
-		window.Mustache = Mustache;
-	</script>
+		<script type="module">
+			import * as Mustache from "mustache";
+			window.Mustache = Mustache;
+		</script>
 
-	<script>
-		const games = {
-			lba1: "Little Big Adventure 1 / Relentless",
-			lba2: "Little Big Adventure 2 / Twinsen's Odyssey",
-		};
-		const quotes = [];
-		const quoteIndex = {};
-		const areaMap = {};
+		<script>
+			const games = {
+				lba1: "Little Big Adventure 1 / Relentless",
+				lba2: "Little Big Adventure 2 / Twinsen's Odyssey",
+			};
+			const quotes = [];
+			const quoteIndex = {};
+			const areaMap = {};
 
-		async function retrieveQuotes(game) {
-			areaMap[game] = new Set();
-			let response = await fetch(game + ".json");
-			if (response.ok) {
-				for (let quote of await response.json()) {
-					quote["fqnId"] = game + ":" + quote.id;
-					quote["game"] = game;
-					quotes.push(quote);
-					quoteIndex[quote.fqnId] = quote;
-					areaMap[game].add(quote.area);
+			async function retrieveQuotes(game) {
+				areaMap[game] = new Set();
+				let response = await fetch(game + ".json");
+				if (response.ok) {
+					for (let quote of await response.json()) {
+						quote["fqnId"] = game + ":" + quote.id;
+						quote["game"] = game;
+						quotes.push(quote);
+						quoteIndex[quote.fqnId] = quote;
+						areaMap[game].add(quote.area);
+					}
+				} else {
+					console.error(
+						"Loading quotes for {} failed: {}",
+						game,
+						response,
+					);
 				}
-			} else {
-				console.error(
-					"Loading quotes for {} failed: {}",
-					game,
-					response,
+			}
+
+			async function loadQuotes() {
+				return Promise.all([
+					retrieveQuotes("lba1"),
+					retrieveQuotes("lba2"),
+				]);
+			}
+
+			function clearQuotes() {
+				document.getElementById("quotes").innerHTML = "";
+			}
+
+			function renderQuote(target, quote) {
+				const rendered = Mustache.render(
+					document.getElementById("tmpl-quote").innerHTML,
+					quote,
 				);
+				target.innerHTML += rendered;
 			}
-		}
 
-		async function loadQuotes() {
-			return Promise.all([
-				retrieveQuotes("lba1"),
-				retrieveQuotes("lba2"),
-			]);
-		}
-
-		function clearQuotes() {
-			document.getElementById("quotes").innerHTML = "";
-		}
-
-		function renderQuote(target, quote) {
-			const rendered = Mustache.render(
-				document.getElementById("tmpl-quote").innerHTML,
-				quote,
-			);
-			target.innerHTML += rendered;
-		}
-
-		function matchesQuote(quote, params) {
-			if (!quote) {
-				return false;
-			}
-			if (!params) {
-				return true;
-			}
-			if (params.area) {
-				let area = params.area.split(":", 2);
+			function matchesQuote(quote, params) {
+				if (!quote) {
+					return false;
+				}
+				if (!params) {
+					return true;
+				}
+				if (params.area) {
+					let area = params.area.split(":", 2);
+					if (
+						!area ||
+						quote.game !== area[0] ||
+						quote.area !== area[1]
+					) {
+						return false;
+					}
+				} else if (params.game && params.game !== quote.game) {
+					return false;
+				}
 				if (
-					!area ||
-					quote.game !== area[0] ||
-					quote.area !== area[1]
+					params.query &&
+					!quote.message.toLowerCase().includes(params.query)
 				) {
 					return false;
 				}
-			} else if (params.game && params.game !== quote.game) {
-				return false;
+				return true;
 			}
-			if (
-				params.query &&
-				!quote.message.toLowerCase().includes(params.query)
-			) {
-				return false;
-			}
-			return true;
-		}
 
-		function findQuotes(params) {
-			const target = document.getElementById("quotes");
-			let cnt = 0;
-			for (let quote of quotes) {
-				if (matchesQuote(quote, params)) {
-					renderQuote(target, quote);
-					++cnt;
-				}
-				if (cnt >= 50) {
-					break;
+			function findQuotes(params) {
+				const target = document.getElementById("quotes");
+				let cnt = 0;
+				for (let quote of quotes) {
+					if (matchesQuote(quote, params)) {
+						renderQuote(target, quote);
+						++cnt;
+					}
+					if (cnt >= 50) {
+						break;
+					}
 				}
 			}
-		}
 
-		function searchQuotes() {
-			const query = document.getElementById("search").value;
-			if (!query) {
-				return;
-			}
-			clearQuotes();
-			findQuotes({
-				game: document.getElementById("gameSelect").value,
-				area: document.getElementById("areaSelect").value,
-				query: query,
-			});
-		}
-
-		function randomQuote() {
-			const params = {
-				game: document.getElementById("gameSelect").value,
-				area: document.getElementById("areaSelect").value,
-			};
-			while (true) {
-				let idx = Math.round(Math.random() * quotes.length);
-				let quote = quotes[idx];
-				if (matchesQuote(quote, params)) {
-					clearQuotes();
-					renderQuote(document.getElementById("quotes"), quote);
+			function searchQuotes() {
+				const query = document.getElementById("search").value;
+				if (!query) {
 					return;
 				}
+				clearQuotes();
+				findQuotes({
+					game: document.getElementById("gameSelect").value,
+					area: document.getElementById("areaSelect").value,
+					query: query,
+				});
 			}
-		}
 
-		function initUi() {
-			const gameSelect = document.getElementById("gameSelect");
-			for (let game of Object.keys(games)) {
-				const gameElm = document.createElement("option");
-				gameElm.value = game;
-				gameElm.textContent = games[game];
-				gameSelect.appendChild(gameElm);
-			}
-			const areaSelect = document.getElementById("areaSelect");
-			for (let game of Object.keys(areaMap)) {
-				const gameElm = document.createElement("optgroup");
-				gameElm.label = games[game];
-				gameElm.id = "areaSelectGroup" + game;
-				for (let area of areaMap[game]) {
-					const areaElm = document.createElement("option");
-					areaElm.value = game + ":" + area;
-					areaElm.textContent = area;
-					gameElm.appendChild(areaElm);
-				}
-				if (gameElm.children.length > 0) {
-					areaSelect.appendChild(gameElm);
-				}
-			}
-			document
-				.getElementById("searchBtn")
-				.addEventListener("click", searchQuotes);
-			document
-				.getElementById("randomBtn")
-				.addEventListener("click", randomQuote);
-			gameSelect.addEventListener("change", (e) => {
-				for (let game of Object.keys(games)) {
-					let elm = document.getElementById(
-						"areaSelectGroup" + game,
-					);
-					if (!elm) {
-						continue;
+			function randomQuote() {
+				const params = {
+					game: document.getElementById("gameSelect").value,
+					area: document.getElementById("areaSelect").value,
+				};
+				while (true) {
+					let idx = Math.round(Math.random() * quotes.length);
+					let quote = quotes[idx];
+					if (matchesQuote(quote, params)) {
+						clearQuotes();
+						renderQuote(document.getElementById("quotes"), quote);
+						return;
 					}
-					elm.disabled =
-						gameSelect.value !== "" &&
-						gameSelect.value !== game;
-					if (elm.disabled && areaSelect.value.startsWith(game)) {
-						areaSelect.value = "";
+				}
+			}
+
+			function initUi() {
+				const gameSelect = document.getElementById("gameSelect");
+				for (let game of Object.keys(games)) {
+					const gameElm = document.createElement("option");
+					gameElm.value = game;
+					gameElm.textContent = games[game];
+					gameSelect.appendChild(gameElm);
+				}
+				const areaSelect = document.getElementById("areaSelect");
+				for (let game of Object.keys(areaMap)) {
+					const gameElm = document.createElement("optgroup");
+					gameElm.label = games[game];
+					gameElm.id = "areaSelectGroup" + game;
+					for (let area of areaMap[game]) {
+						const areaElm = document.createElement("option");
+						areaElm.value = game + ":" + area;
+						areaElm.textContent = area;
+						gameElm.appendChild(areaElm);
+					}
+					if (gameElm.children.length > 0) {
+						areaSelect.appendChild(gameElm);
+					}
+				}
+				document
+					.getElementById("searchBtn")
+					.addEventListener("click", searchQuotes);
+				document
+					.getElementById("randomBtn")
+					.addEventListener("click", randomQuote);
+				gameSelect.addEventListener("change", (e) => {
+					for (let game of Object.keys(games)) {
+						let elm = document.getElementById(
+							"areaSelectGroup" + game,
+						);
+						if (!elm) {
+							continue;
+						}
+						elm.disabled =
+							gameSelect.value !== "" &&
+							gameSelect.value !== game;
+						if (elm.disabled && areaSelect.value.startsWith(game)) {
+							areaSelect.value = "";
+						}
+					}
+				});
+			}
+
+			window.addEventListener("DOMContentLoaded", async (event) => {
+				await loadQuotes();
+				console.log("Loaded quotes");
+				initUi();
+				if (window.location.hash !== "") {
+					let id = window.location.hash.substring(1);
+					if (quoteIndex[id]) {
+						renderQuote(
+							document.getElementById("quotes"),
+							quoteIndex[id],
+						);
 					}
 				}
 			});
-		}
 
-		window.addEventListener("DOMContentLoaded", async (event) => {
-			await loadQuotes();
-			console.log("Loaded quotes");
-			initUi();
-			if (window.location.hash !== "") {
+			window.addEventListener("hashchange", async (event) => {
+				clearQuotes();
 				let id = window.location.hash.substring(1);
 				if (quoteIndex[id]) {
-					renderQuote(document.getElementById("quotes"), quoteIndex[id]);
+					renderQuote(
+						document.getElementById("quotes"),
+						quoteIndex[id],
+					);
 				}
-			}
-		});
-
-		window.addEventListener("hashchange", async (event) => {
-			clearQuotes();
-			let id = window.location.hash.substring(1);
-			if (quoteIndex[id]) {
-				renderQuote(document.getElementById("quotes"), quoteIndex[id]);
-			}
-		});
-	</script>
-</body>
-
+			});
+		</script>
+	</body>
 </html>
