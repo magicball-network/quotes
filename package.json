@@ -12,6 +12,7 @@
 		"validate:source-json": "node bin/validate-json.mjs lba1/*.json lba2/*.json",
 		"validate:prettier": "prettier --check .",
 		"build:json": "node bin/merge-json.mjs",
+		"build:site": "parcel build src/index.html",
 		"test:merged-json": "node bin/validate-json.mjs dist/lba1.json dist/lba2.json",
 		"prettier-write": "prettier --write ."
 	},
