@@ -65,7 +65,10 @@
 					<dt>Game</dt>
 					<dd>{{ game }}</dd>
 					<dt>Quote ID</dt>
-					<dd><a href="#{{fqnId}}">{{ id }}</a></dd>
+					<dd>
+						<a href="#{{fqnId}}">{{ id }}</a>
+						<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json">📝</a>
+					</dd>
 					<dt>Area</dt>
 					<dd>{{ area }}</dd>
 					{{#location}}
@@ -156,7 +159,9 @@
 				}
 				if (
 					params.query &&
-					!quote.message.toLowerCase().includes(params.query.toLowerCase())
+					!quote.message
+						.toLowerCase()
+						.includes(params.query.toLowerCase())
 				) {
 					return false;
 				}
