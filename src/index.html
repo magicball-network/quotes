@@ -86,7 +86,7 @@
 						<li class="nav-item text-nowrap">
 							<a class="nav-link icon-link" href="/">
 								<img
-									src="https://magicball.net/assets/talk.png"
+									src="quotes.png"
 									class="nav-icon"
 									height="24"
 									width="24"
@@ -123,45 +123,79 @@
 				</div>
 			</div>
 
-			<div class="container bg-body-tertiary py-4">
-				<div class="row mb-2 bg-body-tertiary p-1" style="position: sticky; top: 76px; z-index: 10;">
-					<section>
-						<fieldset>
-							<label for="gameSelect">Game</label>
-							<select id="gameSelect">
-								<option value="">Any</option>
-							</select>
-						</fieldset>
-						<fieldset>
-							<label for="areaSelect">Area</label>
-							<select id="areaSelect">
-								<option value="">Any</option>
-							</select>
-						</fieldset>
-						<fieldset>
-							<label for="search">Search</label>
-							<input
-								id="search"
-								placeholder="Search for a quote"
-							/>
-							<button
-								id="searchBtn"
-								type="button"
-								class="btn btn-primary"
-							>
-								Search
-							</button>
-							<button
-								id="randomBtn"
-								type="button"
-								class="btn btn-success"
-							>
-								Random
-							</button>
-						</fieldset>
-					</section>
+			<div class="container bg-body-tertiary py-2">
+				<div
+					class="row"
+					style="position: sticky; top: 76px; z-index: 10"
+				>
+					<div class="pt-2 bg-body-tertiary">
+						<section class="mx-auto col-6">
+							<div class="input-group mb-1">
+								<label
+									for="gameSelect"
+									class="col-sm-2 input-group-text"
+									>Game</label
+								>
+								<select id="gameSelect" class="form-select">
+									<option value="">Any</option>
+								</select>
+							</div>
+							<div class="input-group mb-1">
+								<label
+									for="areaSelect"
+									class="col-sm-2 input-group-text"
+									>Area</label
+								>
+								<select id="areaSelect" class="form-select">
+									<option value="">Any</option>
+								</select>
+							</div>
+							<div class="input-group mb-1">
+								<label
+									for="search"
+									class="col-sm-2 input-group-text"
+									>Search</label
+								>
+								<input
+									id="search"
+									placeholder="Search for a quote"
+									type="text"
+									class="form-control"
+								/>
+								<button
+									id="searchBtn"
+									type="button"
+									class="btn btn-primary"
+								>
+									Search
+								</button>
+
+								<button
+									id="randomBtn"
+									type="button"
+									class="btn btn-success"
+								>
+									Random
+								</button>
+							</div>
+						</section>
+					</div>
+					<div
+						class="p-2"
+						style="
+							background: linear-gradient(
+								to bottom,
+								rgba(
+										var(--bs-tertiary-bg-rgb),
+										var(--bs-bg-opacity)
+									)
+									0%,
+								rgba(0, 0, 0, 0) 100%
+							);
+						"
+					></div>
 				</div>
-				<div class="row" style="z-index: 0;">
+				<div class="row" style="z-index: 0">
 					<section id="quotes"></section>
 				</div>
 			</div>
@@ -204,7 +238,12 @@
 						<dt class="col-sm-1">Quote ID</dt>
 						<dd class="col-sm-11">
 							<a href="#{{fqnId}}">{{ id }}</a>
-							<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json" target="_blank">📝</a>
+							<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json"
+								class="text-decoration-none"
+								target="_blank"
+								title="Edit source"
+								>✏</a
+							>
 						</dd>
 						<dt class="col-sm-1">Area</dt>
 						<dd class="col-sm-11">{{ area }}</dd>
@@ -396,7 +435,7 @@
 				});
 			}
 
-			window.addEventListener("DOMContentLoaded", async (event) => {
+			const init = async () => {
 				await loadQuotes();
 				console.log("Loaded quotes");
 				initUi();
@@ -409,18 +448,24 @@
 						);
 					}
 				}
-			});
 
-			window.addEventListener("hashchange", async (event) => {
-				clearQuotes();
-				let id = window.location.hash.substring(1);
-				if (quoteIndex[id]) {
-					renderQuote(
-						document.getElementById("quotes"),
-						quoteIndex[id],
-					);
-				}
-			});
+				window.addEventListener("hashchange", async (event) => {
+					clearQuotes();
+					let id = window.location.hash.substring(1);
+					if (quoteIndex[id]) {
+						renderQuote(
+							document.getElementById("quotes"),
+							quoteIndex[id],
+						);
+					}
+				});
+			};
+
+			if (document.readyState === "loading") {
+				window.addEventListener("DOMContentLoaded", init);
+			} else {
+				init();
+			}
 		</script>
 	</body>
 </html>
