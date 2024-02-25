@@ -1,87 +1,225 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-bs-theme="dark" class="min-vh-100">
 	<head>
-		<title>Little Big Adventure Game Quotes (αlpha)</title>
+		<meta charset="utf-8" />
+		<title>Little Big Adventure Game Quotes (&alpha;lpha)</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link
+			rel="stylesheet"
+			href="https://magicball.net/assets/css/bundle.css"
+		/>
 		<style>
-			.quote {
-				border: 1px solid silver;
-				margin: 0.5em;
-				padding: 0.5em;
-			}
-
-			.quote dt {
-				font-weight: bolder;
-			}
-
 			.quote .message {
+				/* Ensure newlines result in new lines */
 				white-space: pre-line;
-			}
-
-			footer {
-				font-size: xx-small;
-				color: gray;
 			}
 		</style>
 	</head>
 
-	<body>
-		<header>
-			<h1>Little Big Adventure Game Quotes <sup>αlpha</sup></h1>
+	<body class="d-flex flex-column min-vh-100">
+		<header
+			class="navbar navbar-expand-lg sticky-top bg-body-secondary"
+			_style="--bs-bg-opacity: .9;"
+		>
+			<nav class="container">
+				<a class="navbar-brand" href="https://magicball.net">
+					<picture>
+						<source
+							type="image/webp"
+							srcset="https://magicball.net/assets/logo.webp"
+						/>
+						<img
+							src="https://magicball.net/assets/logo.png"
+							alt="Magicball Network"
+							height="50"
+						/>
+					</picture>
+				</a>
+				<button
+					class="navbar-toggler"
+					type="button"
+					data-bs-toggle="collapse"
+					data-bs-target="#navbarSupportedContent"
+					aria-controls="navbarSupportedContent"
+					aria-expanded="false"
+					aria-label="Toggle navigation"
+				>
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div
+					class="collapse navbar-collapse"
+					id="navbarSupportedContent"
+				>
+					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+						<li class="nav-item text-nowrap">
+							<a
+								class="nav-link icon-link"
+								href="https://magicball.net"
+							>
+								<img
+									src="https://magicball.net/assets/favicon-64.png"
+									class="nav-icon"
+									height="24"
+									width="24"
+									alt=""
+									aria-hidden="true"
+								/>
+								Home
+							</a>
+						</li>
+						<li class="nav-item text-nowrap">
+							<a
+								class="nav-link icon-link"
+								href="https://forums.magicball.net"
+							>
+								<img
+									src="https://magicball.net/assets/talk.png"
+									class="nav-icon"
+									height="24"
+									width="24"
+									alt=""
+									aria-hidden="true"
+								/>
+								Forum
+							</a>
+						</li>
+						<li class="nav-item text-nowrap">
+							<a class="nav-link icon-link" href="/">
+								<img
+									src="https://magicball.net/assets/talk.png"
+									class="nav-icon"
+									height="24"
+									width="24"
+									alt=""
+									aria-hidden="true"
+								/>
+								Game quotes
+							</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
 		</header>
 
-		<section>
-			<fieldset>
-				<label for="gameSelect">Game</label>
-				<select id="gameSelect">
-					<option value="">Any</option>
-				</select>
-			</fieldset>
-			<fieldset>
-				<label for="areaSelect">Area</label>
-				<select id="areaSelect">
-					<option value="">Any</option>
-				</select>
-			</fieldset>
-			<fieldset>
-				<label for="search">Search</label>
-				<input id="search" placeholder="Search for a quote" />
-				<button id="searchBtn">Search</button>
-				<button id="randomBtn">Random</button>
-			</fieldset>
-		</section>
+		<main class="flex-column">
+			<div class="container bg-body-secondary p-4 header-bg">
+				<div class="col-12 mx-auto text-center">
+					<h1 class="no-anchor" data-toc-skip>
+						Little Big Adventure Game Quotes <sup>&alpha;lpha</sup>
+					</h1>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 mx-auto">
+						This page allows you to search and browse through the
+						text displayed in both LBA games. All the engine text is
+						featured, but the information is incomplete. Quotes are
+						missing information on who said it, and their more exact
+						location. You can suggest edits by submitting merge
+						requests on logging issues on the
+						<a href="https://github.com/magicball-network/quotes"
+							>Github project</a
+						>.
+					</div>
+				</div>
+			</div>
 
-		<section id="quotes"></section>
+			<div class="container bg-body-tertiary py-4">
+				<div class="row mb-2 bg-body-tertiary p-1" style="position: sticky; top: 76px; z-index: 10;">
+					<section>
+						<fieldset>
+							<label for="gameSelect">Game</label>
+							<select id="gameSelect">
+								<option value="">Any</option>
+							</select>
+						</fieldset>
+						<fieldset>
+							<label for="areaSelect">Area</label>
+							<select id="areaSelect">
+								<option value="">Any</option>
+							</select>
+						</fieldset>
+						<fieldset>
+							<label for="search">Search</label>
+							<input
+								id="search"
+								placeholder="Search for a quote"
+							/>
+							<button
+								id="searchBtn"
+								type="button"
+								class="btn btn-primary"
+							>
+								Search
+							</button>
+							<button
+								id="randomBtn"
+								type="button"
+								class="btn btn-success"
+							>
+								Random
+							</button>
+						</fieldset>
+					</section>
+				</div>
+				<div class="row" style="z-index: 0;">
+					<section id="quotes"></section>
+				</div>
+			</div>
+		</main>
 
-		<footer>
-			Service provided by
-			<a href="https://magicball.net">Magicball Network</a> &mdash;
-			Project hosted on
-			<a href="https://github.com/magicball-network/quotes">Gitlab</a>
-		</footer>
+		<div class="footer mt-auto bg-body-secondary">
+			<footer
+				class="container d-flex flex-wrap justify-content-between align-items-center pt-3"
+			>
+				<p class="col-md-4">
+					Service provided by
+					<a href="https://magicball.net">Magicball Network</a>
+				</p>
+
+				<a
+					href="/"
+					class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto text-decoration-none"
+				>
+					<img
+						src="https://magicball.net/assets/favicon-32.png"
+						alt="Home"
+					/>
+				</a>
+
+				<p class="col-md-4 text-end">
+					Project hosted on
+					<a href="https://github.com/magicball-network/quotes"
+						>Github</a
+					>
+				</p>
+			</footer>
+		</div>
 
 		<script id="tmpl-quote" type="x-tmpl-mustache">
-			<div class="quote">
-				<dl id="fqnId">
-					<dt>Game</dt>
-					<dd>{{ game }}</dd>
-					<dt>Quote ID</dt>
-					<dd>
-						<a href="#{{fqnId}}">{{ id }}</a>
-						<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json" target="_blank">📝</a>
-					</dd>
-					<dt>Area</dt>
-					<dd>{{ area }}</dd>
-					{{#location}}
-					<dt>Location</dt>
-					<dd>{{ location }}</dd>
-					{{/location}}
-					{{#speaker}}
-					<dt>Speaker</dt>
-					<dd>{{ speaker }}</dd>
-					{{/speaker}}
-					<dt>Quote</dt>
-					<dd class="message">{{ message }}</dd>
-				</dl>
+			<div class="card quote mb-2">
+				<div class="card-body">
+					<dl class="row mb-0">
+						<dt class="col-sm-1">Game</dt>
+						<dd class="col-sm-11">{{ game }}</dd>
+						<dt class="col-sm-1">Quote ID</dt>
+						<dd class="col-sm-11">
+							<a href="#{{fqnId}}">{{ id }}</a>
+							<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json" target="_blank">📝</a>
+						</dd>
+						<dt class="col-sm-1">Area</dt>
+						<dd class="col-sm-11">{{ area }}</dd>
+						{{#location}}
+						<dt class="col-sm-1">Location</dt>
+						<dd class="col-sm-11">{{ location }}</dd>
+						{{/location}}
+						{{#speaker}}
+						<dt class="col-sm-1">Speaker</dt>
+						<dd class="col-sm-11">{{ speaker }}</dd>
+						{{/speaker}}
+						<dt class="col-sm-1">Quote</dt>
+						<dd class="col-sm-11 message">{{ message }}</dd>
+					</dl>
+				</div>
 			</div>
 		</script>
 
