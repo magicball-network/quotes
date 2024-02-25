@@ -8,6 +8,7 @@
 			rel="stylesheet"
 			href="https://magicball.net/assets/css/bundle.css"
 		/>
+		<script async src="https://magicball.net/assets/js/bundle.js"></script>
 		<style>
 			.quote .message {
 				/* Ensure newlines result in new lines */
@@ -129,7 +130,7 @@
 					style="position: sticky; top: 76px; z-index: 10"
 				>
 					<div class="pt-2 bg-body-tertiary">
-						<section class="mx-auto col-6">
+						<section class="mx-auto col-md-12 col-lg-8 col-xl-6">
 							<div class="input-group mb-1">
 								<label
 									for="gameSelect"
@@ -233,10 +234,10 @@
 			<div class="card quote mb-2">
 				<div class="card-body">
 					<dl class="row mb-0">
-						<dt class="col-sm-1">Game</dt>
-						<dd class="col-sm-11">{{ game }}</dd>
-						<dt class="col-sm-1">Quote ID</dt>
-						<dd class="col-sm-11">
+						<dt class="col-md-2 col-lg-1">Game</dt>
+						<dd class="col-md-10 col-lg-11">{{ game }}</dd>
+						<dt class="col-md-2 col-lg-1">Quote ID</dt>
+						<dd class="col-md-10 col-lg-11">
 							<a href="#{{fqnId}}">{{ id }}</a>
 							<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json"
 								class="text-decoration-none"
@@ -245,18 +246,18 @@
 								>✏</a
 							>
 						</dd>
-						<dt class="col-sm-1">Area</dt>
-						<dd class="col-sm-11">{{ area }}</dd>
+						<dt class="col-md-2 col-lg-1">Area</dt>
+						<dd class="col-md-10 col-lg-11">{{ area }}</dd>
 						{{#location}}
-						<dt class="col-sm-1">Location</dt>
-						<dd class="col-sm-11">{{ location }}</dd>
+						<dt class="col-md-2 col-lg-1">Location</dt>
+						<dd class="col-md-10 col-lg-11">{{ location }}</dd>
 						{{/location}}
 						{{#speaker}}
-						<dt class="col-sm-1">Speaker</dt>
-						<dd class="col-sm-11">{{ speaker }}</dd>
+						<dt class="col-md-2 col-lg-1">Speaker</dt>
+						<dd class="col-md-10 col-lg-11">{{ speaker }}</dd>
 						{{/speaker}}
-						<dt class="col-sm-1">Quote</dt>
-						<dd class="col-sm-11 message">{{ message }}</dd>
+						<dt class="col-md-2 col-lg-1">Quote</dt>
+						<dd class="col-md-10 col-lg-11 message">{{ message }}</dd>
 					</dl>
 				</div>
 			</div>
