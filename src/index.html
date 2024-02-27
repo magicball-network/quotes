@@ -154,7 +154,7 @@
 									<option value="">Any</option>
 								</select>
 							</div>
-							<div class="input-group mb-1">
+							<form class="input-group mb-1" id="searchForm">
 								<label
 									for="search"
 									class="col-sm-2 input-group-text"
@@ -168,12 +168,11 @@
 								/>
 								<button
 									id="searchBtn"
-									type="button"
+									type="submit"
 									class="btn btn-primary"
 								>
 									Search
 								</button>
-
 								<button
 									id="randomBtn"
 									type="button"
@@ -181,7 +180,7 @@
 								>
 									Random
 								</button>
-							</div>
+							</form>
 						</section>
 					</div>
 					<div
@@ -363,7 +362,10 @@
 				}
 			}
 
-			function searchQuotes() {
+			function searchQuotes(event) {
+				if (event) {
+					event.preventDefault();
+				}
 				const query = document.getElementById("search").value;
 				if (!query) {
 					return;
@@ -416,8 +418,8 @@
 					}
 				}
 				document
-					.getElementById("searchBtn")
-					.addEventListener("click", searchQuotes);
+					.getElementById("searchForm")
+					.addEventListener("submit", searchQuotes);
 				document
 					.getElementById("randomBtn")
 					.addEventListener("click", randomQuote);
