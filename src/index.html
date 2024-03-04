@@ -318,6 +318,14 @@
 				target.innerHTML += rendered;
 			}
 
+			function normalizeString(str) {
+				return str
+					.normalize("NFD")
+					.replace(/[\u0300-\u036f]/g, "")
+					.replace(/\s+/g, " ")
+					.toLowerCase();
+			}
+
 			function matchesQuote(quote, params) {
 				if (!quote) {
 					return false;
@@ -337,13 +345,17 @@
 				} else if (params.game && params.game !== quote.game) {
 					return false;
 				}
-				if (
-					params.query &&
-					!quote.message
-						.toLowerCase()
-						.includes(params.query.toLowerCase())
-				) {
-					return false;
+				if (params.query) {
+					if (!quote.searchMessage) {
+						quote.searchMessage = normalizeString(quote.message);
+					}
+					if (
+						!quote.searchMessage.includes(
+							params.query.toLowerCase(),
+						)
+					) {
+						return false;
+					}
 				}
 				return true;
 			}
@@ -366,7 +378,9 @@
 				if (event) {
 					event.preventDefault();
 				}
-				const query = document.getElementById("search").value;
+				const query = normalizeString(
+					document.getElementById("search").value,
+				);
 				if (!query) {
 					return;
 				}
