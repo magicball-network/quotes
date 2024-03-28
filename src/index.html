@@ -241,7 +241,7 @@
 						<dt class="col-md-2 col-lg-1">Quote ID</dt>
 						<dd class="col-md-10 col-lg-11">
 							<a href="#{{fqnId}}">{{ id }}</a>
-							<a href="https://github.com/magicball-network/quotes/blob/main/{{ game }}/{{ source }}.json"
+							<a href="https://github.com/magicball-network/quotes/blob/main/{{ sourceFile }}"
 								class="text-decoration-none"
 								target="_blank"
 								title="Edit source"
@@ -285,7 +285,12 @@
 				if (response.ok) {
 					for (let quote of await response.json()) {
 						quote["fqnId"] = game + ":" + quote.id;
-						quote["game"] = game;
+						quote["game"] = () => games[game];
+						quote["sourceFile"] =
+							game +
+							"/" +
+							quote.id.split(":").join("/") +
+							".yaml";
 						quotes.push(quote);
 						quoteIndex[quote.fqnId] = quote;
 						areaMap[game].add(quote.area);
@@ -455,12 +460,24 @@
 				});
 			}
 
+			function fixHashQuoteId(id) {
+				let idParts = id.split(":", 3);
+				if (idParts.length !== 3) {
+					return id;
+				} else if (idParts[2].length >= 3) {
+					return id;
+				} else {
+					idParts[2] = ("000" + idParts[2]).substr(-3);
+					return idParts.join(":");
+				}
+			}
+
 			const init = async () => {
 				await loadQuotes();
 				console.log("Loaded quotes");
 				initUi();
 				if (window.location.hash !== "") {
-					let id = window.location.hash.substring(1);
+					let id = fixHashQuoteId(window.location.hash.substring(1));
 					if (quoteIndex[id]) {
 						renderQuote(
 							document.getElementById("quotes"),
@@ -473,7 +490,7 @@
 
 				window.addEventListener("hashchange", async (event) => {
 					clearQuotes();
-					let id = window.location.hash.substring(1);
+					let id = fixHashQuoteId(window.location.hash.substring(1));
 					if (quoteIndex[id]) {
 						renderQuote(
 							document.getElementById("quotes"),
