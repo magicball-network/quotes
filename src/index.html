@@ -237,7 +237,7 @@
 				<div class="card-body">
 					<dl class="row mb-0">
 						<dt class="col-md-2 col-lg-1">Game</dt>
-						<dd class="col-md-10 col-lg-11">{{ game }}</dd>
+						<dd class="col-md-10 col-lg-11">{{ gameTitle }}</dd>
 						<dt class="col-md-2 col-lg-1">Quote ID</dt>
 						<dd class="col-md-10 col-lg-11">
 							<a href="#{{fqnId}}">{{ id }}</a>
@@ -285,7 +285,8 @@
 				if (response.ok) {
 					for (let quote of await response.json()) {
 						quote["fqnId"] = game + ":" + quote.id;
-						quote["game"] = () => games[game];
+						quote["game"] = game;
+						quote["gameTitle"] = () => games[game];
 						quote["sourceFile"] =
 							game +
 							"/" +
