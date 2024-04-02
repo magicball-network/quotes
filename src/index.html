@@ -260,6 +260,12 @@
 						{{/speaker}}
 						<dt class="col-md-2 col-lg-1">Quote</dt>
 						<dd class="col-md-10 col-lg-11 message">{{ message }}</dd>
+						{{#audio}}
+						<dt class="col-md-2 col-lg-1"></dt>
+						<dd class="col-md-10 col-lg-11">
+							<audio controls controlslist="nodownload nofullscreen noremoteplayback" preload="none" src="{{audio}}"></audio>
+						</dd>
+						{{/audio}}
 					</dl>
 				</div>
 			</div>

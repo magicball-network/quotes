@@ -1,0 +1,18 @@
+{
+	"name": "voxproc",
+	"version": "1.0.0",
+	"description": "Process the VOX files for the LBA game quote database",
+	"license": "Apache-2.0",
+	"scripts": {
+		"clean": "rimraf dist work",
+		"build": "node procvox.mjs",
+		"start": "node procvox.mjs"
+	},
+	"devDependencies": {
+		"@lbalab/hqr": "^3.4.2",
+		"ffmpeg-cli": "^2.7.5",
+		"glob-promise": "^6.0.5",
+		"npm-run-all": "^4.1.5",
+		"rimraf": "^5.0.5"
+	}
+}

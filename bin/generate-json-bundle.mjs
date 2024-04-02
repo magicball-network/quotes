@@ -24,6 +24,17 @@ async function load_yaml(file) {
 	}
 }
 
+async function resolveAudioFile(file) {
+	let fp = path.parse(file);
+	let audioFile = `${fp.dir}/${fp.name}.webm`;
+	try {
+		await fs.stat(path.join("dist", audioFile));
+		return audioFile;
+	} catch (e) {
+		return false;
+	}
+}
+
 async function load_quotes(game, bundlefile) {
 	console.log("Processing bundle:", bundlefile);
 	let result = [];
@@ -40,6 +51,7 @@ async function load_quotes(game, bundlefile) {
 		let quote = {
 			id: `${path.basename(bundledir)}:${path.parse(quotefile).name}`,
 			...bundle,
+			audio: await resolveAudioFile(quotefile),
 			...(await load_yaml(quotefile)),
 		};
 		result.push(quote);
