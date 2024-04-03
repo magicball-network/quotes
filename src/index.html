@@ -113,16 +113,25 @@
 					</h1>
 				</div>
 				<div class="row">
-					<div class="col-lg-6 mx-auto">
+					<div class="col-lg-8 mx-auto">
 						This page allows you to search and browse through the
-						text displayed in both LBA games. All the engine text is
-						featured, but the information is incomplete. Quotes are
-						missing information on who said it, and their more exact
-						location. You can suggest edits by submitting merge
-						requests or logging issues on the
+						text displayed in both LBA games. All the in-game text
+						is featured, but the information is incomplete. Quotes
+						are missing information on who said it, and their more
+						exact location. You can suggest edits by submitting
+						merge requests or logging issues on the
 						<a href="https://github.com/magicball-network/quotes"
 							>Github project</a
-						>.
+						>. Press the
+						<svg
+							class="bi"
+							aria-hidden="true"
+							height="1rem"
+							width="1rem"
+						>
+							<use xlink:href="#bi-pencil-fill"></use>
+						</svg>
+						icon in the quote to jump to its source.
 					</div>
 				</div>
 			</div>
@@ -182,6 +191,15 @@
 								</button>
 							</form>
 						</section>
+						<div class="mx-auto col-md-12 col-lg-8 col-xl-6 d-none">
+							<audio
+								id="player"
+								class="w-100"
+								controls=""
+								controlslist="nodownload nofullscreen noremoteplayback"
+								preload="none"
+							></audio>
+						</div>
 					</div>
 					<div
 						class="p-2"
@@ -232,6 +250,32 @@
 			</footer>
 		</div>
 
+		<svg class="d-none" width="0" height="0" style="position: absolute">
+			<symbol
+				id="bi-pencil-fill"
+				fill="currentColor"
+				class="bi bi-pencil-fill"
+				viewBox="0 0 16 16"
+			>
+				<path
+					d="M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.5.5 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11z"
+				/>
+			</symbol>
+			<symbol
+				id="bi-play-btn"
+				fill="currentColor"
+				class="bi bi-play-btn"
+				viewBox="0 0 16 16"
+			>
+				<path
+					d="M6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814z"
+				/>
+				<path
+					d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm15 0a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1z"
+				/>
+			</symbol>
+		</svg>
+
 		<script id="tmpl-quote" type="x-tmpl-mustache">
 			<div class="card quote mb-2">
 				<div class="card-body">
@@ -242,10 +286,12 @@
 						<dd class="col-md-10 col-lg-11">
 							<a href="#{{fqnId}}">{{ id }}</a>
 							<a href="https://github.com/magicball-network/quotes/blob/main/{{ sourceFile }}"
-								class="text-decoration-none"
+								class="text-decoration-none link-success"
 								target="_blank"
 								title="Edit source"
-								>✏</a
+								>
+									<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-pencil-fill"></use></svg>
+								</a
 							>
 						</dd>
 						<dt class="col-md-2 col-lg-1">Area</dt>
@@ -258,14 +304,15 @@
 						<dt class="col-md-2 col-lg-1">Speaker</dt>
 						<dd class="col-md-10 col-lg-11">{{ speaker }}</dd>
 						{{/speaker}}
-						<dt class="col-md-2 col-lg-1">Quote</dt>
+						<dt class="col-md-2 col-lg-1">
+							Quote
+							{{#audio}}
+								<a class="playQuote link-success" data-fqnId="{{fqnId}}" data-src="{{audio}}" href="#{{fqnId}}" title="Play quote">
+									<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-play-btn"></use></svg>
+								</a>
+							{{/audio}}
+						</dt>
 						<dd class="col-md-10 col-lg-11 message">{{ message }}</dd>
-						{{#audio}}
-						<dt class="col-md-2 col-lg-1"></dt>
-						<dd class="col-md-10 col-lg-11">
-							<audio controls controlslist="nodownload nofullscreen noremoteplayback" preload="none" src="{{audio}}"></audio>
-						</dd>
-						{{/audio}}
 					</dl>
 				</div>
 			</div>
@@ -284,6 +331,7 @@
 			const quotes = [];
 			const quoteIndex = {};
 			const areaMap = {};
+			let quoteTargetElm;
 
 			async function retrieveQuotes(game) {
 				areaMap[game] = new Set();
@@ -319,7 +367,7 @@
 			}
 
 			function clearQuotes() {
-				document.getElementById("quotes").innerHTML = "";
+				quoteTargetElm.innerHTML = "";
 			}
 
 			function renderQuote(target, quote) {
@@ -328,6 +376,29 @@
 					quote,
 				);
 				target.innerHTML += rendered;
+			}
+
+			function playQuote(fqnId, soundSrc) {
+				const player = document.getElementById("player");
+				player.src = soundSrc;
+				player.parentElement.classList.remove("d-none");
+				player.play();
+			}
+
+			function augmentPlayButtons(quoteTargetElm) {
+				for (let playBtn of quoteTargetElm.querySelectorAll(
+					".playQuote",
+				)) {
+					playBtn.addEventListener("click", (e) => {
+						for (let cards of quoteTargetElm.querySelectorAll(".card.quote")) {
+							cards.classList.remove("border-success");
+						}
+						playBtn.closest(".card").classList.add("border-success");
+						e.preventDefault();
+						playQuote(playBtn.dataset.fqnId, playBtn.dataset.src);
+						playBtn.blur();
+					});
+				}
 			}
 
 			function normalizeString(str) {
@@ -373,11 +444,10 @@
 			}
 
 			function findQuotes(params) {
-				const target = document.getElementById("quotes");
 				let cnt = 0;
 				for (let quote of quotes) {
 					if (matchesQuote(quote, params)) {
-						renderQuote(target, quote);
+						renderQuote(quoteTargetElm, quote);
 						++cnt;
 					}
 					if (cnt >= 50) {
@@ -402,6 +472,7 @@
 					area: document.getElementById("areaSelect").value,
 					query: query,
 				});
+				augmentPlayButtons(quoteTargetElm);
 			}
 
 			function randomQuote() {
@@ -414,13 +485,25 @@
 					let quote = quotes[idx];
 					if (matchesQuote(quote, params)) {
 						clearQuotes();
-						renderQuote(document.getElementById("quotes"), quote);
+						renderQuote(quoteTargetElm, quote);
+						augmentPlayButtons(quoteTargetElm);
 						return;
 					}
 				}
 			}
 
+			function specificQuote(fqnId) {
+				clearQuotes();
+				if (quoteIndex[fqnId]) {
+					renderQuote(quoteTargetElm, quoteIndex[fqnId]);
+					augmentPlayButtons(quoteTargetElm);
+				}
+			}
+
 			function initUi() {
+				quoteTargetElm = document.getElementById("quotes");
+				document.getElementById("player").volume = 0.5;
+
 				const gameSelect = document.getElementById("gameSelect");
 				for (let game of Object.keys(games)) {
 					const gameElm = document.createElement("option");
@@ -484,26 +567,17 @@
 				console.log("Loaded quotes");
 				initUi();
 				if (window.location.hash !== "") {
-					let id = fixHashQuoteId(window.location.hash.substring(1));
-					if (quoteIndex[id]) {
-						renderQuote(
-							document.getElementById("quotes"),
-							quoteIndex[id],
-						);
-					}
+					specificQuote(
+						fixHashQuoteId(window.location.hash.substring(1)),
+					);
 				} else {
 					randomQuote();
 				}
 
 				window.addEventListener("hashchange", async (event) => {
-					clearQuotes();
-					let id = fixHashQuoteId(window.location.hash.substring(1));
-					if (quoteIndex[id]) {
-						renderQuote(
-							document.getElementById("quotes"),
-							quoteIndex[id],
-						);
-					}
+					specificQuote(
+						fixHashQuoteId(window.location.hash.substring(1)),
+					);
 				});
 			};
 
