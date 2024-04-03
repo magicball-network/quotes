@@ -390,10 +390,14 @@
 					".playQuote",
 				)) {
 					playBtn.addEventListener("click", (e) => {
-						for (let cards of quoteTargetElm.querySelectorAll(".card.quote")) {
+						for (let cards of quoteTargetElm.querySelectorAll(
+							".card.quote",
+						)) {
 							cards.classList.remove("border-success");
 						}
-						playBtn.closest(".card").classList.add("border-success");
+						playBtn
+							.closest(".card")
+							.classList.add("border-success");
 						e.preventDefault();
 						playQuote(playBtn.dataset.fqnId, playBtn.dataset.src);
 						playBtn.blur();
