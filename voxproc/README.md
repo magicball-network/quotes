@@ -6,7 +6,7 @@ Usage:
 npm start <mode> <glob pattern>
 ```
 
-`<mode>` is either `lba1` or `lba2` (not yet supported).
+`<mode>` is either `lba1` or `lba2`.
 
 `<glob pattern>` is the path with mask to the vox files to process. For example `c:\games\lba1\vox\en_*.vox`.
 

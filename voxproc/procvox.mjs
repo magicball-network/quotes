@@ -33,13 +33,43 @@ const vox2text = {
 		// Polar Island
 		"010": "28",
 	},
-	lba2: {},
+	lba2: {
+		gam: "06",
+		// Citadel Island
+		"000": "08",
+		// Sendell's Well -- ignored
+		// "001": "XX",
+		// Desert Island
+		"002": "12",
+		// Emarald Moon
+		"003": "14",
+		// Otringal
+		"004": "16",
+		// Celebration Island
+		"005": "18",
+		// Wannies Island
+		"006": "20",
+		// Mosquibees Island
+		"007": "22",
+		// Francos Island
+		"008": "24",
+		// Island CX
+		"009": "26",
+		// Undergas elevator
+		"010": "28",
+		// Volcano Island
+		"011": "30",
+	},
 };
 
 function identifyFile(mode, file) {
 	let fileId = path.basename(file).match(/^([a-z]{2})_(.*)\.vox$/i);
 	if (!fileId) {
-		console.log("Not a recognized vox file:", file);
+		console.log("Not a recognized vox:", file);
+		return false;
+	}
+	if (!vox2text[mode][fileId[2].toLocaleLowerCase()]) {
+		console.log("Unmapped vox file:", file);
 		return false;
 	}
 	return {
@@ -71,6 +101,14 @@ async function convertLba1(infile, outfile, silencePad) {
 	// afftdn,anlmdn filters perform quite a bit of noise reduction
 	return ffmpeg.run(
 		`-y -i ${infile} -af afftdn,anlmdn=s=7:p=0.002:r=0.002:m=15${silencefilter} -c:a libvorbis -qscale:a 5 ${outfile}`,
+	);
+}
+
+async function convertLba2(infile, outfile, silencePad) {
+	// Add some silence to files which will be combined to a single one
+	let silencefilter = silencePad ? ",apad=pad_dur=0.5" : "";
+	return ffmpeg.run(
+		`-y -i ${infile} -af afftdn${silencefilter} -c:a libvorbis -qscale:a 5 ${outfile}`,
 	);
 }
 
@@ -109,23 +147,35 @@ async function extractEntry(mode, outdir, file, index, entry) {
 					.then(() => convertedFile),
 			);
 		} else if (mode === "lba2") {
+			promises.push(
+				fs
+					// Need to correct the first byte
+					.writeFile(destfile, ["R", data.content.slice(1)])
+					.then(() =>
+						convertLba2(destfile, convertedFile, !isLastFile),
+					)
+					.then(() => convertedFile),
+			);
 		}
 	}
 	let result = Promise.all(promises);
+	if (promises.length === 0) {
+		return null;
+	}
 	if (entryData.length > 1) {
-		return result.then(() => {
-			let resultFile = formatOutputFile(
-				path.join(outdir, `${basename}.xxx`),
-			);
-			combineOutputs(convertedFiles, resultFile);
-			return resultFile;
-		});
+		let resultFile = formatOutputFile(path.join(outdir, `${basename}.xxx`));
+		return result
+			.then(() => combineOutputs(convertedFiles, resultFile))
+			.then(() => resultFile);
 	} else {
 		return result.then((e) => (e.length === 1 ? e[0] : null));
 	}
 }
 
 async function moveToDest(file) {
+	if (!file) {
+		return;
+	}
 	let dest = file.split(path.sep);
 	dest[0] = "dist";
 	dest = dest.join(path.sep);
