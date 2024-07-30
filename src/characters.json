@@ -1,0 +1,102 @@
+{
+	"lba1": {
+		"narrator": {
+			"name": "narrator"
+		},
+		"twinsen": {
+			"name": "Twinsen",
+			"img": "portraits/lba1/twinsen.png"
+		},
+		"zoe": {
+			"name": "Zoé",
+			"img": "portraits/lba1/zoe.png"
+		},
+		"baldino": {
+			"name": "Jérôme Baldino",
+			"img": "portraits/lba1/baldino.png"
+		},
+		"funfrock": {
+			"name": "Dr. FunFrock",
+			"img": "portraits/lba1/funfrock.png"
+		},
+		"sendell": {
+			"name": "Sendell"
+		},
+		"astronomer": {
+			"name": "Bob Vortix"
+		},
+		"raymond": {
+			"name": "Raymond-the-Elf"
+		},
+		"joe": {
+			"name": "Joe the Elf"
+		},
+		"dinofly": {
+			"name": "Dino-Fly"
+		}
+	},
+	"lba2": {
+		"narrator": {
+			"name": "narrator"
+		},
+		"twinsen": {
+			"name": "Twinsen",
+			"img": "portraits/lba2/twinsen.png"
+		},
+		"zoe": {
+			"name": "Zoé",
+			"img": "portraits/lba2/zoe.png"
+		},
+		"baldino": {
+			"name": "Jerome Baldino",
+			"img": "portraits/lba2/baldino.png"
+		},
+		"funfrock": {
+			"name": "Dr. FunFrock",
+			"img": "portraits/lba2/funfrock.png"
+		},
+		"darkmonk": {
+			"name": "Dark Monk",
+			"img": "portraits/lba2/darkmonk.png"
+		},
+		"sendell": {
+			"name": "Sendell"
+		},
+		"dinofly": {
+			"name": "Dino-Fly"
+		},
+		"bloop": {
+			"name": "Miss Bloop"
+		},
+		"raph": {
+			"name": "Raph, the lighthouse keeper"
+		},
+		"bersimon": {
+			"name": "Bersimon, weather wizard"
+		},
+		"keraooc": {
+			"name": "Wizard Ker'aooc"
+		},
+		"joe": {
+			"name": "Joe the Elf"
+		},
+		"amiradoo": {
+			"name": "Chedil Amiradoo"
+		},
+		"ferryman": {
+			"name": "ferryman"
+		},
+		"rick": {
+			"name": "Rick"
+		},
+		"johnny-rocket": {
+			"name": "Johnny Rocket"
+		},
+		"queen": {
+			"name": "Queen of the Mosquibees"
+		},
+		"emperor": {
+			"name": "The Emperor"
+		}
+	}
+}

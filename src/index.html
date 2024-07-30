@@ -14,6 +14,15 @@
 				/* Ensure newlines result in new lines */
 				white-space: pre-line;
 			}
+
+			.quote .portrait {
+				border-image: radial-gradient(
+						ellipse at center,
+						#f1e767 0%,
+						#feb645 100%
+					)
+					5 !important;
+			}
 		</style>
 	</head>
 
@@ -279,41 +288,48 @@
 		<script id="tmpl-quote" type="x-tmpl-mustache">
 			<div class="card quote mb-2">
 				<div class="card-body">
-					<dl class="row mb-0">
-						<dt class="col-md-2 col-lg-1">Game</dt>
-						<dd class="col-md-10 col-lg-11">{{ gameTitle }}</dd>
-						<dt class="col-md-2 col-lg-1">Quote ID</dt>
-						<dd class="col-md-10 col-lg-11">
-							<a href="#{{fqnId}}">{{ id }}</a>
-							<a href="https://github.com/magicball-network/quotes/blob/main/{{ sourceFile }}"
-								class="text-decoration-none link-success"
-								target="_blank"
-								title="Edit source"
+					{{#speakerPortrait}}
+					<div class="float-end">
+						<img src="{{ speakerPortrait }}" alt="" class="bg-gradient border border-5 portrait" title="Portrait of {{speakerTitle}}" />
+					</div>
+					{{/speakerPortrait}}
+					<div class="">
+						<dl class="row mb-0">
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">Game</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11">{{ gameTitle }}</dd>
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">Quote ID</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11">
+								<a href="#{{fqnId}}">{{ id }}</a>
+								<a href="https://github.com/magicball-network/quotes/blob/main/{{ sourceFile }}"
+									class="text-decoration-none link-success"
+									target="_blank"
+									title="Edit source"
+									>
+										<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-pencil-fill"></use></svg>
+									</a
 								>
-									<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-pencil-fill"></use></svg>
-								</a
-							>
-						</dd>
-						<dt class="col-md-2 col-lg-1">Area</dt>
-						<dd class="col-md-10 col-lg-11">{{ area }}</dd>
-						{{#location}}
-						<dt class="col-md-2 col-lg-1">Location</dt>
-						<dd class="col-md-10 col-lg-11">{{ location }}</dd>
-						{{/location}}
-						{{#speaker}}
-						<dt class="col-md-2 col-lg-1">Speaker</dt>
-						<dd class="col-md-10 col-lg-11">{{ speaker }}</dd>
-						{{/speaker}}
-						<dt class="col-md-2 col-lg-1">
-							Quote
-							{{#audio}}
-								<a class="playQuote link-success" data-fqnId="{{fqnId}}" data-src="{{audio}}" href="#{{fqnId}}" title="Play quote">
-									<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-play-btn"></use></svg>
-								</a>
-							{{/audio}}
-						</dt>
-						<dd class="col-md-10 col-lg-11 message">{{ message }}</dd>
-					</dl>
+							</dd>
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">Area</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11">{{ area }}</dd>
+							{{#location}}
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">Location</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11">{{ location }}</dd>
+							{{/location}}
+							{{#speaker}}
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">Speaker</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11">{{ speakerTitle }}</dd>
+							{{/speaker}}
+							<dt class="col-md-2 col-lg-2 col-xl-1 text-nowrap">
+								Quote
+								{{#audio}}
+									<a class="playQuote link-success" data-fqnId="{{fqnId}}" data-src="{{audio}}" href="#{{fqnId}}" title="Play quote">
+										<svg class="bi" aria-hidden="true" height="1rem" width="1rem"><use xlink:href="#bi-play-btn"></use></svg>
+									</a>
+								{{/audio}}
+							</dt>
+							<dd class="col-md-10 col-lg-10 col-xl-11 message">{{ message }}</dd>
+						</dl>
+					</div>
 				</div>
 			</div>
 		</script>
@@ -328,10 +344,20 @@
 				lba1: "Little Big Adventure 1 / Relentless",
 				lba2: "Little Big Adventure 2 / Twinsen's Odyssey",
 			};
+			let speakers = {};
 			const quotes = [];
 			const quoteIndex = {};
 			const areaMap = {};
 			let quoteTargetElm;
+
+			async function loadSpeakers() {
+				let response = await fetch("characters.json");
+				if (response.ok) {
+					speakers = await response.json();
+				} else {
+					console.error("Loading characters.json: {}", response);
+				}
+			}
 
 			async function retrieveQuotes(game) {
 				areaMap[game] = new Set();
@@ -346,6 +372,21 @@
 							"/" +
 							quote.id.split(":").join("/") +
 							".yaml";
+						const speaker = quote["speaker"] || false;
+						quote["speakerTitle"] = () => {
+							if (speaker && speakers[game][speaker]["name"]) {
+								return speakers[game][speaker]["name"];
+							} else {
+								return speaker;
+							}
+						};
+						quote["speakerPortrait"] = () => {
+							if (speaker && speakers[game][speaker]["img"]) {
+								return speakers[game][speaker]["img"];
+							} else {
+								return false;
+							}
+						};
 						quotes.push(quote);
 						quoteIndex[quote.fqnId] = quote;
 						areaMap[game].add(quote.area);
@@ -567,6 +608,7 @@
 			}
 
 			const init = async () => {
+				await loadSpeakers();
 				await loadQuotes();
 				console.log("Loaded quotes");
 				initUi();
