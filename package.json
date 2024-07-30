@@ -13,7 +13,7 @@
 		"validate:prettier": "prettier --check .",
 		"build:json": "node bin/generate-json-bundle.mjs lba1 lba2",
 		"build:site": "parcel build src/index.html src/robots.txt",
-		"build:assets": "copyfiles -V -u 1 src/characters.json src/portraits/** dist",
+		"build:assets": "copyfiles --verbose --up 1 src/characters.json src/portraits/**/*.png dist",
 		"test:merged-json": "node bin/validate-json.mjs dist/lba1.json dist/lba2.json",
 		"prettier-write": "prettier --write ."
 	},
