@@ -7,8 +7,7 @@ import yaml from "yaml";
 const gameInfo = {
 	lba1: {
 		lang: ["en", "fr", "de", "es", "it"],
-        // \x01 is a page break?
-        // https://github.com/LBALab/lba1-classic-community/blob/main/SOURCES/MESSAGE.C#L1151C19-L1151C67
+        // no idea what \x01 does
         // '@' are newlines
         postProcess: (text) => text.replaceAll("\x01", "").replaceAll(/ ?@ ?/g, "\n"),
 	},

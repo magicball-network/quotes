@@ -28,6 +28,8 @@
 		"yaml": "^2.5.0"
 	},
 	"dependencies": {
+		"@lbalab/hqr": "^3.4.4",
+		"iconv-lite": "^0.7.0",
 		"mustache": "^4.2.0"
 	}
 }

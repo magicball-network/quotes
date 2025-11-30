@@ -24,9 +24,28 @@ async function load_yaml(file) {
 	}
 }
 
-async function resolveAudioFile(file) {
+function explodeLanguage(data) {
+	let langMap = Object.keys(data).filter(k => /[a-z]{2}(-[a-z]*)?/i.test(k) && typeof data[k] === "object");
+	let base = {...data};
+	for (let lang of langMap) {
+		delete base[lang];
+	}
+	let result = {"en": base};
+	for (let lang of langMap) {
+		let entry = {...base, ...(data[lang])};
+		result["lang"] = entry;
+	}
+	return result;
+}
+
+async function resolveAudioFile(file, lang = "en") {
 	let fp = path.parse(file);
-	let audioFile = `${fp.dir}/${fp.name}.webm`;
+	if (lang === "en") {
+		lang = "";
+	} else {
+		lang = `-${lang}`;
+	}
+	let audioFile = `${fp.dir}/${fp.name}${lang}.webm`;
 	try {
 		await fs.stat(path.join("dist", audioFile));
 		return audioFile;
@@ -37,11 +56,11 @@ async function resolveAudioFile(file) {
 
 async function load_quotes(game, bundlefile) {
 	console.log("Processing bundle:", bundlefile);
-	let result = [];
+	let result = {"en": []};
 	const bundledir = path.dirname(bundlefile);
-	const bundle = {
+	const bundle = explodeLanguage({
 		...(await load_yaml(bundlefile)),
-	};
+	});
 	let quotes = await glob(`${bundledir}/*.yaml`);
 	for (let quotefile of quotes) {
 		if (!path.basename(quotefile).match(/^[0-9]{3}\.yaml$/)) {
