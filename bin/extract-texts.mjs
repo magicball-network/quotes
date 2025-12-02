@@ -12,34 +12,67 @@ const gameInfo = {
         postProcess: (text) => text.replaceAll("\x01", "").replaceAll(/ ?@ ?/g, "\n"),
 	},
 	lba2: {
-		lang: ["en", "fr", "de", "es", "it"],
+		lang: ["en", "fr", "de", "es", "it", "pt"],
         // first byte is the dialog type
         // '@' are newlines
         postProcess: (text) => text.substr(1).replaceAll(/ ?@ ?/g, "\n"),
 	},
 };
 
+const textIdLookupTable = {
+	lba1: {},
+	lba2: {}
+}
+
 function getLbtInfo(mode, bundleCount, hqrIndex) {
 	// First text bundle ID is 2
-	const bundleId = ("00" + (((hqrIndex - 1) % bundleCount) + 2)).slice(-2);
-	const lang = gameInfo[mode].lang[Math.floor((hqrIndex - 1) / bundleCount)];
+	const bundleId = ("00" + ((hqrIndex % bundleCount) + 2)).slice(-2);
+	const lang = gameInfo[mode].lang[Math.floor(hqrIndex  / bundleCount)];
 	return { mode, hqrIndex, bundleId, lang };
+}
+
+async function readTextIdTable(byteArray) {
+	const table = []
+	const wordArray = new Uint16Array(byteArray);
+	for (let i = 0; i < wordArray.length; ++i) {
+		table.push(wordArray[i]);
+	}
+	return table;
+}
+
+function seedTextIdLookupTable(lbtInfo, textIdTable) {
+	// first LTI file per bundle is leading, which should be "en"
+	// Quote IDs are based on the index of the "en" text ID table
+	if (textIdLookupTable[lbtInfo.mode][lbtInfo.bundleId]) {
+		return;
+	}
+	let table = {};
+	textIdLookupTable[lbtInfo.mode][lbtInfo.bundleId] = table;
+	for (let i = 0; i < textIdTable.length; ++i) {
+		table[textIdTable[i]] = ("000" + (i+1)).slice(-3);
+	}
+}
+
+function resolveTextId(lbtInfo, textId) {
+	const table = textIdLookupTable[lbtInfo.mode][lbtInfo.bundleId];
+	return table[textId];
 }
 
 function readShort(byteArray, index) {
 	return new Uint16Array(byteArray, index, 2)[0];
 }
 
-async function procLbtEntry(lbtInfo, id, text) {
-	id = ("000" + id).slice(-3);
+async function procLbtEntry(lbtInfo, textId, text) {
+	const id = resolveTextId(lbtInfo, textId);
 	const filename = `${lbtInfo.mode}/${lbtInfo.bundleId}/${id}.yaml`;
-	let data;
+	
+	let data = { textId, location: null, speaker: null, message: null };
 	try {
 		const filedata = await fs.readFile(filename, "utf8");
-		data = yaml.parse(filedata);
-	} catch (e) {
-		data = { location: null, speaker: null, message: null };
-	}
+		const ymlData = yaml.parse(filedata);
+		data = {...data, ...ymlData};
+	} catch (e) {}
+
 	if (lbtInfo.lang === "en") {
 		data.message = text;
 	} else {
@@ -48,6 +81,7 @@ async function procLbtEntry(lbtInfo, id, text) {
 		}
 		data[lbtInfo.lang].message = text;
 	}
+
 	await fs.mkdir(path.dirname(filename), { recursive: true });
 	await fs.writeFile(
 		filename,
@@ -58,7 +92,7 @@ async function procLbtEntry(lbtInfo, id, text) {
 	);
 }
 
-async function procLbt(lbtInfo, byteArray) {
+async function procLbt(lbtInfo, textIdTable, byteArray) {
 	console.log("Processing LBT:", lbtInfo);
 	const entries = [];
 	const end = byteArray.byteLength;
@@ -84,7 +118,7 @@ async function procLbt(lbtInfo, byteArray) {
 			"cp437",
 		);
 		text = gameInfo[lbtInfo.mode].postProcess(text);
-		await procLbtEntry(lbtInfo, i + 1, text.trim());
+		await procLbtEntry(lbtInfo, textIdTable[i], text.trim());
 	}
 }
 
@@ -99,17 +133,23 @@ async function procFile(mode, file) {
         throw new Error("Bundle count not a round number. Invalid language config?");
     }
 	const bundles = Math.floor(hqr.entries.length / gameInfo[mode].lang.length);
+	let textIdTable;
+	let lbtInfo;
 	for (let i = 0; i < hqr.entries.length; ++i) {
 		let entry = hqr.entries[i];
 		if (!entry) {
 			continue;
 		}
-		if (i % bundles > 8) {
-			// FIXME: no more in demo
-			continue;
-		}
-		if (i % 2 == 1) {
-			await procLbt(getLbtInfo(mode, bundles, i), entry.content);
+		if (i % 2 == 0) {
+			// Even entries are LTI (Text Index)
+			// Build the index -> textId table
+			lbtInfo = getLbtInfo(mode, bundles, i);
+			textIdTable = await readTextIdTable(entry.content);
+			// seed the textId -> quoteId table
+			seedTextIdLookupTable(lbtInfo, textIdTable);
+		} else {
+			// Odd entries are LBTs
+			await procLbt(lbtInfo, textIdTable, entry.content);
 		}
 	}
 }
