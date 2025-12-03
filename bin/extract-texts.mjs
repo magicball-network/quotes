@@ -7,32 +7,33 @@ import yaml from "yaml";
 const gameInfo = {
 	lba1: {
 		lang: ["en", "fr", "de", "es", "it"],
-        // no idea what \x01 does
-        // '@' are newlines
-        postProcess: (text) => text.replaceAll("\x01", "").replaceAll(/ ?@ ?/g, "\n"),
+		// no idea what \x01 does
+		// '@' are newlines
+		postProcess: (text) =>
+			text.replaceAll("\x01", "").replaceAll(/ ?@ ?/g, "\n"),
 	},
 	lba2: {
 		lang: ["en", "fr", "de", "es", "it", "pt"],
-        // first byte is the dialog type
-        // '@' are newlines
-        postProcess: (text) => text.substr(1).replaceAll(/ ?@ ?/g, "\n"),
+		// first byte is the dialog type
+		// '@' are newlines
+		postProcess: (text) => text.substr(1).replaceAll(/ ?@ ?/g, "\n"),
 	},
 };
 
 const textIdLookupTable = {
 	lba1: {},
-	lba2: {}
-}
+	lba2: {},
+};
 
 function getLbtInfo(mode, bundleCount, hqrIndex) {
 	// First text bundle ID is 2
 	const bundleId = ("00" + ((hqrIndex % bundleCount) + 2)).slice(-2);
-	const lang = gameInfo[mode].lang[Math.floor(hqrIndex  / bundleCount)];
+	const lang = gameInfo[mode].lang[Math.floor(hqrIndex / bundleCount)];
 	return { mode, hqrIndex, bundleId, lang };
 }
 
 async function readTextIdTable(byteArray) {
-	const table = []
+	const table = [];
 	const wordArray = new Uint16Array(byteArray);
 	for (let i = 0; i < wordArray.length; ++i) {
 		table.push(wordArray[i]);
@@ -49,8 +50,17 @@ function seedTextIdLookupTable(lbtInfo, textIdTable) {
 	let table = {};
 	textIdLookupTable[lbtInfo.mode][lbtInfo.bundleId] = table;
 	for (let i = 0; i < textIdTable.length; ++i) {
-		table[textIdTable[i]] = ("000" + (i+1)).slice(-3);
+		table[textIdTable[i]] = ("000" + (i + 1)).slice(-3);
 	}
+}
+
+async function exportLookupTable(lbtInfo, textIdTable) {
+	let table = textIdTable.map((textId, index) => {
+		return { textId, index, quoteId: resolveTextId(lbtInfo, textId) };
+	});
+	let filename = `${lbtInfo.mode}/tables/${lbtInfo.bundleId}-${lbtInfo.lang}.json`;
+	await fs.mkdir(path.dirname(filename), { recursive: true });
+	await fs.writeFile(filename, JSON.stringify(table, null, 4));
 }
 
 function resolveTextId(lbtInfo, textId) {
@@ -65,12 +75,12 @@ function readShort(byteArray, index) {
 async function procLbtEntry(lbtInfo, textId, text) {
 	const id = resolveTextId(lbtInfo, textId);
 	const filename = `${lbtInfo.mode}/${lbtInfo.bundleId}/${id}.yaml`;
-	
+
 	let data = { textId, location: null, speaker: null, message: null };
 	try {
 		const filedata = await fs.readFile(filename, "utf8");
 		const ymlData = yaml.parse(filedata);
-		data = {...data, ...ymlData};
+		data = { ...data, ...ymlData };
 	} catch (e) {}
 
 	if (lbtInfo.lang === "en") {
@@ -129,9 +139,11 @@ async function procFile(mode, file) {
 		data.buffer.slice(data.byteOffset, data.byteOffset + data.byteLength),
 	);
 	console.log("Number of entries in file:", hqr.entries.length);
-    if (hqr.entries.length % gameInfo[mode].lang.length !== 0) {
-        throw new Error("Bundle count not a round number. Invalid language config?");
-    }
+	if (hqr.entries.length % gameInfo[mode].lang.length !== 0) {
+		throw new Error(
+			"Bundle count not a round number. Invalid language config?",
+		);
+	}
 	const bundles = Math.floor(hqr.entries.length / gameInfo[mode].lang.length);
 	let textIdTable;
 	let lbtInfo;
@@ -147,6 +159,7 @@ async function procFile(mode, file) {
 			textIdTable = await readTextIdTable(entry.content);
 			// seed the textId -> quoteId table
 			seedTextIdLookupTable(lbtInfo, textIdTable);
+			await exportLookupTable(lbtInfo, textIdTable);
 		} else {
 			// Odd entries are LBTs
 			await procLbt(lbtInfo, textIdTable, entry.content);
