@@ -72,7 +72,26 @@ function readShort(byteArray, index) {
 	return new Uint16Array(byteArray, index, 2)[0];
 }
 
+function isEmpty(text, lang) {
+	const trimmed = text.trim().toLowerCase();
+	if (trimmed === "") {
+		return true;
+	}
+	// Looks like empty is sometimes translated
+	switch (lang) {
+		case "fr": return trimmed === "vide";
+		case "de": return trimmed === "leer";
+		case "it": return trimmed === "vuoto";
+		case "pt": return trimmed === "vazio";
+	}
+	return false;
+}
+
 async function procLbtEntry(lbtInfo, textId, text) {
+	if (isEmpty(text, lbtInfo.lang)) {
+		return;
+	}
+
 	const id = resolveTextId(lbtInfo, textId);
 	const filename = `${lbtInfo.mode}/${lbtInfo.bundleId}/${id}.yaml`;
 
@@ -86,6 +105,10 @@ async function procLbtEntry(lbtInfo, textId, text) {
 	if (lbtInfo.lang === "en") {
 		data.message = text;
 	} else {
+		if (!data.message) {
+			// missing en message is probably not good either
+			return;
+		}
 		if (!data[lbtInfo.lang]) {
 			data[lbtInfo.lang] = {};
 		}
