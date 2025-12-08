@@ -1,3 +1,12 @@
+textId: 170
 location:
 speaker:
 message: Take that, rebel!
+fr:
+  message: Prends ça rebelle !
+de:
+  message: Nimm das, Rebelle !
+es:
+  message: ¡Toma esto rebelde!
+it:
+  message: Prendi questo, ribelle!

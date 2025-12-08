@@ -1,3 +1,12 @@
+textId: 108
 location:
 speaker:
 message: Sorry. I haven't seen your trio.
+fr:
+  message: Je regrette, j'ai pas vu votre trio.
+de:
+  message: Bedauere, ich habe Ihr Trio nicht gesehen.
+es:
+  message: Lamento no haber visto a su trío.
+it:
+  message: Mi spiace, non ho visto il vostro trio.

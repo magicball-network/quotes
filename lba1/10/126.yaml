@@ -1,6 +1,29 @@
+textId: 135
 location:
 speaker:
 message: Bravo! This little twinge of cherry is fantastic. Ever since my doctor
   told me that I could only drink tap water and... well you know all that. In
   gratitude, I can show you all the ancient works that are here, even the
   LEGENDARY ones!
+fr:
+  message:
+    Bravo ! Ce petit goût de cerise c'est une merveille. Il faut vous dire
+    qu'à cause de mon médecin, je ne peux boire que de l'eau de la ville et ...
+    Bref ! Pour vous remercier je peux vous montrer des ouvrages anciens, je
+    dirais même LEGENDAIRES !
+de:
+  message:
+    Bravo ! Dieser nette Kirschgeschmack ist eine Wonne. Sie müssen wissen,
+    daß mir mein Arzt gesagt hat, daß ich nur Leitungswasser trinken darf, und
+    ... Kurzum ! Zum Dank kann ich Ihnen alte Werke zeigen, ich würde sogar
+    sagen LEGENDÄRE Werke !
+es:
+  message: ¡Bravo! Este saborcito a cerezas es una maravilla. Tengo que decirle
+    que a causa de mi médico no puedo beber más que el agua de la ciudad y...
+    bueno, para agradecerselo puedo mostrarle las obras antiguas, incluso diría
+    ¡LEGENDARIAS!
+it:
+  message:
+    Complimenti! L'aroma alla ciliegia è veramente ottimo. Le confesso che
+    il mio medico mi ha imposto di bere solo acqua del rubinetto e... Insomma,
+    per ringraziarla le mostrerò opere antiche, se non addirittura LEGGENDARIE!

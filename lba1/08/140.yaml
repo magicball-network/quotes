@@ -1,3 +1,12 @@
+textId: 146
 location:
 speaker:
 message: I don't know what those things are!
+fr:
+  message: Je ne sais pas ce que c'est que ces trucs-là !
+de:
+  message: Ich weiß nicht was das für Dinger sind !
+es:
+  message: ¡No sé qué son esas cosas!
+it:
+  message: Non so cosa siano quegli affari là!

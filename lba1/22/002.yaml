@@ -1,3 +1,12 @@
+textId: 1
 location:
 speaker:
 message: Catch anything?
+fr:
+  message: Et alors ? Ca mord ?
+de:
+  message: Na ? Beißt einer an ?
+es:
+  message: ¿Qué tal? ¿Pican?
+it:
+  message: Allora? Hai preso qualcosa?

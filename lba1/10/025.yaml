@@ -1,3 +1,12 @@
+textId: 24
 location:
 speaker:
 message: Halt! You are a wanted escapee!
+fr:
+  message: Halte ! Vous êtes recherché pour évasion.
+de:
+  message: Halt ! Sie werden wegen Ausbruch gesucht.
+es:
+  message: ¡Alto! Ud. está buscado por evasión.
+it:
+  message: Alt! Lei è ricercato per evasione.

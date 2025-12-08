@@ -1,5 +1,24 @@
+textId: 38
 location:
 speaker:
 message: Unfortunately, I don't know anything about the Legend, but I have a
   fisherman friend who could help you in your travels if you tell him that I
   sent you. He lives at Port-Belooga (check your holomap).
+fr:
+  message: Je ne sais rien de la Légende et je le regrette, mais j'ai un ami
+    pêcheur qui peut t'aider à voyager si tu lui dis que tu viens de ma part. Il
+    habite à Port-Bélooga (regarde sur ton holomap).
+de:
+  message: Ich weiß nichts über die Legende und ich bedauere es, aber ich habe
+    einen Freund der Fischer ist, der Dir helfen kann zu reisen, wenn ihm Du
+    sagst, daß ich Dich schicke. Er wohnt im Hafen von Bélooga (schau auf Deinen
+    Holomap).
+es:
+  message:
+    No sé nada de la Leyenda y lo lamento, pero tengo un amigo pescador que
+    puede ayudarte a viajar si le dices que vienes de mi parte. El vive en
+    Puerto-Belooga (mira en tu holomapa).
+it:
+  message: Non so nulla sulla Leggenda, mi spiace, ma ho un amico pescatore che
+    può aiutarti a viaggiare; digli che ti mando io. Abita a Porto Beluga
+    (guarda sulla tua holomap).

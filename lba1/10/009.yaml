@@ -1,4 +1,18 @@
+textId: 8
 location:
 speaker:
 message: '"Young male quetch seeks young female rabbibunny for friendship (and
   maybe more...)"'
+fr:
+  message:
+    '" J.H. quetch cherche J.F. lapichon pour relation amicale (et plus si
+    affinités). "'
+de:
+  message: '" Junger Quetsch sucht junge Haasi für freundschaftliche Beziehung
+    (Liebe nicht ausgeschlossen). "'
+es:
+  message: '"H. colines busca M. conejuna para relación amistosa (y más si hay
+    afinidades)."'
+it:
+  message: '" Ragazzo quetch cerca ragazza lapinoide per amicizia e con il tempo
+    anche qualcosa di più. "'

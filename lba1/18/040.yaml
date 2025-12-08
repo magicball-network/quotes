@@ -1,4 +1,18 @@
+textId: 41
 location:
 speaker:
 message: You have not achieved a sufficient level of power to defeat the red
   clones. We will wait for your return.
+fr:
+  message: Tu n'as pas atteint un niveau de puissance suffisant pour vaincre les
+    clones rouges. Nous attendrons ton retour.
+de:
+  message: Du hast nicht ein genügendes Leistungsniveau erreicht, um die roten
+    Klone zu besiegen. Wir warten bis Du zurückkommst.
+es:
+  message: No has alcanzado un nivel de poder suficiente como para vencer a los
+    clones rojos. Esperaremos tu regreso.
+it:
+  message:
+    Non hai raggiunto un livello di potenza sufficiente per vincere i cloni
+    rossi. Aspetteremo il tuo ritorno.

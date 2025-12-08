@@ -1,3 +1,12 @@
+textId: 17
 location:
 speaker:
 message: Ask the look-out further on down the road, he'll be able to help you.
+fr:
+  message: Demande au guetteur en bas de la route, il doit pouvoir t'aider.
+de:
+  message: Frag den Späher unten an der Straße, er kann Dir bestimmt helfen.
+es:
+  message: Pregúntale al vigía un poco más adelante en el camino, él podrá ayudarte.
+it:
+  message: Chiedi alla sentinella alla fine della strada, lui ti aiuterà.

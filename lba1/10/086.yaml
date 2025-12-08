@@ -1,3 +1,12 @@
+textId: 93
 location:
 speaker:
 message: What are you doing there, who are you?
+fr:
+  message: Que faites vous là, qui êtes vous ?
+de:
+  message: Was machen Sie da, wer sind Sie ?
+es:
+  message: ¿Qué hace Ud. ahí?, ¿quién es Ud.?
+it:
+  message: Cosa fa qui, chi è lei?

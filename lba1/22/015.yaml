@@ -1,6 +1,27 @@
+textId: 17
 location:
 speaker:
 message: |-
   " L.B.A.
   Funky-Town sewer service
   Swindler street "
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts de Funky-Town
+    Rue des Escrocs "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst von Funky-Town
+    Gauner Straße "
+es:
+  message: |-
+    "L.B.A.
+    Servicio de alcantarillado de Funky-Town
+    Calle de los Estafadores"
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario di Funky-Town
+    Via degli imbroglioni"

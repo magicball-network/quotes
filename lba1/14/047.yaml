@@ -1,3 +1,4 @@
+textId: 47
 location:
 speaker:
 message: I've been working on a Jet-Pack prototype for days now. It's a small
@@ -5,3 +6,30 @@ message: I've been working on a Jet-Pack prototype for days now. It's a small
   is that my last test flight wreaked a bit of havoc on the garden wall. It is
   rather difficult to fine tune the motor's power. I need a rheostat like the
   one you find in a hair dryer. Do you think you can find one of those for me?
+fr:
+  message: "Je travaille sur un prototype de Jet-Pack depuis des jours, c'est un
+    petit réacteur dorsal qui permettra de se déplacer en volant. Le problème,
+    c'est que mes derniers essais de moteur ont un peu abîmé le mur qui donne
+    sur le jardin. C'est délicat à régler la puissance d'un moteur, il me
+    faudrait un rhéostat : comme ceux que l'on trouve dans les sèche-cheveux. Tu
+    pourrais m'en trouver un ?"
+de:
+  message: "Ich arbeite seit Tagen an einem Jet-Pack Prototypen, dies ist ein
+    kleines Rückentriebwerk, ein neues Fortbewegungsmittel mit dem man fliegen
+    kann. Das Problem dabei ist, daß meine letzten Motorentests die Wand zum
+    Garten hin ein wenig beschädigt haben. Es ist schwierig die Leistung eines
+    Motors richtig einzustellen, ich bräuchte ein Rheostat : wie jene die man in
+    Föne finden kann. Könntest Du mir einen besorgen ?"
+es:
+  message: "Trabajo en un prototipo de Jet-Pack desde hace varios días, es un
+    pequeño reactor dorsal que permitirá desplazarse volando. El problema es que
+    mis últimos ensayos de motor han dañado un poco el muro que da al jardín. Es
+    delicado ajustar la potencia de un motor, necesitaría un reostato: como los
+    que hay en los secadores de pelo. ¿Podrías encontrarme uno?"
+it:
+  message: Lavoro da giorni su un prototipo di Jet-Pack. E' un piccolo reattore
+    dorsale che consentirà di spostarsi volando. L'unico problema è che gli
+    ultimi esperimenti con il motore hanno un po' sciupato il muro che dà sul
+    giardino... E' difficile regolare la potenza di un motore, avrei bisogno di
+    un reostato, come quelli che ci sono negli asciugacapelli. Puoi procurarmene
+    uno?

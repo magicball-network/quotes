@@ -1,3 +1,12 @@
+textId: 162
 location:
 speaker:
 message: Don't know him!
+fr:
+  message: Connais pas !
+de:
+  message: Kenne ich nicht !
+es:
+  message: ¡No sé!
+it:
+  message: Non so niente!

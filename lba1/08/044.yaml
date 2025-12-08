@@ -1,3 +1,12 @@
+textId: 49
 location:
 speaker:
 message: Try the tavern, you never know...
+fr:
+  message: Essayez à la taverne, on ne sait jamais.
+de:
+  message: Versuchen Sie es mal in der Taverne, man kann nie wissen.
+es:
+  message: Pruebe en la taberna, nunca se sabe.
+it:
+  message: Provi alla taverna, non si sa mai.

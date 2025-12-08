@@ -1,3 +1,4 @@
+textId: 105
 location:
 speaker:
 message: >-
@@ -5,3 +6,21 @@ message: >-
 
   With this magical symbol, you have just earned the second level of power. You
   can now also read runes and talk to animals.
+fr:
+  message: Livre de Bù (et PROPHETIE). Touche (ENTREE) pour lire la prophétie.
+    Grâce à ce symbole magique, tu viens d'atteindre le 2nd niveau de puissance.
+    Tu peux aussi lire les runes et parler aux animaux.
+de:
+  message:
+    Bù Buch (und PROPHEZEIUNG). (ENTER) Taste um die Prophezeiung zu lesen.
+    Dank dieses magischen Symbols hast Du soeben die zweite Kraftstufe erreicht.
+    Du kannst auch die Runenschriften lesen und mit den Tieren sprechen.
+es:
+  message:
+    Libro de Bù (y PROFECIA). Tecla (ENTRAR) para leer la profecía. Gracias
+    a este símbolo mágico, acabas de alcanzar el segundo nivel de poder.
+    También, puedes leer las runas y hablarle a los animales.
+it:
+  message: Libro di Bù (e PROFEZIA). Tasto (INVIO) per leggere la profezia. Con
+    questo simbolo magico raggiungi il secondo livello di potenza. Potrai ora
+    leggere le rune e parlare agli animali.

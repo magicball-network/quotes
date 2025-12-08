@@ -1,4 +1,19 @@
+textId: 20
 location:
 speaker:
 message: Ah! I don't know where those plans are. You can find information about
   everything in Funky-Town, but this city will soon be destroyed by FunFrock.
+fr:
+  message: Ah j'ignore où sont ces plans. A Funky-Town on doit trouver des
+    informations sur tout, mais cette ville sera bientôt rasée par FunFrock.
+de:
+  message: Ach, ich weiß nicht wo diese Pläne sind. In Funky-Town findet man
+    bestimmt über alles Informationen, aber diese Stadt wird bald von FunFrock
+    ausradiert.
+es:
+  message: ¡Ah! ignoro dónde están esos planos. En Funky-Town se puede encontrar
+    informaciones sobre todo, pero esta ciudad pronto será arrasada por
+    FunFrock.
+it:
+  message: Non so dove sono le mappe. A Funky-Town si trovano informazioni su
+    tutto, ma anche quella città verrà presto rasa al suolo da FunFrock.

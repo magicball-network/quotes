@@ -1,3 +1,12 @@
+textId: 251
 location:
 speaker:
 message: They say that he was never captured!
+fr:
+  message: Il paraît qu'on ne l'a jamais capturé, lui !
+de:
+  message: Anscheinend hat man ihn nie gefaßt !
+es:
+  message: ¡Parece que nunca lo capturaron!
+it:
+  message: Sembra che non l'abbiano mai catturata!

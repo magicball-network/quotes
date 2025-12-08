@@ -1,3 +1,12 @@
+textId: 134
 location:
 speaker:
 message: Probably another FunFrock stunt.
+fr:
+  message: C'est un coup de FunFrock.
+de:
+  message: Das hat FunFrock verbockt.
+es:
+  message: Es una de las de FunFrock.
+it:
+  message: E' un colpo di FunFrock.

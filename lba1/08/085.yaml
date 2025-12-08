@@ -1,5 +1,22 @@
+textId: 91
 location:
 speaker:
 message: |-
   "Bug street
   (Citadel Island)."
+fr:
+  message: |-
+    " Rue du Scarabée
+    (Ile de la Citadelle). "
+de:
+  message: |-
+    " Skarabäus Straße
+    (Zitadelleninsel). "
+es:
+  message: |-
+    "Calle del Escarabajo
+    (Isla de la Ciudadela)."
+it:
+  message: |-
+    "Via dello Scarabeo
+    (Isola della Cittadella). "

@@ -1,3 +1,12 @@
+textId: 9
 location:
 speaker:
 message: Sorry, Twinsen, you don't have enough Kashes.
+fr:
+  message: Désolé, Twinsen, tu n'as pas assez de Kashes.
+de:
+  message: Tut mir leid Twinsen, Du hast nicht genügend Kashes.
+es:
+  message: Lo siento, Twinsen, no tienes suficiente dinero.
+it:
+  message: Spiacente, Twinsen, non hai abbastanza soldi.

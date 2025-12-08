@@ -1,4 +1,20 @@
+textId: 6
 location:
 speaker:
 message: Hey quetch, hell of a job. If you'd like to carry on down the corridor
   and, try to open the hatch at the end of the hall.
+fr:
+  message: Vous le quetch, je vous dois une fière chandelle. Si vous voulez
+    redescendre sur l'autre versant, essayez d'actionner la plaque électrique au
+    bout de ce couloir.
+de:
+  message: Sie der Quetsch, ich bin Ihnen verdammt etwas schuldig. Wenn Sie den
+    anderen Abhang runtersteigen wollen, versuchen Sie die Klappe mit dem
+    Hochspannungszeichen am Ende dieses Korridors zu bewegen.
+es:
+  message: Escúcheme colines, estoy en deuda con usted. Le daré un buen consejo.
+    Si quiere bajar por la otra vertiente, trate de accionar la trampilla
+    eléctrica al fondo del corredor.
+it:
+  message: Le devo molta gratitudine, quetch. Se vuole scendere sull'altro
+    versante, tenti di azionare la piastra elettrica al termine del corridoio.

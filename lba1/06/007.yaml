@@ -1,3 +1,19 @@
+textId: 6
 location:
 speaker:
 message: You've just earned the third level of Magic by finding Sendell's Medallion.
+fr:
+  message:
+    Tu viens d'atteindre le 3ème niveau de Magie en retrouvant le Médaillon
+    de Sendell.
+de:
+  message:
+    Du hast soeben die dritte Magiestufe erreicht, da Du Sendells Medaillon
+    wiedergefunden hast.
+es:
+  message:
+    Acabas de alcanzar el tercer nivel de Magia encontrando el Medallón de
+    Sendell.
+it:
+  message: Hai appena raggiunto il terzo livello di magia trovando il Medaglione
+    di Sendell.

@@ -1,4 +1,19 @@
+textId: 73
 location:
 speaker:
 message: Then go to the museum. And along those lines, don't touch the alarm
   button on the wall!
+fr:
+  message:
+    Alors allez visiter le musée. Et à ce propos, ne touchez pas au bouton
+    d'alerte sur le mur !
+de:
+  message:
+    Dann gehen Sie doch ins Museum. Und à propos, rühren Sie den Alarmknopf
+    an der Wand nicht an !
+es:
+  message: Entonces va a visitar el museo. Al respecto, ¡no toque el botón de
+    alerta de la pared!
+it:
+  message: Allora, visiti il museo, e si ricordi di non toccare il pulsante di
+    allarme sul muro!

@@ -1,4 +1,18 @@
+textId: 5
 location:
 speaker:
 message: The passage that I'm opening for you leads to a port, where the old
   subway that crossed the Hamalayi used to leave from.
+fr:
+  message: Le passage que je t'ouvre permet d'aller dans un port, d'où partait
+    l'ancien métro qui traversait l'Hamalayi.
+de:
+  message:
+    Den Gang, den ich Dir öffne, ermöglicht in einen Hafen zu gelangen, von
+    wo aus früher die Metro losfuhr, die den Hamalayi durchquerte.
+es:
+  message: El pasaje que te abro permite ir a un puerto, de donde partía el
+    antiguo metro que atravesaba el Hamalayi.
+it:
+  message: Il passaggio che ti apro consente di raggiungere un porto da cui
+    partiva la vecchia metro che attraversava l'Hamalayi.

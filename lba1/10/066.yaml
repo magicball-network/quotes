@@ -1,3 +1,12 @@
+textId: 73
 location:
 speaker:
 message: I'm paying to see!
+fr:
+  message: Je paie pour voir !
+de:
+  message: Ich zahle um zu sehen !
+es:
+  message: ¡Pago por ver!
+it:
+  message: Ma pago per vedere!

@@ -1,3 +1,12 @@
+textId: 59
 location:
 speaker:
 message: '"Keep the planet clean!"'
+fr:
+  message: '" Gardez la planète propre ! "'
+de:
+  message: '" Haltet den Planeten sauber ! "'
+es:
+  message: '"¡Conserven el planeta limpio!"'
+it:
+  message: '" Tenete pulito il pianeta! "'

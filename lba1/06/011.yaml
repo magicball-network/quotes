@@ -1,3 +1,12 @@
+textId: 10
 location:
 speaker:
 message: You've just rediscovered your ID card.
+fr:
+  message: Tu viens de retrouver ta Carte d'Identité.
+de:
+  message: Du hast soeben Deinen Personalausweis wiedergefunden.
+es:
+  message: Acabas de encontrar tu Tarjeta de Identidad.
+it:
+  message: Hai appena trovato la tua Carta d'Identità.

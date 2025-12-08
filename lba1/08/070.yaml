@@ -1,3 +1,13 @@
+textId: 76
 location:
 speaker:
 message: I saw them! They left for another island, but I don't know which one.
+fr:
+  message: Je les ai vus ! Ils sont partis pour une autre île, mais j'ignore laquelle.
+de:
+  message: Ich habe sie gesehen ! Sie sind aufgebrochen, um sich auf eine andere
+    Insel zu begeben, aber ich weiß nicht welche.
+es:
+  message: ¡Los he visto! Han partido hacia otra isla, pero ignoro a cuál.
+it:
+  message: Li ho visti! Sono salpati per un'altra isola, ma non so quale.

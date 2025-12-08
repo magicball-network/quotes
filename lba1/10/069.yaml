@@ -1,5 +1,22 @@
+textId: 76
 location:
 speaker:
 message: |-
   "Old Burg
   (Principal island)"
+fr:
+  message: |-
+    " Vieux Bourg
+    (Ile Principale) "
+de:
+  message: |-
+    " Altstadt
+    (Hauptinsel) "
+es:
+  message: |-
+    "Viejo Burgo
+    (Isla Principal) "
+it:
+  message: |-
+    "Vecchio Borgo
+    (Isola Principale) "

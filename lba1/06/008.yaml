@@ -1,4 +1,23 @@
+textId: 7
 location:
 speaker:
 message: You've just earned the fourth level of Magic by filling up your flask
   with Clear Water.
+fr:
+  message:
+    Tu viens d'atteindre le 4ème niveau de Magie en remplissant ton flacon
+    d'Eau Claire. Désormais tu peux neutraliser les clones les plus puissants !
+de:
+  message:
+    Du hast soeben die vierte Magiestufe erreicht, da Du Deine Flasche mit
+    Klarem Wasser gefüllt hast. Von nun an kannst Du die mächtigsten Klone
+    ausschalten !
+es:
+  message:
+    Acabas de alcanzar el cuarto nivel de Magia llenando tu frasco de Agua
+    Clara. ¡A partir de este momento podrás neutralizar a los clones más
+    poderosos!
+it:
+  message:
+    Hai appena raggiunto il quarto livello di magia riempiendo la boccetta
+    con l'Acqua Limpida. Ora sei in grado di neutralizzare i cloni più potenti!

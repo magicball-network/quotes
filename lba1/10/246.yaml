@@ -1,4 +1,20 @@
+textId: 263
 location:
 speaker:
 message: Come here! Now that's a real sailor! LeBorgne had a log that must have
   contained the location of his treasure somewhere.
+fr:
+  message: Dans mes bras ! Ca c'est un vrai marin ! LeBorgne tenait un livre de
+    bord dans lequel l'emplacement de son trésor doit figurer d'une manière ou
+    d'une autre.
+de:
+  message: Komm in meine Arme ! Das ist ein wahrer Seemann ! EinAuge führte ein
+    LogBuch, darin ist der Standort des Schatzes bestimmt angegeben.
+es:
+  message: ¡En mis brazos! ¡Eso es un verdadero marino! El Tuerto tenía una
+    bitácora en la cual debe figurar el emplazamiento de su tesoro de una manera
+    o de otra.
+it:
+  message:
+    Eccolo qui un vero marinaio! Il Guercio teneva un libro di bordo in cui
+    deve essere riportata la posizione del suo tesoro.

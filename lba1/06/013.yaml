@@ -1,3 +1,12 @@
+textId: 12
 location:
 speaker:
 message: You now have the Proto-Pack.
+fr:
+  message: Tu disposes maintenant du Proto-Pack.
+de:
+  message: Du verfügst nun über den Proto-Pack.
+es:
+  message: Ahora dispones del Proto-Pack.
+it:
+  message: Ora disponi del Proto-Pack.

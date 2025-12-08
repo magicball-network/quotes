@@ -1,3 +1,12 @@
+textId: 69
 location:
 speaker:
 message: I'm not interested.
+fr:
+  message: Ca ne m'intéresse pas.
+de:
+  message: Das interessiert mich nicht.
+es:
+  message: No me interesa.
+it:
+  message: Non mi interessa.

@@ -1,3 +1,12 @@
+textId: 96
 location:
 speaker:
 message: Santa Claus.
+fr:
+  message: Le Père Noël.
+de:
+  message: Der Weinachtsmann.
+es:
+  message: El Papá Noel.
+it:
+  message: Sono Babbo Natale.

@@ -1,5 +1,22 @@
+textId: 220
 location:
 speaker:
 message: |-
   Runic Stone
   (Proxima island)
+fr:
+  message: |-
+    Pierre Runique
+    (Ile Proxima)
+de:
+  message: |-
+    Runenstein
+    (Insel Proxima)
+es:
+  message: |-
+    Piedra Rúnica
+    (Isla Próxima)
+it:
+  message: |-
+    Pietra Runica
+    (Isola Proxima)

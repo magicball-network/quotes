@@ -1,3 +1,12 @@
+textId: 7
 location:
 speaker:
 message: We'll see about that later.
+fr:
+  message: On verra plus tard.
+de:
+  message: Sehen wir später.
+es:
+  message: Nos veremos más tarde.
+it:
+  message: Vedremo poi.

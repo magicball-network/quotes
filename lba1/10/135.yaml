@@ -1,3 +1,12 @@
+textId: 144
 location:
 speaker:
 message: Why LeBorgne?
+fr:
+  message: Pourquoi LeBorgne ?
+de:
+  message: Warum EinAuge ?
+es:
+  message: ¿Porqué El Tuerto?
+it:
+  message: Perché si chiama il Guercio?

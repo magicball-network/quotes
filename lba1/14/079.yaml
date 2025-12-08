@@ -1,3 +1,13 @@
+textId: 79
 location:
 speaker:
 message: What about my test flights? I'm not paying you to test your shoes!
+fr:
+  message: Et alors ces essais ? Je ne te paies pas pour tester tes chaussures !
+de:
+  message: Nun, wie stet's mit den Tests ? Ich bezahle Dich nicht dafür um Deine
+    Schuhe zu testen !
+es:
+  message: ¿Y esos ensayos? ¡No te pago por probar tus zapatos!
+it:
+  message: Allora, le tue prove? Non ti pago mica per provare le scarpe!

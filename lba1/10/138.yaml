@@ -1,5 +1,23 @@
+textId: 147
 location:
 speaker:
 message: '"That was his nickname because he was always chewing an old toothpick.
   One day, during a typhoon, he sneezed: he found his toothpick, but lost an
   eye!"'
+fr:
+  message:
+    '" On l''appelait comme ça parce qu''il avait la manie de mâchouiller un
+    vieux cure-dent à longueur de journée. Un jour au coeur d''un typhon il
+    éternua : il retrouva son cure-dent, mais perdit l''oeil ! "'
+de:
+  message: '" Er wurde so genannt, weil er dauernd auf einem alten Zahnstocher
+    herumkaute. Eines Tages mußte er mitten in einem Taifun niesen : er fand
+    seinen Zahnstocher wieder, verlor aber sein Auge ! "'
+es:
+  message: '"Se le llamaba así porque tenía la manía de masticar un mondadientes
+    durante todo el día, hasta que una vez, en medio de un tifón, estornudó...
+    recuperó su mondadientes, ¡pero perdió el ojo!"'
+it:
+  message: '"Lo chiamavano così perché aveva la mania di tenere in bocca lo
+    stuzzicadenti tutto il santo giorno. Un giorno, nel mezzo di un tifone,
+    sternutì. Ritrovò lo stuzzicadenti, ma perse l''occhio!'

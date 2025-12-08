@@ -1,5 +1,22 @@
+textId: 210
 location:
 speaker:
 message: |-
   Clear Water Lake
   (The Hamalayi mountains)
+fr:
+  message: |-
+    Lac d'Eau Claire
+    (Chaîne de l'Hamalayi)
+de:
+  message: |-
+    See Klares Wasser
+    (Hamalayi-Kette)
+es:
+  message: |-
+    Lago de Agua Clara
+    (Cadena del Hamalayi)
+it:
+  message: |-
+    Lago di acqua limpida
+    (Catena dell'Hamalayi)

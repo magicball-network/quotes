@@ -1,3 +1,12 @@
+textId: 156
 location:
 speaker:
 message: You should talk to the sailors about that kind of story.
+fr:
+  message: Ce genre d'histoire, tu devrais en parler avec des marins.
+de:
+  message: Über solche Geschichten solltest Du am besten mit Seeleuten sprechen.
+es:
+  message: Sobre esa historia mejor habla con los marinos.
+it:
+  message: Dovresti parlare con i marinai di questa storia.

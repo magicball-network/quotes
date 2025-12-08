@@ -1,3 +1,13 @@
+textId: 14
 location:
 speaker:
 message: Clever, now there is no longer a sign on the wall.
+fr:
+  message: C'est malin, maintenant il n'y a plus de signe sur le mur, évidemment !
+de:
+  message: Das ist ja sehr intelligent, jetzt ist natürlich kein Zeichen mehr an
+    der Wand !
+es:
+  message: ¡Qué vivo, ahora no hay más signos en la pared, evidentemente!
+it:
+  message: Ora non ci sono più segni sul muro, evidentemente!

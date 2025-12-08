@@ -1,3 +1,12 @@
+textId: 70
 location:
 speaker:
 message: '"Welcome to Citadel Island"'
+fr:
+  message: '" Bienvenue sur l''Ile de la Citadelle. "'
+de:
+  message: '" Willkommen auf der Zitadelleninsel. "'
+es:
+  message: '"Bienvenido a la Isla de la Ciudadela."'
+it:
+  message: '" Benvenuti sull''isola della Cittadella. "'

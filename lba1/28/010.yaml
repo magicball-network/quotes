@@ -1,4 +1,16 @@
+textId: 9
 location:
 speaker:
 message: What are you doing there? The route that connects the 2 islands is
   classified top secret.
+fr:
+  message: Qu'est-ce que vous faites là ? La route qui relie les 2 îles est
+    classée top-secret.
+de:
+  message: Was machst Du hier, die Straße, die die beiden Inseln miteinander
+    verbindet, ist streng geheim
+es:
+  message: ¿Qué haces ahí? La ruta que conecta las dos islas está clasificada
+    top-secret.
+it:
+  message: Cosa ci fa qui? La strada che collega le due isole è top-secret!

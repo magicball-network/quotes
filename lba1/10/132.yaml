@@ -1,4 +1,19 @@
+textId: 141
 location:
 speaker:
 message: Ok, I'll read you an extract from this book if you promise to leave me
   alone. What do you want me to read about?
+fr:
+  message: Bon je vous lis un passage de ce livre de bord si vous me laissez
+    tranquille ensuite. Alors je vous lis un passage sur quoi ?
+de:
+  message: Nun gut, ich lese Ihnen einen Auszug dieses Logbuches vor, wenn Sie
+    mich danach zufrieden lassen. Also, welchen Auszug soll ich Ihnen vorlesen ?
+es:
+  message:
+    Bueno, le leo un pasaje de esta bitácora si después me deja tranquilo.
+    ¿Le leo entonces un pasaje? ¿sobre qué?
+it:
+  message:
+    Se poi mi lascia in pace, le leggerò un brano del libro di bordo. Cosa
+    vuole che le legga?

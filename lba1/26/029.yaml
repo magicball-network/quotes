@@ -1,5 +1,25 @@
+textId: 30
 location:
 speaker:
 message: You're the one that's making life difficult for FunFrock? He recently
   threw a tantrum that could be heard from here. Since then, he brought in
   several telepods, he's worried about his fortress.
+fr:
+  message:
+    C'est vous qui mettez des bâtons dans les roues à FunFrock ? Récemment
+    il a piqué une telle colère qu'on l'entendait d'ici. Depuis il a fait
+    rajouter plein de télépodes, il a peur pour sa forteresse.
+de:
+  message:
+    Sind Sie es der FunFrock Steine in den Weg legt ? Neulich hat er solch
+    einen Ausraster gehabt, daß man ihn bis hier hören konnte. Seitdem hat er
+    lauter neue Biemzellen installieren lassen, er bangt um seine Festung.
+es:
+  message: ¿Es Ud. el que le pone trabas a FunFrock? Recientemente le ha dado un
+    ataque de cólera tan fuerte, que se le oía desde aquí. Desde ese momento ha
+    añadido teléportadores por todas partes, teme por su fortaleza.
+it:
+  message:
+    Così è lei che mette i bastoni fra le ruote a FunFrock! Recentemente ha
+    avuto un tale accesso di collera che l'abbiamo sentito le sue urla fin qui.
+    Ha fatto aggiungere altri telepodi, teme per la sua fortezza.

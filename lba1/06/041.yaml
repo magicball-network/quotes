@@ -1,5 +1,24 @@
+textId: 111
 location:
 speaker:
 message: M. Mies van der Rooh's pass. This pass will grant you access to the
   Teleportation Center. You will still have to use Gawley's Horn on the left,
   after the first guard post.
+fr:
+  message: Laissez-Passer de M. Mies van der Rooh. Ce laissez-passer doit te
+    permettre d'entrer dans le Centre de Téléportation. Il te faudra encore
+    utiliser la Trompe de Gawley à gauche après le 1er poste de garde.
+de:
+  message: Passierschein von Herrn Mies van der Rooh. Dieser Passierschein soll
+    Dir ermöglichen in das Biemzentrum zu gelangen. Du wirst dann noch das Horn
+    von Gawley links nach dem ersten Wachposten benutzen müssen.
+es:
+  message:
+    Salvoconducto de Mies van der Rooh. Este salvoconducto debe permitirte
+    entrar en el Centro de Teleportación. Tendrás que utilizar también la Trompa
+    de Gawley a la izquierda después del primer puesto de guardia.
+it:
+  message:
+    Lasciapassare di Mies van der Rooh. Questo lasciapassare ti consentirà
+    di entrare nel Centro di Teletrasporto. Dovrai utilizzare ancora la Tromba
+    di Gawley a sinistra dopo il primo posto di guardia.

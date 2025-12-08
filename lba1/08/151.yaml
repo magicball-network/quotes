@@ -1,4 +1,18 @@
+textId: 158
 location:
 speaker:
 message: Asks one of my colleagues working in the warehouse on the port. He will
   know about this LeBorgne.
+fr:
+  message:
+    Demande à l'un de mes collègues qui travaille au port, à l'entrepôt. Il
+    connaît l'histoire de LeBorgne.
+de:
+  message: Frage einen meiner Kollegen, die im Lager am Hafen arbeitet. Er kennt
+    die Geschichte von EinAuge.
+es:
+  message: Pregúntele a uno de mis colegas que trabaja en el puerto, en el
+    depósito. El conoce la historia del pirata El Tuerto.
+it:
+  message: Chiedi a uno dei miei colleghi che lavora al magazzino del porto.
+    Conosce la storia del Guercio.

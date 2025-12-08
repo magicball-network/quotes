@@ -1,3 +1,12 @@
+textId: 96
 location:
 speaker:
 message: Ok, I'll take them.
+fr:
+  message: Oui, j'achète.
+de:
+  message: Ja, kauf' ich.
+es:
+  message: Sí, compro.
+it:
+  message: Va bene, li compro.

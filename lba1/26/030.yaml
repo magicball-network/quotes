@@ -1,4 +1,20 @@
+textId: 31
 location:
 speaker:
 message: You have once again angered FunFrock, he screamed a little while ago!
   What did you break this time, you know that he hates you?
+fr:
+  message: Vous, vous avez encore énervé FunFrock, il a hurlé tout à l'heure !
+    Qu'est-ce que vous avez cassé cette fois, vous savez qu'il vous déteste ?
+de:
+  message: Sie, Sie haben FunFrock wieder einmal wütend gemacht, er hat vorhin
+    gebrüllt ! Was haben Sie denn diesmal zerbrochen, wissen Sie, daß er Sie
+    haßt ?
+es:
+  message:
+    ¡Ud. ha alterado una vez más a FunFrock, ¡ha gritado hace un rato! ¿Qué
+    es lo que ha roto esta vez?, ¿Sabe que lo detesta?
+it:
+  message:
+    Ha fatto ancora infuriare Funfrock, eh? Ha appena urlato come un matto.
+    Cosa gli ha fatto, questa volta? Sa bene che la odia, Twinsen.

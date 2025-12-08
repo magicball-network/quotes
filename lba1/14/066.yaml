@@ -1,3 +1,12 @@
+textId: 66
 location:
 speaker:
 message: 10 flasks of magic powder will cost you 30 Kashes.
+fr:
+  message: 10 fioles de poudre magique coûtent 30 Kashes.
+de:
+  message: 10 Fläschchen magischen Pulvers kosten 30 Kashes.
+es:
+  message: 10 frascos de polvo mágico cuestan 30 Kashes.
+it:
+  message: 10 fiale di polvere magica costano 30 Kash.

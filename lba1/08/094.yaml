@@ -1,6 +1,27 @@
+textId: 100
 location:
 speaker:
 message: |-
   "L.B.A.
   Lupin-Burg sewer service
   Little Vachond street"
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts de Lupin-Bourg
+    Rue du Petit Vachond "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst von Lupin-Burg
+    Kleiner Vachond Straße "
+es:
+  message: |-
+    "L.B.A.
+    Servicio de alcantarillas de Lupin-Burgo
+    Calle del Pequeño Vaco"
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario di Lupinburgo
+    Via del Piccolo Vallo"

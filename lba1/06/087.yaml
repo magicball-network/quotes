@@ -1,3 +1,12 @@
+textId: 222
 location:
 speaker:
 message: Runic Stone
+fr:
+  message: Pierre Runique
+de:
+  message: Runenstein
+es:
+  message: Piedra Rúnica
+it:
+  message: Pietra Runica

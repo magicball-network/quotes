@@ -1,3 +1,12 @@
+textId: 72
 location:
 speaker:
 message: They say that there are treasures hidden in a temple, somewhere in the desert.
+fr:
+  message: On dit qu'il y a des trésors cachés dans un temple, dans ce désert.
+de:
+  message: Man sagt, daß es verborgene Schätze in einem Tempel in dieser Wüste gibt.
+es:
+  message: Dicen que hay tesoros escondidos en un templo, en este desierto.
+it:
+  message: Si dice che in un tempio in questo deserto vi siano tesori nascosti.

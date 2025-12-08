@@ -1,3 +1,4 @@
+textId: 22
 location:
 speaker:
 message: "Good day. Let's see, you can talk to me and you're wearing the
@@ -6,3 +7,30 @@ message: "Good day. Let's see, you can talk to me and you're wearing the
   mountains are too high for me but I can lead you through this entire
   hemisphere, except for Polar island: it is too well guarded by FunFrock. Where
   do you want to go?"
+fr:
+  message: "Bonjour. Voyons, tu peux me parler et tu portes le Médaillon de
+    Sendell : tu dois être l'Héritier ! Cela fait des siècles que je t'attends
+    et j'ai mal au dos, alors on ira doucement. L'Hamalayi est trop haut pour
+    moi mais je peux t'emmener dans tout cet hémisphère, à part sur l'île
+    Polaire : FunFrock la garde beaucoup trop sévèrement. Où veux-tu aller ?"
+de:
+  message:
+    "Guten Tag. Sieh mal an, Du kannst mit mir sprechen und trägst Sendells
+    Medaillon : Du mußt der Erbe sein ! Ich warte schon seit Jahrhunderten auf
+    Dich und mein Rücken schmerzt, also laß uns langsam gehen. Der Hamalayi ist
+    zu hoch für mich, aber ich kann Dich überall auf dieser Halbkugel hinführen,
+    außer zur Polarinsel : FunFrock bewacht sie viel zu sehr. Wo möchtest Du hin
+    ?"
+es:
+  message:
+    "Buenos días. Veamos, me puedes hablar y llevas el Medallón de Sendell:
+    ¡Tú debes ser el Heredero! Hace siglos que te espero y me duele la espalda,
+    asi que iremos despacio. El Hamalayi está demasiado alto para mí, pero puedo
+    llevarte por todo este hemisferio, salvo a la isla Polar: FunFrock la
+    custodia demasiado severamente. ¿A dónde quieres ir?"
+it:
+  message: "Buongiorno, dunque puoi parlarmi e porti la Medaglia di Sendell,
+    allora devi essere l'erede! Sono secoli che ti aspetto e mi fa male la
+    spalla, quindi andiamoci piano. L'Hamalayi è troppo alto per me, ma posso
+    portarti in tutto l'emisfero tranne che sull'isola Polare: è dominio privato
+    di FunFrock! Dove vuoi andare?"

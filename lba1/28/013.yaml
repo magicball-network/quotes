@@ -1,3 +1,12 @@
+textId: 12
 location:
 speaker:
 message: This work is not moving along fast!
+fr:
+  message: Ca avance pas vite ces travaux, hein !
+de:
+  message: Die Arbeiten gehen nicht gerad' schnell voran, was !
+es:
+  message: No avanzan muy rápido estas obras, ¿no?
+it:
+  message: Vanno a rilento i lavori eh?

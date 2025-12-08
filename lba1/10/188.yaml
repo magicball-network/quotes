@@ -1,4 +1,19 @@
+textId: 205
 location:
 speaker:
 message: They say that the tap water tastes better now. Great! Another publicity
   stunt from the anti-alcohol foundation.
+fr:
+  message:
+    Il paraîtrait que le goût de l'eau de la ville est meilleur maintenant.
+    Peuh ! Encore un coup de pub de la ligue anti-alcoolique !
+de:
+  message: Es heißt, daß das Leitungswasser jetzt besser schmeckt. Pff ! Wieder
+    mal eine Werbeaktion vom Bund der Anti-Alkoholiker !
+es:
+  message:
+    Parece que el sabor del agua de la ciudad ha mejorado ¡Puh! ¡Es una de
+    esas publicidades de la liga antialcohólica!
+it:
+  message: Sembra che ora il gusto dell'acqua sia migliore! Puah! Un altro colpo
+    degli alcolisti anonimi!

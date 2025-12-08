@@ -1,3 +1,12 @@
+textId: 2
 location:
 speaker:
 message: Don't touch those buttons!
+fr:
+  message: Ne touchez pas à ces boutons !
+de:
+  message: Rühren Sie diese Knöpfe nicht an !
+es:
+  message: ¡No toque esos botones!
+it:
+  message: Non tocchi quei tasti!

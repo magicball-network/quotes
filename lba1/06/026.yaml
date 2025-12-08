@@ -1,3 +1,12 @@
+textId: 25
 location:
 speaker:
 message: You now possess a coffee pot.
+fr:
+  message: Tu possèdes maintenant une cafetière.
+de:
+  message: Du besitzt jetzt eine Kaffeekanne.
+es:
+  message: Ahora posees una cafetera.
+it:
+  message: Ora possiedi una caffettiera.

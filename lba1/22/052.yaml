@@ -1,3 +1,12 @@
+textId: 59
 location:
 speaker:
 message: Be quiet, you'd do yourself a favor if you listen to that, it's fabulous!
+fr:
+  message: Taisez-vous, vous feriez mieux d'écouter ça, c'est unique !
+de:
+  message: Seien Sie still, hören Sie sich das lieber an, das ist einmalig !
+es:
+  message: ¡Cállense!, harían mejor en escuchar esto, ¡es único!
+it:
+  message: Zitto! Farebbe meglio ad ascoltare, è eccezionale!

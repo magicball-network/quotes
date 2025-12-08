@@ -1,4 +1,17 @@
+textId: 1
 location:
 speaker:
 message: It's weird this sign that appears, I paint over it regularly but it
   comes back every time.
+fr:
+  message: C'est bizarre ce signe qui apparaît, je repeins par-dessus
+    régulièrement, mais il revient à chaque fois.
+de:
+  message: Merkwürdig dieses Zeichen das erscheint, ich male andauernd drüber,
+    aber es scheint jedesmal wieder durch.
+es:
+  message: Es raro este signo que reaparece constantemente, pinto encima pero
+    reaparece una y otra vez.
+it:
+  message: Strano il segno che compare; continuo a pitturarci sopra , ma
+    regolarmente riappare.

@@ -1,3 +1,4 @@
+textId: 10
 location:
 speaker:
 message: "I'm with the rebels who are fighting against FunFrock. We are
@@ -5,3 +6,34 @@ message: "I'm with the rebels who are fighting against FunFrock. We are
   Kroptman, has been taken prisoner. Welcome aboard if you are joining the
   fight! Go see my friends on Rebellion island. They will let you dock only if
   you're displaying the proper emblem: a pirate flag with a skull."
+fr:
+  message:
+    "Je fais partie des rebelles qui luttent contre FunFrock. Actuellement
+    nous tentons de franchir l'Hamalayi, d'ailleurs notre chef Kroptman a été
+    capturé. Si tu veux te joindre à notre lutte, sois le bienvenu ! Va voir mes
+    amis sur l'île de la Rébellion, seulement ils ne te laisseront pas aborder
+    si tu n'as pas notre signe de reconnaissance : un drapeau pirate à tête de
+    mort."
+de:
+  message:
+    "Ich gehöre zu den Rebellen, die FunFrock bekämpfen. Zur Zeit versuchen
+    wir über den Hamalayi zu steigen, übrigens ist unser Anführer Kroptman
+    gefangengenommen worden. Wenn Du Dich uns in unserem Kampf anschließen
+    willst, sei willkommen ! Geh zu meinen Freunden auf die Rebellion-Insel,
+    aber sie werden Dich nicht an Land kommen lassen, wenn Du unser
+    Erkennungszeichen nicht hast : eine Piratenflagge mit dem Totenkopfzeichen."
+es:
+  message:
+    "Yo formo parte de los rebeldes que luchan contra FunFrock. Actualmente
+    estamos tratando de franquear el Hamalayi, y, a propósito, nuestro jefe
+    Kroptman ha sido capturado. Si quieres unirte a nuestra lucha, ¡bienvenido!
+    Ve a ver a mis amigos en la isla de la Rebelión, sólo que ellos no te
+    dejarán subir a bordo si no tienes nuestro signo de reconocimiento: una
+    bandera pirata con una calavera."
+it:
+  message: "Faccio parte dei ribelli che lottano contro FunFrock. Attualmente
+    stiamo cercando di superare l'Hamalayi, ma il nostro capo Kroptman è stato
+    catturato. Se vuoi unirti alla nostra lotta, sei il benvenuto! Vai a trovare
+    i miei amici sull'Isola della Ribellione; attento però: ti permetteranno di
+    avvicinarti solo se porterai il nostro segno di riconoscimento: una bandiera
+    con il teschio."

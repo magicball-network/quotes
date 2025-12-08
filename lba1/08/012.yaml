@@ -1,3 +1,12 @@
+textId: 12
 location:
 speaker:
 message: Twinsen, where were you? I was worried sick!
+fr:
+  message: Twinsen où étais-tu ? J'étais folle d'inquiétude !
+de:
+  message: Twinsen, wo warst Du ? Ich war krank vor Sorge.
+es:
+  message: Twinsen ¿dónde estabas? Estaba loca de inquietud.
+it:
+  message: Twinsen, dov'eri? Ero in pena per te.

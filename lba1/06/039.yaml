@@ -1,4 +1,23 @@
+textId: 109
 location:
 speaker:
 message: The Elves Club Blue Card. This card is coated with star powder and will
   allow you to open the doors with blue locks.
+fr:
+  message: Carte Bleue du Club des Lutins. Grâce à la poudre d'étoiles dont elle
+    est imprégnée, cette carte te permet d'ouvrir les portes équipées de
+    serrures bleues.
+de:
+  message: Blaue Karte des Kobold-Klubs. Dank des Sternenpulvers, mit der sie
+    imprägniert ist, ermöglicht Dir diese Karte die Türen zu öffnen, die mit
+    einem blauen Schloß versehen sind.
+es:
+  message:
+    Tarjeta Azul del Club de los Duendes. Gracias al polvo de estrellas del
+    que está impregnada, esta tarjeta te permite abrir las puertas con
+    cerraduras magnéticas azules.
+it:
+  message:
+    Tessera Blu del Club dei Folletti. Tramite la polvere di stelle di cui
+    è impregnata, questa tessera ti permette di aprire le porte dotate di
+    serratura blu.

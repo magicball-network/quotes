@@ -1,4 +1,19 @@
+textId: 16
 location:
 speaker:
 message: There are still a few clones left, but with Kroptman at the helm of the
   tank, we'll take the fort.
+fr:
+  message:
+    Il reste quelques clones mais avec Kroptman aux commandes du char, nous
+    tenons le fortin.
+de:
+  message: Es bleiben noch ein paar Klone, aber mit Kroptman an Bord des Panzers
+    halten wir das Fort.
+es:
+  message:
+    Quedan algunos clones pero con Kroptman al mando del tanque, el fortín
+    está en nuestras manos.
+it:
+  message: Rimane ancora qualche clone, ma con Kroptman ai comandi del carro,
+    teniamo in pugno il fortino.

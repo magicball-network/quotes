@@ -1,3 +1,12 @@
+textId: 12
 location:
 speaker:
 message: See you later, and thanks again.
+fr:
+  message: A bientôt et merci encore.
+de:
+  message: Bis bald und nochmals vielen Dank.
+es:
+  message: Hasta pronto y gracias una vez más
+it:
+  message: A presto, e grazie ancora.

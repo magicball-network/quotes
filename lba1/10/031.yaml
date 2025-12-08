@@ -1,4 +1,19 @@
+textId: 31
 location:
 speaker:
 message: The passage will only open when you come from my cousin's house. Now
   stop rummaging everywhere!
+fr:
+  message:
+    Le passage ne s'ouvre qu'en venant de chez mon cousin et puis arrête de
+    fouiller partout !
+de:
+  message: Der Durchgang läßt sich nur von der anderen Seite bei meinem Cousin
+    öffnen, hör' mal auf überall rumzuschnüffeln !
+es:
+  message:
+    El pasaje sólo se abre viniendo de casa de mi primo, y por favor, ¡deja
+    de husmear por todas partes!
+it:
+  message: Il passaggio si apre solo venendo dalla cella di mio cugino, e poi
+    piantala di frugare dappertutto!

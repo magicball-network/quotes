@@ -1,3 +1,12 @@
+textId: 71
 location:
 speaker:
 message: We are going to close this tavern down. Get out of here!
+fr:
+  message: Nous allons boucler cette taverne, je vous ordonne de sortir !
+de:
+  message: Wir schließen die Taverne, ich befehle Ihnen sie unverzüglich zu verlassen !
+es:
+  message: Vamos a cerrar esta taberna, ¡les ordeno que salgan!
+it:
+  message: Dobbiamo chiudere questa taverna, vi ordino di uscire!

@@ -1,4 +1,18 @@
+textId: 38
 location:
 speaker:
 message: Do you prefer to die on an empty stomach, or do you want something
   special for your last meal?
+fr:
+  message: Vous préferez mourir à jeun, ou vous avez envie de quelque chose de
+    précis pour votre dernier repas ?
+de:
+  message: Möchten Sie lieber nüchtern sterben, oder haben Sie einen ganz
+    speziellen Wunsch für Ihre letzte Mahlzeit ?
+es:
+  message:
+    ¿Prefieren morir en ayunas o tienen ganas de algo en particular como su
+    última cena?
+it:
+  message: Preferisce morire digiuno, oppure ha qualche preferenza specifica per
+    il suo ultimo pasto?

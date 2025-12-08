@@ -1,6 +1,26 @@
+textId: 122
 location:
 speaker:
 message: |-
   I haven't seen them.
 
   Sorry!
+fr:
+  message: |-
+    Je ne les ai pas vus.
+    Désolé !
+de:
+  message: |-
+    Ich habe sie nicht gesehen.
+
+    Tut mir leid !
+es:
+  message: |-
+    No los he visto.
+
+    ¡Lo siento!
+it:
+  message: |-
+    Non li ho visti.
+
+    Spiacente!

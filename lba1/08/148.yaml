@@ -1,3 +1,12 @@
+textId: 155
 location:
 speaker:
 message: Ask the sailor, he would have know who LeBorgne was.
+fr:
+  message: Demandez au marin, il doit connaître votre LeBorgne.
+de:
+  message: Fragen Sie den Seemann, der kennt bestimmt Ihren EinAuge.
+es:
+  message: Pregúntele al marinero, él debe conocer a su pirata El Tuerto.
+it:
+  message: Chieda al marinaio, dovrebbe conoscere il Guercio.

@@ -1,5 +1,24 @@
+textId: 161
 location:
 speaker:
 message: One of my colleagues was galloping at full speed across the White Leaf
   Desert and he said that he saw someone locked up in a grotto, behind a giant
   symbol of some kind.
+fr:
+  message: Un de mes collègues galope crinière au vent dans le Désert de la
+    Feuille Blanche. D'après lui il y aurait quelqu'un d'enfermé dans une
+    grotte, derrière un sceau géant.
+de:
+  message:
+    Einer meiner Kollegen galoppiert mit der Mähne im Wind in der Wüste des
+    Leeren Blattes. Seiner Meinung nach ist dort jemand in einer Hölle hinter
+    einem riesigen Siegel gefangen.
+es:
+  message:
+    Uno de mis colegas galopa con las crines al viento en el Desierto de la
+    Hoja Blanca. Según él, debería haber alguien encerrado en una gruta detrás
+    de un sello gigante.
+it:
+  message: Uno dei miei colleghi galoppa con la criniera al vento nel Deserto
+    della Foglia Bianca. Secondo lui ci sarebbe qualcuno chiuso in una grotta,
+    dietro a un enorme sigillo.

@@ -1,3 +1,12 @@
+textId: 142
 location:
 speaker:
 message: I'm staying here!
+fr:
+  message: Je reste là !
+de:
+  message: Ich bleibe hier !
+es:
+  message: ¡Me quedo aquí!
+it:
+  message: Rimango qui!

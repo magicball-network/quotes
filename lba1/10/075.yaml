@@ -1,3 +1,12 @@
+textId: 82
 location:
 speaker:
 message: The Astronomer sent me.
+fr:
+  message: Je viens de la part de l'Astronome.
+de:
+  message: Der Astronom hat mich geschickt.
+es:
+  message: Vengo de parte del Astrónomo
+it:
+  message: Mi manda l'Astronomo.

@@ -1,5 +1,22 @@
+textId: 68
 location:
 speaker:
 message: My brother is in one of the cells that has a window on the street, in
   FunFrock's headquarters. And you know, if you tell me how he is doing, I'll
   give you a red card.
+fr:
+  message: Mon frêre occupe l'une des cellules du Q.G. dont la fenêtre donne sur
+    la rue. Et tu sais, tu auras une carte rouge si tu me donnes de ses
+    nouvelles.
+de:
+  message:
+    Mein Bruder sitzt in einer Zelle des Hauptquartiers, deren Fenster auf
+    der Straßenseite liegt. Weißt Du, wenn Du Nachrichten von ihm hast, bekommst
+    Du eine rote Karte.
+es:
+  message:
+    Mi hermano ocupa una de las celdas del C.G. cuya ventana da a la calle.
+    Y sabes, te daré una tarjeta roja si me das noticias de él.
+it:
+  message: Mio fratello è rinchiuso in una delle celle del Quartier Generale che
+    danno sulla strada. Se mi darai sue notizie, ti farò avere una carta rossa.

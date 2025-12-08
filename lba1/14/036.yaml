@@ -1,4 +1,19 @@
+textId: 35
 location:
 speaker:
 message: My name is Twinsen. I met your brother. He is in jail but is fine for
   the moment. He told me to mention the word "Amos" to you.
+fr:
+  message: Je me nomme Twinsen. J'ai vu ton frère, il est en prison mais il va
+    bien. Il m'a dit de te dire " Amos ".
+de:
+  message:
+    Ich heiße Twinsen. Ich habe Deinen Bruder gesehen, er ist im Gefängnis,
+    aber es geht ihm gut. Er hat mir gesagt, daß ich Dir " Amos " sagen soll.
+es:
+  message: Me llamo Twinsen. He visto a tu hermano, está en prisión, pero está
+    bien. Me ha dicho que te diga "Amos".
+it:
+  message:
+    Mi chiamo Twinsen. Ho visto tuo fratello, è in prigione ma sta bene. Mi
+    ha detto di dirti " Amos ".

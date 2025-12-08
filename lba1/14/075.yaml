@@ -1,3 +1,15 @@
+textId: 75
 location:
 speaker:
 message: I think you're going to get hit, if you keep playing with that button!
+fr:
+  message:
+    Je crois que vous allez prendre des coups de matraque à force de jouer
+    avec ce bouton !
+de:
+  message: Ich glaube sie kriegen es mit dem Knüppel, wenn Sie noch lange mit
+    diesem Knopf herumspielen !
+es:
+  message: ¡Yo creo que les van a dar de palos a fuerza de jugar con ese botón!
+it:
+  message: Se continua a giocare con quel pulsante, continuerà a beccarsi randellate!

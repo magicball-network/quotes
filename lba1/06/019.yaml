@@ -1,3 +1,12 @@
+textId: 18
 location:
 speaker:
 message: The wise man gave you the Space Guitar.
+fr:
+  message: Le Sage t'a donné la Guitare de l'Espace.
+de:
+  message: Der Weise hat Dir die Gitarre aus dem All gegeben.
+es:
+  message: El Sabio te ha dado la Guitarra del Espacio.
+it:
+  message: Il saggio ti ha dato la Chitarra dello Spazio.

@@ -1,3 +1,17 @@
+textId: 253
 location:
 speaker:
 message: '"Drinking water for Principal Island: DO NOT THROW ANYTHING IN THE TANK!"'
+fr:
+  message:
+    '" Service d''eau potable alimentant l''Ile Principale : NE RIEN JETER
+    DANS LA CUVE ! "'
+de:
+  message: '" Trinkwasserdienst der Hauptinsel : NICHTS IN DIE ZISTERNE WERFEN ! "'
+es:
+  message:
+    '"Servicio de agua potable que alimenta la isla Principal: ¡NO ARROJAR
+    NADA EN LA CUBA! "'
+it:
+  message: '"Servizio dell''acqua potabile dell''Isola Principale: NON GETTARE
+    NULLA NELLA CISTERNA!"'

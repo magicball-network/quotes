@@ -1,4 +1,16 @@
+textId: 49
 location:
 speaker:
 message: That type of information is too specific, ask one of the helmet-less
   groboclones that are here instead.
+fr:
+  message: C'est trop particulier ce genre d'info, demande plutôt à un des
+    groboclones sans casque qui sont ici.
+de:
+  message: Diese Art Informationen ist zu spezifisch, frage eher einen der
+    Dickoklone die hier sind.
+es:
+  message: Es demasiado particular este tipo de información, pregunta más bien a
+    uno de los elefoclones sin casco que están aquí.
+it:
+  message: Sono informazioni troppo specifiche, chiedi a uno dei grobocloni senza casco.

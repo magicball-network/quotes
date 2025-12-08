@@ -1,3 +1,4 @@
+textId: 26
 location:
 speaker:
 message: I know that symbol on your medallion. Virgul, our sorcerer, told us
@@ -7,3 +8,40 @@ message: I know that symbol on your medallion. Virgul, our sorcerer, told us
   would dig a tunnel for you so that you could enter the building, but you must
   first sabotage the Teleportation Center. Go find the plans of this center, I
   can dig only after all the telepods have been neutralized!
+fr:
+  message:
+    Je connais ce symbole sur ton médaillon. Virgul, notre sorcier, nous a
+    annoncé ta venue et nous avons prié souvent devant la Pierre Runique qui
+    porte ce même symbole. Hélas le Dr FunFrock l'a découverte et a bâti sa
+    forteresse à la place. Pourtant la Pierre était censée être indestructible !
+    Pour toi je creuserai un tunnel pour entrer dans le bâtiment, mais il faut
+    que tu sabotes le Centre de téléportation. Va et trouve les plans de ce
+    centre, je ne pourrai creuser que lorsque les télépodes seront tous
+    neutralisés !
+de:
+  message: Ich kenne das Symbol auf Deinem Medaillon. Virgul unser Zauberer hat
+    uns Deine Ankunft angekündigt, und wir haben oft vor dem Runenstein gebetet,
+    der das gleiche Symbol trägt. Leider hat Dr FunFrock ihn entdeckt und seine
+    Festung an dessen Stelle errichtet, galt der Stein doch als unzerstörbar !
+    Ich werde für Dich einen Tunnel graben um ins Gebäude einzudringen, aber Du
+    mußt das Biemzentrum sabotieren. Geh und finde die Pläne des Zentrums, ich
+    werde nur dann graben können, wenn alle Biemzellen ausgeschaltet sind !
+es:
+  message: Conozco ese símbolo de tu medallón. Virgul nuestro brujo nos ha
+    anunciado tu llegada, y hemos orado a menudo delante de la Piedra Rúnica que
+    lleva ese mismo símbolo. Desafortunadamente el Dr. FunFrock la ha
+    descubierto y ha construido su fortaleza en ese lugar, sin embargo la Piedra
+    se supone que era indestructible! Para ti yo cavaré un túnel para entrar en
+    el edificio, pero tú tienes que sabotear el Centro de Teleportación. Ve y
+    encuentra los planos de este centro, ¡sólo podré cavar cuando todos los
+    teléportadoress estén neutralizados!
+it:
+  message:
+    Conosco il simbolo sul tuo medaglione. Virgola, il nostro stregone, ha
+    annunciato il tuo arrivo; spesso abbiamo pregato davanti alla Pietra Runica
+    che porta questo stesso simbolo. Sfortunatamente il Dottor FunFrock l'ha
+    scoperta e vi ha costruito sopra la sua Fortezza, anche se sapeva che la
+    Pietra era indistruttibile. Per te scaverò una galleria così che tu possa
+    entrare nell'edificio; tu però dovrai sabotare il Centro di Teletrasporto.
+    Và e trova le mappe di questo centro; potrò lavorare solo se i telepodi
+    saranno neutralizzati!

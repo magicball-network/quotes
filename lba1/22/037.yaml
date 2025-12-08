@@ -1,3 +1,4 @@
+textId: 43
 location:
 speaker:
 message: "FunFrock cleared out the populations from this hemisphere but there
@@ -6,3 +7,31 @@ message: "FunFrock cleared out the populations from this hemisphere but there
   us. The factory was supposedly sabotaged, but there are still monsters in the
   sewers: they were produced before the sabotage. In fact, you can jump on the
   giant crabs!"
+fr:
+  message: "FunFrock a fait évacuer les populations de cet hémisphère, mais il
+    reste quelques fortes têtes comme ici à Funky-Town. C'est pourquoi il
+    produit des insectes mutants dans son usine au pied de l'Hamalayi, pour nous
+    exterminer. L'usine semble avoir été sabotée, mais des monstres subsistent
+    dans les égouts : ils ont été produits avant ce sabotage. Au fait, on peut
+    sauter sur les crabes géants !"
+de:
+  message: "FunFrock hat die Völker dieser Halbkugel evakuiert, aber es bleiben
+    ein paar Hartgesottene, wie hier in Funky-Town. Deshalb produziert er
+    mutierende Insekten in seiner Fabrik am Fuße des Hamalayi, um uns
+    auszurotten. Die Fabrik ist anscheinend sabotiert worden, aber es bleiben
+    noch Monster in der Kanalisation vorhanden : sie wurden noch vor dieser
+    Sabotage produziert. Übrigens, man kann auf die Riesenkrabben springen !"
+es:
+  message: "FunFrock ha hecho evacuar las poblaciones de este hemisferio, pero
+    quedan algunos bastiones como aquí en Funky-Town. Por ello produce insectos
+    mutantes en su fábrica al pie del Hamalayi, para exterminarnos. La fábrica
+    parece haber sido saboteada, pero los monstruos subsisten en las
+    alcantarillas: éstos fueron producidos antes del sabotaje. ¡En realidad, se
+    puede saltar sobre los cangrejos gigantes!"
+it:
+  message: "FunFrock ha fatto evacuare la popolazione di questo emisfero, ma
+    rimangono ancora degli irriducibili, come qui, a Funky-Town. Ecco perché
+    produce insetti mutanti nella fabbrica ai piedi dell'Hamalayi: per
+    sterminarci. Pare che la fabbrica sia stata sabotata, ma nelle fogne ci sono
+    ancora dei mostri, creati prima di questo sabotaggio. Comunque si può sempre
+    saltare sui granchi giganti!"

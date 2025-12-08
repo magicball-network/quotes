@@ -1,5 +1,23 @@
+textId: 14
 location:
 speaker:
 message: I rummage around here as there's no one guarding this place. I hide in
   the truck so that the guards won't see me. You just have to jump into the pile
   of garbage and be VERY DISCREET about it.
+fr:
+  message: Je viens fouiner ici comme personne ne garde ce coin. Pour éviter
+    d'être vu par les gardes je me cache dans le camion. Il suffit de se mettre
+    dans les déchets et d'être suffisamment DISCRET.
+de:
+  message:
+    Ich schnüffel hier herum, da niemand diese Ecke bewacht. Ich verstecke
+    mich im Lastwagen, um nicht von den Wachen bemerkt zu werden. Es genügt in
+    die Abfälle zu steigen und UNAUFFÄLLIG zu bleiben.
+es:
+  message: Vengo a husmear por aquí, dado que nadie vigila este rincón. Para
+    evitar que me vean los guardias me escondo en el camión. Basta meterse entre
+    los desechos y ser suficientemente DISCRETO.
+it:
+  message: Frugo in questi posti perché non sono sorvegliati. Per evitare di
+    essere visto dalle guardie, mi nascondo nel camion. Basta infilarsi fra i
+    rifiuti ed essere sufficientemente DISCRETO.

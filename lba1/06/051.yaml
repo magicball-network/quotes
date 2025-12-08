@@ -1,3 +1,14 @@
+textId: 121
 location:
 speaker:
 message: Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup.
+fr:
+  message: Flacon de Sirop. Ce flacon contient 50 Cl d'un sirop rouge très concentré.
+de:
+  message: Flasche Sirup. Diese Flasche enthält 50 Cl eines stark konzentrierten Sirups.
+es:
+  message: Frasco de Jarabe. Este frasco contiene 50 Cl de un jarabe rojo muy
+    concentrado.
+it:
+  message: Flacone di Sciroppo. Questo flacone contiene 50 Cl di uno sciroppo
+    rosso molto denso.

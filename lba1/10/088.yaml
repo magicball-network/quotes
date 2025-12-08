@@ -1,3 +1,12 @@
+textId: 95
 location:
 speaker:
 message: Twinsen, I'm escaping.
+fr:
+  message: Twinsen, je m'évade.
+de:
+  message: Twinsen, ich breche aus.
+es:
+  message: Twinsen, yo me evado.
+it:
+  message: Sono Twinsen, sto evadendo.

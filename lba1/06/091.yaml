@@ -1,5 +1,22 @@
+textId: 226
 location:
 speaker:
 message: |-
   Port-Belooga
   (Principal Island)
+fr:
+  message: |-
+    Port-Bélooga
+    (Ile Principale)
+de:
+  message: |-
+    Hafen von Bélooga
+    (Hauptinsel)
+es:
+  message: |-
+    Puerto-Belooga
+    (Isla Principal)
+it:
+  message: |-
+    Porto Beluga
+    (Isola Principale)

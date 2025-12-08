@@ -1,3 +1,12 @@
+textId: 271
 location:
 speaker:
 message: Hello
+fr:
+  message: Hello
+de:
+  message: Hi
+es:
+  message: Hola
+it:
+  message: Hello

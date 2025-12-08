@@ -1,3 +1,12 @@
+textId: 22
 location:
 speaker:
 message: Carrot, open up!
+fr:
+  message: Carotte, ouvre-toi !
+de:
+  message: Karotte, öffne Dich !
+es:
+  message: ¡Zanahoria, ábrete!
+it:
+  message: Carota, apriti!

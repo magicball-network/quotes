@@ -1,3 +1,12 @@
+textId: 72
 location:
 speaker:
 message: To the water tower.
+fr:
+  message: Au château d'eau.
+de:
+  message: Zum Wasserturm.
+es:
+  message: Al castillo de agua.
+it:
+  message: Al serbatoio dell'acqua.

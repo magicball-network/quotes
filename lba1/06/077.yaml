@@ -1,5 +1,22 @@
+textId: 212
 location:
 speaker:
 message: |-
   Twinsen's house
   (Citadel island)
+fr:
+  message: |-
+    Maison de Twinsen
+    (Ile de la Citadelle)
+de:
+  message: |-
+    Twinsens Haus
+    (Zitadelleninsel)
+es:
+  message: |-
+    Casa de Twinsen
+    (Isla de la Ciudadela)
+it:
+  message: |-
+    Casa di Twinsen
+    (Isola della Cittadella)

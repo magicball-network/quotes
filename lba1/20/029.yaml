@@ -1,3 +1,12 @@
+textId: 28
 location:
 speaker:
 message: To Fortress island.
+fr:
+  message: Sur l'île de la Forteresse.
+de:
+  message: Auf die Festungsinsel.
+es:
+  message: A la isla de la Fortaleza.
+it:
+  message: Sull'Isola della Fortezza.

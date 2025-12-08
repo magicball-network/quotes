@@ -1,3 +1,12 @@
+textId: 46
 location:
 speaker:
 message: I don't know yet.
+fr:
+  message: Je ne sais pas encore.
+de:
+  message: Ich weiß noch nicht.
+es:
+  message: No lo sé todavía.
+it:
+  message: Non so ancora.

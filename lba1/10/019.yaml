@@ -1,6 +1,28 @@
+textId: 18
 location:
 speaker:
 message: '" My dear and respected Dr. FunFrock, I took the plans of the
   Teleportation Center home with me, to work on them over the week-end. I will
   bring them back on Monday. Signed: Mies Van der Rooh, Architect, Bug Street,
   Citadel Island. "'
+fr:
+  message:
+    '" Très cher et respecté Dr FunFrock, j''ai emporté les plans du Centre
+    de Téléportation chez moi pour travailler ce week-end. Je les rapporterai
+    lundi. Signé : Mies Van der Rooh Architecte, Rue du Scarabée, île de la
+    Citadelle. "'
+de:
+  message: '" Sehr geehrter Dr FunFrock, ich habe die Pläne des Biemzentrums zu
+    mir genommen um am Wochenende zu arbeiten. Ich bringe sie Montag wieder.
+    Gezeichnet : Mies Van der Rooh, Architekt, Skarabäus Straße,
+    Zitadelleninsel. "'
+es:
+  message: '"Muy estimado y respetado Dr. FunFrock, me he llevado los planos del
+    Centro de Teleportación a casa para trabajar durante este fin de semana. Los
+    traeré de vuelta el lunes. Firmado: Mies Van der Rooh, Arquitecto, Calle del
+    Escarabajo, isla de la Ciudadela".'
+it:
+  message: '"Stimatissimo Dottor FunFrock, ho portato le mappe del Centro di
+    Teletrasporto a casa mia per lavorare durante il fine settimana. Le
+    riporterò lunedì. Firmato : Mies Van der Rooh, Architetto, Via dello
+    Scarabeo, Isola della Cittadella."'

@@ -1,3 +1,12 @@
+textId: 195
 location:
 speaker:
 message: Sorry, but I don't know where they are.
+fr:
+  message: Navré mais j'ignore où ils sont.
+de:
+  message: Tut mir leid, aber ich weiß nicht wo sie sind.
+es:
+  message: Lo siento, pero ignoro dónde están.
+it:
+  message: Spiacente, ma non so dove sono.

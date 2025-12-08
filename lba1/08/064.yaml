@@ -1,4 +1,19 @@
+textId: 69
 location:
 speaker:
 message: Yeah, the clones already confiscated the key to my cellar, so don't be
   surprised when they come back to close down the tavern!
+fr:
+  message: Au fait, les clones ont déjà confisqué la clef de ma cave, alors vous
+    étonnez pas, mais bientôt ils reviendront fermer la taverne !
+de:
+  message: Übrigens, die Klone haben bereits meinen Kellerschlüssel konfisziert,
+    wundern Sie sich also nicht, wenn sie bald wiederkommen und die Taverne
+    schließen !
+es:
+  message:
+    A propósito, los clones han confiscado ya la llave de mi bodega, no se
+    asombren entonces, ¡pero pronto regresarán a cerrar la taberna!
+it:
+  message: Ecco, i cloni hanno già confiscato le chiavi della cantina, non si
+    stupisca. Presto verranno a chiudere la taverna!

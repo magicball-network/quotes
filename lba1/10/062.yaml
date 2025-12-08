@@ -1,3 +1,17 @@
+textId: 69
 location:
 speaker:
 message: '" Principal island sanitation department: NO SWIMMING! "'
+fr:
+  message: '" Service de traitement des eaux de l''Ile Principale : BAIGNADE
+    INTERDITE ! "'
+de:
+  message: '" Wasseraufbereitungsdienst der Hauptinsel : BADEN VERBOTEN ! "'
+es:
+  message:
+    '"Servicio de tratamiento de las aguas de la Isla Principal: ¡PROHIBIDO
+    BAÑARSE!"'
+it:
+  message:
+    '" Servizio di trattamento delle acque dell''Isola principale: DIVIETO
+    DI BALNEAZIONE"'

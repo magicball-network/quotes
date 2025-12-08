@@ -1,4 +1,21 @@
+textId: 120
 location:
 speaker:
 message: "Here it is: like new, good handling and fast, this catamaran is for
   you!... for 200 Kashes."
+fr:
+  message:
+    "Voilà la merveille : état neuf, maniable et rapide, ce catamaran est à
+    toi pour 200 Kashes."
+de:
+  message:
+    "Hier ist das Prachtstück : wie neu, wendig und schnell, für 200 Kashes
+    gehört Dir der Katamaran."
+es:
+  message:
+    "Mira esta maravilla: como nuevo, maniobrable y rápido, este catamarán
+    será tuyo por sólo 200 Kashes."
+it:
+  message:
+    "Guarda che meraviglia: nuovo, agile e rapido; il catamarano è tuo per
+    soli 200 Kash."

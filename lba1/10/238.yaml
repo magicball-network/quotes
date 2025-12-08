@@ -1,3 +1,12 @@
+textId: 255
 location:
 speaker:
 message: No one remembers that stuff today, that's just a lot of bunk.
+fr:
+  message: Plus personne ne s'en souvient, tout ça c'est du flan.
+de:
+  message: Niemand kann sich daran erinnern, das ist alles Quatsch.
+es:
+  message: Ya nadie se acuerda de eso, todo eso es un camelo.
+it:
+  message: Non se ne ricorda più nessuno. Sono tutte storie.

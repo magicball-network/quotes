@@ -1,3 +1,12 @@
+textId: 7
 location:
 speaker:
 message: '"Dr. FUNFROCK''s headquarters. Access IS FORBIDDEN!"'
+fr:
+  message: '" Quartier Général du Dr FUNFROCK. Entrée STRICTEMENT INTERDITE ! "'
+de:
+  message: '" Hauptquartier des Dr FUNFROCK. Zugang STRENG VERBOTEN ! "'
+es:
+  message: '"Cuartel General del Dr. FunFROCK. Entrada ¡ESTRICTAMENTE PROHIBIDA!"'
+it:
+  message: '"Quartier Generale del Dottor FUNFROCK. Ingresso SEVERAMENTE VIETATO! "'

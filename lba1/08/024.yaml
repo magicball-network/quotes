@@ -1,3 +1,4 @@
+textId: 25
 location:
 speaker:
 message: >-
@@ -5,3 +6,27 @@ message: >-
 
   A new automatic surveillance device is now operating in the city. All citizens
   must remain motionless if one of these devices is in their vicinity."
+fr:
+  message: >-
+    " ANNONCE N° 357-G :
+
+    Un nouveau module automatique de surveillance circule en ville. Tous les
+    citoyens doivent rester immobiles lorsqu'il est à proximité. "
+de:
+  message: >-
+    " ANNONCE N° 357-G :
+
+    Ein neues automatisches Überwachungsmodul kreist durch die Stadt. Alle
+    Bürger müssen stehen bleiben, sobald es sich in ihrer Nähe befindet. "
+es:
+  message: >-
+    "ANUNCIO N° 357-G :
+
+    Un nuevo módulo automático de vigilancia circula en la ciudad. Todos los
+    ciudadanos deben permanecer inmóviles cuando éste se aproxime."
+it:
+  message: >-
+    " ANNUNCIO N° 357-G :
+
+    In città circola un nuovo modulo automatico di sorveglianza. Tutti i
+    cittadini devono restare immobili se si trovano nelle sue vicinanze."

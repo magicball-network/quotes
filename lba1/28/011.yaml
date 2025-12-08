@@ -1,3 +1,12 @@
+textId: 10
 location:
 speaker:
 message: Can't start this machine without an ignition key!
+fr:
+  message: Impossible de faire démarrer cet engin sans clef de contact !
+de:
+  message: Es ist unmöglich dieses Gerät ohne Zündschlüssel zu starten !
+es:
+  message: ¡Es imposible arrancar esta máquina sin la llave de contacto!
+it:
+  message: Impossibile far partire questo veicolo senza chiave!

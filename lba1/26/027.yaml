@@ -1,4 +1,18 @@
+textId: 28
 location:
 speaker:
 message: Go to Brundle island, get in the Center and neutralize the telepods
   control system.
+fr:
+  message: Va sur l'île Brundle, introduis-toi dans le Centre et neutralise le
+    contrôle des télépodes.
+de:
+  message: Geh auf die Insel Brundle, schleich Dich ins Zentrum ein und schalte
+    das Kontrollsystem der Biemzellen aus.
+es:
+  message:
+    Ve a la isla Brundle, introdúcete en el Centro y neutraliza el control
+    de los teléportadores.
+it:
+  message: Va sull'Isola Brundle, penetra nel Centro e neutralizza il controllo
+    dei telepodi.

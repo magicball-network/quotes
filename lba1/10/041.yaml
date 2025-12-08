@@ -1,5 +1,24 @@
+textId: 41
 location:
 speaker:
 message: According to my doctor, I can drink only the city's tap water. But it
   tastes too bad. If someone could improve its taste, I would be willing to show
   him the Censored Publication Department, and that would be quite a privilege.
+fr:
+  message: Je ne peux boire que de l'eau de la ville d'après mon médecin. Mais
+    elle a un arrière-goût bizarre. Si quelqu'un améliorait ça, je pourrais lui
+    ouvrir la porte de l'enfer de cette bibliothèque et c'est un privilège.
+de:
+  message:
+    Mein Arzt hat mir gesagt, daß ich nur Leitungswasser trinken darf. Aber
+    es hat einen komischen Nachgeschmack. Demjenigem, der es aufbessert, könnte
+    ich das Geheimarchiv dieser Bibliothek öffnen, ein echtes Privileg.
+es:
+  message:
+    Según mi médico no puedo beber más que agua de la ciudad. Pero deja un
+    gusto raro. Si alguien mejorara eso, podría abrirle la puerta del infierno
+    de esta biblioteca, y es un privilegio.
+it:
+  message: Il medico mi ha ordinato di bere solo l'acqua della città, ma ha un
+    retrogusto strano; se qualcuno ne migliorasse il sapore, potrei aprirgli la
+    porta dell'enfer di questa biblioteca, un raro privilegio...

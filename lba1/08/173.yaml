@@ -1,4 +1,16 @@
+textId: 180
 location:
 speaker:
 message: I didn't see her, but if she was arrested, where she is, surely isn't
   any of your business!
+fr:
+  message: Je ne l'ai pas vue, mais si elle a été arrêtée, ça ne vous regarde
+    sûrement pas !
+de:
+  message: Ich habe sie nicht gesehen, aber sollte man sie festgenommen haben,
+    geht Sie das sicherlich nichts an !
+es:
+  message: No la he visto, pero si ha sido arrestada, ¡eso no lo concierne a Ud.!
+it:
+  message: Non l'ho vista, ma se è stata arrestata, la faccenda non la riguarda
+    sicuramente!

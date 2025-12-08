@@ -1,3 +1,17 @@
+textId: 14
 location:
 speaker:
 message: And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot.
+fr:
+  message:
+    Eh bien noble étranger Twinsen, maintenant suis-moi jusqu'à la porte de
+    la Carotte Sacrée.
+de:
+  message: Nun ehrenwerter Fremdling Twinsen, folge mir jetzt bis zur Tür der
+    Heiligen Karotte.
+es:
+  message: Y bien noble extranjero Twinsen, ahora sígame hasta la Puerta de la
+    Zanahoria Sagrada.
+it:
+  message: Bene, nobile straniero Twinsen, ora seguimi fino alla Porta della
+    Carota Sacra.

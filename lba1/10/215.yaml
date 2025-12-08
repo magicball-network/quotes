@@ -1,3 +1,16 @@
+textId: 232
 location:
 speaker:
 message: Ow! But I found this page on the ground, I didn't rip it out. I promise!
+fr:
+  message: Aïe ! Mais je l'ai trouvée par terre cette page, j'l'ai pas déchirée.
+    Je l'jure !
+de:
+  message: Aua ! Ich hab' dieses Blatt doch auf dem Boden gefunden, ich hab' es
+    nicht rausgerissen. Ich schwör's !
+es:
+  message:
+    ¡Ay! Pero yo he encontrado en el suelo esta página, no la he arrancado.
+    ¡Lo juro!
+it:
+  message: Ahi! Ma l'ho trovata per terra questa pagina, non l'ho strappata! Giuro!

@@ -1,4 +1,20 @@
+textId: 117
 location:
 speaker:
 message: We don't trust people easily here. Prove that you don't work for
   FunFrock, clobber a clone!
+fr:
+  message:
+    On ne fait pas confiance facilement ici. Prouve-nous que tu n'es pas au
+    service de FunFrock, assomme un clone !
+de:
+  message:
+    Man schenkt hier nicht leicht sein Vertrauen. Beweise uns, daß Du nicht
+    im Dienst von FunFrock stehst, schlag einen Klon nieder !
+es:
+  message:
+    Aquí no se confía fácilmente. Pruébanos que tú no estás al servicio de
+    FunFrock, ¡golpea a un clon, por ejemplo!
+it:
+  message: Qui non ci si fida facilmente della gente. Provaci che non sei al
+    servizio di FunFrock, infastidisci un clone, ad esempio!

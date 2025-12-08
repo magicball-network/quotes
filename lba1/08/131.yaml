@@ -1,3 +1,12 @@
+textId: 137
 location:
 speaker:
 message: Where do you want to go?
+fr:
+  message: Où veux-tu aller ?
+de:
+  message: Wohin möchtest Du ?
+es:
+  message: ¿Dónde quieres ir?
+it:
+  message: Dove vuoi andare?

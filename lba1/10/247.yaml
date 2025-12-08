@@ -1,3 +1,12 @@
+textId: 264
 location:
 speaker:
 message: Never seen 'em, don't even know what you're talking about.
+fr:
+  message: Jamais vus, je ne vois même pas de quoi il s'agit.
+de:
+  message: Nie gesehen, ich weiß überhaupt nicht worum es geht.
+es:
+  message: Nunca los he visto, no sé ni de qué se trata.
+it:
+  message: Mai visti, non capisco nemmeno di cosa si tratti.

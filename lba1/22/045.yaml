@@ -1,3 +1,12 @@
+textId: 51
 location:
 speaker:
 message: Ask the rabbibunny with the sunglasses, he's an informer.
+fr:
+  message: Demandez au lapichon avec des lunettes de soleil, c'est un indic.
+de:
+  message: Fragen Sie den Haasi mit der Sonnenbrille, das ist ein Spitzel.
+es:
+  message: Pregúntele al conejuno con gafas de sol, es un soplón.
+it:
+  message: Chieda al lapinoide con gli occhiali da sole, è un informatore.

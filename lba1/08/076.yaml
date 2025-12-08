@@ -1,4 +1,19 @@
+textId: 82
 location:
 speaker:
 message: Prisoner Twinsen, I've already had enough of seeing you here, so don't
   make any more problems for yourself!
+fr:
+  message:
+    Détenu Twinsen j'en ai déjà assez de vous revoir ici, alors n'aggravez
+    pas votre cas !
+de:
+  message: Häftling Twinsen, ich bin es leid Sie hier wiederzusehen, erschweren
+    Sie also nicht Ihren Fall !
+es:
+  message:
+    ¡Prisionero Twinsen, ya estoy harto de verlo aquí, así que no agrave su
+    situación!
+it:
+  message: Detenuto Twinsen, ne ho già abbastanza di rivederla qui, non peggiori
+    la sua situazione.

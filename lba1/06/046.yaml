@@ -1,3 +1,12 @@
+textId: 116
 location:
 speaker:
 message: Pirate Flag. You can attach it to a boat.
+fr:
+  message: Drapeau Pirate. Il est possible de l'accrocher sur un bateau.
+de:
+  message: Piratenflagge. Mann kann sie auf einem Boot hissen.
+es:
+  message: Bandera Pirata. Es posible izarla en un barco.
+it:
+  message: Bandiera dei Pirati . Si può fissare all'albero di una nave.

@@ -1,3 +1,12 @@
+textId: 23
 location:
 speaker:
 message: Ask Grap. He's in the trench, he'll know where to find them.
+fr:
+  message: Demande à Grap dans la tranchée, il doit savoir où les trouver.
+de:
+  message: Frag Grap im Schützengraben, er weiß bestimmt wo man sie findet.
+es:
+  message: Pregúntale a Grap en la trinchera, él debe saber dónde encontrarlos.
+it:
+  message: Chiedi a Grap in trincea, lui saprà dove sono.

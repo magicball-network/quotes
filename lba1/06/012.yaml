@@ -1,3 +1,12 @@
+textId: 11
 location:
 speaker:
 message: You now have the Architect's pass.
+fr:
+  message: Tu as maintenant le Laissez-Passer de l'Architecte.
+de:
+  message: Du hast jetzt den Passierschein des Architekten.
+es:
+  message: Ahora tienes el salvoconducto del Arquitecto.
+it:
+  message: Ora hai il Lasciapassare dell'Architetto.

@@ -1,4 +1,19 @@
+textId: 8
 location:
 speaker:
 message: Yes, I know, you also want me to start the transporter. Ok, stand in
   front of it, I'll start it up.
+fr:
+  message: Oui, je sais, vous aussi vous voulez que je vous mette la capsule en
+    route. Placez-vous devant, j'y vais.
+de:
+  message: Ja, ich weiß, Sie wollen auch, daß ich die Kapsel für Sie in Gang
+    setze. Stellen Sie sich davor, ich mach schon.
+es:
+  message:
+    Sí, ya sé, ya sé que Ud. también quiere que ponga la cápsula en marcha.
+    Colóquese delante, ahí voy.
+it:
+  message:
+    Lo so, anche lei vuole che metta in moto la capsula. Si metta davanti,
+    che comincio.

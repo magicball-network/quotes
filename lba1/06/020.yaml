@@ -1,3 +1,12 @@
+textId: 19
 location:
 speaker:
 message: You've just bought a hair dryer.
+fr:
+  message: Tu viens d'acheter un Sèche-Cheveux.
+de:
+  message: Du hast soeben einen Fön gekauft.
+es:
+  message: Acabas de comprar un Secador de Pelo.
+it:
+  message: Hai appena acquistato un Asciugacapelli.

@@ -1,4 +1,19 @@
+textId: 106
 location:
 speaker:
 message: Sendell's Medallion. With this magical symbol, you have just earned the
   third level of power.
+fr:
+  message:
+    Médaillon de Sendell. Grâce à ce symbole magique, tu viens d'atteindre
+    le 3ème niveau de puissance.
+de:
+  message: Sendells Medaillon. Dank dieses magischen Symbols hast Du soeben die
+    dritte Kraftstufe erreicht.
+es:
+  message:
+    Medallón de Sendell. Gracias a este símbolo mágico, acabas de alcanzar
+    el tercer nivel de poder.
+it:
+  message: Medaglione di Sendell. Con questo simbolo magico raggiungi il terzo
+    livello di potenza.

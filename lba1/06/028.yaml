@@ -1,3 +1,4 @@
+textId: 100
 location:
 speaker:
 message: Holomap (H) key. The Holomap shows your position on the planet. The
@@ -6,3 +7,34 @@ message: Holomap (H) key. The Holomap shows your position on the planet. The
   corresponding places. The Holomap rotates by pressing simultaneously (CTRL)
   and the arrow keys. By pressing only the arrow keys, you can scroll through
   text corresponding to the arrows visible on the Holomap.
+fr:
+  message: Holomap Touche (H). L'holomap indique ta position sur la planète.
+    Durant ta quête, des flêches désignent les endroits importants qui t'ont été
+    indiqués. Elles disparaissent une fois la tâche accomplie. L'Holomap tourne
+    sur elle-même en appuyant sur la Touche (CTRL), plus les flêches de
+    direction. En appuyant sur les flêches de direction seules, tu peux faire
+    défiler les textes correspondant aux flêches visibles dans l'holomap.
+de:
+  message:
+    Holomap (H) Taste. Der Holomap gibt Deine Position auf dem Planeten an.
+    Während Deiner Suche, sind Pfeile auf wichtige Orte gerichtet, die Dir
+    angegeben worden sind. Sie verschwinden, wenn die Tat einmal vollbracht ist.
+    Der Holomap dreht sich durch Druck auf die (CTRL) Taste und die
+    Cursor-Tasten um sich selbst. Wenn Du nur auf die Cursor-Tasten drückst,
+    kannst Du die den Pfeilen - die man im Holomap sehen kann - entsprechenden
+    Texte ablaufen lassen.
+es:
+  message: Holomapa Tecla (H). El holomapa indica tu posición en el planeta.
+    Durante tu búsqueda, las flechas designan los lugares importantes que te han
+    sido revelados. Desaparecen una vez cumplida la misión. El Holomapa gira
+    sobre sí mismo presionando la tecla (CTRL) más las flechas de dirección.
+    Pulsando las flechas de dirección, puedes hacer desfilar los textos
+    correspondientes a las flechas visibles en el holomapa.
+it:
+  message: "Holomap Tasto (H). L'holomap indica la tua posizione sul pianeta.
+    Durante la tua ricerca, vedrai delle frecce: esse indicano i luoghi
+    importanti che ti sono stati indicati. Scompaiono una volta svolta la loro
+    funzione. L'Holomap ruota su se stessa se premi la Tasto (CTRL) insieme ai
+    tasti di spostamento del cursore. Premendo i soli tasti di spostamento del
+    cursore, puoi far scorrere i testi corrispondenti alle frecce visibili
+    sull'holomap."

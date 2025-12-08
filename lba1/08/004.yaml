@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: Hey, you! You're not one of my nurses! Sound the alarm!
+fr:
+  message: Eh vous ! Vous ne faites pas partie de mes infirmiers ! Déclenchez l'alarme !
+de:
+  message: Hey Sie ! Sie gehören nicht zu meinem Pflegepersonal ! Schlagen Sie Alarm !
+es:
+  message: ¡Eh Uds. No forman parte de mis enfermeros! ¡Activen la alarma!
+it:
+  message: Ma lei non è uno dei miei infermieri! Suonate l'allarme!

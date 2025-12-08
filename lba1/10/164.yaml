@@ -1,3 +1,12 @@
+textId: 176
 location:
 speaker:
 message: It is strictly forbidden to talk about that!
+fr:
+  message: Il est rigoureusement interdit d'en parler !
+de:
+  message: Es ist strengstens verboten davon zu sprechen !
+es:
+  message: ¡Está rigurosamente prohibido hablar de eso!
+it:
+  message: E' severamente vietato parlarne!

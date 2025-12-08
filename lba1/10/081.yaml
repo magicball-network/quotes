@@ -1,3 +1,12 @@
+textId: 88
 location:
 speaker:
 message: Good day. Come this way, I'll open the door for you.
+fr:
+  message: Bonjour. Venez, je vais vous ouvrir la porte.
+de:
+  message: Guten Tag. Kommen Sie, ich öffne Ihnen die Tür.
+es:
+  message: Buenos días. Venga, voy a abrirle la puerta.
+it:
+  message: Buongiorno; venga, le apro la porta.

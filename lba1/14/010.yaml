@@ -1,3 +1,15 @@
+textId: 9
 location:
 speaker:
 message: Sorry, you don't have enough Kashes. I've got kids to feed you know!
+fr:
+  message: Désolé, tu n'as pas assez de Kashes. Tu sais j'ai des bouches à nourrir !
+de:
+  message:
+    Tut mir leid, Du hast nicht genügend Kashes. Ich habe einige Münder zu
+    ernähren, weißt Du !
+es:
+  message: Lo siento, no tienes suficientes Kashes. ¡Sabes que tengo bocas que
+    alimentar!
+it:
+  message: Spiacente, non hai abbastanza Kash. Sai, ho delle bocche da sfamare!

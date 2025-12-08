@@ -1,3 +1,17 @@
+textId: 254
 location:
 speaker:
 message: Sorry dear customer, but this is a bazaar here, not a library!
+fr:
+  message: Désolé cher client, mais ici vous êtes dans un bazar, pas dans une
+    bibliothèque !
+de:
+  message:
+    Tut mir leid lieber Kunde, Sie sind hier in einem Bazar, nicht in einer
+    Bibliothek !
+es:
+  message:
+    ¡Lo siento estimado cliente, pero aquí Ud. está en un bazar y no en una
+    biblioteca!
+it:
+  message: Spiacente, caro cliente, ma qui siamo in un bazaar, non in una biblioteca!

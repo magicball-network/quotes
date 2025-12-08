@@ -1,4 +1,15 @@
+textId: 213
 location:
 speaker:
 message: This super Holomap costs only 20 Kashes (you will find that it is very
   useful!).
+fr:
+  message: Cette superbe Holomap coûte 20 Kashes (vous verrez c'est très pratique !).
+de:
+  message:
+    Dieser fantastische Holomap kostet 20 Kashes (Sie werden sehen, das ist
+    sehr praktisch !).
+es:
+  message: Este extraordinario Holomapa cuesta 20 Kashes (¡Verá, es muy práctico!).
+it:
+  message: Questa magnifica holomap costa solo 20 Kash (come può vedere è molto utile!)

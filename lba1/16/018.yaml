@@ -1,3 +1,12 @@
+textId: 19
 location:
 speaker:
 message: Be careful behind the wheel, this isn't a go cart!
+fr:
+  message: Sois prudent au volant, c'est pas une 2CV !
+de:
+  message: Sei vorsichtig am Steuer, das ist keine Ente !
+es:
+  message: ¡Sé prudente con el volante, no es una bicicleta!
+it:
+  message: Sii prudente, non è una Cinquecento!

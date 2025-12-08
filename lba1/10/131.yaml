@@ -1,4 +1,18 @@
+textId: 140
 location:
 speaker:
 message: We must have something about LeBorgne. Go check with the chief
   librarian. You know him already, he's a rather large, orange rabbibunny.
+fr:
+  message:
+    On doit avoir quelque chose sur LeBorgne. Voyez avec le bibliothécaire
+    en chef. Vous le connaissez déjà c'est un lapichon, un grand, orange.
+de:
+  message: Wir haben bestimmt etwas über EinAuge. Wenden Sie sich an den
+    Chef-Bibliothekar. Sie kennen ihn bereits, es ist ein großer oranger Haasi.
+es:
+  message: Debe haber algo sobre El Tuerto. Mírelo con el bibliotecario jefe. Ya
+    lo conoce, es un conejuno grande, anaranjado.
+it:
+  message: Ci deve essere qualcosa sul Guercio. Chieda al capo bibliotecario. Lo
+    ha già visto, è un lapinoide alto, fulvo.

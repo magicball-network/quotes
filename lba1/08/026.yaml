@@ -1,4 +1,17 @@
+textId: 27
 location:
 speaker:
 message: You look kind of lost, Mr. Nurse. Use your holomap if you don't know
   how to get back home!
+fr:
+  message: Eh, z'avez l'air perdu l'infirmier ! Utilisez votre holomap si vous
+    n'savez plus rentrer chez vous.
+de:
+  message: Hey Pfleger, scheinen sich verlaufen zu haben ! Benutzen Sie Ihren
+    Holomap, falls Sie nicht zurück wissen.
+es:
+  message: ¡Enfermero, tiene pinta de perdido! Utilice su holomapa si ya no
+    recuerda cómo regresar a casa.
+it:
+  message: Ehi, infermiere, mi sembra un po' disorientato. Utilizzi l'holomap se
+    non ricorda più la strada di casa.

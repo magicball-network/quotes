@@ -1,4 +1,21 @@
+textId: 278
 location:
 speaker:
 message: I just discovered a secret passage by using the ACTION command,
   incredible! Do you like my red card otherwise?
+fr:
+  message:
+    Je viens de découvrir un passage secret en faisant ACTION, c'est fou !
+    Et sinon ma fausse carte rouge, tu en es content ?
+de:
+  message: Ich habe einen Geheimgang gefunden, indem ich ACTION aktiviert habe,
+    einfach toll ! Was ist mit meiner falschen roten Karte, bist Du damit
+    zufrieden ?
+es:
+  message:
+    Acabo de descubrir un pasaje secreto pulsando ACCION, ¡es increíble! Y
+    si no, mi falsa tarjeta roja, ¿estás contento?
+it:
+  message:
+    Ho appeno scoperto un passaggio segreto premendo AZIONE! E questa è la
+    mia carta rossa falsa; sei contento?

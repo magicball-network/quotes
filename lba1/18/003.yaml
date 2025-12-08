@@ -1,3 +1,12 @@
+textId: 2
 location:
 speaker:
 message: Come with me, we'll continue in the tank!
+fr:
+  message: Viens avec moi, on continue avec le char !
+de:
+  message: Komm mit, wir nehmen den Panzer !
+es:
+  message: ¡Ven conmigo, continuaremos con el tanque!
+it:
+  message: Vieni con me, continuiamo con il carro!

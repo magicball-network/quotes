@@ -1,3 +1,4 @@
+textId: 6
 location:
 speaker:
 message: >-
@@ -5,3 +6,27 @@ message: >-
 
   Dr. FunFrock reminds you that it is absolutely forbidden to make any allusion
   whatsoever to the so called Legend."
+fr:
+  message: >-
+    " INTERDICTION N° 1024-GH :
+
+    Le Dr FunFrock rappelle qu'il est formellement interdit de faire allusion à
+    la soi-disant Légende. "
+de:
+  message: >-
+    " VERBOT N° 1024-GH :
+
+    Dr FunFrock weist darauf hin, daß es strikt verboten ist auf die sogenannte
+    Legende anzuspielen. "
+es:
+  message: >-
+    "PROHIBICION N° 1024-GH :
+
+    El Dr. FunFrock recuerda que está formalmente prohibido hacer alusión a la
+    susodicha Leyenda."
+it:
+  message: >-
+    " DIVIETO N° 1024-GH :
+
+    Il Dottor FunFrock ricorda che è formalmente vietato alludere alla
+    cosiddetta Leggenda."

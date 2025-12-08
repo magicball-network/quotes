@@ -1,4 +1,17 @@
+textId: 204
 location:
 speaker:
 message: Good day. Incredible huh? These objects belonging to LeBorgne that
   crossed through time; have you read the inscription in front of the chest?
+fr:
+  message: Bonjour. Etonnant non, ces objets de LeBorgne qui ont traversé le
+    temps, vous avez lu l'inscription devant le coffre ?
+de:
+  message: Guten Tag. Erstaunlich nicht, diese Gegenstände von EinAuge, die die
+    Zeit überdauert haben, haben Sie das Schild vor der Truhe gelesen ?
+es:
+  message: Buenos días. Sorprendente ¿no? estos objetos de El Tuerto que han
+    perdurado a través de los tiempos, ¿ha leído la inscripción en el cofre?
+it:
+  message: Buongiorno. Stupefacente, come gli oggetti del Guercio abbiano
+    attraversato gli anni; avete letto l'iscrizione davanti allo scrigno?

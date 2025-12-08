@@ -1,3 +1,12 @@
+textId: 83
 location:
 speaker:
 message: Come back when you know where you want to go.
+fr:
+  message: Reviens me voir dès que tu sauras où tu veux aller.
+de:
+  message: Komm wieder sobald Du weißt wohin Du willst.
+es:
+  message: Regresa a verme cuando sepas a dónde quieres ir.
+it:
+  message: Torna quando saprai dove vuoi andare.

@@ -1,3 +1,12 @@
+textId: 57
 location:
 speaker:
 message: Very good sir, but that will cost you 10 Kashes per drink.
+fr:
+  message: Bien monseigneur, mais cela fera 10 Kashes la consommation.
+de:
+  message: Sehr wohl der Herr, aber das macht 10 Kashes für einen Drink.
+es:
+  message: Bien señor, pero la consumición le costará 10 Kashes.
+it:
+  message: Bene, signore, sono 10 Kash.

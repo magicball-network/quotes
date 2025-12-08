@@ -1,4 +1,18 @@
+textId: 7
 location:
 speaker:
 message: That's much better, go on it! But be careful - there are still a few
   giant crabs. Thanks again!
+fr:
+  message: C'est nettement mieux, vas-y entre ! Mais fais attention, il reste
+    quelques crabes géants. Merci encore !
+de:
+  message:
+    So ist's erheblich besser, geh hinein ! Aber sei vorsichtig, es bleiben
+    noch ein paar Riesenkrabben übrig. Nochmals vielen Dank !
+es:
+  message: Está muchísimo mejor, ¡entra! Pero con cuidado, quedan algunos
+    cangrejos gigantes. ¡Gracias una vez más!
+it:
+  message: Decisamente meglio! Entra, su! Ma fai attenzione, c'è ancora qualche
+    granchio gigante. Grazie ancora!

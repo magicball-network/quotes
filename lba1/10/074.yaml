@@ -1,4 +1,18 @@
+textId: 81
 location:
 speaker:
 message: I am Bob Vortix, astronomer under house arrest. What are you doing in
   town, apart from beating up clones?
+fr:
+  message: Je suis Bob Vortix, astronome en résidence surveillée. Et toi, que
+    viens-tu faire en ville à part taper sur les clones ?
+de:
+  message: Ich bin Bob Vortix, ein Astronom, dessen Haus unter Bewachung steht.
+    Und Du, was machst Du in der Stadt, außer auf Klone einzuschlagen ?
+es:
+  message: Soy Bob Vortix, astrónomo en residencia vigilada. Y tú, ¿qué vienes a
+    hacer en la ciudad aparte de a golpear a los clones?
+it:
+  message:
+    Sono Bob Vortix, astronomo agli arresti domiciliari. E tu, cosa fai qui
+    in città, a parte picchiare i cloni?

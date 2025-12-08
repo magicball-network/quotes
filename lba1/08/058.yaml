@@ -1,3 +1,12 @@
+textId: 63
 location:
 speaker:
 message: I've got to get into the Teleportation Center.
+fr:
+  message: Il faut que j'entre dans le centre de téléportation.
+de:
+  message: Ich muß das Biemzentrum betreten.
+es:
+  message: Tengo que entrar en el Centro de Teleportación.
+it:
+  message: Devo assolutamente entrare nel Centro di Teletrasporto.

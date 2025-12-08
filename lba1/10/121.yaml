@@ -1,5 +1,23 @@
+textId: 130
 location:
 speaker:
 message: I have not seen this young lady. But go over to the Astronomer's house.
   Even though he is not allowed to leave his own house, he knows everything. He
   lives in the last house on the hill overlooking the city.
+fr:
+  message: "Je n'ai pas vu cette jeune personne. Mais allez chez l'astronome :
+    bien qu'il lui soit interdit de sortir de chez lui, il est au courant de
+    tout. Il habite la dernière maison, tout en haut de la ville."
+de:
+  message: "Ich habe diese junge Person nicht gesehen. Aber gehen sie mal zum
+    Astronom : auch wenn er sein Haus nicht verlassen darf, er weiß über alles
+    Bescheid. Er wohnt im letzten Haus, ganz oben in der Stadt."
+es:
+  message: "No he visto a esa joven persona. Pero vaya a casa del astrónomo:
+    aunque le esté prohibido salir de su casa, está al corriente de todo. Vive
+    en la última casa en lo alto de la ciudad."
+it:
+  message:
+    "Non ho visto la ragazza. Ma provi a a parlare all'Astronomo: anche se
+    non può uscire di casa, è al corrente di tutto. Abita nell'ultima casa, alla
+    sommità della città."

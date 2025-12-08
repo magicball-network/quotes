@@ -1,6 +1,27 @@
+textId: 58
 location:
 speaker:
 message: |-
   Thief!
 
   Leave my money box alone!
+fr:
+  message: |-
+    Voleur !
+
+    Laissez ma caisse tranquille !
+de:
+  message: |-
+    Dieb !
+
+    Hände weg von meiner Kasse !
+es:
+  message: |-
+    ¡Ladrón!
+
+    ¡Deja mi caja tranquila!
+it:
+  message: |-
+    Ladro!
+
+    Lasci stare la mia cassetta!

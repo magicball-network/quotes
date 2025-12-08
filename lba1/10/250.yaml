@@ -1,3 +1,12 @@
+textId: 267
 location:
 speaker:
 message: I am not familiar with that story.
+fr:
+  message: Je ne connais pas cette histoire.
+de:
+  message: Ich kenne diese Geschichte nicht.
+es:
+  message: No conozco esa historia.
+it:
+  message: Non conosco questa storia.

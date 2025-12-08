@@ -1,3 +1,12 @@
+textId: 136
 location:
 speaker:
 message: I was trying to dig a tunnel, but the noise tipped them off!
+fr:
+  message: J'essayais de creuser un tunnel, mais le bruit les a alertés !
+de:
+  message: Ich habe versucht einen Tunnel zu graben, aber der Krach hat sie alarmiert !
+es:
+  message: ¡Trataba de escavar un túnel, pero el ruido los ha alertado!
+it:
+  message: Tentavo di scavare una galleria, ma il rumore li ha allarmati!

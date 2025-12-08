@@ -1,4 +1,19 @@
+textId: 17
 location:
 speaker:
 message: I know where they went and I'll help you if you buy me a drink. Ask the
   waiter about it.
+fr:
+  message: Je sais où ils sont allés et je t'aiderai si tu m'offres à boire.
+    Touches-en deux mots au serveur.
+de:
+  message:
+    Ich weiß wo sie hingegangen sind und helfe Dir, wenn Du mir einen Drink
+    spendierst. Gib dem Kellner Bescheid.
+es:
+  message: Yo sé donde han ido y te ayudaré si me invitas a un trago. Dile dos
+    palabras al camarero.
+it:
+  message:
+    So dove sono andati, e ti aiuterò se mi offri da bere. Dì due parole al
+    servitore.

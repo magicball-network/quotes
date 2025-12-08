@@ -1,5 +1,22 @@
+textId: 157
 location:
 speaker:
 message: |-
   Flask of Clear Water.
   It will allow you to earn the fourth level of power.
+fr:
+  message: |-
+    Flacon d'Eau Claire.
+    Il te permettra d'atteindre le 4ème niveau de puissance.
+de:
+  message: |-
+    Flasche Klares Wasser.
+    Sie wird Dir ermöglichen die vierte Kraftstufe zu erreichen.
+es:
+  message: |-
+    Frasco de Agua Clara.
+    Te permitirá alcanzar el cuarto nivel de poder.
+it:
+  message: |-
+    Boccetta di Acqua Limpida.
+    Ti consentirà di raggiungere il quarto livello di potenza.

@@ -1,3 +1,4 @@
+textId: 233
 location:
 speaker:
 message: 'According to the book I have, there is a "Clear water" lake in the
@@ -8,3 +9,37 @@ message: 'According to the book I have, there is a "Clear water" lake in the
   climate caused the development of mutant monsters. And despite the fact that
   the good doctor spared us from all that, there are still rebels out there who
   want to overthrow him - it''s shameful!'
+fr:
+  message: 'D''après le livre que j''ai là, il y a un lac " d''Eau Claire " dans
+    l''Hamalayi, au Nord-Ouest de l''île Principale. Saviez-vous que cette chaîne
+    de l''Hamalayi est infranchissable ? Elle marque la limite avec l''hémisphère
+    Nord, que le Dr FunFrock a fait évacuer. Là-bas, le soleil serait trop
+    proche : la température est devenue insupportable et les changements
+    climatiques ont fait apparaître des monstres mutants. Dire que malgré ce que
+    le bon docteur fait pour nous, des rebelles le combattent, c''est honteux !'
+de:
+  message: 'Dem Buch hier zufolge, gibt es einen See " Klares Wasser " im
+    Hamalayi, im Nordosten der Hauptinsel. Wußten Sie, daß diese Hamalayi Kette
+    unüberwindlich ist ? Sie stellt die Grenze zur Nord-Halbkugel dar, die Dr
+    FunFrock evakuiert hat. Dort ist anscheinend die Sonne zu nah : die Hitze
+    ist unerträglich geworden , und die Klimaveränderungen haben mutierende
+    Monster zum Vorschein gebracht. Wenn man bedenkt, bei dem was der gute
+    Doktor für uns tut, daß Rebellen ihn bekämpfen, eine wahre Schande !'
+es:
+  message: 'Según el libro que tengo aquí, hay un lago de "Agua Clara" en el
+    Hamalayi, al Noroeste de la isla Principal. ¿Sabía que esta cadena del
+    Hamalayi es infranqueable? Marca el límite con el hemisferio Norte, que el
+    FunFrock ha hecho evacuar. Allí, el sol está demasiado cerca: la temperatura
+    se ha vuelto insoportable, y los cambios climáticos han hecho aparecer
+    monstruos mutantes. Decir que a pesar de lo que el buen doctor hace por
+    nosotros, hay rebeldes que lo combaten, ¡es una vergüenza!'
+it:
+  message:
+    'Secondo il libro che sto leggendo, a nord est dell''Isola principale,
+    nell''Hamalayi, esiste un lago di "Acqua Limpida". Lo sapeva che la catena
+    dell''Hamalayi è invalicabile? Segna il confine con l''emisfero
+    settentrionale, che il dottor FunFrock ha fatto evacuare. Là il sole sarebbe
+    troppo vicino alla superficie: la temperatura è diventata insopportabile, e
+    i cambiamenti climatici hanno portato alla comparsa di mostruosi mutanti. E
+    dire che con tutto quello che il buon dottore fa per noi, ci sono dei
+    ribelli che lo osteggiano. E'' una vergogna!'

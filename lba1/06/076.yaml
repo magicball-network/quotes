@@ -1,5 +1,16 @@
+textId: 211
 location:
 speaker:
 message: |-
   Water Tower
   (Principal island)
+fr:
+  message: |-
+    Château d'eau
+    (Ile Principale)
+de:
+  message: Wasserturm (Hauptinsel)
+es:
+  message: Castillo de agua (Isla Principal)
+it:
+  message: Castello d'acqua (Isola Principale)

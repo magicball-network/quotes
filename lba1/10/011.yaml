@@ -1,4 +1,19 @@
+textId: 10
 location:
 speaker:
 message: As I live and breathe, you will never see me drink any tap water in
   this city, mate. And all you have to do is drink some of it to understand why!
+fr:
+  message:
+    Tel que tu me vois, je ne bois jamais d'eau, moussaillon. Et il suffit
+    de goûter l'eau de la ville pour comprendre pourquoi !
+de:
+  message:
+    So wahr ich hier sitze Schiffsjunge, ich trinke keinen Schluck Wasser.
+    Es genügt das Leitungswasser zu trinken und Du weißt warum !
+es:
+  message: Tal como ves, yo no bebo nunca agua grumetillo. ¡Basta probar el agua
+    de la ciudad para comprender por qué!
+it:
+  message: Mozzo, io non bevo mai l'acqua di questa città. Basta assaggiarne un
+    po' per capire perché!

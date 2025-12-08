@@ -1,3 +1,12 @@
+textId: 161
 location:
 speaker:
 message: Sorry, but I don't know what that could be about.
+fr:
+  message: Désolé, mais je ne vois pas de quoi il s'agit.
+de:
+  message: Tut mir leid, ich weiß nicht worum es geht.
+es:
+  message: Lo siento, pero no veo de qué se trata.
+it:
+  message: Spiacente, ma non so di cosa si tratti.

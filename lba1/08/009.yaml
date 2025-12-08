@@ -1,3 +1,12 @@
+textId: 8
 location:
 speaker:
 message: Hmmmmm... what if I try to get the guard's attention?
+fr:
+  message: Tiens, si j'essayais d'attirer l'attention d'un garde ?
+de:
+  message: Hm, ich könnte vielleicht eine Wache auf mich aufmerksam machen ?
+es:
+  message: Mira, ¿y si tratara de llamar la atención de un guardia?
+it:
+  message: E se provassi ad attirare l'attenzione di una guardia?

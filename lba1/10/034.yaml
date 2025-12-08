@@ -1,4 +1,21 @@
+textId: 34
 location:
 speaker:
 message: Didn't see anything, but if you have any problems, you should talk to
   the Astronomer who is under house arrest, up above the Old Burg.
+fr:
+  message:
+    Pas vue, mais si tu as des problèmes, tu devrais aller voir l'Astronome
+    qui est en résidence surveillée chez lui, tout en haut du Vieux Bourg.
+de:
+  message:
+    Nicht gesehen, aber falls Du Probleme hast, solltest Du zum Astronomen
+    gehen, dessen Haus steht unter Bewachung, ganz oben in der Altstadt.
+es:
+  message: No la he visto, pero si tienes problemas, deberías ir a ver al
+    Astrónomo que está en residencia vigilada, en su casa en lo alto del Viejo
+    Burgo.
+it:
+  message:
+    Non l'ho vista, ma se hai dei problemi, consulta l'Astronomo; vive agli
+    arresti domiciliari, la sua casa è alla sommità del Vecchio Borgo.

@@ -1,3 +1,12 @@
+textId: 19
 location:
 speaker:
 message: I'm interested in the story of LeBorgne the pirate.
+fr:
+  message: Je m'intéresse à l'histoire du pirate LeBorgne.
+de:
+  message: Ich interessiere mich für die Geschichte des Piraten EinAuge.
+es:
+  message: Me interesa la historia del Pirata El Tuerto.
+it:
+  message: Mi interessa la storia del pirata Guercio.

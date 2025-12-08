@@ -1,3 +1,12 @@
+textId: 29
 location:
 speaker:
 message: I think it's time to make use of what you hid in the house.
+fr:
+  message: A mon avis, il est temps d'utiliser ce que tu as caché dans la maison.
+de:
+  message: Ich glaube es ist Zeit zu benutzen, was Du im Haus versteckt hast.
+es:
+  message: En mi opinión, es tiempo de utilizar lo que escondiste en casa.
+it:
+  message: Secondo me, è ora che tu usi quello che hai nascosto in casa.

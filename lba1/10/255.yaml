@@ -1,3 +1,12 @@
+textId: 272
 location:
 speaker:
 message: Good day dear friend.
+fr:
+  message: Bonjour cher ami.
+de:
+  message: Guten Tag lieber Freund.
+es:
+  message: Buenos días estimado amigo.
+it:
+  message: Buongiorno, amico mio.

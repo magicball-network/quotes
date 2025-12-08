@@ -1,5 +1,23 @@
+textId: 14
 location:
 speaker:
 message: Twinsen, you MUST SUCCEED in this mission. That fort is in a strategic
   position of the utmost importance. Once we've taken it, the two hemispheres
   can be united once again.
+fr:
+  message: Twinsen, vous DEVEZ REUSSIR cette mission. Ce fortin est un point
+    névralgique. Une fois pris, il peut nous permettre de réunir à nouveau les 2
+    hémisphères.
+de:
+  message:
+    Twinsen, Sie MÜSSEN diesen Auftrag ERFOLGREICH abschließen. Dieses Fort
+    ist ein wunder Punkt. Ist es erst einmal eingenommen, kann es uns
+    ermöglichen beide Halbkugeln wieder zusammenzuführen.
+es:
+  message: Twinsen, tiene QUE TRIUNFAR en esta misión. Este fortín es un punto
+    neurálgico. Una vez tomado, puede permitirnos reunir de nuevo los 2
+    hemisferios.
+it:
+  message: Twinsen, lei DEVE portare a termine questa missione. Il fortino è un
+    punto strategico. Una volta preso, ci consentirà di riunire nuovamente i due
+    emisferi.

@@ -1,3 +1,12 @@
+textId: 62
 location:
 speaker:
 message: The White Leaf Desert.
+fr:
+  message: Au Désert de la Feuille Blanche.
+de:
+  message: Zur Wüste des Leeren Blattes.
+es:
+  message: Al Desierto de la Hoja Blanca.
+it:
+  message: Nel Deserto della Foglia Bianca.

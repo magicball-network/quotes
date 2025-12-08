@@ -1,3 +1,12 @@
+textId: 36
 location:
 speaker:
 message: Leave me alone, this job is already hard enough.
+fr:
+  message: Laissez-moi tranquille, c'est déjà assez dur comme ça ce boulot.
+de:
+  message: Lassen Sie mich in Ruhe, dieser Job ist schon hart genug.
+es:
+  message: Déjame tranquilo, ya es bastante duro este trabajillo.
+it:
+  message: Mi lasci in pace, la vita è già abbastanza dura.

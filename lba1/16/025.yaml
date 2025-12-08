@@ -1,3 +1,12 @@
+textId: 26
 location:
 speaker:
 message: Thank you Twinsen, we couldn't have done it without you.
+fr:
+  message: Merci Twinsen nous n'aurions jamais réussi sans toi.
+de:
+  message: Danke Twinsen, ohne Dich hätten wir es nie geschafft.
+es:
+  message: Gracias Twinsen, nunca hubiéramos triunfado sin ti.
+it:
+  message: Grazie, Twinsen. Non ce l'avremmo mai fatta senza di te.

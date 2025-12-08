@@ -1,3 +1,12 @@
+textId: 4
 location:
 speaker:
 message: Ah, there you are at last my love!
+fr:
+  message: Ah, enfin te voilà mon amour !
+de:
+  message: Ach, endlich bist Du da mein Liebling !
+es:
+  message: ¡Ah, por fin, aquí estás amor mío!
+it:
+  message: Eccoti, finalmente, amore mio!

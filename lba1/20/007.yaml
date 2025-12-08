@@ -1,3 +1,4 @@
+textId: 6
 location:
 speaker:
 message: >-
@@ -5,3 +6,27 @@ message: >-
 
   Good work, you have disabled the mutant factory! No more new monsters are
   being produced. By the way, what is your name, brave stranger?
+fr:
+  message: >-
+    Hé, toi ! Ne touche pas à notre t... Ah, c'est toi !
+
+    Bravo, tu as bien désactivé l'usine de mutants puisqu'aucun nouveau monstre
+    n'en est est sorti. Au fait comment te nommes-tu noble étranger ?
+de:
+  message: >-
+    He, Du ! Hände weg von unserem M... Ach, Du bist's !
+
+    Bravo, Du hast tatsächlich die Mutantenfabrik ausgeschaltet, da kein neues
+    Monster diese verlassen hat. Übrigens, wie heißt Du ehrenwerter Fremdling ?
+es:
+  message: >-
+    ¡Eh, tú! ¡no toques nuestro t...! ¡Ah, eres tú!
+
+    Bravo, has desarticulado con éxito la fábrica de mutantes, ya que ningún
+    nuevo monstruo ha salido de ella. ¿Cómo te llamas noble extranjero?
+it:
+  message: >-
+    Ehi, tu, giù le mani dalla nostra sb... Ah, sei tu!
+
+    Complimenti, hai sabotato la fabbrica di mutanti: non è uscito nessun nuovo
+    mostro. Ma a proposito, come ti chiami, nobile straniero?

@@ -1,5 +1,20 @@
+textId: 34
 location:
 speaker:
 message: I believe that you can read all the posters. All you have to do is move
   in front of one and use the ACTION command while in normal mode. I can't
   really help you out, because I don't know how to read!
+fr:
+  message: Il paraît qu'on peut lire toutes les affiches. En se plaçant devant,
+    puis en faisant ACTION en mode normal. De toute façon j'sais pas lire, moi !
+de:
+  message: Es scheint, daß man alle Plakate lesen kann. Indem man sich davor
+    stellt und dann ACTION im Normalmodus aktiviert. Was soll's, kann sowieso
+    nicht lesen !
+es:
+  message: Parece que se pueden leer todos los carteles. Colocándose delante, y
+    luego pulsando ACCION en modo normal. De todas maneras, ¡Yo no sé leer!
+it:
+  message:
+    Sembra che sia possibile leggere tutti i cartelli. Basta mettercisi di
+    fronte, e AGIRE in modo normale. In ogni caso, io non so leggere!

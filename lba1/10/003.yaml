@@ -1,4 +1,19 @@
+textId: 2
 location:
 speaker:
 message: Sorry, I didn't see them but try going to the astronomer's house in the
   Old Burg; he knows a lot about what is going on.
+fr:
+  message:
+    Navré je ne l'ai pas vue. Mais essayez d'aller chez l'astronome dans le
+    Vieux Bourg, il est au courant de beaucoup de choses.
+de:
+  message: Tut mir leid, ich habe sie nicht gesehen. Aber versuchen sie es mal
+    beim Astronomen in der Altstadt, er weiß einiges.
+es:
+  message:
+    Lo siento, no la he visto. Pero pruebe a ir a la casa del astrónomo en
+    el Viejo Burgo, él está al corriente de muchas cosas.
+it:
+  message: Mi spiace, non l'ho vista. Ma provi ad andare dall'astronomo, nel
+    Vecchio Borgo, lui è al corrente di molte cose.

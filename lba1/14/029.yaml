@@ -1,3 +1,12 @@
+textId: 28
 location:
 speaker:
 message: '" Construction work. SLOW DOWN! "'
+fr:
+  message: '" Fin de chantier. RALENTIR ! "'
+de:
+  message: '" Ende der Baustelle. BITTE LANGSAM FAHREN ! "'
+es:
+  message: '"Fin de obras. ¡DISMINUIR LA VELOCIDAD!'
+it:
+  message: '"Cantiere. RALLENTARE! "'

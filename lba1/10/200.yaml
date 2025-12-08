@@ -1,3 +1,12 @@
+textId: 217
 location:
 speaker:
 message: A meca-penguin will cost you 3 Kashes.
+fr:
+  message: Un méca-pingouin coûte 3 Kashes.
+de:
+  message: Ein Meca-Pinguin kostet 3 Kashes.
+es:
+  message: Un Meca-Pingüino cuesta 3 Kashes.
+it:
+  message: Un robo-pinguino costa 3 Kash.

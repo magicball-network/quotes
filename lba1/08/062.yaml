@@ -1,4 +1,19 @@
+textId: 67
 location:
 speaker:
 message: Don't ever try teleporting yourself - it's very dangerous! Only the
   clones can do it.
+fr:
+  message:
+    N'essayez jamais de vous téléporter, c'est très dangereux, il n'y a que
+    les clones qui puissent le faire !
+de:
+  message: Versuchen Sie nie sich Biemen zu lassen, das ist sehr gefährlich, nur
+    Klone sind dazu imstande !
+es:
+  message: Jamás intente teleportarse. ¡Es muy peligroso, sólo los clones pueden
+    hacerlo!
+it:
+  message:
+    Non tentate mai di farvi teletrasportare. E' pericoloso, possono farlo
+    solo i cloni!

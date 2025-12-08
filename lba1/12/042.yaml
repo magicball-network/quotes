@@ -1,5 +1,23 @@
+textId: 80
 location:
 speaker:
 message: I'll give you my guitar in exchange for the flute that you possess
   Twinsen, beforehand, though, you will have play it next to the Clear Water
   Lake in order to obtain the 4th magical symbol.
+fr:
+  message: Je te donnerais ma guitare en échange de la flûte que tu possèdes
+    Twinsen, auparavant tu devras en jouer au bord du Lac d'Eau Claire pour
+    obtenir le 4ème symbole magique.
+de:
+  message: Ich gebe Dir meine Gitarre gegen Deine Flöte Twinsen, zuvor mußt Du
+    darauf am Ufer des Sees Klares Wassers spielen, um das vierte magische
+    Symbol zu bekommen.
+es:
+  message: Te daré mi guitarra a cambio de la flauta que posees Twinsen, antes
+    deberás tocarla a orillas del Lago de Agua Clara para obtener el cuarto
+    símbolo mágico.
+it:
+  message:
+    Ti darò la mia chitarra in cambio del flauto che tu possiedi, Twinsen,
+    ma prima tu dovrai suonare sulla riva del Lago di Acqua Limpida per ottenere
+    il quarto simbolo magico.

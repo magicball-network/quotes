@@ -1,4 +1,18 @@
+textId: 36
 location:
 speaker:
 message: I saw them at the port a little while ago. They were leaving for
   another island. It's strange, because prisoners usually stay at the Citadel.
+fr:
+  message: Je les ai vus au port tout à l'heure. Ils sont partis pour une autre
+    île. C'est bizarre car les prisonniers restent à la Citadelle d'habitude.
+de:
+  message: Ich habe sie vorhin im Hafen gesehen. Sie sind aufgebrochen, um sich
+    auf eine andere Insel zu begeben. Das ist eigenartig, die Gefangenen bleiben
+    doch normalerweise in der Zitadelle.
+es:
+  message: Los he visto en el puerto hace un momento. Partieron hacia otra isla.
+    Es raro, ya que generalmente los prisioneros se quedan en la Ciudadela.
+it:
+  message: Li ho visti al porto poco fa. Sono salpati per un'altra isola. E'
+    strano, perché di solito i prigionieri rimangono alla Cittadella.

@@ -1,5 +1,22 @@
+textId: 45
 location:
 speaker:
 message: Aah, I see that you too have come to Proxima island. You remember me, I
   sell hair dryers. Look, I'll sell you one for only 30 Kashes, but only because
   it's been a slow day.
+fr:
+  message: Tiens, finalement vous aussi vous êtes venu sur l'île Proxima. Vous
+    vous souvenez de moi, je vends des sèche-cheveux. Allez, je vous en vends un
+    à 30 Kashes parcequ'ils partent mal aujourd'hui.
+de:
+  message: Sieh an, schließlich sind Sie auch auf die Insel Proxima gekommen.
+    Erinnern Sie sich noch, ich verkaufe Föne. Nun gut, ich verkaufe Ihnen einen
+    für 30 Kashes, weil sie heute so schlecht weggehen.
+es:
+  message: Mira, finalmente Ud. también ha venido a la isla Próxima. ¿Se acuerda
+    de mí? vendo secadores de pelo. Vamos, le vendo uno a 30 Kashes que no salen
+    bien hoy.
+it:
+  message: Oh, anche lei qui sull'Isola Proxima. Si ricorda di me? Vendo
+    asciugacapelli. Gliene vendo uno a 30 Kash, ma solo perché è stata una
+    giornata difficile.

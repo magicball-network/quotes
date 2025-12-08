@@ -1,3 +1,12 @@
+textId: 17
 location:
 speaker:
 message: I don't know what that could be all about, brave stranger Twinsen.
+fr:
+  message: Je ne vois pas de quoi il s'agit, noble étranger Twinsen.
+de:
+  message: Ich weiß nicht worum es geht ehrenwerter Fremdling Twinsen.
+es:
+  message: No veo de qué se trata noble extranjero Twinsen.
+it:
+  message: Non so di cosa si tratti, nobile straniero Twinsen.

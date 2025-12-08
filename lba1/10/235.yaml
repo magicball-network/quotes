@@ -1,3 +1,12 @@
+textId: 252
 location:
 speaker:
 message: Sorry, but I really don't know anything about it.
+fr:
+  message: Désolé, mais je n'y connais rien.
+de:
+  message: Tut mir leid, aber davon verstehe ich nichts.
+es:
+  message: Lo siento, pero no conozco nada
+it:
+  message: Spiacente, non ne so niente.

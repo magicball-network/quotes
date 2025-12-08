@@ -1,5 +1,23 @@
+textId: 2
 location:
 speaker:
 message: '" I am the stone of the Septentrion. The Well of Sendell is located at
   the summit of the rocky peak that is at the center of Polar island. Only the
   Heir can break the seal that bars the entrance. "'
+fr:
+  message: '" Je suis la pierre du Septentrion. Le Puits de Sendell se trouve au
+    sommet du piton rocheux qui est au centre de l''île Polaire. Seul l''Héritier
+    pourra briser le sceau qui en garde l''entrée. "'
+de:
+  message: '" Ich bin der Stein des Nordens. Sendells Brunnen befindet sich auf
+    der Felsen-Bergspitze, im Zentrum der Polarinsel. Allein der Erbe wird das
+    Siegel durchbrechen können, das über den Eingang wacht. "'
+es:
+  message:
+    '"Soy la piedra del Septentrión. El Pozo de Sendell se encuentra en la
+    cima del pico rocoso que está en el centro de la isla Polar. Sólo el
+    Heredero podrá romper el sello que protege la entrada."'
+it:
+  message: '"Sono la Pietra del Settentrione. Il Pozzo di Sendell si trova alla
+    sommità del picco di roccia al centro dell''Isola Polare. Solo l''Erede potrà
+    infrangere il sigillo che ne custodisce l''entrata."'

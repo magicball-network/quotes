@@ -1,3 +1,12 @@
+textId: 13
 location:
 speaker:
 message: Go ahead!
+fr:
+  message: Allez-y !
+de:
+  message: O.K., gehen Sie !
+es:
+  message: ¡Adelante!
+it:
+  message: Andate!

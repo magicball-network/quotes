@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: Hold on, I've got something!
+fr:
+  message: Attendez, j'ai une prise !
+de:
+  message: Warten Sie, es hat einer angebissen !
+es:
+  message: ¡Espere, tengo una presa!
+it:
+  message: Un attimo, ne ho presa una!

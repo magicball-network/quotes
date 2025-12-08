@@ -1,5 +1,22 @@
+textId: 248
 location:
 speaker:
 message: |-
   You can't imagine what it's like to be locked up!
   It's awful... just awful!
+fr:
+  message: |-
+    Tu ne peux pas imaginer ce que c'est d'être enfermé !
+    C'est affreux ... affreux, affreux !
+de:
+  message: |-
+    Du kannst Dir nicht vorstellen was es heißt eingesperrt zu sein !
+    Das ist so schrecklich ... so furchtbar schrecklich !
+es:
+  message: |-
+    ¡No puedo imaginar lo que es estar encerrado!
+    ¡Es horrible ... horrible, horrible!
+it:
+  message: |-
+    Non sai cosa voglia dire essere prigionieri!
+    E' terribile... terribile, terribile!

@@ -1,3 +1,12 @@
+textId: 171
 location:
 speaker:
 message: That's in the past now, there are no pirates living today.
+fr:
+  message: C'est du passé ça, il n'y a plus de pirates de nos jours.
+de:
+  message: Das war einmal, heutzutage gibt es keine Piraten mehr.
+es:
+  message: Esas son cosas del pasado, en nuestros días ya no hay piratas.
+it:
+  message: Ma queste sono cose andate, oggi non ci sono più pirati.

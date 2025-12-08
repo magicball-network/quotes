@@ -1,4 +1,19 @@
+textId: 85
 location:
 speaker:
 message: I'm a bartender, you know, so I've have had my fill of bar jokes and
   strange stories!
+fr:
+  message: Vous savez moi je suis barman, alors les blagues de bistrot et les
+    histoires bizarres j'en ai ma claque !
+de:
+  message: Wissen Sie, ich bin Kellner und hab' den Rand voll von Kneipenwitzen
+    und komischen Geschichten !
+es:
+  message:
+    Ud. sabe, yo soy barman, y las bromas de bar y cuentos raros ¡me llegan
+    al corazón!
+it:
+  message:
+    Sa, io sono un barman; ne ho abbastanza di discorsi da osteria e storie
+    insolite!

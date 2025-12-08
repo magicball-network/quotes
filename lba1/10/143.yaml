@@ -1,3 +1,12 @@
+textId: 155
 location:
 speaker:
 message: I didn't see her, but the Astronomer will certainly be able to help you.
+fr:
+  message: Je ne l'ai pas vue, mais l'Astronome pourra sûrement t'aider.
+de:
+  message: Ich habe sie nicht gesehen, aber der Astronom kann Dir sicher helfen.
+es:
+  message: No la he visto, pero el Astrónomo seguramente podrá ayudarte.
+it:
+  message: Non l'ho vista, ma l'Astronomo potrà aiutarti.

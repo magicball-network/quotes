@@ -1,5 +1,22 @@
+textId: 214
 location:
 speaker:
 message: |-
   Drug store
   (Citadel island)
+fr:
+  message: |-
+    Pharmacie
+    (Ile de la Citadelle)
+de:
+  message: |-
+    Apotheke
+    (Zitadelleninsel)
+es:
+  message: |-
+    Farmacia
+    (Isla de la Ciudadela)
+it:
+  message: |-
+    Farmacia
+    (Isola della Cittadella)

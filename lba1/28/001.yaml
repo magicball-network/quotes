@@ -1,3 +1,13 @@
+textId: 0
 location:
 speaker:
 message: Twinsen help! I'm not a clone, it's me, the real Zoé.
+fr:
+  message: Twinsen au secours ! Je ne suis pas un clone, c'est moi, je suis la
+    vraie Zoé.
+de:
+  message: Twinsen, zu Hilfe ! Ich bin kein Klon, ich bin die echte Zoé.
+es:
+  message: ¡Twinsen, socorro! No soy un clon, soy yo, la verdadera Zoé.
+it:
+  message: Twinsen, aiuto! Non sono un clone, sono io, la vera Zoè.

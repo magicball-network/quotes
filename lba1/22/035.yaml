@@ -1,3 +1,12 @@
+textId: 41
 location:
 speaker:
 message: I don't givre credit, come back when you're richer!
+fr:
+  message: Je ne fais pas crédit, reviens quand tu seras plus riche !
+de:
+  message: Ich gebe keinen Kredit, komm wieder wenn Du reicher bist !
+es:
+  message: No doy crédito, ¡regresa cuando seas más rico!
+it:
+  message: Non faccio credito, torna quando sarai più ricco!

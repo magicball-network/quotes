@@ -1,3 +1,12 @@
+textId: 214
 location:
 speaker:
 message: I can't help you out.
+fr:
+  message: Je ne peux rien pour vous.
+de:
+  message: Ich kann nichts für Sie tun.
+es:
+  message: No puedo hacer nada por Ud.
+it:
+  message: Non posso far niente per lei.

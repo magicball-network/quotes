@@ -1,4 +1,19 @@
+textId: 48
 location:
 speaker:
 message: So you found a hair dryer? Great! I'll be with you in a minute, just
   let me install the rheostat.
+fr:
+  message: Alors tu as trouvé un sèche-cheveux ? C'est magnifique ! J'en ai pour
+    une minute, le temps d'installer le rhéostat.
+de:
+  message:
+    Na, hast Du einen Fön gefunden ? Fantastisch ! Sekunde, ich installiere
+    kurz den Rheostat.
+es:
+  message: ¿Has encontrado entonces un secador de pelo? ¡Es magnífico! Sólo me
+    llevará un minuto instalar el reostato.
+it:
+  message:
+    Hai trovato un asciugacapelli? Fantastico! Un minuto solo, il tempo di
+    installare il reostato.

@@ -1,5 +1,23 @@
+textId: 81
 location:
 speaker:
 message: You will no longer need the flute, Twinsen. On the other hand, it might
   allow me to realize an old dream of mine. I'll trade you for this guitar that
   I found in the middle of a meteor.
+fr:
+  message: Twinsen tu n'auras plus besoin de la flûte, par contre elle peut me
+    permettre de réaliser un vieux rêve. Je te l'échange contre cette guitare
+    que j'ai trouvé au coeur d'un météore.
+de:
+  message: Twinsen, Du brauchst die Flöte nicht mehr, dagegen kann sie mir
+    ermöglichen einen alten Traum zu verwirklichen. Ich tausche sie gegen diese
+    Gitarre, die ich mitten in einem Meteor gefunden habe.
+es:
+  message:
+    Twinsen ya no necesitarás más la flauta, por el contrario ella me puede
+    permitir realizar un viejo sueño. Te la cambio por esta guitarra que he
+    encontrado en el corazón de un meteoro.
+it:
+  message: Twinsen, non avrai più bisogno del flauto, e invece a me servirà per
+    realizzare il mio vecchio sogno. Ti offro in cambio questa chitarra che ho
+    trovato nel nucleo di una meteora.

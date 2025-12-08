@@ -1,4 +1,18 @@
+textId: 21
 location:
 speaker:
 message: Hey, you look familiar! I just came back from an infiltration mission
   in Proxim-City and I saw your mug on quite a few wanted posters.
+fr:
+  message: Tiens un visage connu ! Je reviens d'une mission d'infiltration à
+    Proxim-City, et j'ai vu ta trogne sur nombre d'avis de recherche.
+de:
+  message: Sieh an, ein bekanntes Gesicht ! Ich komm gerade von einem
+    Einschleuse-Auftrag in Proxim-City zurück, und ich hab' Deine Birne auf 'ner
+    ganzen Menge Steckbriefe gesehen.
+es:
+  message: ¡Mira, un rostro conocido! Regreso de una misión de infiltración en
+    Proxim-City, y he visto tu cara en muchos avisos de búsqueda.
+it:
+  message: "Toh guarda, una faccia conosciuta. Torno da una missione di
+    infiltrazione a Proxim-City, ho visto il tuo muso: sei ricercato."

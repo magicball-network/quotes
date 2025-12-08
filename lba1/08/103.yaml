@@ -1,3 +1,12 @@
+textId: 109
 location:
 speaker:
 message: Good day, neighbor.
+fr:
+  message: Bonjour voisin.
+de:
+  message: Guten Tag Nachbar.
+es:
+  message: Buenos días vecino.
+it:
+  message: Buongiorno, vicino.

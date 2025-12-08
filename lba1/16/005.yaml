@@ -1,6 +1,32 @@
+textId: 4
 location:
 speaker:
 message: So, young quetch, you've come to help in the fight against FunFrock? As
   you can see, this city has suffered because of our rebellion. We are
   constantly bombed, which is why our leaders have set their camp in the center
   of the island. You can take my buggy to go see them.
+fr:
+  message:
+    Alors jeune quetch, tu viens nous aider à combattre FunFrock ? Comme tu
+    peux le constater cette ville a payé chèrement son soulèvement. Nous sommes
+    régulièrement bombardés, c'est pourquoi nos chefs ont un camp au centre de
+    l'île. Maintenant tu peux prendre mon buggy pour aller leur parler.
+de:
+  message:
+    Na junger Quetsch, kommst Du uns helfen FunFrock zu bekämpfen ? Wie Du
+    feststellen kannst, hat die Stadt ihren Aufstand teuer bezahlt. Wir werden
+    regelmäßig bombardiert, deshalb haben unsere Anführer ein Camp im Zentrum
+    der Insel. Du kannst meinen Buggy nehmen um hinzufahren und mit ihnen zu
+    sprechen.
+es:
+  message:
+    Joven colines, ¿vienes a ayudarnos a combatir a FunFrock ? Como puedes
+    constatar, esta ciudad ha pagado caro su levantamiento. Hemos sido
+    bombardeados regularmente, por ello nuestros jefes tienen un campamento en
+    el centro de la isla. Puedes coger mi todoterreno para ir a hablar con
+    ellos.
+it:
+  message: Allora, giovane quetch, sei venuto ad aiutarci a combattere contro
+    FunFrock? Come puoi constatare, questa città ha pagato caro la ribellione.
+    Veniamo regolarmente bombardati, ecco perché i nostri capi hanno un campo al
+    centro dell'isola. Ora puoi prendere il mio fuoristrada per recarti da loro.

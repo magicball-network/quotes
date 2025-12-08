@@ -1,3 +1,12 @@
+textId: 79
 location:
 speaker:
 message: What's strange is that you're talking about it. That's forbidden, you know!
+fr:
+  message: Ce qui est bizarre c'est que vous en parliez, car c'est interdit.
+de:
+  message: Eigenartig daß Sie davon gesprochen haben, weil es verboten ist.
+es:
+  message: Lo que es raro es que hable de esto, ya que está prohibido.
+it:
+  message: Quello che è bizzarro è che lei ne sta parlando, perché è proibito!

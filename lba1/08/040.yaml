@@ -1,3 +1,4 @@
+textId: 42
 location:
 speaker:
 message: I can't open this chest with this blasted trick back of mine! Gimme a
@@ -5,3 +6,26 @@ message: I can't open this chest with this blasted trick back of mine! Gimme a
   in front of the chest while in normal mode and use the ACTION command. You can
   do the same for rummaging through lots of things like cupboards, garbage cans,
   etc...
+fr:
+  message:
+    "Impossible d'ouvrir ce coffre avec mon dos bloqué ! Aidez-moi et vous
+    pourrez garder une partie de son contenu. Il suffit de se placer devant le
+    coffre - en mode normal - et de faire ACTION. Vous pouvez fouiller plein de
+    choses comme ça : placards, poubelles, etc."
+de:
+  message:
+    "Kann unmöglich die Truhe mit meinem steifen Rücken öffnen ! Helfen Sie
+    mir und sie können einen Teil des Inhalts behalten. Es genügt sich vor die
+    Truhe zu stellen - im Normalmodus - und ACTION zu aktivieren. Sie können auf
+    diese Art lauter solche Sachen durchstöbern: Wandschränke, Mülleimer,
+    usw..."
+es:
+  message: "¡Es imposible abrir esta caja con el lumbago que tengo! Ayúdeme y
+    podrá quedarse con una parte de su contenido. Basta colocarse delante de la
+    caja - en modo normal - y pulsar ACCION. Así se puede buscar en muchas
+    cosas: armarios, basureros, etc..."
+it:
+  message: "Non riesco proprio ad aprire il baule con la schiena bloccata! Se mi
+    aiuta, potrà prendere parte del suo contenuto. Basta mettersi davanti al
+    baule, in modo normale, e AGIRE. In questo modo, potrà anche frugare in
+    tanti posti: armadi, pattumiere, ecc."

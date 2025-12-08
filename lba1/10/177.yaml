@@ -1,4 +1,20 @@
+textId: 189
 location:
 speaker:
 message: 30 Kashes for a hair dryer, how about that? I normally sell them door
   to door, but customers are sparse, and you seem nice enough.
+fr:
+  message: Un sèche-cheveux pour 30 Kashes ça vous dit ? Normalement je n'ai le
+    droit de les vendre qu'au porte à porte, mais les clients sont rares et vous
+    m'êtes sympathique.
+de:
+  message: Wie wär's, ein Fön für 30 Kashes ? Normalerweise darf ich sie nur von
+    Haus zu Haus verkaufen, aber ich habe wenig Kunden, und Sie sind mir
+    sympathisch.
+es:
+  message: Un secador de pelo por 30 Kashes ¿le parece? Normalmente no tengo
+    permiso para vender más que de puerta en puerta, pero los clientes escasean
+    y Ud. me es simpático.
+it:
+  message: 30 kash per un asciugacapelli, che ne dice? Di solito posso venderli
+    solo porta a porta, ma i clienti sono rari e lei mi è simpatico.

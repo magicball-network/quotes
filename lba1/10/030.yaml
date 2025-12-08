@@ -1,3 +1,12 @@
+textId: 30
 location:
 speaker:
 message: A loose stone? Let me see that.
+fr:
+  message: Une pierre bizarre ? Bon on va voir ça.
+de:
+  message: Ein komischer Stein ? Gut, schauen wir uns das mal an.
+es:
+  message: ¿Una piedra rara? Bueno, vamos a ver eso.
+it:
+  message: Una strana pietra? Vediamo che cos'è.

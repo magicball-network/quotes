@@ -1,5 +1,24 @@
+textId: 167
 location:
 speaker:
 message: Can't seem to sell a single hair dryer here. One of my colleagues is
   already out there trying his best. If this keeps up, I'll have to move on to
   another island.
+fr:
+  message:
+    Impossible de vendre un seul sèche-cheveux ici. Un de mes collègues est
+    déjà en train de prospecter. Si ça continue, je vais aller essayer sur une
+    autre île.
+de:
+  message: Unmöglich hier auch nur einen einzigen Fön loszuwerden. Einer meiner
+    Kollegen ist bereits dabei Kunden zu werben. Wenn das so weitergeht,
+    versuche ich es auf einer anderen Insel.
+es:
+  message:
+    Es imposible vender un sólo secador de pelo aquí. Uno de mis colegas ya
+    está visitando la clientela potencial. Si esto continúa así, iré a comerciar
+    en otra isla.
+it:
+  message: Qui non si riesce a vendere nemmeno un asciugacapelli. Uno dei miei
+    colleghi sta già esaminando altri sbocchi commerciali. Se continua così,
+    proverò su un'altra isola.

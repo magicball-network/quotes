@@ -1,4 +1,18 @@
+textId: 207
 location:
 speaker:
 message: I don't know her, but go see Wadbull over at the bazaar. And be
   careful... normally it is forbidden to talk about that!
+fr:
+  message: Moi je ne la connais pas, mais allez voir Wadbull au bazar. Et faites
+    attention, normalement il est interdit d'en parler !
+de:
+  message:
+    Ich kenne sie nicht, aber gehen Sie mal zu Wadbull im Bazar. Und seien
+    Sie vorsichtig, normalerweise ist es verboten davon zu sprechen !
+es:
+  message: Yo no la conozco, pero vaya a ver a Wadbull en el bazar. Y ¡tenga
+    cuidado!, normalmente está prohibido hablar de eso.
+it:
+  message: Io non la conosco, ma vada da Wabdull, al bazaar. E stia attento, è
+    vietato parlarne!

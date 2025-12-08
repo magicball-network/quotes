@@ -1,3 +1,17 @@
+textId: 108
 location:
 speaker:
 message: Red Magnetic Card. It will allow you to open the doors with a red lock.
+fr:
+  message: Carte Magnétique Rouge. Elle te permet d'ouvrir les portes équipées
+    d'une serrure rouge.
+de:
+  message: Rote Magnetkarte. Sie ermöglicht die Türen zu öffnen, die mit einem
+    roten Schloß versehen sind.
+es:
+  message:
+    Tarjeta Magnética Roja. Te permite abrir las puertas con una cerradura
+    magnética roja.
+it:
+  message: Carta Magnetica Rossa. Ti permette di aprire le porte dotate di
+    serratura rossa.

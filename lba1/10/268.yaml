@@ -1,4 +1,20 @@
+textId: 285
 location:
 speaker:
 message: One day, one of my swabs claimed that LeBorgne was an ancestor of mine
   and... well, you know how dramatic burials at sea can be!
+fr:
+  message:
+    Un jour, l'un de mes matelots a prétendu que LeBorgne était mon ancêtre
+    et ... enfin bref ! C'est très émouvant des funérailles en mer !
+de:
+  message: Eines Tages hat einer meiner Matrosen behauptet, daß EinAuge ein
+    Vorfahre von mir wäre, und ... nun gut ! Eine Seebestattung ist sehr
+    ergreifend !
+es:
+  message: Un día uno de mis marineros pretendió que ElTuerto era mi antepasado,
+    y... ¡en fin! Son muy emocionantes los funerales en el mar!
+it:
+  message:
+    Un giorno uno dei miei marinai mi ha raccontato che il Guercio era mio
+    parente... insomma... i funerali in mare sono molto commoventi!

@@ -1,3 +1,12 @@
+textId: 179
 location:
 speaker:
 message: Good day, I'm looking for a friend. She is escorted by two groboclones.
+fr:
+  message: Bonjour, je cherche une amie elle est escortée de deux groboclones.
+de:
+  message: Guten Tag, ich suche eine Freundin, sie wird von zwei Dickoklonen eskortiert.
+es:
+  message: Buenos días, busco a una amiga, va escoltada por dos elefoclones.
+it:
+  message: Buongiorno, cerco un'amica; è scortata da due grobocloni.

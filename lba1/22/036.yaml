@@ -1,3 +1,12 @@
+textId: 42
 location:
 speaker:
 message: The mutant factory.
+fr:
+  message: L'usine de mutants.
+de:
+  message: Die Mutantenfabrik.
+es:
+  message: La fábrica de los mutantes.
+it:
+  message: La fabbrica di mutanti.

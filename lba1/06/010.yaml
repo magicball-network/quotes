@@ -1,4 +1,19 @@
+textId: 9
 location:
 speaker:
 message: With this card you are the fourth member of the Elves club. Anyway, its
   your own business!
+fr:
+  message: Grâce à cette carte tu es le 4ème membre du club des Lutins. Après,
+    tout ça te regarde !
+de:
+  message:
+    Dank dieser Karte bist Du das vierte Mitglied des Klubs der Kobolde. Im
+    Grunde genommen ist das allein Deine Sache !
+es:
+  message:
+    Gracias a esta tarjeta eres el cuarto miembro del Club de los Duendes.
+    ¡Ahora depende de tí!
+it:
+  message: Grazie a questa carta diventi il quarto membro del club dei Folletti.
+    Dopo tutto, questo ti riguarda personalmente!

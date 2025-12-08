@@ -1,3 +1,12 @@
+textId: 216
 location:
 speaker:
 message: Try at the museum.
+fr:
+  message: Voyez au musée.
+de:
+  message: Versuchen Sie es mal im Museum.
+es:
+  message: Vea en el Museo.
+it:
+  message: Al museo.

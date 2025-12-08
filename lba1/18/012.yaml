@@ -1,5 +1,22 @@
+textId: 11
 location:
 speaker:
 message: "Use the flag: attach it to your boat and you will be able to dock on
   Rebellion island. You will certainly be able to help us cross the Hamalayi
   mountains."
+fr:
+  message:
+    "Utilise le drapeau : accroche-le sur ton bateau et tu pourras aborder
+    sur l'île de la Rébellion. Tu peux sans doute nous être utile pour franchir
+    l'Hamalayi."
+de:
+  message: "Benutz die Flagge : hiß Sie auf Deinem Boot und Du wirst auf der
+    Rebellion-Insel an Land gehen können. Du kannst uns sicher nützlich sein um
+    über den Hamalayi zu steigen."
+es:
+  message:
+    "Utiliza la bandera: ízala en tu barco y podrás bajar en la isla de la
+    Rebelión. Sin duda nos puedes ser útil para franquear el Hamalayi."
+it:
+  message: "Issa la bandiera all'albero della tua nave: così potrai avvicinarti
+    all'isola della Ribellione. Forse ci sarai utile per valicare l'Hamalayi."

@@ -1,3 +1,12 @@
+textId: 31
 location:
 speaker:
 message: I don't know.
+fr:
+  message: Je ne sais pas.
+de:
+  message: Weiß ich nicht.
+es:
+  message: No lo sé.
+it:
+  message: Non so.

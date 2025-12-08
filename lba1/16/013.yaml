@@ -1,4 +1,17 @@
+textId: 13
 location:
 speaker:
 message: Go see Grap first if you want to drive. He's a rabbibunny and he's down
   in the trench.
+fr:
+  message: Va d'abord parler à Grap si tu veux prendre le volant. C'est un
+    lapichon, il est dans la tranchée.
+de:
+  message: Sprich zuerst mit Grap, wenn Du ans Steuer willst. Das ist ein Haasi,
+    er ist im Schützengraben.
+es:
+  message:
+    Ve primero a hablar con Grap si quieres conducir. Es un conejuno, está
+    en la trinchera.
+it:
+  message: Prima vai a parlare a Grap. E' un lapinoide, adesso è giù nella trincea.

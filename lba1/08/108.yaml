@@ -1,3 +1,12 @@
+textId: 114
 location:
 speaker:
 message: Hey buddy!
+fr:
+  message: Salut mon gars !
+de:
+  message: Hallo Sportsfreund !
+es:
+  message: ¡Hola amigo!
+it:
+  message: Ciao, ragazzo mio!

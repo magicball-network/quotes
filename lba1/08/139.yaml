@@ -1,3 +1,12 @@
+textId: 145
 location:
 speaker:
 message: Sorry, I haven't seen her!
+fr:
+  message: Désolé, je ne l'ai pas vue !
+de:
+  message: Tut mir leid, ich habe sie nicht gesehen !
+es:
+  message: ¡Lo siento, no la he visto!
+it:
+  message: Spiacente, non l'ho vista!

@@ -1,3 +1,14 @@
+textId: 84
 location:
 speaker:
 message: You are not going to get away by evoking that subversive propaganda.
+fr:
+  message: Vous ne vous en tirerez pas en évoquant cette propagande subversive.
+de:
+  message:
+    Sie werden sich nicht aus der Affäre ziehen, indem Sie diese subversive
+    Propaganda verbreiten.
+es:
+  message: No se salvará evocando esa propaganda subversiva.
+it:
+  message: Non ne uscirà accennando a questa propaganda sovversiva.

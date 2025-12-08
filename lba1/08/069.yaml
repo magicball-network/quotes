@@ -1,3 +1,12 @@
+textId: 75
 location:
 speaker:
 message: I don't know anything about it, and it is forbidden to talk about it!
+fr:
+  message: Je n'y connais rien et de plus il est interdit d'en parler.
+de:
+  message: Davon verstehe ich nichts, außerdem ist es verboten davon zu sprechen.
+es:
+  message: No sé nada de eso y además está prohibido hablar de ello.
+it:
+  message: Non ne so niente, e poi è vietato parlarne.

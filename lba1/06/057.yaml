@@ -1,4 +1,18 @@
+textId: 127
 location:
 speaker:
 message: "Lucky Clover Leaf (ENTER) key: using this clover leaf will use up one
   of your chances to revitalise yourself to a maximum."
+fr:
+  message: "Trèfle Porte-Bonheur Touche (ENTREE) : en utilisant ce trèfle, tu
+    emploies une de tes chances pour te recharger au maximum."
+de:
+  message: "Glückskleeblatt (ENTER) Taste : benutzt Du dieses Kleeblatt,
+    gebrauchst Du eine Deiner Chancen um Dich maximal aufzuladen."
+es:
+  message:
+    "Amuleto Trébol: Tecla (ENTRAR), utilizando este trébol, empleas una de
+    tus posibilidades de recargarte al máximo."
+it:
+  message: "Trifoglio portafortuna Tasto (INVIO) : utilizzando questo trifoglio,
+    consumi man mano le possibilità di ricaricarti al massimo."

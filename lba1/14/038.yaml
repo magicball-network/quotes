@@ -1,3 +1,12 @@
+textId: 37
 location:
 speaker:
 message: Ah! Ok. Then you might need this.
+fr:
+  message: Ah ! O.K. Alors tu peux avoir besoin de ça.
+de:
+  message: Ha ! O.K. Also kannst Du das vielleicht gebrauchen.
+es:
+  message: ¡Ah! Entonces puede que necesites esto.
+it:
+  message: Ah ! O.K. Allora forse questa ti servirà.

@@ -1,3 +1,12 @@
+textId: 1
 location:
 speaker:
 message: You need me to get into the fort. Wait there!
+fr:
+  message: Tu as besoin de moi pour accéder au fortin. Attends-moi !
+de:
+  message: Du brauchst mich um zum Fort zu gelangen. Warte auf mich !
+es:
+  message: ¡Necesitas de mí para acceder al fortín. Espérame!
+it:
+  message: Hai bisogno di me per accedere al fortino. Aspettami!

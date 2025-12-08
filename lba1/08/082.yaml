@@ -1,3 +1,14 @@
+textId: 88
 location:
 speaker:
 message: Well, I don't know anything about it. But you could offer me a drink anyway?
+fr:
+  message: Ah je n'y connais rien. Mais tu peux quand même me payer à boire.
+de:
+  message:
+    Ach, davon verstehe ich nichts. Du kannst mir aber trotzdem einen Drink
+    spendieren.
+es:
+  message: Yo no sé nada. Pero de todos modos me puedes pagar un trago.
+it:
+  message: Ah, non ne so niente. Comunque puoi sempre offrirmi da bere.

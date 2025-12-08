@@ -1,3 +1,12 @@
+textId: 48
 location:
 speaker:
 message: I'm not going to leave just yet.
+fr:
+  message: Je ne pars pas tout de suite.
+de:
+  message: Ich möchte nicht sofort los.
+es:
+  message: No parto inmediatamente.
+it:
+  message: Non parto subito.

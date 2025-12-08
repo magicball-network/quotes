@@ -1,4 +1,21 @@
+textId: 118
 location:
 speaker:
 message: Space Guitar. It was found in the middle of an asteroid that landed in
   the White Leaf Desert. It brought new harmonics to Twinsun.
+fr:
+  message:
+    Guitare de l'Espace. Retrouvée au milieu d'un astéroïde qui s'écrasa au
+    large du Désert de la Feuille Blanche, elle apporta de nouvelles harmoniques
+    sur Twinsun.
+de:
+  message: Gitarre aus dem All. Mitten in einem Asteroïden gefunden, der in der
+    Wüste des Leeren Blattes einschlug, sie hat neue Harmonien auf Twinsun
+    gebracht.
+es:
+  message: Guitarra del Espacio. Encontrada en medio de un asteroide que se
+    estrelló en el Desierto de la Hoja Blanca, le aporta a Twinsun nuevas
+    armonías.
+it:
+  message: Chitarra dello Spazio. Rinvenuta nel nucleo di un asteroide che si
+    abbatté sul Deserto della Foglia Bianca, portò notizie armoniose su Twinsun.

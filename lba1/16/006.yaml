@@ -1,6 +1,27 @@
+textId: 5
 location:
 speaker:
 message: |-
   " Welcome to... AAARRGHH !
 
-  ... glb "
+   ... glb "
+fr:
+  message: |-
+    " Bienvenue à ... AAARRGHH !
+
+     ... glb "
+de:
+  message: |-
+    " Willkommen in ... AAARRGHH !
+
+     ... glb "
+es:
+  message: |-
+    "Bienvenido à ... AAARRGHH!
+
+    ... glb"
+it:
+  message: |-
+    "Benvenuti a... AAARRGHH !
+
+     ... glb "

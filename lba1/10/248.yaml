@@ -1,4 +1,19 @@
+textId: 265
 location:
 speaker:
 message: Well, well, what do we have here? A snooper? Twinsen I presume. I would
   like to know what you're doing here.
+fr:
+  message: Tiens, tiens, un petit fouinard ! Twinsen je suppose ? Je serais
+    curieux de savoir ce que tu es venu faire ici.
+de:
+  message:
+    Sieh an, ein kleiner Schnüffler ! Twinsen, stimmt's ? Ich möchte gerne
+    wissen was Du hier machst.
+es:
+  message:
+    ¡Mira, mira, un buen rastreador! ¿Twinsen supongo? tengo curiosidad por
+    saber lo que has venido a hacer aquí.
+it:
+  message: Guarda guarda, un piccolo ficcanaso! Twinsen, suppongo. Vorrei sapere
+    cosa sei venuto a fare qui.

@@ -1,3 +1,12 @@
+textId: 202
 location:
 speaker:
 message: White Leaf Desert
+fr:
+  message: Désert de la Feuille Blanche
+de:
+  message: Wüste des Leeren Blattes
+es:
+  message: Desierto de la Hoja Blanca
+it:
+  message: Deserto della Foglia bianca

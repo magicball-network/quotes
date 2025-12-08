@@ -1,3 +1,4 @@
+textId: 0
 location:
 speaker:
 message: >-
@@ -7,3 +8,39 @@ message: >-
   I suppose that you have come here to find the 3rd Runic Stone. I already found
   it a long time ago, but it took some time to decipher it. And as soon as I
   knew the location of the Well of Sendell, I began the foraging work.
+fr:
+  message: >-
+    Enfin je te tiens ! Je vois que tu as apprécié le clone que j'ai fait de ton
+    amie, l'original est en sécurité.
+
+    Je suppose que tu es venu ici pour trouver la 3ème Pierre Runique. Je l'ai
+    découverte il y a déjà longtemps, mais il m'a fallu du temps pour la
+    déchiffrer. Et dès que j'ai connu l'emplacement du Puits de Sendell, j'ai
+    lancé des travaux de forage.
+de:
+  message: >-
+    Endlich hab' ich Dich ! Wie ich sehe, hat Dir der Klon, den ich von Deiner
+    Freundin gemacht habe, gefallen; das Original ist in Sicherheit.
+
+    Ich nehme an, daß Du hergekommen bist um den dritten Runenstein zu finden.
+    Ich habe ihn schon vor langer Zeit gefunden, aber ich habe einige Zeit
+    gebraucht um ihn zu entziffern. Und sobald ich den Standort von Sendells
+    Brunnen erfahren habe, habe ich Bohrarbeiten gestartet.
+es:
+  message: >-
+    ¡Por fin, te tengo! Veo que has apreciado el clon que he hecho de tu amiga,
+    el original está en lugar seguro.
+
+    Supongo que has venido aquí para encontrar la tercera Piedra Rúnica. Yo la
+    he descubierto hace ya mucho, pero he necesitado tiempo para descifrarla. Y
+    desde que conocí el emplazamiento del Pozo de Sendell, he iniciado obras de
+    fortificación.
+it:
+  message: >-
+    Finalmente ti ho catturato! Vedo che hai apprezzato il clone della tua
+    amica, l'originale è ben custodito.
+
+    Suppongo che tu sia qui per trovare la Terza Pietra Runica. L'ho scoperta
+    già da molto, ma mi ci è voluto tanto tempo per decifrarla. E da quando ho
+    scoperto la posizione del Pozzo di Sendell, ho avviato lavori di
+    trivellazione.

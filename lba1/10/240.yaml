@@ -1,4 +1,19 @@
+textId: 257
 location:
 speaker:
 message: She's not being held here. But if you want my red card, go and see my
   brother. Our house's location is marked on your holomap.
+fr:
+  message: Elle n'est pas enfermée ici. Mais si tu veux une carte rouge, va voir
+    mon frêre. Notre maison est indiquée sur ton holomap.
+de:
+  message:
+    Sie ist hier nicht eingesperrt. Aber wenn Du eine rote Karte möchtest,
+    geh' zu meinem Bruder. Unser Haus ist auf Deinem Holomap angegeben.
+es:
+  message:
+    No está encerrada aquí, pero si quieres una tarjeta roja, anda a buscar
+    a mi hermano. Nuestra casa está indicada en tu Holomapa.
+it:
+  message: Non è detenuta qui. Ma se vuoi una carta rossa, va' da mio fratello.
+    Casa nostra è indicata sulla tua holomap.

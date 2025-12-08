@@ -1,5 +1,23 @@
+textId: 4
 location:
 speaker:
 message: At last, you took your time, my love. I'm not escorted by two
   groboclones, but I promise that it's really me. Go find Sendell and then we'll
   go home.
+fr:
+  message:
+    Enfin, tu en as mis du temps mon amour. Je ne suis pas escortée de deux
+    groboclones, mais je te jure que c'est moi. Va trouver Sendell puis
+    rentrons.
+de:
+  message:
+    Na endlich, das hat ja eine Ewigkeit gedauert mein Liebling. Ich werde
+    zwar nicht von zwei Dickoklonen eskortiert, aber ich schwöre Dir daß ich es
+    bin. Suche Sendell auf, und dann kehren wir zurück.
+es:
+  message: Por fin, tardaste tanto, amor mío. No estoy escoltada por dos
+    elefoclones, pero te juro que soy yo. Ve a buscar a Sendell y luego
+    regresemos.
+it:
+  message: Ce ne hai messo di tempo, amore! Non sono scortata da due grobocloni,
+    ma ti giuro, sono io! Vai da Sendell, e poi torniamo a casa.

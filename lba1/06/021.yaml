@@ -1,3 +1,14 @@
+textId: 20
 location:
 speaker:
 message: You've just found the key lost by your ancestor Hégésippe.
+fr:
+  message: Tu viens de retrouver la clef perdue par ton ancêtre Hégésippe.
+de:
+  message:
+    Du hast soeben den von Deinem Vorfahren Hégésippe verlorenen Schlüssel
+    wiedergefunden.
+es:
+  message: Acabas de encontrar la llave perdida por tu antepasado Hegésipo.
+it:
+  message: Hai appena ritrovato la chiave persa dal tuo avo Egesippo.

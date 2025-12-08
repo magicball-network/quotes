@@ -1,5 +1,24 @@
+textId: 43
 location:
 speaker:
 message: Hmmmmm, cherry flavor, not bad... but I would have preferred carrot.
   But anyway, as promised, I will show you where the documents about the
   "Legend" are.
+fr:
+  message:
+    Mmmh parfum cerise, pas mal ... mais j'aurais préféré carotte. Ce n'est
+    pas grave, comme convenu je vous conduis aux documents sur cette " Légende
+    ".
+de:
+  message: Mmmh Kirschgeschmack, nicht übel ... aber Karottengeschmack wäre mir
+    lieber gewesen. Macht nichts, ich führe Sie wie abgemacht zu den Dokumenten
+    über diese " Legende ".
+es:
+  message: Mmmh sabor a cereza, no está mal... pero hubiera preferido zanahoria.
+    No es grave, como convenimos, voy a conducirlo a los documentos sobre esa
+    "Leyenda".
+it:
+  message:
+    Mmmh, buono l'aroma di ciliegia, ma avrei preferito la carota... ma non
+    è importante; come stabilito, le mostrerò i documenti che parlano della
+    "Leggenda".

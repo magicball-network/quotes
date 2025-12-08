@@ -1,3 +1,12 @@
+textId: 68
 location:
 speaker:
 message: Shut up stupid, it is forbidden to talk about it!
+fr:
+  message: Taisez-vous malheureux, il est interdit d'en parler !
+de:
+  message: Seien Sie still Unseliger, es ist verboten davon zu sprechen !
+es:
+  message: ¡Cállese infortunado, está prohibido hablar de eso!
+it:
+  message: Stia zitto, idiota, è vietato parlarne!

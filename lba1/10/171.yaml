@@ -1,4 +1,18 @@
+textId: 183
 location:
 speaker:
 message: Look, you seem like a nice guy, but you're a big boy now. Figure it out
   for yourself, I'm not a library!
+fr:
+  message: Ecoute, tu m'es très sympathique, mais tu es grand maintenant.
+    Débrouille-toi tout seul, je suis pas une bibliothèque moi !
+de:
+  message: Hör zu, Du bist mir zwar sehr sympathisch, aber Du bist jetzt groß
+    genug. Sieh zu wie Du allein zurecht kommst, ich bin doch keine Bibliothek !
+es:
+  message:
+    Escucha, me eres muy simpático, pero ya eres mayorcito. Arréglatelas tú
+    sólo. ¡Yo no soy una biblioteca!
+it:
+  message: Senti, mi sei molto simpatico, ma adesso sei cresciuto. Arrangiati da
+    solo, non sono mica una biblioteca, io!

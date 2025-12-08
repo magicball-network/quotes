@@ -1,3 +1,12 @@
+textId: 151
 location:
 speaker:
 message: Good day!
+fr:
+  message: Bonjour !
+de:
+  message: Guten Tag !
+es:
+  message: ¡Buenos días!
+it:
+  message: Buongiorno!

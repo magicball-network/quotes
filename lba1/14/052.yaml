@@ -1,4 +1,17 @@
+textId: 52
 location:
 speaker:
 message: '" Skull flag. Pirate emblem belonging to the famous pirate Captain
   LeBorgne. "'
+fr:
+  message: '" Pavillon à tête de mort. Emblème pirate ayant appartenu au célèbre
+    Capitaine LeBorgne. "'
+de:
+  message: '" Totenkopfflagge. Piratenemblem das dem berühmten Kapitän EinAuge
+    gehörte. "'
+es:
+  message: '"Bandera con una calavera. Emblema pirata que ha pertenecido al
+    célebre Capitán El Tuerto."'
+it:
+  message: '"Bandiera con teschio. Emblema piratesco appartenuto al celebre
+    Capitano Guercio. "'

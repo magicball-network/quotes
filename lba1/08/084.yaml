@@ -1,3 +1,4 @@
+textId: 90
 location:
 speaker:
 message: '" You who read this text, know that there are 3 Runic Stones in this
@@ -6,3 +7,32 @@ message: '" You who read this text, know that there are 3 Runic Stones in this
   for Sendell. The third stone will show the exact location of the Well of
   Sendell. In addition to the help provided by the text, each stone conceals a
   secret."'
+fr:
+  message: '" Toi qui lis ce texte, sache que 3 Pierres Runiques existent en ce
+    monde. Leurs emplacements sont maintenant indiqués sur ton Holomap. Ce sont
+    de grandes pierres levées, sur lesquelles sont inscrits des textes en runes
+    devant aider l''Héritier dans sa quête de Sendell. La 3ème pierre indiquant
+    l''emplacement exact du Puits de Sendell. En plus de l''aide donnée par ces
+    textes, chaque pierre recèle un secret. "'
+de:
+  message:
+    '" Du der Du diese Zeilen liest, Du sollst wissen, daß es 3 Runensteine
+    auf dieser Welt gibt. Deren Standorte werden nun auf Deinem Holomap
+    angegeben. Es sind große aufrechtstehende Steine auf denen Runenschriften
+    eingemeißelt sind, die dem Erben auf seiner Suche nach Sendell hilfreich
+    sein sollen. Der dritte Stein gibt den genauen Standort von Sendells Brunnen
+    an. Außer der hilfreichen Auskünfte, birgt jeder Stein ein Geheimnis. "'
+es:
+  message: '"Tú que estás leyendo este texto, tienes que saber que existen 3
+    Piedras Rúnicas en este mundo. Sus emplazamientos están ahora indicados en
+    tu Holomapa. Son grandes piedras levantadas en las cuales están inscritos
+    textos en runas que deben ayudar al Heredero en su búsqueda de Sendell. La
+    3ra piedra indica el emplazamiento exacto del Pozo de Sendell. Además de la
+    ayuda que dan estos textos, cada piedra encierra un secreto"'
+it:
+  message: '"Tu che leggi questo testo, sappi che in questo mondo esistono tre
+    Pietre runiche. Le loro posizioni sono ora segnate sulla tua Holomap. Si
+    tratta di grandi menhir su cui sono iscritti testi runici che dovranno
+    aiutare l''Erede nella sua ricerca di Sendell. La terza pietra indica
+    l''esatta posizione del Pozzo di Sendell. Oltre al testo, ogni pietra
+    nasconde un segreto."'

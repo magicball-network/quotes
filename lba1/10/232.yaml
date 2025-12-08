@@ -1,3 +1,12 @@
+textId: 249
 location:
 speaker:
 message: I doubt that she is being held here.
+fr:
+  message: Ca m'étonnerait qu'elle soit enfermée ici.
+de:
+  message: Würde mich wundern, daß sie hier eingesperrt ist.
+es:
+  message: Me asombraría que estuviese encerrada aquí.
+it:
+  message: Mi stupirebbe se fosse prigioniera qui.

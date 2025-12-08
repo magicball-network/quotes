@@ -1,4 +1,20 @@
+textId: 33
 location:
 speaker:
 message: Here you can't just talk to just anybody. Prove that you are not
   working for FunFrock. Go clobber a clone for starters!
+fr:
+  message: On ne parle pas à n'importe qui ici. Prouve-nous que tu n'es pas au
+    service de FunFrock. Je ne sais pas moi, assomme un clone !
+de:
+  message:
+    Man spricht hier nicht mit irgendjemanden. Beweise uns, daß Du nicht im
+    Dienst des FunFrock stehst. Ich weiß nicht, schlag einen Klon nieder !
+es:
+  message:
+    Aquí no se le habla a cualquiera. Pruébanos que no estás al servicio de
+    FunFrock. No sé, por ejemplo, ¡Golpea a un clon!
+it:
+  message:
+    Non si rivolge la parola agli estranei. Provaci che non sei al servizio
+    di FunFrock. Infastidisci un clone, ad esempio.

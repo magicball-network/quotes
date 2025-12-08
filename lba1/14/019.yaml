@@ -1,3 +1,12 @@
+textId: 18
 location:
 speaker:
 message: '" Boarding cannon. "'
+fr:
+  message: '" Canon d''abordage. "'
+de:
+  message: '" Enterkanone. "'
+es:
+  message: '"Cañón de abordaje."'
+it:
+  message: '"Cannone d''abbordaggio. "'

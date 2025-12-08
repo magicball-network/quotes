@@ -1,3 +1,12 @@
+textId: 33
 location:
 speaker:
 message: '" GIZMO "'
+fr:
+  message: '" GIZMO "'
+de:
+  message: '" GIZMO "'
+es:
+  message: '"GIZMO"'
+it:
+  message: '" GIZMO "'

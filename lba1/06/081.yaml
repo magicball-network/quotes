@@ -1,5 +1,22 @@
+textId: 216
 location:
 speaker:
 message: |-
   Dr FunFrock's headquarters
   (Principal island)
+fr:
+  message: |-
+    Quartier Général du Dr FunFrock
+    (Ile Principale)
+de:
+  message: |-
+    Hauptquartier des Dr FunFrock
+    (Hauptinsel)
+es:
+  message: |-
+    Cuartel General del Dr. FunFrock
+    (Isla Principal)
+it:
+  message: |-
+    Quartier Generale del Dottor FunFrock
+    (Isola Principale)

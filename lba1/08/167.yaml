@@ -1,3 +1,12 @@
+textId: 174
 location:
 speaker:
 message: Never heard anything about it!
+fr:
+  message: Jamais entendu parler !
+de:
+  message: Nie davon gehört !
+es:
+  message: ¡Jamás he escuchado hablar de eso!
+it:
+  message: Mai sentito parlarne!

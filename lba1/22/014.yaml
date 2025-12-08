@@ -1,5 +1,22 @@
+textId: 14
 location:
 speaker:
 message: |-
   " L.B.A.
   Funky-Town sewer service "
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts de Funky-Town "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst von Funky-Town "
+es:
+  message: |-
+    "L.B.A.
+    Servicio de alcantarillado de Funky-Town"
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario di Funky-Town "

@@ -1,3 +1,12 @@
+textId: 168
 location:
 speaker:
 message: Ask a sailor that type of question.
+fr:
+  message: Demandez à un marin pour ce genre d'histoire.
+de:
+  message: Mit solchen Geschichten gehen Sie besser zu einem Seemann.
+es:
+  message: Pregúntele a un marino por esa historia.
+it:
+  message: Chieda a un marinaio, saprà sicuramente questo tipo di storie.

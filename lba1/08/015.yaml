@@ -1,5 +1,19 @@
+textId: 15
 location:
 speaker:
 message: Hi! What are you doing there? Did you know that you can read the
   posters? All you have to do is move in front of one and use the ACTION command
   while in normal mode.
+fr:
+  message: Salut ! Qu'est-ce que tu fais là ? Sais-tu que tu peux lire les
+    affiches ? Il faut se placer devant et faire ACTION en mode normal.
+de:
+  message:
+    Hallo ! Was machst Du da ? Weist Du, daß Du die Plakate lesen kannst ?
+    Man muß sich davor stellen und ACTION im Normalmodus aktivieren.
+es:
+  message: ¡Hola! ¿Qué haces ahí? ¿Sabes que puedes leer los carteles? Hay que
+    colocarse delante y pulsar ACCION en modo normal.
+it:
+  message: Ciao! Cosa fai qui? Sai che è possibile leggere i cartelli? Bisogna
+    mettersi davanti al cartello e AGIRE in modo normale.

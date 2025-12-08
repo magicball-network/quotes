@@ -1,4 +1,15 @@
+textId: 86
 location:
 speaker:
 message: I don't know anything about it, but the tavern will soon be closed
   down. That's been confirmed!
+fr:
+  message: Je n'y connais rien, mais la taverne sera bientôt bouclée. C'est confirmé !
+de:
+  message:
+    Davon verstehe ich nichts, aber die Taverne wird bald geschlossen. Das
+    steht fest !
+es:
+  message: No sé nada, pero la taberna estará pronto cerrada. ¡Seguro!
+it:
+  message: Non ne so niente, ma presto la taverna verrà chiusa. E' confermato!

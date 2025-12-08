@@ -1,3 +1,14 @@
+textId: 131
 location:
 speaker:
 message: It tastes EXACTLY the same as before. I won't guide you through the library.
+fr:
+  message: Le goût est EXACTEMENT le même qu'avant. Je ne vous mène pas à l'enfer.
+de:
+  message:
+    Der Geschmack ist GENAU der gleiche wie vorhin. Ich führe Sie nicht zum
+    Geheimarchiv.
+es:
+  message: El sabor es EXACTAMENTE el mismo que antes. Ya no lo llevo al infierno.
+it:
+  message: Il gusto è IDENTICO a quello di prima. Non le aprirò l'enfer.

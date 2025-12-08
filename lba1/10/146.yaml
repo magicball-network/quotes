@@ -1,5 +1,24 @@
+textId: 158
 location:
 speaker:
 message: Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere
   a few hundred years ago. My fisherman friend told me that the Bazaar is
   selling an object that belonged to LeBorgne.
+fr:
+  message:
+    Mmmh ! Fameuse crapule ce Leborgne, il a écumé tout l'hémisphère il y a
+    quelques siècles. Je sais par notre ami le pêcheur qu'il y aurait au bazar
+    un objet ayant appartenu à LeBorgne.
+de:
+  message: Hmmm ! Ein berüchtigter Schurke dieser EinAuge, vor ein paar
+    Jahrhunderten hat er die gesamte Halbkugel ausgebeutet. Ich weiß von unserem
+    Freund dem Fischer, daß es anscheinend auf dem Bazar einen Gegenstand gibt,
+    der EinAuge gehörte.
+es:
+  message: Mmmh! Esa famosa rata del pirata El Tuerto saqueó todo el hemisferio
+    hace unos siglos. Yo sé, por nuestro amigo el pescador, que en el bazar
+    debería haber un objeto que perteneció al famoso El Tuerto.
+it:
+  message: Mmmh! Famoso mascalzone questo Guercio, qualche secolo fa ha compiuto
+    scorrerie in tutti i mari di questo emisfero. Il mio amico pescatore mi ha
+    raccontato che al bazaar dovrebbe esserci un oggetto appartenuto al Guercio.

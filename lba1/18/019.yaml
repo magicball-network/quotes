@@ -1,3 +1,12 @@
+textId: 19
 location:
 speaker:
 message: No more gas.
+fr:
+  message: Plus de carburant.
+de:
+  message: Kein Kraftstoff mehr.
+es:
+  message: Nos quedamos sin combustible
+it:
+  message: Carburante esaurito.

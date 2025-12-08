@@ -1,3 +1,15 @@
+textId: 17
 location:
 speaker:
 message: Good day. You need a boarding ticket to go to Citadel Island.
+fr:
+  message: Bonjour. Pour aller sur l'île de la Citadelle il faut un ticket
+    d'embarquement.
+de:
+  message: Guten Tag. Sie brauchen einen Fahrschein für die Zitadelleninsel.
+es:
+  message: Buenos días. Para ir a la isla de la Ciudadela se necesita un billete
+    de embarque.
+it:
+  message: Buongiorno. Per andare all'Isola della Cittadella deve acquistare un
+    biglietto d'imbarco.

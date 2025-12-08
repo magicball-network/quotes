@@ -1,4 +1,18 @@
+textId: 189
 location:
 speaker:
 message: '" For reasons of security, this sewer grate will open only from inside
   the Maritime Museum. "'
+fr:
+  message: '" Par mesure de sécurité cette grille d''égout ne s''ouvre que de
+    l''intérieur du Musée de la Marine. "'
+de:
+  message: '" Aus Sicherheitsgründen läßt sich dieser Gullideckel nur von innen
+    des Marinemuseums öffnen. "'
+es:
+  message: '"Por medida de seguridad esta rejilla de alcantarilla no se abre mas
+    que desde el interior del Museo de la Marina."'
+it:
+  message:
+    '"Per motivi di sicurezza questa griglia si apre solo dall''interno del
+    Museo della Marina. "'

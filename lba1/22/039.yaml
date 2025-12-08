@@ -1,5 +1,24 @@
+textId: 45
 location:
 speaker:
 message: It is located on Brundle island, from there FunFrock's cohorts control
   all the planet's teleportations! The entrance is guarded but they will let you
   in if you act like one of them.
+fr:
+  message:
+    Il est situé sur l'île Brundle, de là les sbires de FunFrock contrôlent
+    toutes les téléportations de la planète ! L'entrée est filtrée, mais l'on
+    t'ouvrira sans problème si tu montres patte blanche.
+de:
+  message: Es befindet sich auf der Insel, von dort aus überwachen FunFrocks
+    Schergen jedes Biemen auf dem Planeten ! Der Durchlaß wird streng
+    kontrolliert, aber man wird Dir ohne weiteres öffnen, wenn Du Dich ausweist.
+es:
+  message: Está situado en la isla de Brundle, ¡Desde allí los polizontes de
+    FunFrock controlan todas las teleportaciones del planeta! La entrada está
+    vigilada pero te abrirán sin problemas si vistes de bata blanca.
+it:
+  message:
+    Si trova sull'Isola Brundle, dove gli scagnozzi di FunFrock controllano
+    tutti i teletrasporti del pianeta. L'ingresso è controllato, ma ti apriranno
+    se gli mostrerai il segno di riconoscimento.

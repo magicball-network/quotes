@@ -1,4 +1,16 @@
+textId: 10
 location:
 speaker:
 message: You've returned at last, my love! Come inside quickly - all the clones
   must be looking for you.
+fr:
+  message: Ah, enfin te voilà mon amour ! Viens à l'intérieur, tous les clones
+    doivent être à ta recherche.
+de:
+  message: Ach, endlich bist Du da mein Liebling ! Komm herein, sicher sind alle
+    Klone auf Deiner Suche.
+es:
+  message: ¡Ah, por fin te encuentro mi amor! Ven dentro, todos los clones deben
+    estar buscándote.
+it:
+  message: Ah, finalmente, amore mio! Entra, presto, tutti i cloni ti staranno cercando.

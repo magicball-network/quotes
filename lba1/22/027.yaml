@@ -1,4 +1,20 @@
+textId: 33
 location:
 speaker:
 message: Ha ha, I was the watchman on the construction site of the Teleportation
   Center. So for 50 Kashes I can tell you EXACTLY where those plans are.
+fr:
+  message:
+    Hé hé, j'étais vigile sur le chantier du Centre de Téléportation. Alors
+    pour 50 Kashes je peux te dire EXACTEMENT où sont ces plans.
+de:
+  message:
+    He he, ich war Wachmann auf der Baustelle des Biemzentrums. Also für 50
+    Kashes kann ich Dir GENAU sagen wo diese Pläne sind.
+es:
+  message:
+    Je je, he sido centinela en la obra del Centro de Teleportación. Ahora
+    por 50 Kashes te puedo decir EXACTAMENTE dónde están esos planos.
+it:
+  message: Eh eh, io sorvegliavo il cantiere del Centro di Teletrasporto; per 50
+    Kash posso dirti ESATTAMENTE dove sono le mappe.

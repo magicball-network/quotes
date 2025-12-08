@@ -1,3 +1,18 @@
+textId: 13
 location:
 speaker:
 message: '" Dr FunFrock''s secret Fortress. You shouldn''t even be reading that! "'
+fr:
+  message:
+    '" Forteresse secrète du Dr FunFrock. Vous ne devriez même pas être en
+    train de lire ceci ! "'
+de:
+  message:
+    '" Geheime Festung des Dr FunFrock. Sie dürften eigentlich nicht dieses
+    Schild lesen ! "'
+es:
+  message: '"Fortaleza secreta del Dr. FunFrock. No debería ni siquiera estar
+    leyendo esto!"'
+it:
+  message: '"Fortezza segreta del Dottor FunFrock. Come fate a leggere il
+    cartello, a proposito, se è segreta?"'

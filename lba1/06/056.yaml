@@ -1,3 +1,12 @@
+textId: 126
 location:
 speaker:
 message: "Bonuses List: (ENTER) key to read it."
+fr:
+  message: "Liste de bonus : Touche (ENTREE) pour la lire."
+de:
+  message: "Boni-liste : (ENTER) Taste um sie zu lesen."
+es:
+  message: "Lista de bonos: Tecla (ENTRAR) para leerla."
+it:
+  message: "Liste di bonus : Tasto (INVIO) per leggerla."

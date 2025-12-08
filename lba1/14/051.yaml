@@ -1,4 +1,18 @@
+textId: 51
 location:
 speaker:
 message: '" Our heroic clone troops are responding to the rising rebel threat
   with a series of bombardments. "'
+fr:
+  message: '" Faces aux recrudescences de la menace rebelle, nouveaux
+    bombardements de nos valeureureuses troupes clonées. "'
+de:
+  message: '" Angesichts der wieder auflebenden Bedrohung durch die Rebellen,
+    erneute Bombardements durch unsere tapferen Klontruppen. "'
+es:
+  message:
+    '"Frente a las recrudecencias de la amenaza rebelde, nuevos bombardeos
+    de nuestras valerosas tropas clonas."'
+it:
+  message: '"Vista la recrudescenza della minaccia ribelle, nuovi bombardamenti
+    delle nostre valorose truppe di cloni. "'

@@ -1,3 +1,12 @@
+textId: 94
 location:
 speaker:
 message: I'm fixing the antennas.
+fr:
+  message: Je répare les antennes.
+de:
+  message: Ich repariere die Antennen.
+es:
+  message: Reparo antenas.
+it:
+  message: Riparo le antenne.

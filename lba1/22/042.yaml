@@ -1,3 +1,12 @@
+textId: 48
 location:
 speaker:
 message: See you later.
+fr:
+  message: A plus tard.
+de:
+  message: Bis später.
+es:
+  message: Hasta más tarde.
+it:
+  message: A più tardi.

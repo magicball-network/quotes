@@ -1,4 +1,17 @@
+textId: 20
 location:
 speaker:
 message: '" Bùian Mermaid. A fine example of the absurdity of ancient
   superstitions: this statue was found in the middle of a desert. "'
+fr:
+  message: '" Sirène de Bù. Exemple de l''absurdité des superstitions antiques,
+    cette figure marine fut découverte en plein désert. "'
+de:
+  message: '" Sirene von Bù. Beispiel des absurden antiken Aberglaubens, diese
+    Seegestalt wurde mitten in der Wüste gefunden. "'
+es:
+  message: '"Sirena de Bù. Ejemplo de la absurdidad de las supersticiones
+    antiguas, esta figura marina fue descubierta en pleno desierto".'
+it:
+  message: '"Sirena di Bù. Esempio dell''assurdità delle vecchie superstizioni,
+    questa statua di ispirazione marina venne scoperta in pieno deserto. "'

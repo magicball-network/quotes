@@ -1,5 +1,25 @@
+textId: 5
 location:
 speaker:
 message: "Our leaders don't know that we come here, it's the only place where we
   can put these blasted helmets down. I'm here for business only: I can sell you
   information about anything. See you later..."
+fr:
+  message:
+    "Nos chefs ignorent qu'on vient ici, c'est le seul endroit où l'on peut
+    poser ces fichus casques. Moi je suis là pour faire des affaires : je peux
+    te vendre n'importe quel renseignement. A plus tard ..."
+de:
+  message: "Unsere Anführer wissen nicht, daß wir hier herkommen, dies ist der
+    einzige Ort wo man die verflixten Helme abnehmen kann. Ich bin hier um
+    Geschäfte zu machen : ich kann Dir alle möglichen Informationen verkaufen.
+    Bis später ..."
+es:
+  message: "Nuestros jefes ignoran que venimos aquí, es el único lugar donde
+    podemos ponernos estos dichosos cascos. Yo estoy aquí para hacer negocios:
+    puedo vender cualquier información. Hasta luego ..."
+it:
+  message:
+    "I nostri capi non sanno che veniamo qui; è l'unico posto dove possiamo
+    togliere questi caschi del cavolo. Io sono qui per fare affari: posso
+    venderti tutte le informazioni che vuoi. A più tardi."

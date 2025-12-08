@@ -1,5 +1,22 @@
+textId: 15
 location:
 speaker:
 message: '" Captain LeBorgne''s treasure. This chest contains the fruits of a
   lifetime of dishonesty. It was seized by the IRS, the only predator known to
   this terrible pirate. "'
+fr:
+  message: '" Trésor du Capitaine LeBorgne. Ce coffre contenant le travail de
+    toute une vie de malhonêteté, fut récupéré par le Fisc, qui reste le seul
+    prédateur connu de ce terrible pirate. "'
+de:
+  message: '" Schatz des Kapitäns EinAuge. Dieser Truhe, die das gesamte Werk
+    eines unehrlichen Lebens enthält, hat sich der Fiskus bemächtigt, der einzig
+    heute bekannte Beutelschneider dieses furchtbaren Piraten. "'
+es:
+  message: '"Tesoro del Capitán El Tuerto. Este cofre que contiene el trabajo de
+    toda una vida de deshonestidad, fue recuperado por el Fisco, que sigue
+    siendo el único exterminador conocido de este terrible pirata".'
+it:
+  message: '"Tesoro del Capitano Guercio. Questo scrigno contiene il frutto di
+    un''intera esistenza di malefatte; venne recuperato dal Fisco, l''unico ad
+    essere riuscito a depredare questo terribile pirata."'

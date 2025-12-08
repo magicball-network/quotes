@@ -1,6 +1,27 @@
+textId: 97
 location:
 speaker:
 message: |-
   "Welcome to Port-Belooga
   (Principal Island)
   Sea calm to choppy, gusty winds."
+fr:
+  message: |-
+    " Bienvenue à Port-Bélooga
+    (Ile Principale)
+    Mer calme à agitée, vent faible. "
+de:
+  message: |-
+    " Willkommen im Hafen von Bélooga
+    (Hauptinsel)
+    Ruhige bis stürmische See, schwacher Wind. "
+es:
+  message: |-
+    "Bienvenido a Puerto-Belooga
+    (Isla Principal)
+    Mar calmo a agitado, viento débil"
+it:
+  message: |-
+    "Benvenuti a Porto Beluga
+    (Isola Principale)
+    Mare calmo o poco mosso, venti deboli. "

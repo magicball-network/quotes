@@ -1,4 +1,19 @@
+textId: 147
 location:
 speaker:
 message: Yes... Hey, stop talking about it, ok? That's a sure way to wind up in
   the Citadel.
+fr:
+  message: Oui ben arrêtez d'en parlez hein ! C'est un coup à se retrouver à la
+    Citadelle ça.
+de:
+  message:
+    Gut, gut, hören Sie auf davon zu sprechen, sonst landen wir noch in der
+    Zitadelle.
+es:
+  message: Bueno, deje de hablar de eso, es motivo como para encontrarse en la
+    Ciudadela.
+it:
+  message:
+    Se non la smette di parlarne, ci ritroveremo in un batter d'occhio alla
+    Cittadella.

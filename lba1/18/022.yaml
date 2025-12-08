@@ -1,3 +1,4 @@
+textId: 22
 location:
 speaker:
 message: I am Raymond-the-Elf, to show my gratitude, I will indicate the
@@ -5,3 +6,28 @@ message: I am Raymond-the-Elf, to show my gratitude, I will indicate the
   Hamalayi mountains (look on your Holomap). If you play the flute there, you
   will find an important element of the prophecy. And if you have a membership
   card you can show me, I've something else for you.
+fr:
+  message: Je suis Raymond-le-Lutin, pour te remercier je vais t'indiquer
+    l'emplacement du lac d'Eau Claire. Il est au Nord-Ouest d'ici, dans
+    l'Hamalayi (regarde ton Holomap). En y jouant de la flûte, tu trouveras un
+    élément important de la prophétie. Et si tu as une carte de membre du club
+    des lutins à me montrer, j'ai encore autre chose pour toi.
+de:
+  message: Ich bin Raymond-der-Kobold, zum Dank werde ich Dir den Standort des
+    Sees Klares Wassers zeigen. Er befindet sich nordwestlich von hier, im
+    Hamalayi (schau auf Deinen Holomap). Spiels Du dort Flöte, findest Du einen
+    wichtigen Teil der Prophezeiung. Und wenn Du mir eine Kobold-Mitgliedskarte
+    zeigst, habe ich noch etwas anderes für Dich.
+es:
+  message: Soy Raymond-el-Duende, para agradecertelo te voy a indicar el
+    emplazamiento del Lago de Agua Clara. Está al noroeste de aquí, en el
+    Hamalayi (mira tu Holomapa). Tocando la flauta, encontrarás un elemento
+    importante de la profecía. Y si tienes una tarjeta de miembro del club de
+    los duendes para mostrarme, aún tengo otra cosa para ti.
+it:
+  message:
+    Sono Raymond il Folletto, per ringraziarti ti mostrerò la posizione del
+    lago dell'Acqua Limpida. E' a nord ovest rispetto a qui, nell'Hamalayi
+    (guarda sulla tua holomap). Se suonerai il flauto sul lago, troverai un
+    importante elemento della profezia. E se hai una tessera del club dei
+    folletti da mostrarmi, ho un'altra sorpresa per te.

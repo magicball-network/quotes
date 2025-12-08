@@ -1,5 +1,22 @@
+textId: 194
 location:
 speaker:
 message: |-
   Never saw a storm like it,
   never!
+fr:
+  message: |-
+    Jamais vu une tempête pareille,
+    jamais !
+de:
+  message: |-
+    Hab' noch nie solch einen Sturm erlebt,
+    noch nie !
+es:
+  message: |-
+    ¡Jamás he visto una tempestad igual,
+    jamás!
+it:
+  message: |-
+    Mai vista una tempesta simile,
+    mai!

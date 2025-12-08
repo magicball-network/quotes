@@ -1,5 +1,38 @@
+textId: 46
 location:
 speaker:
 message: My son and I fixed the ventilation flap in your chimney. We'll put up a
   fence later. It's odd that it is so far away from your house! According to my
   son, who is an architect, there are a lot of strange things about your house!
+fr:
+  message: >-
+    Tiens voisin, avec mon fils nous avons réparé la trappe sur votre cheminée.
+    On rajoutera une barrière autour plus tard. C'est étrange qu'elle soit
+    autant à l'écart de votre maison !
+
+    D'ailleurs, d'après mon fils bien des choses sont étranges chez vous et il
+    s'y connaît, il est architecte !
+de:
+  message: >-
+    Hallo Nachbar, zusammen mit meinem Sohn haben wir die Klappe auf Ihrem Kamin
+    repariert. Wir werden ihn später noch einzäunen. Merkwürdig, daß er so weit
+    von ihrem Haus entfernt ist !
+
+    Meinem Sohn nach sind übrigens einige Dinge bei Ihnen recht merkwürdig, und
+    er muß es wissen, schließlich ist er Architekt !
+es:
+  message: >-
+    Mira vecino, con mi hijo he reparado la trampilla de su chimenea. Después
+    añadiremos una barandilla alrededor. ¡Es extraño que esté tan lejos de su
+    casa!
+
+    Además, según mi hijo, muchas cosas son extrañas en su casa, ¡y él sabe lo
+    que dice, es arquitecto!
+it:
+  message: >-
+    Ecco, vicino, io e mio figlio abbiam riparato la trappola sul camino. Più
+    tardi aggiungeremo una barriera. Strano che si trovi così lontano da casa
+    sua!
+
+    D'altronde, secondo mio figlio, a casa sua ci sono tante cose strane. E lo
+    dice con cognizione di causa: è un architetto!

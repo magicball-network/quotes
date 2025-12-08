@@ -1,5 +1,22 @@
+textId: 217
 location:
 speaker:
 message: |-
   Teleportation Center
   (Brundle island)
+fr:
+  message: |-
+    Centre de Téléportation
+    (Ile Brundle)
+de:
+  message: |-
+    Biemzentrum
+    (Insel Brundle)
+es:
+  message: |-
+    Centro de Teleportación
+    (Isla Brundle)
+it:
+  message: |-
+    Centro di Teletrasporto
+    (Isola Brundle)

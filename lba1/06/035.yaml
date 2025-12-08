@@ -1,5 +1,22 @@
+textId: 156
 location:
 speaker:
 message: |-
   Sendell's Medallion.
   It will allow you to earn the third level of power.
+fr:
+  message: |-
+    Médaillon de Sendell.
+    Il te permettra d'atteindre le 3ème niveau de puissance.
+de:
+  message: |-
+    Sendells Medaillon.
+    Es wird Dir ermöglichen die dritte Kraftstufe zu erreichen.
+es:
+  message: |-
+    Medallón de Sendell.
+    Te permitirá alcanzar el tercer nivel de poder.
+it:
+  message: |-
+    Medaglione di Sendell.
+    Ti consentirà di raggiungere il terzo livello di potenza.

@@ -1,5 +1,28 @@
+textId: 44
 location:
 speaker:
 message: |-
   Never saw 'em! The sea is my only concern.
   Sometimes I even take voyagers on my boat, but only people that I can trust.
+fr:
+  message: >-
+    Jamais vus ! Seul l'océan m'intéresse.
+
+    Il m'arrive même de transporter des voyageurs sur mon bateau, uniquement des
+    personnes sûres.
+de:
+  message: >-
+    Nie gesehen ! Ich kenne nur das Meer.
+
+    Es kommt sogar vor, daß ich Reisende auf meinem Boot mitnehme, nur
+    zuverlässige Leute.
+es:
+  message: >-
+    ¡Nunca los he visto! Sólo me interesa el océano.
+
+    Me sucede incluso cuando transporto viajeros en mi barco, pero únicamente
+    personas seguras.
+it:
+  message: |-
+    Mai visti. Mi interessa solo l'oceano.
+    Talvolta trasporto anche passeggeri sulla mia nave, ma solo persone fidate.

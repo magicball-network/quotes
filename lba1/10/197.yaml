@@ -1,3 +1,12 @@
+textId: 214
 location:
 speaker:
 message: Gas for 10 voyages costs 30 Kashes.
+fr:
+  message: Du carburant pour 10 voyages coûte 30 Kashes.
+de:
+  message: Kraftstoff für 10 Reisen kostet 30 Kashes.
+es:
+  message: El combustible para 10 viajes cuesta 30 Kashes.
+it:
+  message: Il carburante per 10 viaggi costa 30 Kash.

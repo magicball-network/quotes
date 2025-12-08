@@ -1,3 +1,12 @@
+textId: 60
 location:
 speaker:
 message: Let's see now, where did I put my key?
+fr:
+  message: Allons bon ! Qu'est-ce que j'ai fait de ma clef ?
+de:
+  message: Nanu ! Wo hab' ich denn meinen Schlüssel ?
+es:
+  message: ¡Bueno,! ¿Qué he hecho con mi llave?
+it:
+  message: Insomma! Dov'è finita la mia chiave?

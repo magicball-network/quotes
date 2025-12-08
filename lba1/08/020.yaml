@@ -1,3 +1,12 @@
+textId: 21
 location:
 speaker:
 message: It is forbidden to travel outside the Citadel in that kind of attire!
+fr:
+  message: Interdiction de circuler hors de la Citadelle dans cette tenue !
+de:
+  message: Es ist verboten sich in diesem Aufzug außerhalb der Zitadelle zu bewegen !
+es:
+  message: ¡Prohibido circular fuera de la Ciudadela con esa vestimenta!
+it:
+  message: E' vietato circolare fuori dalla cittadella in questa tenuta!

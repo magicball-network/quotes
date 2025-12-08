@@ -1,3 +1,12 @@
+textId: 16
 location:
 speaker:
 message: You've just stolen a Pirate's Flag.
+fr:
+  message: Tu viens de dérober un Drapeau Pirate.
+de:
+  message: Du hast soeben eine Piratenflagge entwendet.
+es:
+  message: Acabas de robar una Bandera Pirata.
+it:
+  message: Hai appena rubato una Bandiera dei Pirati.

@@ -1,3 +1,12 @@
+textId: 21
 location:
 speaker:
 message: Hey, get me out of here! Find a key quick!
+fr:
+  message: Eh, sors moi d'ici ! Vite trouve une clef !
+de:
+  message: He, hol' mich hier raus ! Schnell, find' einen Schlüssel !
+es:
+  message: ¡Eh, sácame de aquí! ¡Date prisa y encuentra una llave!
+it:
+  message: Ehi, fammi uscire! Presto, trova una chiave!

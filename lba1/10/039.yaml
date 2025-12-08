@@ -1,3 +1,12 @@
+textId: 39
 location:
 speaker:
 message: Ha ha! It's a colleague, he's looking for a wife.
+fr:
+  message: Hi hi ! C'est un collègue, il cherche une fiancée.
+de:
+  message: Hi hi ! Ein Kollege von mir, er sucht 'ne Braut.
+es:
+  message: ¡Ja, Ja! Es un colega, busca una novia.
+it:
+  message: Eh eh eh! E' un collega, cerca una fidanzata.

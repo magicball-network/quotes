@@ -1,3 +1,12 @@
+textId: 212
 location:
 speaker:
 message: Sorry, I don't know anything about that.
+fr:
+  message: Désolé, connais pas.
+de:
+  message: Tut mir leid, kenn ich nicht.
+es:
+  message: Lo siento, no conozco.
+it:
+  message: Spiacente, non lo so.

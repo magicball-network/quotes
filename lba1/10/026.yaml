@@ -1,3 +1,12 @@
+textId: 26
 location:
 speaker:
 message: If you give me 10 Kashes I'll let you read the poster behind me.
+fr:
+  message: Pour 10 Kashes je te laisse lire cette affiche derrière moi.
+de:
+  message: Für 10 Kashes darfst Du das Plakat hinter mir lesen.
+es:
+  message: Por 10 Kashes te dejo leer este cartel que está detrás de mí.
+it:
+  message: Per 10 Kash ti lascio leggere il manifesto alle mie spalle.

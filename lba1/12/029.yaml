@@ -1,4 +1,17 @@
+textId: 66
 location:
 speaker:
 message: Did you know that there are strange noises coming from that symbol on
   the rocks?
+fr:
+  message:
+    Tu sais qu'il y a des cris bizarres parfois, vers ce signe qui est sur
+    les rochers ?
+de:
+  message:
+    Weißt Du, daß manchmal merkwürdige Schreie von dem Zeichen kommen, das
+    auf den Felsen ist ?
+es:
+  message: ¿Sabes que hay gritos raros a veces, hacia ese signo que está en las rocas?
+it:
+  message: Sai che si sentono strane grida, a volte, verso il segno sulle rocce?

@@ -1,4 +1,19 @@
+textId: 30
 location:
 speaker:
 message: '" I am the Marked Stone. The password for the Eclipse Stone is
   "GIZMO". Which word will free me? "'
+fr:
+  message: '"Je suis la Pierre Scellée. La clef de la Pierre de l''Eclipse est
+    "GIZMO". Quel est le mot qui doit me délivrer ? "'
+de:
+  message: '" Ich bin der Versiegelte Stein. Der Schlüssel zum Stein der
+    Finsternis ist " GIZMO ". Wie heißt das Wort, das mich befreien soll ? "'
+es:
+  message:
+    '"Soy la Piedra Sellada. La clave de la Piedra del Eclipse es "GIZMO".
+    ¿Cuál es la palabra que debe liberarme?"'
+it:
+  message:
+    '"Sono la Pietra col Sigillo. La chiave della Pietra dell''Eclisse è "
+    GIZMO ". Quale parola mi libererà? "'

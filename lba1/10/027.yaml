@@ -1,4 +1,19 @@
+textId: 27
 location:
 speaker:
 message: I saw them a little while ago on Citadel Island. But they left on a
   fast boat. Destination unknown!
+fr:
+  message: "Je les ai vus tout à l'heure sur l'île de la Citadelle. Mais ils en
+    sont partis sur un bateau rapide, destination : inconnue !"
+de:
+  message: Ich habe sie vorhin auf der Zitadelleninsel gesehen. Aber sie haben
+    sich in einem schnellen Boot davongemacht, mit unbekanntem Ziel !
+es:
+  message:
+    "Los he visto hace un rato en la isla de la Ciudadela. Pero salieron de
+    allí en un barco rápido con destino: ¡desconocido!"
+it:
+  message:
+    Li ho appena visti sull'Isola della Cittadella, ma sono partiti subito,
+    destinazione sconosciuta!

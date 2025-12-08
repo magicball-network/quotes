@@ -1,3 +1,12 @@
+textId: 77
 location:
 speaker:
 message: Your Kashes!
+fr:
+  message: Tes Kashes !
+de:
+  message: Deine Kashes !
+es:
+  message: ¡Tus Kashes!
+it:
+  message: Il tuo Kash!

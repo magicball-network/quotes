@@ -1,3 +1,4 @@
+textId: 74
 location:
 speaker:
 message: >-
@@ -9,3 +10,39 @@ message: >-
   sensors under the wooden floor that will sound the alarm as soon as they
   detect even the slightest weight. You would have to be able to fly to move
   around in there!
+fr:
+  message: >-
+    Et bien vous me croierez si vous voulez, mais le musée est bien protégé ! Je
+    viens de relier ce bouton au système d'alarme : dès que l'on appuie dessus
+    le bâtiment est évacué.
+
+    Seuls restent un ou deux gardes automatiques. Cela enclenche surtout, une
+    multitude de contacteurs sous le parquet qui donnent l'alarme dès qu'ils
+    détectent le moindre poids. Il faudrait voler pour arriver à s'y déplacer !
+de:
+  message: >-
+    Glauben Sie es mir oder auch nicht, aber das Museum ist gut geschützt ! Ich
+    habe gerade diesen Knopf an das Alarmsystem angeschlossen : sobald man
+    darauf drückt wird das Gebäude geräumt.
+
+    Es bleiben nur ein oder zwei automatische Wachen. Dies löst vor allem eine
+    Vielzahl von Sensoren unter dem Parkett aus, die sofort Alarm auslösen,
+    sobald sie das kleinste Gewicht wahrnehmen. Man müßte fliegen, um sich dort
+    fortbewegen zu können !
+es:
+  message: >-
+    ¡Créame! ¡El museo está bien protegido! Acabo de conectar este botón al
+    sistema de alarma: apenas se presiona el edificio es evacuado.
+
+    Sólo quedan uno o dos guardias automáticos. Esto activa sobre todo, una
+    multitud de detectores bajo el parquet que dan la alarma apenas detectan el
+    mínimo peso. ¡Habrá que volar para poder desplazarse!
+it:
+  message: >-
+    E' libero di non crederci, ma il museo è ben protetto! Ho appena collegato
+    questo pulsante al sistema d'allarme: se viene premuto, si procede
+    all'evacuazione dell'edificio.
+
+    Rimangono solo una o due guardie automatiche. Con questo pulsante, poi si
+    attivano numerosi sensori sotto il pavimento in legno che danno l'allarme se
+    captano anche il minimo peso. Per sposatarsi qui dentro bisognerebbe volare!

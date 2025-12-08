@@ -1,4 +1,21 @@
+textId: 5
 location:
 speaker:
 message: I was arrested for sneezing in public, it's ridiculous! There's also,
   however, a forger in the cell to the right of general headquarters.
+fr:
+  message: J'ai été arrêté pour avoir éternué en public, c'est ridicule ! Par
+    contre un gardien m'a dit qu'il y a un faussaire dans la cellule qui est
+    complètement à droite du Q.G.
+de:
+  message: Ich bin festgenommen worden, weil ich in aller Öffentlichkeit geniest
+    habe, das ist wirklich lächerlich ! Dagegen hat mir ein Wachmann gesagt, daß
+    ein Fälscher in der Zelle ganz rechts vom Hauptquartier sitzt.
+es:
+  message: He sido arrestado por haber estornudado en público, ¡es ridículo! Por
+    el contrario, un guardián me ha dicho que hay un falsificador en la celda
+    que se encuentra completamente a la derecha del Cuartel General
+it:
+  message: Sono stato arrestato per aver starnutito in pubblico! Assurdo! E
+    intanto un guardiano mi ha detto che c'è un falsario nella cella alla destra
+    del quartier generale.

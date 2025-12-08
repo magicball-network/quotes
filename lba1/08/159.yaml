@@ -1,3 +1,12 @@
+textId: 166
 location:
 speaker:
 message: What legend? I don't know about any legend!
+fr:
+  message: Quelle légende ? Je ne connais aucune légende moi !
+de:
+  message: Welche Legende ? Ich kenne keine Legende !
+es:
+  message: ¿Qué leyenda? ¡Yo no conozco ninguna leyenda!
+it:
+  message: Quale leggenda? Non conosco nessuna leggenda, io!

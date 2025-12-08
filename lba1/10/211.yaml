@@ -1,5 +1,24 @@
+textId: 228
 location:
 speaker:
 message: I found this page ripped out of a book. It says "... pull the middle
   lever ONCE, then pull the right lever ONCE." This must be the answer to some
   kind of puzzle!
+fr:
+  message:
+    'J''ai trouvé cette page arrachée à un livre. Ca dit : " ... Actionnez
+    UNE fois le levier du milieu, puis UNE fois le levier de droite. " C''est
+    sûrement la solution d''un problème !'
+de:
+  message:
+    'Ich habe dies aus einem Buch gerissene Blatt gefunden. Dort steht : "
+    ... Bewegen Sie EIN mal den mittleren Hebel, dann EIN mal den rechten HEBEL.
+    " Das ist sicher die Lösung eines Problems !'
+es:
+  message: 'He encontrado esta página arrancada de un libro. Dice así: " ...
+    Accione UNA vez la palanca del medio y luego UNA vez la palanca de la
+    derecha. "¡Es seguramente la solución a un problema!'
+it:
+  message: 'Ho trovato questa pagina, strappata da un libro. Dice : "...Azionate
+    UNA volta la leva in centro, poi una volta la leva di destra". Si tratterà
+    della soluzione di un problema!'

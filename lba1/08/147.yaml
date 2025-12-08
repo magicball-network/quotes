@@ -1,3 +1,12 @@
+textId: 154
 location:
 speaker:
 message: That's none of your business!
+fr:
+  message: Ca ne vous regarde pas !
+de:
+  message: Das geht Sie nichts an !
+es:
+  message: ¡Eso no le interesa!
+it:
+  message: Non la riguarda!

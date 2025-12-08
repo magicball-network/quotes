@@ -1,3 +1,13 @@
+textId: 127
 location:
 speaker:
 message: Sorry dear customer, but all that interests me is my modest concern.
+fr:
+  message: Désolé cher client, mais je ne m'intéresse qu'à mon modeste commerce.
+de:
+  message: Tut mir leid lieber Kunde, ich kümmere mich nur um mein bescheidenes
+    Geschäft.
+es:
+  message: Lo siento estimado cliente, pero no me interesa mas que mi modesto negocio.
+it:
+  message: Spiacente, caro cliente, ma mi interesso solo ai miei modesti affari.

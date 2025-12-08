@@ -1,5 +1,23 @@
+textId: 198
 location:
 speaker:
 message: Go see Beatrice and tell her that Julia sent you. She'll explain all
   that better than I can. She lives on the outskirts of the Old Burg, in a house
   next to the sea, on Peg Leg Street.
+fr:
+  message: Allez-voir Béatrice en lui disant que vous venez de la part de Julia,
+    elle vous expliquera ça mieux que moi. Elle habite à la limite du vieux
+    bourg, une maison près de la mer, rue du Pied-Bot.
+de:
+  message: Gehen Sie zu Béatrice und sagen Sie ihr, daß Julia sie schickt, sie
+    wird Ihnen das besser als ich erklären. Sie wohnt am Rande der Altstadt, in
+    einem Haus am Meer, in der Klumpfuß Straße.
+es:
+  message: Vaya a ver a Beatriz y dígale que viene de parte de Julia, ella le
+    explicará esto mejor que yo. Vive en el límite del Viejo Burgo en una casa
+    cerca del mar en la Calle Chueca.
+it:
+  message:
+    Vada da Beatrice, dica che la manda Giulia; glielo spiegherà meglio di
+    me. Abita alla periferia del Vecchio Borgo, in una casa vicina al mare, in
+    via Piè-Scarpa.

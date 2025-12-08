@@ -1,3 +1,12 @@
+textId: 25
 location:
 speaker:
 message: I don't know where they are.
+fr:
+  message: Je ne sais pas où ils sont.
+de:
+  message: Ich weiß nicht wo sie sind.
+es:
+  message: No sé dónde están.
+it:
+  message: Non so dove siano.

@@ -1,3 +1,12 @@
+textId: 16
 location:
 speaker:
 message: Home.
+fr:
+  message: Chez moi
+de:
+  message: Zu mir
+es:
+  message: A casa
+it:
+  message: A casa

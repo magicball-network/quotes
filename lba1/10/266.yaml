@@ -1,4 +1,18 @@
+textId: 283
 location:
 speaker:
 message: I am cured. I don't kown what you poured in the water this time but my
   kidney stone vanished. Thank you!
+fr:
+  message: Je suis guéri, je ne sais pas ce que vous avez versé cette fois-ci,
+    mais mon calcul rénal s'est volatilisé. Merci !
+de:
+  message: Ich bin wieder gesund, ich weiß nicht was Sie diesmal reingegossen
+    haben, aber mein Nierenstein hat sich in Luft aufgelöst. Danke !
+es:
+  message:
+    Estoy curado, no sé lo que ha vertido esta vez, pero mi cáculo renal se
+    ha volatilizado. ¡Gracias!
+it:
+  message: Sono guarito, non so se è per quello che ha versato adesso, ma il mio
+    calcolo renale si è volatilizzato. Grazie!

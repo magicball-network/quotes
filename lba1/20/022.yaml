@@ -1,3 +1,12 @@
+textId: 21
 location:
 speaker:
 message: Whew, safe!
+fr:
+  message: Ouf, sauvé !
+de:
+  message: Puuh, gerettet !
+es:
+  message: ¡Uf, salvado!
+it:
+  message: Uff, salvo!

@@ -1,3 +1,12 @@
+textId: 279
 location:
 speaker:
 message: Ah, it's impossible to open it without a red card.
+fr:
+  message: Ah, impossible d'ouvrir sans carte rouge.
+de:
+  message: Ach, ohne rote Karte kann man unmöglich aufmachen.
+es:
+  message: Ah, es imposible abrir sin la tarjeta roja.
+it:
+  message: Ah, impossibile aprire senza carta rossa.

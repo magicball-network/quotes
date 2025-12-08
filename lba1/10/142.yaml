@@ -1,3 +1,12 @@
+textId: 154
 location:
 speaker:
 message: This is rebellion, it is forbidden to speak of that Legend!
+fr:
+  message: C'est de la rébellion, il est interdit de parler de cette Légende !
+de:
+  message: Das ist aufständisch, es ist verboten von dieser Legende zu sprechen !
+es:
+  message: ¡Es la rebelión, está prohibido hablar de esta Leyenda!
+it:
+  message: Questa è ribellione! E' proibito parlare della Leggenda!

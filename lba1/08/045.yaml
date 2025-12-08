@@ -1,4 +1,16 @@
+textId: 50
 location:
 speaker:
 message: The crates are arranged correctly this time. Thank you, and please
   accept this ferry ticket as a token of my gratitude.
+fr:
+  message: Cette fois les caisses sont bien rangées. Merci et voilà ton ticket de ferry.
+de:
+  message: Diesmal sind die Kisten richtig aufgestellt. Vielen Dank und hier ist
+    Dein Fahrschein für die Fähre.
+es:
+  message: Esta vez las cajas están bien ordenadas. Gracias y aquí tiene su
+    billete para el ferry.
+it:
+  message: Oh, finalmente le casse sono ben allineate. Grazie, accetti questo
+    biglietto per il traghetto come segno della mia riconoscenza.

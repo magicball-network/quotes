@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: Good day, all this talk about the Legend is strange, don't you think?
+fr:
+  message: Bonjour, bizarre cette Légende, non ?
+de:
+  message: Guten Tag, eigenartig diese Legende, nicht wahr ?
+es:
+  message: Buenos días, es rara esa Leyenda, ¿no?
+it:
+  message: Buongiorno, bizzarra questa Leggenda, vero?

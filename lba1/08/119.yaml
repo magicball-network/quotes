@@ -1,3 +1,12 @@
+textId: 125
 location:
 speaker:
 message: I haven't seen anyone, but ask inside the tavern.
+fr:
+  message: Moi je n'ai vu personne, mais demande à l'intérieur de la taverne.
+de:
+  message: Ich habe niemanden gesehen, aber frag' mal drinnen in der Taverne.
+es:
+  message: Yo, no he visto a nadie, pero pregunte dentro en la taberna.
+it:
+  message: Io non ho visto nessuno, ma prova a chiedere dentro alla taverna.

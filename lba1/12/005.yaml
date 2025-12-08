@@ -1,4 +1,19 @@
+textId: 5
 location:
 speaker:
 message: '" This book is a keeper of knowledge. It allows you to read the rocks
   and to talk to the animals. "'
+fr:
+  message:
+    '" Ce livre est un gardien du savoir, il permet de lire sur les pierres
+    et de parler aux animaux. "'
+de:
+  message:
+    '" Dieses Buch ist ein Hüter des Wissens, es ermöglicht auf den Steinen
+    zu lesen und mit den Tieren zu sprechen. "'
+es:
+  message: '"Este libro es un guardián del saber, permite leer las piedras y
+    hablarle a los animales."'
+it:
+  message: '"Questo libro è un custode della conoscenza, permette di leggere le
+    pietre e di parlare agli animali."'

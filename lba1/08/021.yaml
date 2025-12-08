@@ -1,3 +1,13 @@
+textId: 22
 location:
 speaker:
 message: Twinsen! What are you doing here? I heard you were arrested only yesterday!
+fr:
+  message: Twinsen ! Que fais-tu là ? Je sais très bien que tu as été arrêté hier.
+de:
+  message: Twinsen ! Was machst Du hier ? Ich weiß doch, daß Du gestern
+    festgenommen wurdest.
+es:
+  message: ¡Twinsen! ¿Qué haces ahí? Sé muy bien que fuiste arrestado ayer.
+it:
+  message: Twinsen! Cosa ci fai qui? Mi hanno detto che ieri ti hanno arrestato.

@@ -1,5 +1,23 @@
+textId: 78
 location:
 speaker:
 message: I don't know where they are, but we elves don't need that sort of
   stuff. We can teleport ourselves magically! Well, I forgot how, but I'm not a
   good example.
+fr:
+  message:
+    Je ne sais pas où ils sont, mais nous les lutins n'en avons pas besoin.
+    Nous nous téléportons magiquement ! Enfin moi j'ai oublié mais c'est un
+    mauvais exemple.
+de:
+  message: Ich weiß nicht wo sie sind, aber wir Kobolde brauchen das nicht. Wir
+    biemen uns durch Magie ! Nun, ich selbst habe es vergessen, aber ich bin ein
+    schlechtes Beispiel.
+es:
+  message: No sé dónde están, pero nosotros los duendes no tenemos necesidad de
+    eso. ¡Nos teleportamos mágicamente! En realidad yo lo he olvidado pero soy
+    un mal ejemplo.
+it:
+  message: Non so dove siano, ma noi folletti non ne abbiamo bisogno. Noi ci
+    teletrasportiamo con la magia. Beh, non mi ricordo più come si fa, ma io non
+    sono un soggetto esemplare.

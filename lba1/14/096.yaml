@@ -1,4 +1,21 @@
+textId: 196
 location:
 speaker:
 message: No more fake red cards, too dangerous, I quit. From now on, I am only
   going to make fake Captain LeBorgne secret maps.
+fr:
+  message: C'est fini les fausses cartes rouges, trop dangereux, j'arrête.
+    Dorénavant je ne fais plus que des fausses cartes secrètes du capitaine
+    LeBorgne.
+de:
+  message: Es ist vorbei mit den falschen roten Karten, zu gefährlich, ich höre
+    damit auf. In Zukunft werde ich nur noch falsche Geheimkarten des Kapitäns
+    EinAuge herstellen.
+es:
+  message: Se acabaron las falsas tarjetas rojas, demasiado peligroso, paro. De
+    ahora en adelante no haré más que falsas tarjetas secretas del capitán
+    ElTuerto.
+it:
+  message:
+    Ho chiuso con le carte rosse false, troppo pericoloso, basta. D'ora in
+    poi farò solo false mappe segrete del capitano Guercio.

@@ -1,4 +1,19 @@
+textId: 4
 location:
 speaker:
 message: If you want to see my cousin, go in front of the sink and wash your
   hands! Ha ha!
+fr:
+  message:
+    Pour aller voir mon cousin, place-toi devant le lavabo et lave-toi les
+    mains ! Hé hé !
+de:
+  message:
+    Um meinen Cousin zu besuchen, stell Dich vor das Waschbecken und wasch
+    Dir die Hände ! He he !
+es:
+  message: Para ir a ver a mi primo, ¡colócate delante del lavabo y lávate las
+    manos! ¡Je je!
+it:
+  message: Per andare da mio cugino, mettiti davanti al lavabo e lavati le mani!
+    Eh eh eh!

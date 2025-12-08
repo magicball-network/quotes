@@ -1,4 +1,18 @@
+textId: 240
 location:
 speaker:
 message: Nobody remembers that nowadays. I even wonder if the library still has
   books about the Legend.
+fr:
+  message:
+    Plus personne ne s'en souvient maintenant. Même à la bibliothèque je me
+    demande s'ils ont gardé des livres sur la Légende.
+de:
+  message: Niemand erinnert sich mehr daran. Ich frage mich, ob sie in der
+    Bibliothek überhaupt noch Bücher über die Legende behalten haben.
+es:
+  message: Ya nadie se acuerda de eso ahora. Incluso me pregunto si en la
+    biblioteca han conservado libros sobre la Leyenda.
+it:
+  message: Adesso nessuno se ne ricorda più. Anche alla biblioteca mi chiedo se
+    abbiano conservato dei libri sulla Leggenda.

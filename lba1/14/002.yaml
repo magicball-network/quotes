@@ -1,5 +1,22 @@
+textId: 1
 location:
 speaker:
 message: |-
   " Welcome to Proxim-City
   (Proxima Island). "
+fr:
+  message: |-
+    " Bienvenue à Proxim-City
+    (Ile Proxima). "
+de:
+  message: |-
+    " Willkommen in Proxim-City
+    (Insel Proxima). "
+es:
+  message: |-
+    "Bienvenido a Proxim-City
+    (Isla Próxima)."
+it:
+  message: |-
+    " Benvenuti a Proxim-City
+    (Isola Proxima). "

@@ -1,5 +1,24 @@
+textId: 102
 location:
 speaker:
 message: Magic Saber, once the Saber is in hand (ENTER key), (ALT) key to
   strike. It is the most powerful weapon on this planet. You can use the Magic
   Ball again by reselecting it.
+fr:
+  message:
+    Sabre Magique, une fois le Sabre en main (Touche ENTREE), Touche (ALT)
+    pour frapper. C'est l'arme la plus puissante de cette planète ! Tu peux
+    utiliser à nouveau la Balle Magique en la sélectionnant.
+de:
+  message: Magischer Säbel, den Säbel einmal in der Hand (ENTER-Taste), (ALT)
+    Taste um zuzuschlagen. Das ist die stärkste Waffe auf diesem Planeten ! Du
+    kannst den Magischen Ball wieder benutzen, wenn Du ihn erneut anwählst.
+es:
+  message:
+    Sable Mágico. Con el Sable en mano (Tecla ENTRAR), pulsa la tecla (ALT)
+    para dar una estocada. ¡Esta es el arma más potente de este planeta! Puedes
+    utilizar de nuevo la Bola Mágica reseleccionándola.
+it:
+  message: Sciabola magica, una volta la sciabola in mano (tasto INVIO), tasto
+    (ALT) per colpire. L'arma più potente del pianeta! Puoi utilizzare di nuovo
+    la Sfera magica riselezionandola.

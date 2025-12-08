@@ -1,3 +1,12 @@
+textId: 208
 location:
 speaker:
 message: Fortress Island
+fr:
+  message: Ile de la Forteresse
+de:
+  message: Festungsinsel
+es:
+  message: Isla de la Fortaleza
+it:
+  message: Isola della Fortezza

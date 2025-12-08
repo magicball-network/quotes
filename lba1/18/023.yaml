@@ -1,3 +1,4 @@
+textId: 23
 location:
 speaker:
 message: I am Raymond-the-Elf, to show my gratitude, I will indicate the
@@ -6,3 +7,29 @@ message: I am Raymond-the-Elf, to show my gratitude, I will indicate the
   will find an important element of the prophecy. And in a grotto near the
   temple of Bù, you'll find one of my fellow elves, he'll be able to get you a
   blue card.
+fr:
+  message: Je suis Raymond-le-Lutin, pour te remercier je vais t'indiquer
+    l'emplacement du lac d'Eau Claire. Il est au Nord-Ouest d'ici, dans
+    l'Hamalayi (regarde ton Holomap). En y jouant de la flûte, tu trouveras un
+    élément important de la prophétie. Et dans une grotte près du Temple de Bù,
+    tu peux trouver l'un de mes confrêres, il peut te procurer une carte bleue.
+de:
+  message: Ich bin Raymond-der-Kobold, zum Dank werde ich Dir den Standort des
+    Sees Klares Wassers zeigen. Er befindet sich nordwestlich von hier, im
+    Hamalayi (schau auf Deinen Holomap). Spiels Du dort Flöte, findest Du einen
+    wichtigen Teil der Prophezeiung. Und in einer Höle in der Nähe des Tempels
+    von Bù kannst Du einen meiner Kollegen antreffen, er kann Dir eine blaue
+    Karte besorgen.
+es:
+  message: Soy Raymond-el-Duende, para agradecertelo voy a indicarte el
+    emplazamiento del Lago de Agua Clara. Está al noroeste de aquí, en el
+    Hamalayi (mira tu Holomapa). Tocando la flauta encontrarás un elemento
+    importante de la profecía. Y en una gruta cerca del Templo de Bù, podrás
+    encontrar a uno de mis hermanos, éste puede procurarte una tarjeta azul.
+it:
+  message:
+    Sono Raymond il Folletto, per ringraziarti ti mostrerò la posizione del
+    lago dell'Acqua Limpida. E' a nord ovest rispetto a qui, nell'Hamalayi
+    (guardae sulal tua holomap). Se suonerai il flauto sul lago, troverai un
+    importante elemento della profezia. E in una grotta vicina al Tempio di Bù,
+    troverai uno dei miei fratelli, che potrà darti una tessera blu.

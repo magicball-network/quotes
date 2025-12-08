@@ -1,4 +1,18 @@
+textId: 239
 location:
 speaker:
 message: I never saw him, but try a little further up at the Bazaar. Wadbull
   knows a lot and he SELLS A BIT OF EVERYTHING!
+fr:
+  message: Je ne l'ai jamais vu, mais va au Bazar un peu plus haut. Wadbull sait
+    tout et VEND DE TOUT !
+de:
+  message: Ich habe es nicht gesehen, aber geh mal zum Bazar etwas weiter oben.
+    Wadbull weiß alles und VERKAUFT ALLES MÖGLICHE !
+es:
+  message: Nunca lo he visto, pero ve al Bazar un poco más arriba. ¡Wadbull sabe
+    todo y VENDE DE TODO!
+it:
+  message:
+    Non l'ho mai visto, ma prova ad andare al bazaar. Qui Wadbull sa tutto
+    e VENDE DI TUTTO!

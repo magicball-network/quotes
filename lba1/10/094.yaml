@@ -1,5 +1,22 @@
+textId: 102
 location:
 speaker:
 message: |-
   "L.B.A.
   Old Burg Sewer service. Emerald Moon Street."
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts du Vieux Bourg. Rue de la Lune d'Emeraude. "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst der Altstadt. Smaragdmond Straße. "
+es:
+  message: |-
+    " L.B.A.
+    Servicio de alcantarillado del Viejo Burgo. Calle de la Luna de Esmeralda."
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario del Vecchio Borgo. Via della Luna di Smeraldo. "

@@ -1,3 +1,12 @@
+textId: 57
 location:
 speaker:
 message: You can come aboard sir, we were just getting underway.
+fr:
+  message: Vous pouvez monter monsieur, nous embarquons.
+de:
+  message: Sie können an Bord kommen mein Herr, wir stechen in See.
+es:
+  message: Puede subir señor, estamos embarcando.
+it:
+  message: Salga pure, signore, partiamo.

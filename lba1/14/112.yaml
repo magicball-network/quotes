@@ -1,5 +1,22 @@
+textId: 212
 location:
 speaker:
 message: If you give me back my coffee maker, I'll give you a list of certain
   places where you can find a rare plant and some boxes. And don't ask me where
   I found this list!
+fr:
+  message: Si vous me rendez ma cafetière, je vous donne une liste de certains
+    endroits où l'on peut trouver une plante rare et certaines boîtes. Et ne me
+    demandez pas où j'ai trouvé cette liste !
+de:
+  message: Wenn Sie mir meine Kaffeekanne zurückgeben, gebe ich Ihnen eine Liste
+    von bestimmten Orten, wo man eine seltene Pflanze und bestimmte Kästchen
+    finden kann. Und fragen Sie mich nicht woher ich diese Liste habe !
+es:
+  message: Si me devuelve mi cafetera, le doy una lista de determinados lugares
+    donde puede encontrar una planta rara y ciertas cajas. ¡Y no me pregunte
+    dónde encontré esta lista!
+it:
+  message: Se mi restituisce la caffettiera, le do una lista di alcuni luoghi in
+    cui si può trovare una pianta rara e alcune scatole. E non mi chieda dove ho
+    trovato questa lista!

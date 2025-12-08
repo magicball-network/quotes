@@ -1,3 +1,4 @@
+textId: 28
 location:
 speaker:
 message: >-
@@ -5,3 +6,27 @@ message: >-
   is a pharmacy open on Citadel Island.
 
   P Move in front of the item that interests you and use the ACTION command.
+fr:
+  message: >-
+    Bienvenue cher client. Je n'ai plus de sirop de cerise, mais il y a une
+    pharmacie ouverte sur l'île de la Citadelle.
+
+    P Mettez-vous devant l'article qui vous intéresse et faites ACTION.
+de:
+  message: >-
+    Willkommen lieber Kunde. Ich habe keinen Kirschsirup mehr, aber auf der
+    Zitadelleninsel ist eine Apotheke geöffnet.
+
+    P Stellen Sie sich vor den Artikel Ihrer Wahl und aktivieren ACTION.
+es:
+  message: >-
+    Bienvenido estimado cliente. Ya no me queda más jarabe de cereza, pero hay
+    una farmacia abierta en la isla de la Ciudadela.
+
+    P Póngase delante del artículo que le interesa, y haga ACCION.
+it:
+  message: >-
+    Buongiorno, caro cliente. Non ho più sciroppo di ciliegia, ma c'è una
+    farmacia aperta sull'Isola della Cittadella.
+
+    P Si metta davanti all'articolo che le serve e prema AZIONE.

@@ -1,3 +1,12 @@
+textId: 24
 location:
 speaker:
 message: You just received a keypad that controls a digital locking system.
+fr:
+  message: On vient de te donner un digicode.
+de:
+  message: Man hat Dir soeben einen Türcode gegeben.
+es:
+  message: Acaban de darte un teclado numérico.
+it:
+  message: Ti è stato dato un digicode.

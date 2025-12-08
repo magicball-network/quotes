@@ -1,3 +1,12 @@
+textId: 64
 location:
 speaker:
 message: Ouch!
+fr:
+  message: Ouch !
+de:
+  message: Autsch !
+es:
+  message: ¡Auch!
+it:
+  message: Ahi!

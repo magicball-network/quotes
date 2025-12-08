@@ -1,3 +1,12 @@
+textId: 1
 location:
 speaker:
 message: You have no business here, this factory is top secret!
+fr:
+  message: Vous n'avez rien à faire ici, cette usine est classée top-secret !
+de:
+  message: Sie haben hier nichts zu suchen, diese Fabrik ist streng geheim !
+es:
+  message: ¡No tiene nada que hacer aquí, esta fábrica está clasificada top-secret!
+it:
+  message: Via di qui! Quello che facciamo in questa fabbrica è top-secret !

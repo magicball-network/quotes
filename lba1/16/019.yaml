@@ -1,3 +1,12 @@
+textId: 20
 location:
 speaker:
 message: Calm down! Save your strength for the clones.
+fr:
+  message: Du calme ! Garde tes forces pour les clones.
+de:
+  message: Ruhig Blut ! Behalte Deine Kräfte für die Klone.
+es:
+  message: ¡Calma! Guarda tus fuerzas para los clones.
+it:
+  message: Calma! Risparmia le forze per i cloni!

@@ -1,4 +1,17 @@
+textId: 191
 location:
 speaker:
 message: Thank you for preventing them from closing down my tavern. If you see
   something of interest in my cellar, please help yourself.
+fr:
+  message: Merci d'les avoir empêché de fermer ma taverne. Si quelque chose vous
+    intéresse dans ma cave, servez-vous.
+de:
+  message: Danke, daß Sie sie daran gehindert haben meine Taverne zu schließen.
+    Falls Sie etwas in meinem Keller interessiert, bedienen Sie sich.
+es:
+  message: Gracias por haberles impedido que cierren mi taberna. Si algo de mi
+    taberna le interesa, sírvase.
+it:
+  message: Grazie per aver impedito che chiudessero la mia taverna. Se c'è
+    qualcosa di suo interesse nella cantina, si serva pure.

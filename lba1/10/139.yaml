@@ -1,3 +1,12 @@
+textId: 148
 location:
 speaker:
 message: There's no need to be aggressive, I was here before you!
+fr:
+  message: Ca ne sert à rien d'être agressif, j'étais là avant vous !
+de:
+  message: Das nützt nichts agressiv zu sein, ich war vor Ihnen da !
+es:
+  message: No sirve de nada ser agresivo, ¡yo estaba aquí antes que Ud.!
+it:
+  message: Non serve a niente essere aggressivo. Ero qui prima di lei!

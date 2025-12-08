@@ -1,5 +1,24 @@
+textId: 50
 location:
 speaker:
 message: Your hydroglider is great! But you won't make it to Fortress island or
   to Polar island with it. They are isolated by the currents, no ship can find
   them. You need a Dino-Fly to go there.
+fr:
+  message: Superbe votre hydroglisseur ! Mais vous n'atteindrez ni l'île de la
+    Forteresse, ni l'île Polaire avec ça. Elles sont isolées par les courants,
+    aucun navire ne peut les retrouver. Il faut un Dino-Fly pour y aller.
+de:
+  message:
+    Einfach großartig Ihr Tragflächenboot ! Aber Sie werden damit weder die
+    Festungsinsel noch die Polarinsel erreichen. Sie sind durch Strömungen
+    isoliert, kein Schiff kann dorthin gelangen. Man braucht ein Dino-Fly um
+    dorthin zu gelangen.
+es:
+  message: ¡Qué hermoso su overcraft! Pero no llegará ni a la isla de la
+    Fortaleza, ni a la isla Polar con eso. Están aisladas por las corrientes, y
+    ningún navío puede encontrarlas. Es necesario un Dino-Fly para ir.
+it:
+  message:
+    Bellissimo il vostro aliscafo! Ma con questo non raggiungerà né l'Isola
+    della Fortezza né l'Isola Polare. Per andarci ci vuole un Dino-Fly.

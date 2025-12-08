@@ -1,4 +1,18 @@
+textId: 132
 location:
 speaker:
 message: Did you know that the telepods are dangerous for all species? Only the
   clones can use them!
+fr:
+  message:
+    Saviez vous que les télépodes sont dangereux pour toutes les espèces ?
+    Seuls les clones peuvent les utiliser !
+de:
+  message: Wußten Sie, daß die Biemzellen für alle Arten gefährlich sind ? Nur
+    Klone können sie benutzen !
+es:
+  message: ¿Sabía que los teléportadores son peligrosos para todas las especies?
+    ¡Sólo los clones pueden utilizarlos!
+it:
+  message: Lo sapeva che i telepodi sono pericolosi per tutte le specie? Solo i
+    cloni possono utilizzarli!

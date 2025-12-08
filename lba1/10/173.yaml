@@ -1,3 +1,12 @@
+textId: 185
 location:
 speaker:
 message: I didn't see her.
+fr:
+  message: Je ne l'ai pas vue.
+de:
+  message: Ich habe sie nicht gesehen.
+es:
+  message: No la he visto.
+it:
+  message: Non l'ho vista.

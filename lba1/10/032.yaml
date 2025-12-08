@@ -1,3 +1,12 @@
+textId: 32
 location:
 speaker:
 message: Sorry, but you don't have enough Kashes. Come back later.
+fr:
+  message: Désolé mais tu n'a pas assez de Kashes. Reviens plus tard.
+de:
+  message: Tut mir leid, Du hast nicht genügend Kashes. Komm später wieder.
+es:
+  message: Lo siento pero no tienes suficiente dinero. Regresa más tarde.
+it:
+  message: Spiacente, ma non hai abbastanza soldi. Torna più tardi.

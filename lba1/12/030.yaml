@@ -1,5 +1,25 @@
+textId: 67
 location:
 speaker:
 message: You were the one who freed that gnome with the hideous hat? He asked me
   if there was a princess that needed freeing in the neighborhood, but if you
   want my opinion, he doesn't have what it takes to be a hero.
+fr:
+  message:
+    C'est toi qui a libéré ce gnome avec son bonnet hideux ? Il m'a demandé
+    s'il n'y avait pas une princesse à libérer dans le coin, mais si tu veux mon
+    avis, il n'a pas l'étoffe d'un héros.
+de:
+  message: Hast Du diesen Gnom mit seiner häßlichen Mütze losgelassen ? Er hat
+    mich gefragt, ob es hier in der Gegend eine Prinzessin zu befreien gibt,
+    wenn Du meine Meinung willst, er hat nicht das Zeug zum Helden.
+es:
+  message:
+    ¿Eres tú quien ha liberado a ese gnomo de gorro repelente? Me preguntó
+    si no había una princesa a quién liberar por estos lares, pero si quieres mi
+    opinión, no tienes vena de héroe.
+it:
+  message:
+    Sei tu che hai liberato quello gnomo con quell'orribile berretto? Mi ha
+    chiesto se per caso non ci fossero principesse da liberare qui in giro, ma
+    secondo me non ha la stoffa di un eroe.

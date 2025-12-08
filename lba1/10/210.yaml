@@ -1,4 +1,20 @@
+textId: 227
 location:
 speaker:
 message: I'd like to help you, but I really don't know much, except about
   movies. Good luck!
+fr:
+  message:
+    J'aimerais bien t'aider, mais vraiment je n'y connais rien en-dehors du
+    cinéma. Bonne chance !
+de:
+  message:
+    Ich würde Dir gerne helfen, aber außer Kino kenne ich wirklich nichts.
+    Viel Glück !
+es:
+  message: Me gustaría ayudarte, pero verdaderamente, no sé nada aparte de cine.
+    ¡Buena suerte!
+it:
+  message:
+    Vorrei proprio aiutarti, ma davvero, non conosco gran che, al di fuori
+    dei film, ovviamente. Buona fortuna!
