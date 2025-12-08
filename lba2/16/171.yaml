@@ -1,4 +1,21 @@
+textId: 375
 location:
 speaker:
 message: Wait a minute, I smell a rat! I am sure that this filthy critter has
   been trained.
+fr:
+  message: Il se passe des choses bizarres ici. Je suis sûr que cette saleté de
+    bestiole est dressée.
+de:
+  message: Hier geschehen eigenartige Dinge. Ich bin mir absolut sicher, daß
+    dieses Mistvieh abgerichtet ist.
+es:
+  message: Aquí pasan cosas raras. Estoy seguro de que ese asqueroso bicho está
+    amaestrado
+it:
+  message: Stanno succedendo dei fatti strani qui. Sono sicuro che questa sporca
+    bestia è ammaestrata.
+pt:
+  message:
+    Est╞o acontecendo coisas esquisitas aqui. Tenho certeza que essa besta
+    imunda está treinada.

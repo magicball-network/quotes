@@ -1,3 +1,14 @@
+textId: 74
 location:
 speaker:
 message: Hey!! You nuts?
+fr:
+  message: Hey !! Ça va pas ?
+de:
+  message: He! Hast du'n Problem?
+es:
+  message: ¡¡Hey!! ¿¿Está loco??
+it:
+  message: Ehi !! Non sta bene ?
+pt:
+  message: Ei !! Você está maluco ?

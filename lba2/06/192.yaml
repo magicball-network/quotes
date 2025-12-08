@@ -1,3 +1,14 @@
+textId: 526
 location:
 speaker:
 message: Esmer Base.
+fr:
+  message: Base Esmer.
+de:
+  message: Esmerier-Stützpunkt.
+es:
+  message: Base esmer.
+it:
+  message: Base esmers.
+pt:
+  message: Base Esmer.

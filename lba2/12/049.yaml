@@ -1,3 +1,14 @@
+textId: 349
 location:
 speaker:
 message: I happen to be looking for him.
+fr:
+  message: Justement, je le cherche.
+de:
+  message: Genau den suche ich.
+es:
+  message: Precisamente lo estoy buscando
+it:
+  message: Infatti, lo cerco.
+pt:
+  message: Justamente, estou procurando por ele.

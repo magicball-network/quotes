@@ -1,3 +1,14 @@
+textId: 85
 location:
 speaker:
 message: Hey, this looks like a map. But I can't read it!
+fr:
+  message: Tiens, on dirait un plan. Il est complètement illisible.
+de:
+  message: Oh, das scheint ein Plan zu sein - leider absolut unleserlich.
+es:
+  message: Mira, parece un mapa. Es totalmente ilegible.
+it:
+  message: Guarda, sembra una mappa ma è completamente illeggibile.
+pt:
+  message: Hum, acho que é um mapa. Está completamente ilegível.

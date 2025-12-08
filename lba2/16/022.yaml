@@ -1,3 +1,14 @@
+textId: 22
 location:
 speaker:
 message: Not yet.
+fr:
+  message: Pas encore.
+de:
+  message: Noch nicht.
+es:
+  message: Todavía no.
+it:
+  message: Non ancora.
+pt:
+  message: Ainda n╞o.

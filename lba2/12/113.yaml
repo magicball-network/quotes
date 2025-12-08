@@ -1,4 +1,20 @@
+textId: 322
 location:
 speaker:
 message: I've seen some pass by, quite a few frankly. But they all disappear
   before I can figure out where they're going.
+fr:
+  message: J'en ai bien vu passer, et un certain nombre d'ailleurs. Mais ils
+    disparaissent tous avant que j'ai pu comprendre où ils allaient.
+de:
+  message: Ich habe viele von ihnen vorbeigehen sehen. Aber sie waren schon weg,
+    bevor ich sehen konnte, wo sie hin sind.
+es:
+  message: Sí que los he visto pasar y eran bastantes, además. Pero desaparecían
+    todos antes de que pudiera saber adónde iban
+it:
+  message: Ne ho visti passare, e molti. Ma sparivano tutti prima che potessi
+    capire dove andassero.
+pt:
+  message: Acabaram de passar. Um bom número deles, por sinal. Mas todos
+    desapareceram antes que eu pudesse descobrir para onde estavam indo.

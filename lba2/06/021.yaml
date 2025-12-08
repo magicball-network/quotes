@@ -1,3 +1,14 @@
+textId: 20
 location:
 speaker:
 message: You just found the customer's umbrella
+fr:
+  message: Tu viens de retrouver le parapluie de la cliente.
+de:
+  message: Du hast gerade den Schirm der Kundin gefunden.
+es:
+  message: Acabas de volver a encontrar el paraguas de la clienta.
+it:
+  message: Hai ritrovato l'ombrello della cliente.
+pt:
+  message: Você encontrou o guarda-chuva da cliente.

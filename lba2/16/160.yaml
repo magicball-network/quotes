@@ -1,6 +1,37 @@
+textId: 396
 location:
 speaker:
 message: I'll level with you. Unfortunately, I have no one who can accommodate
   your needs. But there's a group of dissidents who are very hostile to the
   government. Go see Johnny Rocket. Tell him Rick sent you, and he'll take you
   to them. He lives at the Imperial hotel, in the upper city.
+fr:
+  message: J'aime qu'on me parle franchement. Malheureusement, je n'ai personne
+    qui pourrait t'y conduire. Par contre, il existe un groupe de dissidents
+    hostiles au gouvernement. Va voir Johnny Rocket de ma part. Il te mènera aux
+    dissidents. Il loge à l'hôtel impérial, c'est dans la ville haute.
+de:
+  message:
+    Ich mag es, wenn man mir klipp und klar sagt, was man will. Leider habe
+    ich niemand, der dich hinbringen könnte. Es gibt aber eine Rebellengruppe,
+    die die Regierung bekämpft. Statte doch Johnny Rocket einen Besuch ab und
+    vergiß nicht zu sagen, daß ich dich geschickt habe. Er bringt dich zu den
+    Rebellen. Er wohnt im Hotel Imperial, das ist in der Oberstadt.
+es:
+  message:
+    Me gusta que me hablen con franqueza. Lamentablemente no tengo a nadie
+    que pueda llevarte allí. Pero hay un grupo de disidentes hostiles al
+    gobierno. Vete a ver de mi parte a Johnny Rocket. Te conducirá hasta los
+    disidentes. Se aloja en el hotel imperial, en la ciudad alta.
+it:
+  message:
+    Preferisco che la gente mi parli francamente. Purtroppo non ho nessuno
+    in grado di portarti laggiù. Esiste invece un gruppo di dissidenti ostili al
+    governo. Vai a trovare Johnny Rocket e digli che ti mando io. Ti porterà dai
+    dissidenti. Alloggia all'Hotel Imperial, nella città alta.
+pt:
+  message:
+    Eu gosto de pessoas francas. Infelizmente, n╞o tenho ninguém que possa
+    te levar. Mas há um grupo de rebeldes hostis ao governo. Vá ver Johnny
+    Rocket e diga que eu te mandei. Ele te levará até os rebeldes. Ele mora no
+    Hotel Imperial, na cidade alta.

@@ -1,3 +1,14 @@
+textId: 425
 location:
 speaker:
 message: Hello Luc.
+fr:
+  message: Bonjour Luc.
+de:
+  message: Hallo, Luc.
+es:
+  message: Buenos días Luc.
+it:
+  message: Buongiorno Luc.
+pt:
+  message: Bom dia Luc.

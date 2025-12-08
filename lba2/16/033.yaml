@@ -1,3 +1,16 @@
+textId: 122
 location:
 speaker:
 message: '"OTRINGAL NEWS : The twinsunian wizards on a visit of Otringal..."'
+fr:
+  message: '" OTRINGAL NEWS : Les mages twinsuniens en visite sur Otringal...."'
+de:
+  message: '" OTRINGALER NACHRICHTEN: Magier von Twinsun zu Besuch auf Otringal ..."'
+es:
+  message:
+    '"OTRINGAL NEWS: Los magos twinsianos visitan Otringal. Alojados en el
+    Palacio Imperial..."'
+it:
+  message: '""OTRINGAL NEWS : I maghi twinsuniani in visita ad Otringal.'
+pt:
+  message: '" OTRINGAL NEWS : Os magos twinsunianos visitam Otringal...."'

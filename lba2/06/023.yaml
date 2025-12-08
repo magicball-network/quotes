@@ -1,4 +1,21 @@
+textId: 22
 location:
 speaker:
 message: You own the Horn of the Blue Triton, you can use it to heal yourself or
   someone else.
+fr:
+  message: Tu possèdes la Conque du Triton Bleu, elle permet de te soigner ou de
+    soigner quelqu'un d'autre.
+de:
+  message: Du besitzt die Blaue Tritonmuschel, mit der du dich selbst und andere
+    heilen kannst.
+es:
+  message:
+    Está en tu poder la caracola del Tritón Azul, que te permite curarte o
+    curar a otro.
+it:
+  message: Hai la Conchiglia del Tritone blu, ti permette di curarti o di curare
+    qualcun'altro.
+pt:
+  message: Você possui a Concha do Trit╞o Azul, Com ela, você poderá se curar ou
+    curar alguém.

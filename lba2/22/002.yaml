@@ -1,3 +1,14 @@
+textId: 8
 location:
 speaker:
 message: The island of the volcano
+fr:
+  message: Sur l'îlot du volcan.
+de:
+  message: Auf die Vulkaninsel.
+es:
+  message: Al islote del volcán
+it:
+  message: Sull'Isolotto del vulcano.
+pt:
+  message: Na ilhota do vulc╞o

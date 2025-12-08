@@ -1,3 +1,23 @@
+textId: 324
 location:
 speaker:
 message: My friends the moles told me that all the Esmers were gathering underground.
+fr:
+  message:
+    Mes amies les taupes m'ont raconté que les Esmers se regroupaient tous
+    sous la terre.
+de:
+  message:
+    Meine Freunde, die Maulwürfe, haben mir erzählt, daß die Esmerier sich
+    unter der Erde treffen.
+es:
+  message: Mis amigos los topos me han contado que todos los esmeres se estaban
+    reuniendo bajo tierra.
+it:
+  message:
+    Le mie amiche talpe mi hanno raccontato che gli Esmers si raggruppavano
+    tutti sottoterra.
+pt:
+  message:
+    Minhas amigas, as toupeiras, me contaram que todos os Esmers se reuniam
+    embaixo da terra.

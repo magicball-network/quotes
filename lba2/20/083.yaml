@@ -1,3 +1,20 @@
+textId: 600
 location:
 speaker:
 message: Easy, Twinsen, be careful. It's not the time to break this precious fragment!!
+fr:
+  message:
+    Allons Twinsen, fais un peu attention. Ce n'est pas le moment de casser
+    ce fragment !!
+de:
+  message: Aber Twinsen, paß doch ein bißchen auf. Jetzt ist wirklich nicht der
+    richtige Augenblick, das Fragment kaputt zu machen!
+es:
+  message: Ojo, Twinsen, ten cuidado. ¡¡No es momento para romper ese fragmento!!
+it:
+  message: Allora Twinsen, fai un po' attenzione. Non è certo il momento di
+    rompere questo frammento !!
+pt:
+  message:
+    Vamos Twinsen, preste um pouco de atenç╞o. N╞o está na hora de quebrar
+    essa parte da chave!!

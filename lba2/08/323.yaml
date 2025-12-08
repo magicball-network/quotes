@@ -1,3 +1,14 @@
+textId: 368
 location:
 speaker:
 message: Hi there, Mr. Twinsen ! Listen to our new nursery rhyme!!
+fr:
+  message: Oh bonjour Twinsen ! On a appris une nouvelle comptine, écoute !!
+de:
+  message: Hallo, Twinsen! Wir haben eine neue Strophe gelernt! Willst du sie mal hören?
+es:
+  message: ¡Hola Twinsen, buenos días! ¡¡Hemos aprendido una nueva canción, escucha!!
+it:
+  message: Oh buongiorno Twinsen ! Abbiamo imparato una nuova filastrocca, ascolta !!
+pt:
+  message: Ah, bom dia Twinsen ! A gente aprendeu uma cantiga nova, escute!!

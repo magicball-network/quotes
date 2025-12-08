@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: And what did you do with the children and the wizards?, you creep!
+fr:
+  message: Et qu'as-tu fait des enfants et des mages ??
+de:
+  message: Was hast du mit den Kindern und den Magiern gemacht?
+es:
+  message: ¿Y qué has hecho con los niños y los magos?
+it:
+  message: E che cosa ne hai fatto dei bambini e dei maghi ??
+pt:
+  message: E o que você fez com as crianças e os magos ??

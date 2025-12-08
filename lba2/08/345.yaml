@@ -1,5 +1,28 @@
+textId: 565
 location:
 speaker:
 message: I had hidden in the shuttle when you left the planet of the strange
   people. But now, I would like to go back. We left the wizards all alone up
   there, and they must be getting bored stiff.
+fr:
+  message: Je m'étais caché dans la navette quand tu es parti de la planète des
+    gens bizarres. Mais maintenant, j'aimerais bien y retourner parce qu'on a
+    laissé les mages là-bas et qu'ils doivent bien s'embêter tous seuls là-haut.
+de:
+  message: Ich hatte mich im Raumschiff versteckt, als du von dem Planeten der
+    komischen Leute weggegangen bist. Aber jetzt würde ich gerne dorthin
+    zurückgehen, weil man ja die Magier untengelassen hat und die sich da oben
+    sicher langweilen, so ganz alleine.
+es:
+  message:
+    Me había escondido en la nave cuando te fuiste del planeta de la gente
+    rara. Pero ahora me gustaría volver porque los magos se han quedado allí y
+    deben de estar aburridos allí solos.
+it:
+  message: Mi ero nascosto nella navetta quando sei andato via dal pianeta degli
+    uomini strani. Ma adesso, mi piacerebbe ritornarci perchè abbiamo lasciato i
+    maghi lassù e loro si devono proprio annoiare soli soletti.
+pt:
+  message: Eu estava escondido dentro da nave quando você deixou o planeta dos
+    seres estranhos. Mas agora eu queria voltar, porque deixamos os magos lá e
+    eles devem estar chateados por estarem sozinhos lá em cima.

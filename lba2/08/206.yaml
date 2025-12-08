@@ -1,6 +1,33 @@
+textId: 53
 location:
 speaker:
 message: "If you go to the cellar, be [hic!]... be careful! I been there my own
   self... just to get in a couple snorts on the sly: well there's a [hic!]
   there's a hole smack in the middle. Yessir, smack in the middle! Oh, that
   falllll, yowza!"
+fr:
+  message: "Si vous allez à la cave, faites heu... faites attention! Hips !! Moi
+    j'y suis allé... histoire de boire un ou deux coups en douce : he ben y'a,
+    hips ! y'a un trou en plein milieu. Oui monsieur, en plein milieu ! Oh la
+    gamelleuuu !"
+de:
+  message:
+    Aber au- hick! aufpassen im Keller! Ich war ja schon unten ... muß sich
+    ja auch mal was gönnen, so'n Schlück -hick! Schlück'schen in Ruhe ... Was
+    wollt' ich noch ... hick! Ach ja, da is'n Loch - mittendrin! Jawoll,
+    mittendrin is' da'n Loch! War das vielleicht ein Sturz!
+es:
+  message: ¡Si van a la bodega, tengan, heu... tengan cuidado! ¡¡Hip!! Yo he
+    ido... por aquello de tomar una o dos copas a la chita callando, y pues,
+    hay, hips, hay un agujero justo en medio. ¡Si, señor, justo en medio!
+    ¡Menudo batacaaaazo!
+it:
+  message: "Se va in cantina, faccia ehm... faccia attenzione! Hic!! Io ci sono
+    andato ... giusto per bere di nascosto uno o due bicchieri : eh uf c'è...
+    hic ! c'è un buco nel mezzo. Si signore, proprio in mezzo ! Oh, il ruzzolone
+    che ho fatto !"
+pt:
+  message:
+    "Se você for à adega, preste ahh... preste atenç╞o! Hic !! Eu fui lá...
+    queria beber um ou dois goles na paz : mas tem, hic ! tem um buraco bem no
+    meio. Sim senhor, bem no meio!!"

@@ -1,3 +1,14 @@
+textId: 561
 location:
 speaker:
 message: Would you like another slice of tart?
+fr:
+  message: Vous voulez un autre morceau de tarte ?
+de:
+  message: Möchten Sie noch ein Stückchen Kuchen?
+es:
+  message: ¿Quiere otro trozo de tarta?
+it:
+  message: Vuole un altro pezzo di torta ?
+pt:
+  message: Você quer um outro pedaço de torta ?

@@ -1,4 +1,26 @@
+textId: 49
 location:
 speaker:
 message: He said he wanted to practice a new piece on his guitar. He usually
   hides out on the cliffs for peace and quiet. But not this long usually.
+fr:
+  message: Il m'a dit qu'il voulait travailler un nouveau morceau à la guitare.
+    Pour être tranquille, il va toujours se cacher sur la corniche. Mais c'est
+    rare qu'il reste absent aussi longtemps.
+de:
+  message: Er hat gesagt, er wollte an einem neuen Gitarrenstück arbeiten. Dazu
+    versteckt er sich immer in der Nähe der Küstenstraße, um seine Ruhe zu
+    haben. Aber normalerweise bleibt er nicht so lange weg.
+es:
+  message: Me ha dicho que quería ensayar una música nueva con la guitarra. Se
+    suele esconder en la cornisa para estar más tranquilo. Pero es raro que esté
+    afuera tanto tiempo.
+it:
+  message:
+    Mi ha detto che voleva provare un nuovo pezzo alla chitarra. Per stare
+    tranquillo, va sempre a nascondersi dalle parti della strada panoramica. Ma
+    è raro che resti assente così tanto.
+pt:
+  message: Ele me disse que queria compor uma nova música no viol╞o. Ele sempre
+    vai se esconder no torre╞o onde é mais tranqüilo. Mas é raro ele ficar fora
+    tanto tempo assim.

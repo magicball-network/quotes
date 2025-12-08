@@ -1,3 +1,14 @@
+textId: 202
 location:
 speaker:
 message: Go ahead, Mr. Twinsen. It's your property, isn't it?
+fr:
+  message: Allez-y, prenez votre appareil m'sieur Twinsen.
+de:
+  message: Na los, nehmen Sie Ihr Gerät, Herr Twinsen.
+es:
+  message: Venga, coja su aparato, don Twinsen.
+it:
+  message: Su, prenda il suo apparecchio signor Twinsen.
+pt:
+  message: Vá lá, pegue o aparelho senhor Twinsen.

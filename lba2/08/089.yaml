@@ -1,4 +1,21 @@
+textId: 540
 location:
 speaker:
 message: I was told to go see the healing wizard on Desert Island. He'll be able
   to help my Dino.
+fr:
+  message:
+    On m'a recommandé d'aller voir le mage guérisseur. Il habite sur l'île
+    du désert et serait capable de soigner le Dino.
+de:
+  message: Man hat mir empfohlen, den Heilmagier aufzusuchen. Er lebt auf der
+    Wüsteninsel und soll den Dinofly heilen können.
+es:
+  message: Me han recomendado que vaya a ver al mago curandero. Vive en la isla
+    del desierto y podría curar al Dino.
+it:
+  message: Mi hanno raccomandato di andare a trovare il mago guaritore. Abita
+    sull'Isola del deserto e potrebbe curare il Dino.
+pt:
+  message: Me recomendaram ir ver o mago curador. Ele mora na Ilha do Deserto e
+    poderia curar o Dino.

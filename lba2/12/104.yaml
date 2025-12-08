@@ -1,6 +1,39 @@
+textId: 10
 location:
 speaker:
 message: There is a top secret exchange program, currently reserved for the
   wizards. Come discover our science and civilization, and show us your Magic in
   return. You'll get rich in knowledge and experience. Don't mention it to your
   School of Magic yet, it's too early ... they would not understand.
+fr:
+  message: Il existe un programme d'échange ultra-secret pour l'instant réservé
+    aux mages. Venez découvrir notre science et notre civilisation, et
+    montrez-nous votre Magie en échange. Vous reviendrez riche de savoir et
+    d'expérience. N'en parlez pas encore à votre Ecole de Magie, c'est trop tôt
+    ... ils ne comprendraient pas.
+de:
+  message: Es gibt ein geheimes Austauschprogramm, das gegenwärtig noch Magiern
+    vorbehalten ist. Kommen Sie, und entdecken Sie unsere Wissenschaft und
+    unsere Zivilisation, und zeigen Sie uns im Austausch dafür Ihre magischen
+    Fähigkeiten. Sie werden reich an Wissen und Erfahrung heimkehren. Aber
+    verraten Sie Ihrer Zauberschule noch nichts davon, es ist einfach noch zu
+    früh ... das würden sie nicht verstehen.
+es:
+  message: Existe un programa de intercambio super secreto por el momento,
+    reservado a los magos. Venga a descubrir nuestra ciencia y nuestra
+    civilización a cambio de enseñarnos su Magia. Volverá con mucha más
+    sabiduría y experiencia. No hable todavía de esto en su Escuela de Magia. Es
+    aún pronto.... no lo entenderían.
+it:
+  message:
+    Esiste un programma di scambi ultrasegreto e per il momento è riservato
+    ai maghi. Venite a scoprire la nostra scienza e la nostra civilizzazione, e
+    in cambio mostrateci la vostra Magia. Ritornerete ricchi di conoscenze e di
+    esperienza. Non ne parlate ancora alla vostra Scuola di Magia, è troppo
+    presto ... non capirebbero.
+pt:
+  message: Existe um programa de intercâmbio ultra-secreto que por enquanto está
+    restrito aos magos. Venha descobrir nossa ciência e nossa civilizaç╞o, e
+    mostre-nos em troca sua Magia. Vocês retornar╞o cheios de sabedoria e
+    experiência. N╞o contem nada disso à sua Escola de Magia, é muito cedo...
+    eles n╞o entenderiam.

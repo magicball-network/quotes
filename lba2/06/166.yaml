@@ -1,3 +1,14 @@
+textId: 500
 location:
 speaker:
 message: Citadel Island.
+fr:
+  message: Ile de la Citadelle.
+de:
+  message: Zitadelleninsel.
+es:
+  message: Isla de la Ciudadela.
+it:
+  message: Isola della Cittadella.
+pt:
+  message: Ilha da Fortaleza.

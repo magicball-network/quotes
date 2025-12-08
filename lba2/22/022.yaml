@@ -1,4 +1,23 @@
+textId: 605
 location:
 speaker:
 message: Listen to me Twinsunian! You must seize a weapon hidden behind one of
   the doors! Do what you can, there are no other rules!
+fr:
+  message: Ecoute moi twinsunien ! Tu dois t'emparer d'une arme cachée derrière
+    l'une des portes ! Fais ce que tu peux, il n'y a pas d'autres règles !
+de:
+  message: Hör mir zu, Twinsunier! Nimm eine Waffe, die hinter einer der Türen
+    steht! Tu, was du kannst, andere Regeln gibt es nicht!
+es:
+  message:
+    ¡Escúchame twinsiano! ¡Tienes que apoderarte de un arma escondida tras
+    una de las puertas! ¡Hazlo como puedas, no hay reglas!
+it:
+  message:
+    Ascoltami, Twinsuniano ! Dovrai impadronirti di un'arma nascosta dietro
+    una delle porte ! Fai quello che puoi, non ci sono regole precise !
+pt:
+  message:
+    Me escute twinsuniano! Você deve pegar uma arma escondida atrás de uma
+    das portas ! Faça o que puder, n╞o tem outra regra além dessa!

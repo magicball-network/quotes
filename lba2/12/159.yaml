@@ -1,4 +1,22 @@
+textId: 664
 location:
 speaker:
 message: For the Test of the Slate, you must first go to the island called the
   Dome of the Slate, a stone's throw away from Citadel Island.
+fr:
+  message: Pour l'épreuve de l'ardoise, tu dois d'abord te rendre sur l'îlot du
+    dôme de l'ardoise, au large de l'île de la citadelle.
+de:
+  message:
+    Für die Kreideprüfung mußt du zunächst auf das Eiland des Kreidedoms in
+    Höhe der Zitadelleninsel gehen.
+es:
+  message: Para la prueba de la pizarra debes ir primeramente al islote de la
+    cúpula de la pizarra, a la altura de la isla de la ciudadela.
+it:
+  message: Per la prova dell'ardesia, devi andare prima sull'isolotto del Duomo
+    dell'ardesia, al largo dell'Isola della Cittadella.
+pt:
+  message:
+    Para a prova da ardósia, você primeiro tem que ir até a Ilha da Cúpula
+    de Ardósia, que fica depois da Ilha da Fortaleza.

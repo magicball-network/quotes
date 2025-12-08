@@ -1,5 +1,29 @@
+textId: 216
 location:
 speaker:
 message: This ring is made and worn only by the dissidents. It is their
   identification sign. It will allow you to be recognized as one of them and to
   make contact with them.
+fr:
+  message: Cette bague n'est fabriquée et portée que par les dissidents. C'est
+    leur signe de reconnaissance. Il te permettra de te faire reconnaître comme
+    l'un des leurs et t'autorisera à entrer en contact avec eux.
+de:
+  message:
+    Dieser Ring wird nur von Rebellen hergestellt und getragen. Er ist ihr
+    Erkennungszeichen. Damit kannst du dich ihnen als einer der ihren zu
+    erkennen geben und hast die Möglichkeit, mit ihnen in Kontakt zu treten.
+es:
+  message: Este anillo sólo lo fabrican y llevan los disidentes. Es su señal de
+    identificación. Te permitirá que te reconozcan como uno de los suyos y te
+    autorizará a entrar en contacto con ellos.
+it:
+  message:
+    Questo anello è creato e portato solo dai dissidenti. E' il loro segno
+    di riconoscimento. Ti permetterà di farti riconoscere come uno dei loro e ti
+    autorizzerà ad entrare in contatto con loro.
+pt:
+  message:
+    Esse anel é fabricado e usado apenas pelos rebeldes. Esse anel é também
+    um meio de identificaç╞o dos rebeldes. Com ele você será como um deles e
+    poderá entrar em contato com eles.

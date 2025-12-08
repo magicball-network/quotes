@@ -1,3 +1,14 @@
+textId: 522
 location:
 speaker:
 message: House of Ker'aooc the Healer.
+fr:
+  message: Maison de Ker'aooc le guérisseur.
+de:
+  message: Haus von Ker'aooc, dem Heiler.
+es:
+  message: Casa de Ker'aooc el curandero.
+it:
+  message: Casa di Ker'aooc il guaritore.
+pt:
+  message: Casa de Ker'aooc, o Curador.

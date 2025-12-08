@@ -1,3 +1,14 @@
+textId: 501
 location:
 speaker:
 message: Hello miss Bloop.
+fr:
+  message: Bonjour mademoiselle Bloop.
+de:
+  message: Guten Tag, Mademoiselle Bloop.
+es:
+  message: Buenos días señorita Bloop.
+it:
+  message: Buongiorno Signorina Bloop.
+pt:
+  message: Bom dia, senhorita Bloop.

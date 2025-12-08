@@ -1,4 +1,23 @@
+textId: 500
 location:
 speaker:
 message: No, thanks, go see somebody else! The place is deadly. And today nobody
   wants to talk about it.
+fr:
+  message: Non merci, allez voir quelqu'un d'autre ! l'endroit est dangereux. Et
+    aujourd'hui personne ne veut plus en parler.
+de:
+  message:
+    Nein, danke, fragen Sie jemand anderen! Der Ort ist gefährlich. Darüber
+    will heutzutage keiner mehr sprechen.
+es:
+  message:
+    No, gracias, ¡diríjase a otro! el lugar es peligroso. Y ahora ya nadie
+    quiere hablar de eso..
+it:
+  message: No grazie, vada a trovare qualcun'altro ! Il posto è pericoloso. E di
+    questi tempi nessuno ne vuole più parlare.
+pt:
+  message:
+    N╞o obrigado, procure outra pessoa ! O lugar é perigoso. E hoje ninguém
+    mais quer falar sobre isso.

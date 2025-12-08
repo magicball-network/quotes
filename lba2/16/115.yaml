@@ -1,4 +1,22 @@
+textId: 467
 location:
 speaker:
 message: If you need some information, the destinations and departure times for
   the shuttles are indicated on the main panel.
+fr:
+  message: Si vous désirez des renseignements, les destinations et heures de
+    départ des navettes sont indiquées sur le panneau central.
+de:
+  message: Wenn Sie Informationen wünschen, die Ziele und Abfahrtzeiten sind auf
+    der mittleren Tafel angeschrieben.
+es:
+  message:
+    Si desea informarse, los destinos y horas de salida de las naves están
+    indicadas en el panel central.
+it:
+  message:
+    Se desidera delle informazioni, le destinazioni e gli orari di partenza
+    delle navette sono indicati sul tabellone centrale.
+pt:
+  message: Se quiser informaçΣes, os destinos e horas de partida das naves est╞o
+    indicadas no painel central.

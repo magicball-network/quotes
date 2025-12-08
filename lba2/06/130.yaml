@@ -1,3 +1,15 @@
+textId: 219
 location:
 speaker:
 message: Be careful, the devastating power of this ring consumes a great deal of Magic.
+fr:
+  message: Attention la puissance dévastatrice de cet anneau consomme beaucoup de Magie.
+de:
+  message: "Vorsicht: Dieser Ring hat eine enorme zerstörerische Wirkung und
+    benötigt viel Magie."
+es:
+  message: Cuidado, el poder devastador de este anillo consume mucha Magia..
+it:
+  message: Attenzione, la potenza devastatrice di questo anello consuma molta Magia.
+pt:
+  message: Atenç╞o o poder devastador desse anel consome muita Magia.

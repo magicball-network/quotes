@@ -1,3 +1,14 @@
+textId: 71
 location:
 speaker:
 message: Waiter!
+fr:
+  message: Garçon !
+de:
+  message: Bedienung!
+es:
+  message: ¡Camarero!
+it:
+  message: Cameriere !
+pt:
+  message: Garçom !

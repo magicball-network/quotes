@@ -1,4 +1,22 @@
+textId: 361
 location:
 speaker:
 message: I'd like to take the kids to the "Flowers Circle", but the weather's
   just too bad.
+fr:
+  message: Nous devions faire une balade au " Cercle des fleurs ", mais le temps
+    est vraiment trop mauvais.
+de:
+  message:
+    Eigentlich wollten wir einen Spaziergang zum "Blumenkranz" machen, aber
+    das Wetter ist einfach zu schlecht.
+es:
+  message: Ibamos a ir a dar un paseo al "Círculo de las Flores", pero el tiempo
+    se ha puesto realmente malo..
+it:
+  message: Dovevamo fare un'escursione al " Cerchio dei fiori ", ma il tempo è
+    veramente orribile.
+pt:
+  message:
+    Nós íamos fazer um passeio ao " Círculo das Flores ", mas o tempo está
+    mesmo ruim demais.

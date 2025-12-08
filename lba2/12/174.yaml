@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: Hello
+fr:
+  message: Bonjour.
+de:
+  message: Guten Tag.
+es:
+  message: Buenos días.
+it:
+  message: Buongiorno
+pt:
+  message: Bom dia

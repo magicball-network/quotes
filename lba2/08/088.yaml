@@ -1,3 +1,14 @@
+textId: 535
 location:
 speaker:
 message: So, miss, Raph is not here?
+fr:
+  message: Alors mademoiselle, Raph n'est pas là ?
+de:
+  message: Raph ist also nicht hier, sagen Sie?
+es:
+  message: Señorita, ¿entonces Raph no está ahí?
+it:
+  message: Allora signorina, Raph non c'è ?
+pt:
+  message: E ent╞o senhorita, o Raph n╞o está ?

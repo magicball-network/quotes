@@ -1,5 +1,26 @@
+textId: 258
 location:
 speaker:
 message: You know, even though he is my brother, I don't give a hoot about his
   whereabouts, this lazy bum thinks about nothing but playing his guitar on the
   cliffs.
+fr:
+  message:
+    Vous savez, il a beau être mon frère, je me fiche bien de savoir où il
+    peut se trouver, ce fainéant ne pense qu'à jouer de la guitare sur les
+    falaises.
+de:
+  message:
+    Wissen Sie, und wenn er zehnmal mein Bruder ist, eigentlich ist es mir
+    völlig egal, wo er ist. Dieser Faulpelz hat sowieso nichts anderes im Kopf,
+    als auf den Klippen Gitarre zu spielen.
+es:
+  message: ¿Sabe qué le digo? Que por muy hermano mío que sea, me importa un
+    comino saber dónde diablos está. Ese gandul no piensa más que en tocar la
+    guitarra en los acantilados.
+it:
+  message: Sa, anche se è mio fratello, me ne infischio di sapere dove si trovi.
+    Quel fannullone non pensa altro che a suonare la chitarra sugli scogli.
+pt:
+  message: Sabe, mesmo sendo meu irm╞o, estou pouco ligando para onde ele possa
+    estar. Esse preguiçoso só quer saber de tocar viol╞o nos penhascos.

@@ -1,4 +1,24 @@
+textId: 516
 location:
 speaker:
 message: The Esmers have set up a base somewhere on Desert Island. Find it and
   steal a shuttle!! You are the only one who can save Twinsun!!!
+fr:
+  message: Les Esmers ont construit une base quelque part sur l'île du désert.
+    Trouve-la et vole une navette !! Il n'y a que toi qui puisse sauver Twinsun
+    !!!
+de:
+  message:
+    Die Esmerier haben einen Militärstützpunkt irgendwo auf der Wüsteninsel
+    errichtet. Du mußt ihn finden und dort ein Raumschiff stehlen! Nur du kannst
+    jetzt Twinsun noch retten!
+es:
+  message: ¡¡Los esmeres han construido una base en algún lugar de la isla del
+    desierto. Encuéntrala y roba una nave!! ¡¡Sólo tú puedes salvar Twinsun !!!
+it:
+  message: Gli Esmers hanno costruito una base da qualche parte sull'Isola del
+    deserto. Trovala e ruba una navetta !! Sei il solo a poter salvare Twinsun
+    !!!
+pt:
+  message: Os Esmers construíram uma base em algum lugar na Ilha do Deserto.
+    Encontre-a e roube uma nave !! Você é o único que pode salvar Twinsun !!!

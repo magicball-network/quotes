@@ -1,3 +1,14 @@
+textId: 515
 location:
 speaker:
 message: Are you stupid or what? He's right there in front of you!
+fr:
+  message: Vous êtes stupide ou quoi ? Vous l'avez devant vous !
+de:
+  message: Sind Sie blind oder was? Er sitzt doch vor Ihnen!
+es:
+  message: ¿Es usted tonto o qué? ¡Lo tiene delante de las narices!
+it:
+  message: E' stupido o fa finta ? E' davanti a lei !
+pt:
+  message: Você é burro ou o que ? Está na sua frente !

@@ -1,5 +1,26 @@
+textId: 24
 location:
 speaker:
 message: Once you pass through this door, you will have to be both fast and
   accurate. Stand in the middle of the room and, with the help of your ball,
   reverse all the magic symbols.
+fr:
+  message:
+    Une fois cette porte franchie, tu devras faire preuve de rapidité et de
+    précision. Place-toi au centre de la pièce et à l'aide de ta balle renverse
+    tous les symboles magiques.
+de:
+  message: Sobald du durch diese Tür gegangen bist, mußt du flink und präzise
+    arbeiten. Geh in die Mitte des Raumes und wirf alle magischen Symbole um.
+es:
+  message: Una vez franqueada esta puerta, tendrás que realizar la prueba de
+    rapidez y precisión. Colócate en el centro de la habitación y con ayuda de
+    tu bola derriba todos los símbolos mágicos.
+it:
+  message: Quando avrai oltrepassato questa porta, dovrai mostrare rapidità e
+    precisione. Mettiti al centro della stanza e con l'aiuto della tua sfera fai
+    cadere tutti i simboli magici.
+pt:
+  message: Assim que você atravessar essa porta, deverá passar pela prova de
+    rapidez e precis╞o. Posicione-se no centro da sala e com a ajuda da bola
+    derrube todos os símbolos mágicos.

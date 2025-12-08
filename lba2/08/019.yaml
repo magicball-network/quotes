@@ -1,3 +1,14 @@
+textId: 268
 location:
 speaker:
 message: To knock you out!
+fr:
+  message: Pour vous assommer !
+de:
+  message: Um Sie damit zu Boden zu schlagen!
+es:
+  message: ¡Para darle una paliza!
+it:
+  message: Per stordirvi !
+pt:
+  message: Para bater em vocês !

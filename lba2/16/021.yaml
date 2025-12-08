@@ -1,4 +1,18 @@
+textId: 21
 location:
 speaker:
 message: I'm here on behalf of Rick to look for the dissidents, and I
   desperately need to get to island CX!
+fr:
+  message: Je viens de la part de Rick, je cherche les dissidents, j'ai besoin
+    d'aller sur l'îlot CX !
+de:
+  message: Rick hat mich geschickt, ich suche die Rebellen, ich muß auf das Eiland CX!
+es:
+  message:
+    Vengo de parte de Rick, estoy buscando a los disidentes, ¡tengo que ir
+    al islote CX!
+it:
+  message: Vengo da parte di Rick, cerco i dissidenti. Devo andare sull'isolotto CX !
+pt:
+  message: Rick me enviou, estou procurando os rebeldes, preciso ir até a Ilhota CX !

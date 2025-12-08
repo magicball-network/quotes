@@ -1,3 +1,14 @@
+textId: 205
 location:
 speaker:
 message: 10 Life points! Cool!
+fr:
+  message: 10 points de Vie !
+de:
+  message: 10 Lebenspunkte!
+es:
+  message: ¡10 puntos de vida!
+it:
+  message: 10 punti di Vita !
+pt:
+  message: 10 pontos de Vida!

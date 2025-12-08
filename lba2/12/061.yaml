@@ -1,3 +1,15 @@
+textId: 853
 location:
 speaker:
 message: I've decided to become a wizard so that I can treat Dino-Fly myself.
+fr:
+  message: J'ai décidé de devenir mage pour soigner moi-même le Dino-Fly.
+de:
+  message: Ich habe beschlossen, Magier zu werden. Dann kann ich den Dinofly
+    selbst heilen.
+es:
+  message: He decidido convertirme en mago para curar yo mismo al Dino-Fly.
+it:
+  message: Ho deciso di diventare mago per curare io stesso il Dino-Fly.
+pt:
+  message: Decidi me tornar um mago para curar eu mesmo o Dino-Fly.

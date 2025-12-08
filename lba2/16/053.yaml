@@ -1,3 +1,16 @@
+textId: 42
 location:
 speaker:
 message: '"IMPERIAL HOTEL - Luxury establishment, members only"'
+fr:
+  message: '"HOTEL IMPERIAL - Etablissement de luxe, exclusivement réservé aux
+    membres."'
+de:
+  message: '"HOTEL IMPERIAL - Luxushotel, nur für Mitglieder"'
+es:
+  message: '"HOTEL IMPERIAL. Establecimiento de lujo, estrictamente reservado a socios"'
+it:
+  message: '"HOTEL IMPERIAL - Albergo di lusso, riservato esclusivamente ai membri".'
+pt:
+  message: '"HOTEL IMPERIAL - Estabelecimento de luxo, exclusivamente reservado
+    aos sócios"'

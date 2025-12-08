@@ -1,6 +1,35 @@
+textId: 413
 location:
 speaker:
 message: I know you. You're Twinsen, the hero of your planet. The Emperor and
   Dark Monk fear you -- that's why you're a wanted man. The dissidents will help
   you. Here, take this ring, go to the Twinsunian souvenir shop, and show it to
   the salesman. He'll take you to them.
+fr:
+  message: Je vous connais. Vous êtes Twinsen, le héros de votre planète.
+    L'Empereur et Dark Monk vous craignent, c'est pour cela qu'ils vous font
+    rechercher. Les dissidents vous aideront. Tenez, prenez cette bague, allez
+    au magasin de souvenirs de Twinsun, et montrez-la au vendeur. Il vous mènera
+    jusqu'à eux.
+de:
+  message: Ich kenne Sie. Sie sind Twinsen, der Held Ihres Planeten. Der Kaiser
+    und Dark Monk fürchten Sie, daher wird auch nach Ihnen gefahndet. Die
+    Rebellen werden Ihnen helfen. Hier, nehmen Sie diesen Ring, gehen Sie damit
+    zum Souvenirladen auf Twinsun, und zeigen Sie ihn dem Verkäufer. Er bringt
+    Sie zu den Rebellen.
+es:
+  message: Lo conozco. Es usted Twinsen, el héroe de su planeta.. El emperador y
+    Dark Monk lo temen, por eso lo buscan. Los disidentes le ayudarán. Toma coja
+    este anillo, vaya a la tienda de recuerdos de Twinsun, y enséñesela al
+    vendedor. Lo conducirá hasta ellos.
+it:
+  message:
+    La conosco. Lei è Twinsen, l'eroe del suo pianeta. L'imperatore e Dark
+    Monk hanno paura di lei, per questo motivo la fanno ricercare. I dissidenti
+    l'aiuteranno. Prenda questo anello, vada al negozio di souvenir di Twinsun e
+    la mostri all'impiegato. La porterà da loro.
+pt:
+  message: Eu te conheço. Você é Twinsen, o herói do seu planeta. O Imperador e
+    Dark Monk têm medo de você, foi por isso que mandaram a polícia a sua
+    procura. Os rebeldes te ajudar╞o. Toma, pegue este anel, vá a loja de
+    lembranças de Twinsun, e mostre-o ao vendedor. Ele o levará até eles.

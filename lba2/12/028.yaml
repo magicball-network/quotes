@@ -1,3 +1,14 @@
+textId: 405
 location:
 speaker:
 message: But... the healing wizard!!
+fr:
+  message: Mais... le mage guérisseur !!
+de:
+  message: Aber ... der Heilmagier!
+es:
+  message: ¡¡Pues... el mago curandero!!
+it:
+  message: Ma ... il mago guaritore !!
+pt:
+  message: Mas... o Mago Curador !!

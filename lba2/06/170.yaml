@@ -1,3 +1,14 @@
+textId: 504
 location:
 speaker:
 message: Miss Bloop's Private Museum.
+fr:
+  message: Musée privé de Mlle Bloop.
+de:
+  message: Museum von Mademoiselle Bloop.
+es:
+  message: Museo privado de Mlle Bloop.
+it:
+  message: Museo della Signorina Bloop.
+pt:
+  message: Museu particular da Senhorita Bloop.

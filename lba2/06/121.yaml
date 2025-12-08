@@ -1,3 +1,22 @@
+textId: 210
 location:
 speaker:
 message: With the emperor's sword, you can now face the hussars of the imperial guard.
+fr:
+  message:
+    Grâce au sabre de l'Empereur, tu peux désormais affronter les hussards
+    de la garde impériale.
+de:
+  message: Mit dem Säbel des Kaisers kannst du dich von nun an den Husaren der
+    kaiserlichen Wache stellen.
+es:
+  message:
+    Gracias al sable del emperador puedes a partir de ahora hacer frente a
+    los húsares de la guardia imperial.
+it:
+  message:
+    Con la sciabola dell'imperatore puoi ormai affrontare gli ussari della
+    guardia imperiale.
+pt:
+  message: Graças ao sabre do Imperador, você pode agora enfrentar os cavaleiros
+    da guarda imperial.

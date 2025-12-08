@@ -1,3 +1,20 @@
+textId: 32
 location:
 speaker:
 message: It seems Baldino is working on the proto-pack, maybe he's trying to improve it?
+fr:
+  message: Tiens, on dirait que Jérome travaille sur le proto-pack, peut-être
+    cherche t-il à l'améliorer.
+de:
+  message: Sieht so aus, als arbeite Jerome am ProtoPack, vielleicht will er es
+    verbessern.
+es:
+  message: mc2 + h-z = V - 1.8y ... Log(x-u) = 43p - t ... ¡¡Definitivamente,
+    nunca entenderé nada de las investigaciones de Baldino!!
+it:
+  message:
+    Guarda, sembra che Gerolamo stia lavorando sul Proto-Pack, forse cerca
+    di perfezionarlo.
+pt:
+  message: Parece que Jerônimo está trabalhando no Proto-pack, talvez esteja
+    tentando melhorá-lo.

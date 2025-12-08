@@ -1,4 +1,27 @@
+textId: 32
 location:
 speaker:
 message: The car's not working. Zoé said there's still a part she needs. She
   asked Baldino to make it for her.
+fr:
+  message:
+    La voiture n'est toujours pas en état de fonctionner. Il me semble que
+    Zoé a besoin d'une pièce pour terminer de la réparer. D'après ce qu'elle m'a
+    dit, elle a demandé à Baldino de lui en fabriquer une.
+de:
+  message: Das Auto funktioniert immer noch nicht. Anscheinend braucht Zoe noch
+    ein Bauteil, um es zu reparieren. Sie hat gesagt, sie hätte Baldino gebeten,
+    es zu bauen.
+es:
+  message: El coche sigue sin funcionar. Creo que Zoé necesita una pieza para
+    terminarlo. Según lo que me ha dicho le ha pedido a Baldino que se la
+    fabrique.
+it:
+  message: La macchina non è ancora in grado di funzionare. Credo che Zoe abbia
+    bisogno di un pezzo di ricambio per finire di ripararla. Mi ha detto che ha
+    chiesto a Baldino di fabbricarne uno.
+pt:
+  message:
+    O carro ainda n╞o está funcionando. Parece que Zoé precisa de uma peça
+    para terminar de consertá-lo. De acordo com o que ela me disse, ela pediu
+    para o Baldino fabricar uma.

@@ -1,4 +1,16 @@
+textId: 449
 location:
 speaker:
 message: No, not through there. First Let's go over to the lighthouse and visit
   the Weather Wizard.
+fr:
+  message: Non, pas par là. Allons d'abord au phare pour voir le Mage Météo.
+de:
+  message: Nein, nicht da herum. Gehen wir zuerst zum Leuchtturm und suchen den
+    Wettermagier.
+es:
+  message: No, por ahí no. Vayamos primeramente al faro a ver al Mago Meteo.
+it:
+  message: No, non da quella parte. Andiamo prima al faro a trovare il Mago Metereologo.
+pt:
+  message: N╞o, por aí n╞o. Vamos primeiro ao Farol para ver o Mago do Tempo.

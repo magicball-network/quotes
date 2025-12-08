@@ -1,4 +1,21 @@
+textId: 391
 location:
 speaker:
 message: I couldn't help but notice you're from Twinsun. Would you be interested
   in selling me anything from your planet? Something little-bitty, even?
+fr:
+  message: Je vois que vous êtes de Twinsun, auriez-vous des objets de votre
+    planète à me vendre ?
+de:
+  message: Ich sehe, Sie sind von Twinsun. Haben Sie zufällig irgendwelche
+    Gegenstände von Ihrem Planeten, die Sie mir verkaufen könnten?
+es:
+  message:
+    Veo que usted es de Twinsun, ¿no tendrá alguna cosa de su planeta para
+    venderme?
+it:
+  message: Vedo che lei è di Twinsun. Avrebbe degli oggetti del suo pianeta da
+    vendermi ?
+pt:
+  message: Eu estou vendo que você é de Twinsun, você teria algum objeto do seu
+    planeta para me vender?

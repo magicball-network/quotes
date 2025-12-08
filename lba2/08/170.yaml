@@ -1,3 +1,14 @@
+textId: 555
 location:
 speaker:
 message: Twinsen, did you see the dean of the school of magic?
+fr:
+  message: Twinsen, tu as vu le directeur de l'école de magie ?
+de:
+  message: Twinsen, hast du mit dem Direktor der Zauberschule gesprochen?
+es:
+  message: Twinsen, ¿has visto al director de la escuela de magia?
+it:
+  message: Twinsen, hai visto il direttore della scuola di magia ?
+pt:
+  message: Twinsen, você esteve com o diretor da Escola de Magia ?

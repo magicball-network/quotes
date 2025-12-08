@@ -1,4 +1,23 @@
+textId: 249
 location:
 speaker:
 message: This piece of the Crystal of Celebration is of unmatched purity. It
   will allow you to operate a pisto-Laser.
+fr:
+  message: Ce morceau du Cristal de la célébration est d'une pureté inégalée. Il
+    te permettra de faire fonctionner un pistolaser.
+de:
+  message:
+    Dieses Kristallstück von der Insel des Festes ist von unvergleichlicher
+    Reinheit. Mit ihm kannst du einen PistoLaser funktionsfähig machen.
+es:
+  message:
+    Este trozo del Cristal de la celebración es de una pureza inigualable.
+    Te permitirá hacer funcionar una pistoláser.
+it:
+  message:
+    Questo pezzo di Cristallo della Celebrazione è di una purezza unica. Ti
+    permetterà di far funzionare una pistolaser.
+pt:
+  message: Esse pedaço do cristal da celebraç╞o é de uma pureza inigualável. Com
+    ele você fará funcionar uma pistolaser.

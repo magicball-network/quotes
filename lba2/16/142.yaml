@@ -1,3 +1,14 @@
+textId: 322
 location:
 speaker:
 message: The boss don't see nobody.
+fr:
+  message: Le patron ne reçoit personne.
+de:
+  message: Der Chef empfängt niemanden.
+es:
+  message: El patrón no recibe a nadie
+it:
+  message: Il proprietario non riceve nessuno.
+pt:
+  message: O patr╞o n╞o recebe ninguém.

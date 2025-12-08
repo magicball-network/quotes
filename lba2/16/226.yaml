@@ -1,3 +1,14 @@
+textId: 496
 location:
 speaker:
 message: Criminal!!! Help!!!!
+fr:
+  message: Au criminel !!! Au secours !!!!
+de:
+  message: Haltet den Verbrecher!!! Hilfe!!!!
+es:
+  message: ¡¡¡Al criminal!!! ¡¡¡Socorro!!!!
+it:
+  message: Criminale !!! Aiuto !!!
+pt:
+  message: Peguem o criminoso !!! Socorro !!!!

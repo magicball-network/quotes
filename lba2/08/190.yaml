@@ -1,3 +1,14 @@
+textId: 72
 location:
 speaker:
 message: Twinsen, you have no business being here!
+fr:
+  message: Twinsen tu n'as rien à faire ici !
+de:
+  message: Twinsen! Du hast hier nichts verloren!
+es:
+  message: ¡Twinsen, aquí no pintas nada!
+it:
+  message: Twinsen, non hai niente da fare qui !
+pt:
+  message: Twinsen, você n╞o deveria estar aqui !

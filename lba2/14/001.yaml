@@ -1,3 +1,14 @@
+textId: 0
 location:
 speaker:
 message: How can I get in?
+fr:
+  message: Comment puis-je entrer ?
+de:
+  message: Wie komme ich da rein?
+es:
+  message: ¿Cómo puedo entrar?
+it:
+  message: Come posso entrare ?
+pt:
+  message: Como posso entrar ?

@@ -1,3 +1,14 @@
+textId: 590
 location:
 speaker:
 message: Islet CX.
+fr:
+  message: Ilot CX.
+de:
+  message: Insel CX.
+es:
+  message: Islote CX.
+it:
+  message: Isolotto CX
+pt:
+  message: Ilhota CX.

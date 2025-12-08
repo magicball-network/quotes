@@ -1,4 +1,24 @@
+textId: 60
 location:
 speaker:
 message: Darn, I had seen some pink grobos before, but green chaps from outer
   space, that's a first!
+fr:
+  message:
+    Ha ça, j'avais déjà vu des grobos roses, mais des types verts venus de
+    l'espace, c'est ben la première fois !
+de:
+  message: Hmpf- also, ich hab' ja schon öfter mal rosa Dickos geseh'n, aber die
+    grünen Typen aus dem All, also das is' echt das erste Mal!
+es:
+  message:
+    ¡Pues vaya, elefos rosas, sí que los había visto alguna vez, pero tipos
+    verdes que vienen del espacio, es la primera vez!
+it:
+  message:
+    Ah, guarda un po'... avevo già visto dei grobi rosa, ma dei tipi verdi
+    venuti dallo spazio, è proprio la prima volta !
+pt:
+  message:
+    Ah isso, eu já tinha visto grobos rosas, mas sujeitos verdes vindos do
+    espaço, é a primeira vez!

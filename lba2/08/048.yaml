@@ -1,4 +1,22 @@
+textId: 322
 location:
 speaker:
 message: '"When on Desert Island, visit the Temple of Bù, an eventful episode in
   the history of Twinsen."'
+fr:
+  message:
+    '" Sur l''île du désert, visitez le Temple de Bù, un épisode mouvementé
+    de l''histoire de Twinsen."'
+de:
+  message: '"Besuchen Sie den Bü-Tempel auf der Wüsteninsel - hier hat sich ein
+    wichtiger Teil von Twinsens Abenteuern abgespielt."'
+es:
+  message:
+    '"Viste el Templo de Bù en la isla del desierto, un tormentoso episodio
+    de la historia de Twinsen"'
+it:
+  message: '"Sull''isola del deserto, visitate il Tempio di Bù, un''avventura
+    movimentata della storia di Twinsen" .'
+pt:
+  message: '" Na Ilha do Deserto, visite o Templo de Bu, um episódio agitado da
+    história de Twinsen."'

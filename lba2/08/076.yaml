@@ -1,3 +1,14 @@
+textId: 503
 location:
 speaker:
 message: Hello Mr. Paul.
+fr:
+  message: Bonjour M'sieur Paul.
+de:
+  message: Guten Tag, Herr Paul.
+es:
+  message: Buenos días señor Paul.
+it:
+  message: Buongiorno Signor Paul.
+pt:
+  message: Bom dia, senhor Paul.

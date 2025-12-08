@@ -1,3 +1,14 @@
+textId: 760
 location:
 speaker:
 message: Oh! Er... hello sir.
+fr:
+  message: Oh ! Euh... bonjour monsieur.
+de:
+  message: Oh! Äh ... Guten Tag.
+es:
+  message: ¡Oh! Eh... buenos días señor.
+it:
+  message: Oh ! Ehm ... buongiorno signore.
+pt:
+  message: Oh ! Eeé... bom dia, senhor.

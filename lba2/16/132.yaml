@@ -1,4 +1,22 @@
+textId: 197
 location:
 speaker:
 message: Come in! Twinsen? It's me, Baldino! I've improved your protopack, you
   can come pick it up now!
+fr:
+  message: Allô ! Twinsen ! C'est moi Baldino ! C'est fait, j'ai amélioré ton
+    protopack, tu peux venir le chercher !
+de:
+  message:
+    Hallo, Twinsen! Ich bin's, Baldino! Ich hab' dein ProtoPack fertig, du
+    kannst es abholen!
+es:
+  message:
+    ¡Oiga! -Twinsen! ¡Soy yo, Baldino! ¡Ya está, he mejorado tu protopack,
+    puedes venir a buscarlo
+it:
+  message: Pronto ! Twinsen ! Sono io, Baldino ! Ci siamo, ho potenziato il tuo
+    Proto-Pack, puoi venire a prenderlo !
+pt:
+  message: Alô ! Twinsen ! Sou eu, Baldino ! Está pronto, melhorei o teu
+    protopack, você pode vir buscá-lo!

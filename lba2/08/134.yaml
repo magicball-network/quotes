@@ -1,3 +1,14 @@
+textId: 277
 location:
 speaker:
 message: The price of admission is 15 Kashes! Interested?
+fr:
+  message: Le ticket de visite coûte 15 Kashes ! Ça vous tente ?
+de:
+  message: Die Karte kostet 15 Kashes! Na, wie wär's?
+es:
+  message: ¡La entrada cuesta 15 Kashes! ¿Se anima?
+it:
+  message: Il biglietto per la visita costa 15 Kashes ! E' tentato ?
+pt:
+  message: O tíquete para a visita custa 15 Kashes! Você quer um ?

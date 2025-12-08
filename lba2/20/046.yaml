@@ -1,5 +1,26 @@
+textId: 557
 location:
 speaker:
 message: For that, you'll have to call on the ferryman's services. He provides
   the only communication between the islands and the under-gas. Go see my
   housemaid. She shall tell you how to proceed.
+fr:
+  message: Pour cela, tu devras louer les services du passeur. C'est lui qui
+    assure la seule communication entre les îles du sous-gaz. Va trouver mon
+    employée de maison, elle te dira comment faire.
+de:
+  message: Dazu mußt du die Dienste des Fährmanns in Anspruch nehmen. Er ist die
+    einzige Verbindung zwischen den Inseln unter der Gaswolke. Frag mein
+    Hausmädchen, sie wird dir sagen, was du tun mußt.
+es:
+  message: Para eso, tendrás que contratar los servicios del barquero. Es él el
+    único que comunica las islas del sub-gas. Vete a buscar a mi asistenta y
+    ella te dirá lo que tienes que hacer.
+it:
+  message: Per questo avrai bisogno dell'aiuto del traghettatore. Solo lui
+    assicura la comunicazione tra le isole del sotto-gas. Vai a trovare la mia
+    donna di servizio e ti dirà come fare.
+pt:
+  message: Para isso, você deverá alugar os serviços do barqueiro. É ele que
+    garante a única comunicaç╞o entre as ilhas do sub-gás. Vá encontrar meu
+    empregado doméstico, ele te dirá o que fazer.

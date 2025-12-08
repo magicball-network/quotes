@@ -1,5 +1,28 @@
+textId: 185
 location:
 speaker:
 message: It is said the trail used to circle the crater and that folks came to
   gather crystals. Now, the road's blocked - and only a fool or a hero would
   dare venture there.
+fr:
+  message: Il paraît que dans le temps, le chemin faisait le tour du cratère et
+    que les gens allaient ramasser des cristaux. Aujourd'hui, la route est
+    coupée, et je crois que personne n'oserait s'y aventurer.
+de:
+  message: Anscheinend führte der Weg früher ganz um den Krater herum, und die
+    Leute kamen, um Kristalle zu sammeln. Heute ist der Weg abgeschnitten. Ich
+    glaube nicht, daß sich da noch jemand hinwagen würde.
+es:
+  message: Al parecer, antiguamente el camino rodeaba el cráter y la gente iba
+    allí a coger cristales. Ahora la carretera está cortada, no creo que nadie
+    se atreva a aventurarse por allí.
+it:
+  message:
+    Si dice che una volta esisteva una strada lungo tutto il cratere e che
+    la gente andava a raccogliere i cristalli. Ma oggi la strada è interrotta e
+    credo che nessuno osi avventurarsi da quelle parti.
+pt:
+  message:
+    Parece que antigamente o caminho contornava a cratera e as pessoas iam
+    colher os cristais. Hoje o caminho se encontra interrompido, e acho que
+    ninguém ousaria percorrê-lo.

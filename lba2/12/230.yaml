@@ -1,3 +1,14 @@
+textId: 277
 location:
 speaker:
 message: Stand in front of the article of your choice and do "ACTION".
+fr:
+  message: Placez-vous devant l'article de votre choix et faites " ACTION ".
+de:
+  message: Stellen Sie sich vor den gewünschten Gegenstand und drücken Sie "AKTION".
+es:
+  message: Colóquese delante del objeto elegido y pulse "acción".
+it:
+  message: Mettetevi davanti all'articolo scelto e spingete il tasto "azione" .
+pt:
+  message: Escolha um produto, posicione-se em frente a ele e clique em " AÇ╟O".

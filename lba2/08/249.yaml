@@ -1,3 +1,20 @@
+textId: 316
 location:
 speaker:
 message: The weather's improving. Now the kids can go on their class outing.
+fr:
+  message:
+    Le temps s'est arrangé. Finalement les enfants vont peut-être la faire
+    leur sortie de classe.
+de:
+  message:
+    Das Wetter hat sich gebessert. Vielleicht können die Kinder nun endlich
+    ihren Schulausflug machen.
+es:
+  message: El tiempo ha mejorado. Por fin podrán hacer la excursión los niños de clase.
+it:
+  message: Il tempo è migliorato. I bambini potrebbero anche farla la loro
+    escursione con la classe.
+pt:
+  message: O tempo melhorou. Finalmente as crianças v╞o poder fazer seu passeio
+    com a turma.

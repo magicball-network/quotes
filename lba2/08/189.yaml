@@ -1,3 +1,14 @@
+textId: 69
 location:
 speaker:
 message: Thank you!
+fr:
+  message: Merci !
+de:
+  message: Danke!
+es:
+  message: ¡Gracias!
+it:
+  message: Grazie !
+pt:
+  message: Obrigado !

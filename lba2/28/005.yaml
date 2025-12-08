@@ -1,6 +1,36 @@
+textId: 502
 location:
 speaker:
 message: Laddie, you are as savvy as a monster from the gas. When you
   established contact with Johnny Rocket, my spies were there. We have followed
   you since. I knew that you wanted to go down to the under-gas. Thus I waited
   here to strike. But enough said. Now, lad, prepare yourself to die!!
+fr:
+  message: Mon garçon, tu es aussi discret qu'un monstre du gaz. Lorsque tu as
+    pris contact avec Johnny Rocket, mes espions étaient là. Depuis nous t'avons
+    suivi. Je savais que tu voulais descendre dans le sous-gaz. Alors j'ai
+    décidé de t'attendre ici. Mais assez parlé. Maintenant, mon garçon,
+    apprête-toi à mourir !!
+de:
+  message: Du bist ja auch schließlich ungefähr so diskret wie ein Gasmonster,
+    mein Junge! Als du mit Johnny Rocket Kontakt aufgenommen hast, waren meine
+    Söldner dabei. Seither sind wir dir gefolgt. Ich wußte, daß du in das Gebiet
+    unter der Gaswolke wolltest, also habe ich beschlossen, hier auf dich zu
+    warten. Aber genug geredet - mach dich für deinen Trip in die ewigen
+    Jagdgründe bereit!
+es:
+  message:
+    Muchacho, eres tan discreto como un monstruo del gas. Cuando te pusiste
+    en contacto con Johnny Rocket, mis espías estaban allí. Luego te seguimos.
+    Sabía que querías bajar al sub-gas. Así que decidí esperarte aquí. Pero
+    basta de hablar. ¡¡Ahora, muchacho prepárate a morir!!
+it:
+  message: Ragazzo mio, sei discreto come un mostro del gas. Quando hai preso
+    contatto con Johnny Rocket, le mie spie erano là. Da quel momento in poi, ti
+    seguiamo. Sapevo che volevi scendere nel sotto-gas e ho deciso di aspettarti
+    qui. Ma basta parlare. Adesso, ragazzo mio, preparati a morire !!
+pt:
+  message: Meu filho, você é t╞o discreto quanto um monstro do gás. Quando você
+    entrou em contato com Johnny Rocket, meus espiΣes estavam lá. Desde ent╞o te
+    seguimos. Eu sabia que você desceria ao sub-gás. Ent╞o resolvi te esperar
+    aqui. Mas chega de papo. Agora, meu filho, prepare-se para morrer !!

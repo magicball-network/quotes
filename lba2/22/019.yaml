@@ -1,3 +1,14 @@
+textId: 602
 location:
 speaker:
 message: Do you have proof?
+fr:
+  message: Peux-tu prouver cela ?
+de:
+  message: Kannst du das beweisen?
+es:
+  message: ¿Puedes demostrar eso?
+it:
+  message: Puoi provarlo ?
+pt:
+  message: E você pode provar isso ?

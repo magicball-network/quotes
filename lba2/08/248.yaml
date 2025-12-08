@@ -1,4 +1,21 @@
+textId: 98
 location:
 speaker:
 message: Personally, I don't know where he is, but go look at the pharmacy. His
   sister might be able to help you.
+fr:
+  message:
+    Moi je ne sais pas où il est, mais allez voir à la pharmacie. Sa soeur
+    pourra peut-être vous renseigner.
+de:
+  message: Ich weiß nicht, wo er ist, aber versuchen Sie es doch mal in der
+    Apotheke. Seine Schwester kann Ihnen vielleicht weiterhelfen.
+es:
+  message: No sé dónde está, pero vaya a la farmacia. Quizá su hermana pueda informarle.
+it:
+  message: Io non so dove sia, ma vada a vedere alla farmacia. Forse sua sorella
+    può darle delle informazioni.
+pt:
+  message:
+    Eu n╞o sei onde ele está, mas vá ver na farmácia. Talvez sua irm╞ possa
+    ajudar.

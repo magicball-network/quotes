@@ -1,4 +1,22 @@
+textId: 761
 location:
 speaker:
 message: I left our tickets to my brother, he's the park warden, you know, Mr.
   Organized... up there... hmm!...that's it, almost there...
+fr:
+  message: Et bien en fait, j'ai laissé nos billets à mon frère... vous savez,
+    c'est le gardien du parc... là-haut... hum !...voilà, voilà...
+de:
+  message: Ja, also ... die Eintrittskarten hab' ich bei meinem Bruder gelassen
+    ... er ist Parkwächter, wissen Sie ... da oben... sie verstehen doch.
+es:
+  message:
+    ¡Pues bien, es que he dejado los billetes a mi hermano... sabe... es el
+    guardián del parque... allí... hum!...ya está , ya está...
+it:
+  message: Ebbene, ho lasciato in effetti i nostri biglietti a mio fratello ...
+    sa, è il guardiano del parco ... lassù ... hem... ecco, ecco ...
+pt:
+  message:
+    Na verdade, dei nossos bilhetes ao meu irm╞o... você sabe, é o guardi╞o
+    do parque... lá em cima... hum !...ali, ali...

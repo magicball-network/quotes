@@ -1,3 +1,14 @@
+textId: 265
 location:
 speaker:
 message: The umbrella please.
+fr:
+  message: Rendez-moi le parapluie.
+de:
+  message: Geben Sie mir den Schirm.
+es:
+  message: Devuélvame el paraguas
+it:
+  message: Ridatemi l'ombrello
+pt:
+  message: Devolva meu guarda-chuva!

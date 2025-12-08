@@ -1,4 +1,22 @@
+textId: 666
 location:
 speaker:
 message: For the Test of the Balsam, you'll have to fetch me a balsam! It's a
   rare plant which grows in the desert.
+fr:
+  message: Pour l'épreuve de la guérison, tu devras aller me chercher une
+    balsamine. Il s'agit d'une plante rare qui vit dans le désert.
+de:
+  message: Für die Heilerprüfung mußt du mir eine Balsamine bringen. Die
+    Balsaminpflanze ist sehr selten und kommt nur in der Wüste vor.
+es:
+  message:
+    La prueba de la balsamina consiste en que tendrás que ir a buscarme una
+    balsamina. Es una planta muy poco frecuente que vive en el desierto.
+it:
+  message:
+    Per la prova della guarigione dovrai andare a cercare una balsamina. Si
+    tratta di una pianta rara che vive nel deserto.
+pt:
+  message: Para a prova da cura, você deverá procurar uma Balsamina. Trata-se de
+    uma planta rara que vive no deserto.

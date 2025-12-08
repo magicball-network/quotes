@@ -1,4 +1,21 @@
+textId: 532
 location:
 speaker:
 message: This statue pays tribute to Zoé and me. Without her, I could have never
   defeated the infamous FunFrock.
+fr:
+  message: Cette statue rend hommage à Zoé et moi. Sans elle, je n'aurais jamais
+    réussi à vaincre l'infâme FunFrock.
+de:
+  message:
+    Diese Statue ist für Zoe und mich errichtet worden. Ohne sie hätte ich
+    den bösen Dr. FunFrock niemals besiegen können.
+es:
+  message: Esta estatua es un homenaje a Zoé y a mí. Sin ella nunca habría
+    conseguido vencer al infame Funfrock.
+it:
+  message: Questa statua è un omaggio a Zoe e a me. Senza di lei, non sarei mai
+    riuscito a sconfiggere l'infame Funfrock.
+pt:
+  message: Esta estátua homenageia a mim e a Zoé. Sem ela, eu nunca teria
+    conseguido vencer o infame Funfrock.

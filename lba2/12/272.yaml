@@ -1,3 +1,14 @@
+textId: 302
 location:
 speaker:
 message: Stop him!
+fr:
+  message: Arrêtez-le !
+de:
+  message: Haltet ihn!
+es:
+  message: ¡Deténgale!
+it:
+  message: Fermateli !
+pt:
+  message: Prendam ele !

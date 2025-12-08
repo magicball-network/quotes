@@ -1,3 +1,14 @@
+textId: 266
 location:
 speaker:
 message: Give me my tunic back!
+fr:
+  message: Rendez-moi ma Tunique !
+de:
+  message: Geben Sie mir meine Tunika!
+es:
+  message: ¡Devuélvame mi túnica!
+it:
+  message: Ridatemi la mia Tunica !
+pt:
+  message: Devolva minha túnica !

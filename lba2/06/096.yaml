@@ -1,3 +1,14 @@
+textId: 140
 location:
 speaker:
 message: Green Magic Ball
+fr:
+  message: Balle Magique Verte
+de:
+  message: Grüner Magischer Ball
+es:
+  message: Bola Mágica Verde
+it:
+  message: Sfera Magica Verde
+pt:
+  message: Bola Mágica Verde

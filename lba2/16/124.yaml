@@ -1,4 +1,26 @@
+textId: 462
 location:
 speaker:
 message: I'm leaving for Zirla. Heard they organize fantastic safaris, but I
   don't see the actual organizers anywhere. Hope I didn't pick the wrong day.
+fr:
+  message:
+    Je pars pour Zirla. Il paraît qu'on y fait des safaris extraordinaires.
+    Mais je suis inquiet, je ne vois pas les organisateurs. J'espère que je ne
+    me suis pas trompé de jour.
+de:
+  message: Ich geh' nach Zirla. Da gibt es angeblich ganz tolle Safaris. Aber
+    langsam mache ich mir Sorgen, ich sehe gar keine Reiseleiter. Ich hoffe, ich
+    habe mich nicht im Tag vertan.
+es:
+  message: Me voy a Zirla. Al parece hacen unos safaris estupendos. pero estoy
+    preocupado, no veo a los organizadores. Espero no haberme equivocado de día.
+it:
+  message: Parto per Zirla. Pare che si organizzino degli splendidi safari. Ma
+    sono preoccupato, non vedo gli organizzatori. Spero di non essermi sbagliato
+    di giorno.
+pt:
+  message:
+    Estou partindo para Zirla. Ouvi dizer que fazem safaris extraordinários
+    lá. Mas estou preocupado, n╞o estou vendo os organizadores. Espero que n╞o
+    tenha confundido o dia.

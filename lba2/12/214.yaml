@@ -1,3 +1,16 @@
+textId: 480
 location:
 speaker:
 message: Here, I am the best. Nobody can follow me. Try if you want.
+fr:
+  message: Ici je suis le meilleur. Personne n'arrive à me suivre. Essaie si tu veux.
+de:
+  message:
+    Ich bin der beste hier. Mit mir kann's keiner aufnehmen - kannst es ja
+    versuchen, wenn du willst.
+es:
+  message: Aquí yo soy el mejor. Nadie consigue seguirme. Inténtalo si quieres.
+it:
+  message: Qui sono il migliore. Nessuno riesce a seguirmi. Prova tu, se vuoi.
+pt:
+  message: Aqui eu sou o melhor. Ninguém consegue me seguir. Tente se quiser.

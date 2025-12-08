@@ -1,3 +1,14 @@
+textId: 601
 location:
 speaker:
 message: Don't hesitate to call me if you need anything at all.
+fr:
+  message: Si vous avez besoin de quoi que ce soit, n'hésitez pas à m'appeler.
+de:
+  message: Rufen Sie einfach, wenn Sie irgend etwas brauchen.
+es:
+  message: Si necesita algo no dude en llamarme.
+it:
+  message: Se ha bisogno di qualcosa, mi chiami pure.
+pt:
+  message: Se precisar de qualquer coisa, seja lá o que for, n╞o hesite em me chamar.

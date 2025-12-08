@@ -1,4 +1,21 @@
+textId: 586
 location:
 speaker:
 message: Ah, thank you, thank you! I'd fallen and couldn't get up. What can I do
   to thank you?
+fr:
+  message: Ah merci, je m'étais fait mal et je n'arrivais plus à me relever.
+    Comment pourrais-je t'aider pour te remercier ?
+de:
+  message: Oh, vielen Dank, ich hatte mich verletzt und konnte nicht mehr
+    aufstehen. Wie kann ich dir helfen, um dir meinen Dank zu zeigen?
+es:
+  message:
+    Gracias, me había hecho daño y no conseguía ponerme de pie ¿Cómo puedo
+    ayudarte para agradecértelo?
+it:
+  message: Ah grazie, mi ero fatto male e non riuscivo più a rialzarmi. Vorrei
+    dimostrarti la mia gratitudine. Come potrei aiutarti ?
+pt:
+  message: Ah obrigado, estava passando mal e n╞o conseguia me levantar. O que
+    posso fazer para te agradecer?

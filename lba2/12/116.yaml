@@ -1,4 +1,25 @@
+textId: 511
 location:
 speaker:
 message: Only the wizards and the initiated know her whereabouts. All I know is
   that she went into hiding somewhere on the island.
+fr:
+  message:
+    Seuls les mages et les initiés savent où elle se trouve. Tout ce que je
+    sais, c'est qu'elle est cachée quelque part sur l'île.
+de:
+  message:
+    Nur Magier und Eingeweihte wissen, wo sie sich befindet. Ich weiß nur,
+    daß sie irgendwo auf der Insel versteckt ist.
+es:
+  message:
+    Unicamente los magos y los iniciados saben dónde se encuentra. Yo sólo
+    sé que está escondida en algún lugar de la isla.
+it:
+  message:
+    Solo i maghi e gli iniziati sanno dove si trova. Tutto quello che so è
+    che è nascosta da qualche parte sull'isola.
+pt:
+  message:
+    Só os magos e os iniciados sabem onde ela fica. Tudo o que eu sei é que
+    está escondida em algum lugar da Ilha.

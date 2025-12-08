@@ -1,3 +1,17 @@
+textId: 902
 location:
 speaker:
 message: Revolutionary true 3D texture-mapped exterior rendering mode.
+fr:
+  message: Mode de représentation extérieur révolutionnaire en véritable 3D texturée
+de:
+  message: Revolutionärer Darstellungsmodus außen in echtem strukturiertem 3D
+es:
+  message: Modo de representación exterior revolucionario en entorno
+    tridimensional texturado
+it:
+  message:
+    Modalità di rappresentazione esterna rivoluzionaria, veramente in 3D, a
+    trama.
+pt:
+  message: Mode de représentation extérieur révolutionnaire en véritable 3D texturée

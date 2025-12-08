@@ -1,4 +1,25 @@
+textId: 191
 location:
 speaker:
 message: Of course, but I will need this gazogem sooner or later. Besides, it
   will allow me to transform your protopack and increase its performance.
+fr:
+  message:
+    Bien sûr, mais tôt ou tard j'aurais besoin de ce gazogem. En plus, avec
+    lui, je pourrai transformer ton protopack et le rendre bien plus performant.
+de:
+  message:
+    Sicher, aber früher oder später brauche ich GazoGem. Außerdem kann ich
+    damit dein ProtoPack leistungsfähiger machen.
+es:
+  message:
+    Claro que sí, pero tarde o temprano necesitaré ese gazogem. Además, si
+    lo tengo, podría transformar tu protopack en algo mucho mejor.
+it:
+  message:
+    Certo, ma presto o tardi avrò bisogno di questo gazogem . E poi, se ne
+    avessi, potrei trasformare il tuo Proto-Pack e renderlo più potente.
+pt:
+  message: Claro. Contudo, mais cedo ou mais tarde vou precisar desse gasógeno.
+    Além do que, com ele poderei transformar o seu protopack e melhorar bastante
+    seu desempenho.

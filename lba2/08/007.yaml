@@ -1,3 +1,14 @@
+textId: 17
 location:
 speaker:
 message: No, I am not interested.
+fr:
+  message: Non, ça ne m'intéresse pas.
+de:
+  message: Nein, daran bin ich nicht interessiert.
+es:
+  message: No, no me interesa.
+it:
+  message: No, non mi interessa.
+pt:
+  message: N╞o, isso n╞o me interessa.

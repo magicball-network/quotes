@@ -1,3 +1,14 @@
+textId: 136
 location:
 speaker:
 message: Pick-ax
+fr:
+  message: Pioche
+de:
+  message: Hacke
+es:
+  message: Pico
+it:
+  message: Zappa
+pt:
+  message: Enxada

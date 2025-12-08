@@ -1,3 +1,14 @@
+textId: 582
 location:
 speaker:
 message: Oh, thank you, sir... Police!! Police!!! We got him!!! He's right here!!!
+fr:
+  message: Merci monsieur... Police !! Police !!! Il est là, on le tient !!!
+de:
+  message: Danke ... Polizei! Polizei!!! Ich habe ihn, haltet ihn fest!!!
+es:
+  message: Gracias señor... ¡¡Policía!! ¡¡Policía!! ¡¡Está aquí, lo tenemos!!!
+it:
+  message: Grazie signore ... Polizia !! Polizia !!! E' qui, lo teniamo !!!
+pt:
+  message: Obrigado senhor... Polícia !! Polícia !!! Ele está ali, nós o pegamos !!!

@@ -1,4 +1,25 @@
+textId: 627
 location:
 speaker:
 message: There is a giant clam which lives in a marine cave in the cliffs, near
   Port-Ludo. This creature is host to the pearl of incandescence.
+fr:
+  message: Il existe un coquillage géant qui vit dans une grotte marine dans les
+    criques, près de Port-Ludo. C'est lui qui donne naissance à la perle
+    d'incandescence.
+de:
+  message: In der Nähe von Port-Ludo lebt eine Riesenmuschel in einer Bucht. Sie
+    bringt die Leuchtperle hervor.
+es:
+  message: Existe un molusco gigante que vive en una gruta marina en los
+    acantilados, cerca de Port-Ludo, que es el que genera la perla de
+    incandescencia.
+it:
+  message:
+    Esiste una conchiglia gigantesca che vive in una grotta marina, tra le
+    rocce, vicino al Port-Ludo. La perla d'incandescenza è generata da questa
+    conchiglia.
+pt:
+  message:
+    Existe uma concha gigante que vive numa gruta marinha presa nas rochas,
+    perto do Porto Ludo. É ela que produz a pérola incandescente.

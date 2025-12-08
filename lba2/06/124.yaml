@@ -1,4 +1,23 @@
+textId: 213
 location:
 speaker:
 message: This ticket allows you to travel aboard the ferry which links Citadel
   Island and White Leaf Desert Island.
+fr:
+  message: Ce ticket te permet de voyager à bord du ferry effectuant la liaison
+    entre l'Ile de la Citadelle et l'Ile du Désert de la Feuille Blanche.
+de:
+  message: Diese Fahrkarte ermöglicht es dir, die Fähre zu nehmen, die zwischen
+    der Zitadelleninsel und der Insel des Leeren Blattes verkehrt.
+es:
+  message:
+    Este ticket te permite viajar a bordo del ferry que comunica la Isla de
+    la Ciudadela y la Isla del Desierto de la Hoja Blanca.
+it:
+  message: Questo biglietto ti permette di viaggiare a bordo del traghetto e di
+    percorrere la linea tra l'Isola della Cittadella e il Deserto della Foglia
+    Bianca.
+pt:
+  message:
+    Com esse bilhete você pode ir de barca da Ilha da Fortaleza até a Ilha
+    do Deserto da Folha Branca.

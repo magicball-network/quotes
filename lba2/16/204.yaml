@@ -1,3 +1,14 @@
+textId: 415
 location:
 speaker:
 message: So! Are you the Twinsunian Johnny told us about?
+fr:
+  message: C'est toi le twinsunien dont Johnny nous a parlé ?
+de:
+  message: Bist du der Twinsunier, von dem uns Johnny erzählt hat?
+es:
+  message: ¿Eres tú el twinsiano del que nos ha hablado Johnny?
+it:
+  message: Johnny ci ha parlato di un Twinsuniano. Sei tu ?
+pt:
+  message: É você o twinsuniano de quem Johnny nos falou ?

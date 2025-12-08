@@ -1,4 +1,24 @@
+textId: 11
 location:
 speaker:
 message: Here, sir, we have a collection devoted to the great Twinsen and to the
   development of Magic on the planet. Don't hesitate to educate yourself!
+fr:
+  message: Ici monsieur, nous avons une collection consacrée au grand Twinsen et
+    au développement de la Magie sur la planète. N'hésitez pas à vous instruire
+    !
+de:
+  message: Hier haben wir eine Sammlung, die dem großen Twinsen und der
+    Entwicklung der Magie auf diesem Planeten gewidmet ist. Sehen Sie sich ruhig
+    um!
+es:
+  message: Aquí, señor, tenemos una colección dedicada al gran Twinsen y al
+    desarrollo de la magia en el planeta. ¡Ilústrese cuanto desee!
+it:
+  message:
+    Signore, abbiamo qui una collezione consacrata al grande Twinsen e allo
+    sviluppo della Magia sul pianeta. Non sia perplesso e si istruisca !
+pt:
+  message:
+    Por aqui, senhor ! Temos aqui uma coleç╞o consagrada ao grande Twinsen
+    e ao desenvolvimento da Magia sobre o planeta. Aprenda tudo que puder !

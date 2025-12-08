@@ -1,4 +1,23 @@
+textId: 34
 location:
 speaker:
 message: Know, sir, that I alone have the right to press this button!! You must
   pay to enter!
+fr:
+  message:
+    Sachez, monsieur, que je suis le seul à avoir le droit d'appuyer sur ce
+    bouton !! Vous devez payer pour entrer !
+de:
+  message:
+    Ich, mein Lieber, bin der einzige, der das Recht hat, auf diesen Knopf
+    zu drücken! Und Sie müssen Eintritt bezahlen, um hier reinzukommen!
+es:
+  message:
+    ¡¡Ha de saber, señor que soy el único que puede pulsar el botón de ese
+    mando!! ¡Tiene que pagar para entrar!
+it:
+  message: Sappia, signore, che sono il solo ad avere il diritto di premere su
+    questo bottone !! Deve pagare per entrare !
+pt:
+  message: Saiba, senhor, que eu sou o único que tem o direito de apertar este
+    bot╞o !! Você deve pagar para entrar !

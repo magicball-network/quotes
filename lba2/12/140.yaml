@@ -1,5 +1,28 @@
+textId: 12
 location:
 speaker:
 message: Welcome, Twinsen. I'd be honored to have you study with us. But even
   though you once saved our world, you'll still have to pass the same tests as
   the other students.
+fr:
+  message: Bienvenue Twinsen. Je serais honoré que tu viennes suivre nos cours.
+    Mais bien que tu aies un jour sauvé notre monde, tu devras passer le même
+    type d'épreuves que les autres étudiants.
+de:
+  message: Willkommen, Twinsen. Es wäre mir eine Ehre, wenn du dich für unsere
+    Schule entscheiden würdest. Aber obwohl du unsere Welt gerettet hast, mußt
+    du genau die gleichen Prüfungen wie die anderen Studenten bestehen.
+es:
+  message: Bienvenido Twinsen. Es un honor que asistas a nuestros cursos. Pero
+    aunque un día hayas salvado nuestro mundo, tendrás que superar las mismas
+    pruebas que los demás estudiantes.
+it:
+  message:
+    Benvenuto Twinsen. Sarei onorato di averti ai nostri corsi. Ma anche se
+    tu hai salvato tempo fa il nostro mondo, dovrai passare le stesse prove che
+    gli altri studenti hanno dovuto affrontare.
+pt:
+  message:
+    Bem-vindo, Twinsen. Será uma honra recebê-lo em nosso curso. Mas mesmo
+    que você tenha salvado o nosso mundo, você deverá passar pelas mesmas provas
+    que os outros estudantes.

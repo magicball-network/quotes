@@ -1,4 +1,23 @@
+textId: 12
 location:
 speaker:
 message: I asked Mr. Monk how to get to the Mosquibees, and he told me to ask
   you about the ferryman.
+fr:
+  message:
+    J'ai demandé à Monsieur le Moine comment aller chez les mosquibees, et
+    il m'a dit de vous demander à propos du passeur.
+de:
+  message: Ich habe den Mönch gefragt, wie ich zu den Moskibienos komme, und er
+    hat gesagt, ich soll bei Ihnen nach dem Fährmann fragen.
+es:
+  message: He preguntado al señor Monje cómo podía ir donde los mosquibitas y me
+    dijo que le preguntara a usted por el barquero.
+it:
+  message:
+    Ho chiesto al Prete come fare per andare dai Moschibei e mi ha detto di
+    chiederle qualcosa sul "traghettatore".
+pt:
+  message:
+    Perguntei ao senhor Frade como encontrar os mosquibees, e ele me disse
+    para te perguntar sobre o barqueiro.

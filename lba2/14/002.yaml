@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: Quickly! We must save Twinsun!!!
+fr:
+  message: Nous devons y aller ! Il faut sauver Twinsun !!!
+de:
+  message: Wir müssen hingehen und Twinsun retten!!!
+es:
+  message: ¡Tenemos que ir! ¡¡¡Hay que salvar Twinsun !!!
+it:
+  message: Dobbiamo andarci ! Bisogna salvare Twinsun !!!
+pt:
+  message: Temos que ir até lá ! Temos que salvar Twinsun !!!

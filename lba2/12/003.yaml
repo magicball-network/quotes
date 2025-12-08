@@ -1,3 +1,14 @@
+textId: 17
 location:
 speaker:
 message: I would like to treat my Dino-fly first!
+fr:
+  message: J'aimerais d'abord soigner mon Dino-Fly !
+de:
+  message: Zuerst möchte ich meinem Dinofly helfen!
+es:
+  message: ¡Primero quisiera curar a mi Dino-Fly!
+it:
+  message: Prima vorrei curare il mio Dino-Fly !
+pt:
+  message: Primeiro eu gostaria de curar meu Dino-Fly !

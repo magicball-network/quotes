@@ -1,4 +1,23 @@
+textId: 981
 location:
 speaker:
 message: No, I've got to find the school of magic first. They're the only ones
   who can help me cure him!
+fr:
+  message: Non. Je dois d'abord trouver l'école de magie. Eux seuls pourront
+    m'aider à le soigner.
+de:
+  message: Nein, ich muß zuerst die Zauberschule finden. Nur dort kann man mir
+    helfen, den Dinofly zu heilen.
+es:
+  message:
+    No. Primero tengo que encontrar la escuela de magia. Sólo ellos podrán
+    ayudarme a curarlo.
+it:
+  message:
+    No, devo trovare prima la scuola di magia. Solo loro potranno aiutarmi
+    a curarlo.
+pt:
+  message:
+    N╞o. Eu tenho primeiro que encontrar a Escola de Magia. Só eles poder╞o
+    me ajudar a curá-lo.

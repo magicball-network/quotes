@@ -1,3 +1,16 @@
+textId: 315
 location:
 speaker:
 message: Here, there is no hope. All we do is dig. That's all.
+fr:
+  message: Ici il n'y a pas d'espoir. On ne fait que creuser. C'est tout.
+de:
+  message: Hier gibt es keine Hoffnung mehr. Wir graben nur noch. Das ist alles.
+es:
+  message: Aquí no hay esperanza No hacemos más que cavar. Sólo eso.
+it:
+  message:
+    In questo posto non c'è niente da sperare. Non si fa altro che scavare.
+    E' tutto.
+pt:
+  message: Aqui n╞o há mais esperança. Só fazemos cavar. Nada mais.

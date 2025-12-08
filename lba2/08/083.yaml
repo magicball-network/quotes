@@ -1,3 +1,14 @@
+textId: 510
 location:
 speaker:
 message: Hello little one.
+fr:
+  message: Bonjour petite.
+de:
+  message: Hallo, Kleine.
+es:
+  message: Buenos días pequeña.
+it:
+  message: Buongiorno piccola.
+pt:
+  message: Bom dia pequena.

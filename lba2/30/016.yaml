@@ -1,4 +1,22 @@
+textId: 598
 location:
 speaker:
 message: Lucky we knew where this hideout was. Without it, we would have been
   jailed, like the others.
+fr:
+  message: Heureusement que nous connaissions cette cachette. Sans elle, nous
+    aurions été emprisonnés, comme les autres.
+de:
+  message: Zum Glück kannten wir dieses Versteck. Sonst wären wir genau wie die
+    anderen eingesperrt worden.
+es:
+  message:
+    Afortunadamente conocemos este escondite. Si no, estaríamos presos como
+    los demás.
+it:
+  message:
+    Per fortuna conoscevamo questo nascondiglio altrimenti ci avrebbero già
+    imprigionati, come gli altri.
+pt:
+  message: Felizmente conhecíamos esse esconderijo. Caso contrário, seriamos
+    aprisionados, como os outros.

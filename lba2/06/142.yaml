@@ -1,4 +1,22 @@
+textId: 231
 location:
 speaker:
 message: This fragment of the Francos' key is one of the elements which will
   permit you to piece together the key to Dark Monk's temple.
+fr:
+  message: Ce fragment de clé des Knartas est l'un des éléments qui permettra de
+    reconstituer la clé du temple de Dark Monk.
+de:
+  message:
+    Dieses Schlüsselfragment der Bifiden ist einer der Teile, mit denen du
+    den Schlüssel zum Tempel von Dark Monk zusammensetzen kannst.
+es:
+  message:
+    Este fragmento de llave de los Purlones es uno de los elementos que te
+    permitirá reconstruir la llave del templo de Dark Monk.
+it:
+  message: Questo frammento di chiave dei Knartas è uno degli elementi per
+    ricostituire la chiave del tempio di Dark Monk.
+pt:
+  message: Esta parte de chave dos Knartas é uma das partes que te permitirá
+    reconstituir a chave do Templo de Dark Monk.

@@ -1,5 +1,29 @@
+textId: 665
 location:
 speaker:
 message: The wizards -- did you find any trace of them? The people talk of
   nothing but these Esmer visitors, but this mysterious disappearance is most
   grim. Without them, Twinsun's balance and safety are threatened!
+fr:
+  message:
+    Les mages ! As-tu retrouvé leur trace ? Les gens ne parlent que de ces
+    visiteurs Esmers, mais leur disparition est une affaire très importante.
+    Sans eux, l'équilibre et la sécurité de Twinsun sont menacés !!
+de:
+  message: Die Magier! Hast du ihre Spur entdeckt? Die Menschen reden nur noch
+    über diese Esmerier, aber das Verschwinden der Magier ist wichtig! Ohne sie
+    sind das Gleichgewicht und die Sicherheit von Twinsun in Gefahr!
+es:
+  message: ¡Los magos! ¿Has encontrado su pista? La gente no deja de hablar de
+    esos visitantes esmeres, pero su desaparición es un asunto grave. ¡¡Sin
+    ellos el equilibrio y la seguridad de Twinsun están en peligro!!
+it:
+  message:
+    I maghi ! Hai ritrovato le loro tracce ? La gente non parla d'altro che
+    di questi visitatori Esmers, ma la loro scomparsa è una faccenda molto
+    importante.
+pt:
+  message: Os magos! Você encontrou alguma pista deles ? As pessoas só falam
+    desses visitantes Esmers, mas o desaparecimento deles é um assunto de
+    extrema importância. Sem eles, o equilíbrio e a segurança de Twinsun est╞o
+    ameaçados !!

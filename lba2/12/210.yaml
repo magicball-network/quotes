@@ -1,4 +1,23 @@
+textId: 533
 location:
 speaker:
 message: What, the school of bowling, er... of magic? Ah yes, when I was young,
   it was said to be in the cemetery!
+fr:
+  message: Comment, l'école de pétanque, euh... de magie ? Ah oui, quand j'étais
+    jeune, on racontait qu'elle se trouvait dans le cimetière !
+de:
+  message: Die Boccia ... äh ... ich meine Zauberschule? Hmmm ... ah ja, stimmt,
+    als ich klein war, hat man sich erzählt, daß sie auf dem Friedhof wäre!
+es:
+  message:
+    ¿Cómo? ¿La escuela de petanca, ehh.... de magia? ¡Ah, sí, cuando yo era
+    joven se decía que estaba en el cementerio!
+it:
+  message:
+    Come, la scuola di bocce, ehm ...di magia ? Ah si, quando ero giovane,
+    la gente raccontava che si trovava nel cimitero !
+pt:
+  message:
+    Quê, a Escola de bocha, ahh... de Magia ? Ah sim, quando eu era jovem,
+    diziam que ela ficava no cemitério !

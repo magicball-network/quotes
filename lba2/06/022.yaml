@@ -1,3 +1,14 @@
+textId: 21
 location:
 speaker:
 message: You just picked up a gem.
+fr:
+  message: Tu viens de ramasser une gemme.
+de:
+  message: Du hast ein Juwel aufgesammelt.
+es:
+  message: Acabas de coger una gema.
+it:
+  message: Hai raccolto una gemma.
+pt:
+  message: Você pegou uma pedra preciosa.

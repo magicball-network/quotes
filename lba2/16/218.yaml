@@ -1,4 +1,23 @@
+textId: 485
 location:
 speaker:
 message: I've heard some Zeelichians live under the gas layer. I wonder how
   you'd get there...
+fr:
+  message:
+    J'ai entendu dire que des zeelichiens vivaient en dessous de la couche
+    de gaz. Je me demande comment on fait pour aller là-bas.
+de:
+  message:
+    Ich habe gehört, daß auch unter der Gaswolke Zeelicher leben. Ich frage
+    mich, wie man dort hinkommt.
+es:
+  message:
+    He oído decir que había zeelichianos viviendo debajo de la capa de gas.
+    Quisiera saber cómo se puede llegar hasta allí.
+it:
+  message: Ho sentito dire che i Zeelichiani vivevano sotto lo strato di gas. Mi
+    chiedo come si può fare per arrivare laggiù.
+pt:
+  message: Ouvi dizer que os zeelichianos viviam a baixo da camada de gás. Como
+    será que chego lá .

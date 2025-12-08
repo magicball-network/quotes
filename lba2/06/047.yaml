@@ -1,3 +1,19 @@
+textId: 46
 location:
 speaker:
 message: You just found the blowtron. Use it to shoot faster and more powerfully.
+fr:
+  message:
+    Tu viens de récupérer le sarbatron. Il te permet des tirs plus nombreux
+    et plus puissants.
+de:
+  message: Du hast eine Blasrohrpistole erhalten. Mit ihr kannst Du mehr Schüsse
+    mit mehr Durchschlagskraft als zuvor abgeben.
+es:
+  message: Acabas de recuperar la cerbatana.
+it:
+  message: Hai recuperato una cerbotron. Adesso puoi effettuare dei tiri più
+    frequenti e più potenti.
+pt:
+  message: Você adquiriu o zarbatron. Com ele você poderá dar mais tiros e eles
+    ser╞o mais poderosos.

@@ -1,3 +1,18 @@
+textId: 310
 location:
 speaker:
 message: Look, this job is too much drudgery for us to want to talk about it!
+fr:
+  message: Ecoutez, ici le boulot est assez triste pour qu'on n'ait pas envie de
+    parler !!
+de:
+  message: Hören Sie mal, die Arbeit hier ist ziemlich langweilig. Da ist man
+    nicht gerade zum Reden aufgelegt!
+es:
+  message: ¡¡Mire, aquí el curro es tan triste que no tenemos ni ganas de hablar!!
+it:
+  message:
+    Senta un po', qui il lavoro è già abbastanza triste per avere voglia di
+    parlarne !!
+pt:
+  message: Escute, o trabalho aqui é t╞o triste que n╞o temos vontade de falar !!

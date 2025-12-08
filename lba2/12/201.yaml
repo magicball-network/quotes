@@ -1,3 +1,14 @@
+textId: 670
 location:
 speaker:
 message: Oh! Hello Mr. Twinsen.
+fr:
+  message: Tiens ! Bonjour monsieur Twinsen
+de:
+  message: Hallo! Guten Tag, Herr Twinsen
+es:
+  message: ¡Vaya! Buenos días, señor Twinsen
+it:
+  message: Oh, guarda un po' ! Buongiorno signor Twinsen
+pt:
+  message: Oi ! Bom dia, senhor Twinsen

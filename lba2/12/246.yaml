@@ -1,3 +1,14 @@
+textId: 762
 location:
 speaker:
 message: I don't know, sir.
+fr:
+  message: Je ne sais pas monsieur.
+de:
+  message: Ich weiß es nicht, tut mir leid.
+es:
+  message: No sé, señor.
+it:
+  message: Non so signore.
+pt:
+  message: Eu n╞o sei senhor.

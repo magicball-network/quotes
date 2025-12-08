@@ -1,3 +1,14 @@
+textId: 385
 location:
 speaker:
 message: Banzai!
+fr:
+  message: Banzaï !
+de:
+  message: Angriff!!
+es:
+  message: ¡Banzai!
+it:
+  message: Banzaï !
+pt:
+  message: Banzai !

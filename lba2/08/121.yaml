@@ -1,6 +1,39 @@
+textId: 2
 location:
 speaker:
 message: Ah, Mr. Twinsen. Your friend Baldino left me a crate for you. It's in
   the basement, a brown crate with a big label on top. Just follow the arrows,
   bring it back here, and I'll open it. If you need help, ask my colleagues
   downstairs.
+fr:
+  message:
+    Ah m'sieur Twinsen. Votre ami Baldino m'a laissé une caisse pour vous.
+    Elle se trouve au sous-sol. C'est une caisse marron avec une grosse
+    étiquette sur le dessus. Rapportez-la ici et je vous l'ouvrirai. Si vous
+    avez b'soin d'aide, demandez à mes collègues d'en bas. Mais bon, en général,
+    il suffit de suivre les flèches.
+de:
+  message:
+    Ah, Herr Twinsen, Sie sind's. Ihr Freund Baldino hat eine Kiste für Sie
+    hinterlegt, ich hab sie in den Keller gestellt. Es ist eine braune Kiste mit
+    einem großen Etikett obendrauf. Wenn Sie sie herbringen, mache ich sie Ihnen
+    auf. Wenn Sie Hilfe brauchen, fragen Sie meine Kollegen unten. Aber es
+    dürfte eigentlich kein Problem sein, den Pfeilen zu folgen.
+es:
+  message:
+    Don Twinsen. Su amigo Baldino me ha dejado una caja para usted. Está en
+    el sótano. Es una caja marrón con una etiqueta grande encima. Tráigala aquí
+    y se la abriré. Si necesita que le echen una mano dígaselo a mis colegas de
+    abajo. Aunque en general, basta con seguir las flechas. .
+it:
+  message:
+    Ah, signor Twinsen... Il suo amico Baldino mi ha lasciato una cassa per
+    lei. E' nel sottosuolo. E' una cassa marrone con una grossa etichetta sopra.
+    La riporti qui e potrò aprirgliela. Se ha bisogno di aiuto, chieda ai miei
+    colleghi di sotto. Ma in generale basta seguire le frecce.
+pt:
+  message:
+    Ah, senhor Twinsen. Seu amigo Baldino deixou uma caixa para você. Está
+    no subsolo. A caixa é marrom com uma etiqueta grande em cima. Traga-a aqui
+    de volta e eu a abrirei. Se você precisar de ajuda, peça aos meus colegas lá
+    em baixo. Mas, em geral, basta seguir as setas.

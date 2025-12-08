@@ -1,4 +1,20 @@
+textId: 38
 location:
 speaker:
 message: You just found the Francos Burgermaster's notes. They'll help you find
   the Francos fragment.
+fr:
+  message: Tu viens de récupérer les notes du Bourgmestre Knarta. Elle te
+    permettront de retrouver le fragment des Knartas.
+de:
+  message: Du hast gerade die Notizen des Bürgermeisters der Bifiden gefunden.
+    Anhand dieser Notizen kannst du das Schlüsselfragment der Bifiden finden.
+es:
+  message: Acabas de reencontrar las notas del Burgomaestre Purlón..
+it:
+  message:
+    Hai ritrovato gli appunti del borgomastro Knartas. Ti permetteranno di
+    ritrovare il frammento dei Knartas.
+pt:
+  message: Você encontrou as notas do prefeito de Knarta. Com elas você poderá
+    encontrar a parte de chave dos Knartas.

@@ -1,4 +1,23 @@
+textId: 44
 location:
 speaker:
 message: "You now own the key to Dark Monk's temple. Plus you just reached your
   last level of magic: Fire Ball."
+fr:
+  message: "Tu possèdes maintenant la clé du temple de Dark Monk. En plus, tu
+    viens d'obtenir ton dernier niveau de magie : balle de feu."
+de:
+  message:
+    Du besitzt jetzt den Schlüssel zum Tempel von Dark Monk. Außerdem hast
+    du die höchste Magiestufe, die Stufe des Feuerballs, erlangt.
+es:
+  message: "Ahora posees la llave del templo de Dark Monk. Además, acabas de
+    conseguir tu último nivel de magia: bola de fuego.."
+it:
+  message:
+    "Adesso hai la chiave del tempio di Dark Monk. E hai ottenuto anche il
+    tuo ultimo grado di magia : sfera di fuoco."
+pt:
+  message:
+    "Você tem agora a chave do templo de Dark Monk. Você também passou para
+    o o nível mais alto de magia: bola de fogo."

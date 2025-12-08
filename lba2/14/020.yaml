@@ -1,4 +1,28 @@
+textId: 506
 location:
 speaker:
 message: Go to the welcoming building, get a pass. Then, go to the main entrance
   of the base. It's the door with the green light. That means that it is open.
+fr:
+  message: Allez au bâtiment d'accueil. Il délivre les laissez-passer. Ensuite,
+    pour entrer dans la base, vous devrez emprunter l'entrée principale. C'est
+    la porte dont la lumière est verte. Cela signifie qu'elle est ouverte.
+de:
+  message:
+    Gehen Sie in das Empfangsgebäude. Dort erhalten Sie Ihre Zugangspässe.
+    Nehmen Sie anschließend den Haupteingang, um in den Stützpunkt zu gelangen.
+    Der Haupteingang ist die Tür mit dem grünen Licht. Das grüne Licht bedeutet,
+    daß die Tür offen ist.
+es:
+  message: Vaya al edificio de recepción. Allí es donde dan los salvoconductos.
+    Después, para entrar en la base, tiene que ir por la entrada principal. Es
+    la puerta de luz verde. Eso significa que está abierta..
+it:
+  message: Andate al servizio accoglienza dell'immobile. Vi rilascerà dei
+    lasciapassare. Dopo, per entrare nella base, dovrete prendere l'entrata
+    principale. E' la porta illuminata di verde e significa che è aperta.
+pt:
+  message:
+    Vá até a recepç╞o para obter um passe de livre acesso. Em seguida, para
+    entrar na base, siga pela porta principal. A luz verde indica que ela está
+    aberta.

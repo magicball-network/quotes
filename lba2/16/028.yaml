@@ -1,3 +1,14 @@
+textId: 30
 location:
 speaker:
 message: '"You are at the harbor of Otringal."'
+fr:
+  message: '"Vous êtes au Port d''Otringal."'
+de:
+  message: '"Sie befinden sich am Hafen von Otringal."'
+es:
+  message: '"Está usted en el Puerto de Otringal."'
+it:
+  message: '"Siete al Porto di Otringal".'
+pt:
+  message: '"Você está no Porto de Otringal."'

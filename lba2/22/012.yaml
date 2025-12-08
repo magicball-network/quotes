@@ -1,3 +1,14 @@
+textId: 27
 location:
 speaker:
 message: Hey, Leave me alone!
+fr:
+  message: Laissez moi tranquille !
+de:
+  message: Lassen Sie mich in Ruhe!
+es:
+  message: ¡Déjeme en paz!
+it:
+  message: Mi lasci tranquillo !
+pt:
+  message: Me deixa em paz !

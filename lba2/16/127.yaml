@@ -1,4 +1,22 @@
+textId: 192
 location:
 speaker:
 message: You must go get me some gazogem, so that I can finish to repair our
   vessel and make your protopack more powerful!!
+fr:
+  message: Tu dois aller me chercher du gazogem, afin que je puisse finir de
+    réparer notre vaisseau, et pour que je puisse rendre ton protopack plus
+    puissant !!
+de:
+  message: Du mußt mir etwas GazoGem besorgen, damit ich unser Raumschiff
+    reparieren und dein ProtoPack leistungsfähiger machen kann!
+es:
+  message:
+    ¡¡Tienes que ir a buscarme el gazogem para que pueda acabar de reparar
+    nuestra nave y darle más potencia a tu protopack!!
+it:
+  message: Dovresti andare a prendere del gazogem, così posso finire di riparare
+    il nostro vascello e rendere il tuo Proto-Pack più potente !!
+pt:
+  message: Você precisa ir buscar gasógeno para que eu acabe de consertar nossa
+    nave e melhore o desempenho do seu protopack !!

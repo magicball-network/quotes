@@ -1,5 +1,28 @@
+textId: 35
 location:
 speaker:
 message: Your Majesty, I've come to free you, and ask you to open the door to
   the passage which leads to island CX. My planet's being threatened and I have
   to save it.
+fr:
+  message: Majesté, je suis venu vous délivrer, et vous demander de m'ouvrir la
+    porte du passage qui mène à l'îlot CX. Ma planète est toujours menacée et je
+    dois absolument la sauver.
+de:
+  message: Majestät, ich bin gekommen, um Euch zu retten und Euch zu bitten, mir
+    die Tür zum Gang zu öffnen, der zum Eiland CX führt. Mein Planet ist immer
+    noch in großer Gefahr, ich muß ihn unbedingt retten.
+es:
+  message:
+    Majestad he venido a liberaros y a pediros que me abráis la puerta del
+    pasadizo que conduce al islote CX. Mi planeta sigue amenazado y tengo que
+    salvarlo cueste lo que cueste .
+it:
+  message:
+    Maestà, sono venuto a liberarla, e a chiederle di aprirmi la porta del
+    passaggio che porta all'isolotto CX. Il mio pianeta continua ad essere
+    minacciato e devo assolutamente salvarlo.
+pt:
+  message: Majestade, vim te libertar, e te pedir para abrir a porta da passagem
+    que leva à Ilhota CX. Meu planeta ainda está ameaçado e tenho que se
+    salvá-lo de qualquer maneira.

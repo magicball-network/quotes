@@ -1,3 +1,14 @@
+textId: 25
 location:
 speaker:
 message: I hold a wizard's diploma.
+fr:
+  message: J'ai un diplôme de mage.
+de:
+  message: Ich habe ein Magierdiplom.
+es:
+  message: Tengo un diploma de mago
+it:
+  message: Ho un diploma di mago.
+pt:
+  message: Eu tenho um diploma de mago.

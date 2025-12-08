@@ -1,3 +1,14 @@
+textId: 406
 location:
 speaker:
 message: I'm trying to find the school of magic.
+fr:
+  message: Je cherche l'école de magie.
+de:
+  message: Ich suche die Zauberschule.
+es:
+  message: Busco la escuela de magia.
+it:
+  message: Cerco la Scuola di magia.
+pt:
+  message: Eu procuro a Escola de Magia.

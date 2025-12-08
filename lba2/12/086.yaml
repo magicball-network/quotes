@@ -1,5 +1,28 @@
+textId: 18
 location:
 speaker:
 message: Now that the clouds are gone, I can finally enjoy our twin sunshine.
   You know, I heard there's an oasis in the desert where there's this giant
   turtle. I'd love to go there...
+fr:
+  message: Maintenant qu'il n'y a plus de nuages, je peux enfin profiter de nos
+    deux soleils. J'ai entendu dire qu'il y avait dans le désert une oasis où
+    vient barboter une tortue. Je devrais peut-être aller là-bas.
+de:
+  message: Jetzt, wo keine Wolken mehr da sind, kann ich endlich unsere beiden
+    Sonnen genießen. Ich habe gehört, daß es in der Wüste eine Oase gibt, in der
+    eine Schildkröte baden geht. Vielleicht sollte ich dort mal hin.
+es:
+  message: Ahora que ya no hay nubes, podré por fin disfrutar de nuestros dos
+    soles. He oído decir que el desierto hay un oasis donde chapotea una
+    tortuga. Quizá debiera ir hasta allí. .
+it:
+  message:
+    Adesso che le nuvole sono andate via, potrò finalmente approfittare dei
+    nostri due soli. Ho sentito dire che nel deserto c'è un'oasi dove una
+    tartaruga va a sguazzare nell'acqua. Forse dovrei andare laggiù.
+pt:
+  message:
+    Agora que n╞o há mais nuvens no céu, eu posso aproveitar os nossos dois
+    sóis. Eu ouvi dizer que há um oásis, no Deserto, onde uma tartaruga costuma
+    se arrastar. Talvez eu devesse ir até lá.

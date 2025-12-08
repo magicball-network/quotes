@@ -1,4 +1,21 @@
+textId: 528
 location:
 speaker:
 message: Don't forget to finish the lightning potion. To do so, go to the Desert
   Island to find a pearl of incandescence.
+fr:
+  message: Ne pas oublier de terminer la potion de foudre. Pour cela, aller voir
+    sur l'île du désert pour trouver une perle d'incandescence.
+de:
+  message: Nicht vergessen, den Blitzzauber fertigzustellen. Hierzu auf der
+    Wüsteninsel eine Leuchtperle suchen.
+es:
+  message: No olvidar terminar la poción de rayo. Para ello ir a la isla del
+    desierto a buscar una perla de incandescencia.
+it:
+  message: Non bisogna dimenticare di finire la pozione di fulmine. Per farlo,
+    bisogna andare a dare un'occhiata sull'Isola del deserto dove si trovano le
+    perle d'incandescenza.
+pt:
+  message: N╞o se esqueça de terminar a poç╞o de raios. Para isso, vá até a Ilha
+    do Deserto encontrar uma pérola incandescente.

@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: How did you know I would be coming here?
+fr:
+  message: Comment saviez-vous que j'allais venir ici ?
+de:
+  message: Woher wußten Sie, daß ich hierherkommen würde?
+es:
+  message: ¿Cómo sabía usted que iba a venir?
+it:
+  message: Come ha saputo che stavo per venire qui ?
+pt:
+  message: Como você sabia que eu vinha aqui?

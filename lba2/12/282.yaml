@@ -1,3 +1,14 @@
+textId: 307
 location:
 speaker:
 message: For 12 Kashes, where do you want to go?
+fr:
+  message: Pour 12 Kashes, où désirez vous aller ?
+de:
+  message: Macht 12 Kashes. Wo wollen Sie hin?
+es:
+  message: Por 12 Kashes, ¿adónde quiere ir ?
+it:
+  message: Per 12 Kashes dove desidera andare ?
+pt:
+  message: Por 12 Kashes, onde você quer ir?

@@ -1,5 +1,27 @@
+textId: 23
 location:
 speaker:
 message: That's me. I have to get to island CX and somehow destroy the control
   center of the lunar reactors before they're fired and the moon starts falling
   toward Twinsun.
+fr:
+  message: C'est moi. Je dois aller sur l'îlot CX et détruire le centre de
+    contrôle des réacteurs lunaires. Je dois le faire avant qu'ils soient mis à
+    feu et que la lune fonce sur Twinsun.
+de:
+  message: Ich bin's. Ich muß auf das Eiland CX, um das Steuerzentrum für die
+    Mondreaktoren zu zerstören. Ich muß es schaffen, bevor sie gezündet werden
+    und der Mond auf Twinsun prallt!
+es:
+  message: Soy yo. Tengo que ir al islote CX y destruir el centro de control de
+    los reactores lunares. Debo hacerlo antes de que empiecen a funcionar y la
+    luna se precipite sobre Twinsun.
+it:
+  message: Sono io. Devo andare sull'isolotto CX e distruggere la base di
+    controllo dei reattori nucleari prima che siano attivati per il lancio della
+    luna su Twinsun.
+pt:
+  message:
+    Sou eu. Preciso ir até a Ilhota CX e destruir o centro de controle dos
+    reatores lunares. Preciso fazer isso antes que eles sejam queimados e que a
+    lua caia sobre Twinsun.

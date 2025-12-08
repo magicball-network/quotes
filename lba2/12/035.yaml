@@ -1,4 +1,25 @@
+textId: 544
 location:
 speaker:
 message: Master, the children of Twinsun have been kidnapped by the Esmers. Can
   you help? Maybe a spell to help us know where they were taken?
+fr:
+  message: Maître, les enfants de Twinsun ont été enlevés par les Esmers. Pouvez
+    vous m'aider ? N'auriez vous pas un sort qui nous permettrait de savoir où
+    ils ont été emmenés ?
+de:
+  message:
+    Meister, die Kinder von Twinsun sind von den Esmeriern entführt worden.
+    Können Sie mir helfen? Haben Sie eine Ahnung, wie man herausfinden könnte,
+    wo man sie hingebracht hat?
+es:
+  message: Maestro, los esmeres se han llevado a los niños de Twinsen. ¿Puede
+    ayudarme?¿No tendrá algún hechizo que permita saber adónde los han llevado?
+it:
+  message: Maestro, i bambini di Twinsen sono stati rapiti dagli Esmers. Può
+    aiutarmi ? Avrebbe un sortilegio che possa permetterci di sapere dove sono
+    stati portati ?
+pt:
+  message: Mestre, as crianças de Twinsun foram raptadas pelos Esmers. O senhor
+    pode me ajudar ? N╞o há uma magia que nos permita saber para onde elas foram
+    levadas ?

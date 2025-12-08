@@ -1,3 +1,14 @@
+textId: 22
 location:
 speaker:
 message: I am not from here, you see... I don't know him.
+fr:
+  message: Vous savez, moi je ne suis pas d'ici... Je ne le connais pas.
+de:
+  message: Wissen Sie, ich bin nicht von hier ... Ich kenne ihn nicht.
+es:
+  message: Mire, es que yo no soy de aquí... No lo conozco.
+it:
+  message: Sa, io non sono di qui ... Non lo conosco.
+pt:
+  message: Olha, eu n╞o sou daqui... Eu n╞o o conheço.

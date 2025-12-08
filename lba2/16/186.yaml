@@ -1,3 +1,14 @@
+textId: 402
 location:
 speaker:
 message: I'll buy it from you for 25 Zlitos.
+fr:
+  message: Je vous l'achète pour 25 Zlitos.
+de:
+  message: Für 25 Zlitos kaufe ich es Ihnen ab.
+es:
+  message: Se lo compro por 25 Zlitos.
+it:
+  message: Lo compro per 25 zlitos.
+pt:
+  message: Eu compro por 25 Zlitos.

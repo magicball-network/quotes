@@ -1,4 +1,22 @@
+textId: 603
 location:
 speaker:
 message: You mustn't try to prove your allegations like that. I am waiting for
   you to find a more intelligent way of going about it!
+fr:
+  message: Ça n'est pas de cette façon que tu prouveras tes dires. J'attends que
+    tu le fasses de manière plus intelligente !
+de:
+  message:
+    So kannst du nicht beweisen, daß du die Wahrheit sprichst. Ich erwarte,
+    daß du das auf intelligentere Weise tust!
+es:
+  message: No es así como podrás demostrar lo que dices. ¡Espero que lo hagas de
+    un modo más inteligente!
+it:
+  message:
+    Non è in questo modo che proverai le tue asserzioni. Aspetto che tu lo
+    faccia in modo intelligente.
+pt:
+  message: N╞o é assim que você provará o que diz. Espero que você encontre uma
+    maneira mais inteligente !

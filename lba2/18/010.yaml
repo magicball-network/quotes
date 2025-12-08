@@ -1,4 +1,23 @@
+textId: 20
 location:
 speaker:
 message: Oof!! This crystal is way too heavy. I need some kind of tool to break
   off a piece.
+fr:
+  message:
+    Pfouuu !! Ce cristal est bien trop lourd. Il me faudrait un outil pour
+    en extraire un morceau.
+de:
+  message: Uff! Dieser Kristall ist viel zu schwer. Ich brauche irgendein
+    Werkzeug, um ein Stück von ihm abzubrechen.
+es:
+  message:
+    ¡¡Pufff !! Este crital es demasiado pesado. Necesitaría una herramienta
+    para sacar un trozo.
+it:
+  message:
+    Uffa !! Questo cristallo è troppo pesante. Ci vorrebbe un'attrezzo per
+    estrarne un pezzo.
+pt:
+  message: Uau !! Esse cristal é pesado demais. Preciso de uma ferramenta para
+    extrair um pedaço.

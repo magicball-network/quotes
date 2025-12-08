@@ -1,3 +1,14 @@
+textId: 592
 location:
 speaker:
 message: As for us, we stay here until things cool down.
+fr:
+  message: Nous, nous restons ici en attendant que les choses se calment.
+de:
+  message: Wir bleiben hier und warten, bis sich die Lage beruhigt.
+es:
+  message: Nosotros nos quedamos aquí mientras las cosas se calman.
+it:
+  message: Noi restiamo qui ad aspettare che le cose si calmino.
+pt:
+  message: Quanto a nós, vamos ficar aqui e esperar que as coisas se acalmem.

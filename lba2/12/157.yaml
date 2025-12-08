@@ -1,4 +1,25 @@
+textId: 660
 location:
 speaker:
 message: That's strange that the school does not know... I don't like it.
   Without wizards, Twinsun is not safe. You must go find them, Twinsen!!
+fr:
+  message:
+    C'est étrange que l'école ne soit pas au courant... je n'aime pas cela.
+    Sans mage, Twinsun n'est pas en sécurité. Tu dois aller les chercher Twinsen
+    !!
+de:
+  message: Das ist aber seltsam, daß die Schule davon nicht informiert wurde ...
+    das gefällt mir gar nicht. Ohne Magier ist Twinsun nicht sicher. Du mußt sie
+    suchen, Twinsen!
+es:
+  message:
+    Qué raro que la escuela no esté al corriente... esto no me gusta nada.
+    Sin magos, Twinsun no está seguro. ¡¡Debes ir a buscarlos Twinsen!!
+it:
+  message: E' strano che la scuola non sia al corrente ... non mi piace questo.
+    Senza mago, Twinsun non è al sicuro. Devi andare a cercarli Twinsen !!
+pt:
+  message: É estranho que a Escola n╞o esteja a par ... N╞o estou gostando nada
+    disso. Sem mago, Twinsun n╞o está segura. Você tem que ir encontrá-los,
+    Twinsen !!

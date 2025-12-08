@@ -1,3 +1,14 @@
+textId: 378
 location:
 speaker:
 message: Ah Twinsen, with this rain, I found plenty of mushrooms!
+fr:
+  message: Ah Twinsen, avec cette pluie j'ai trouvé plein de champignons !
+de:
+  message: Hallo, Twinsen, bei dem vielen Regen hab' ich massenweise Pilze gefunden!
+es:
+  message: ¡Ah Twinsen, qué cantidad de setas encontré con esta lluvia!
+it:
+  message: Ah Twinsen, con questa pioggia ho trovato un mucchio di funghi !
+pt:
+  message: Ah Twinsen, com essa chuva eu encontrei muitos cogumelos!

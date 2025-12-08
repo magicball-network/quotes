@@ -1,4 +1,21 @@
+textId: 46
 location:
 speaker:
 message: If you want Life or Magic points, you can get some from one of the
   vending machines on the bar.
+fr:
+  message:
+    Si tu veux des points de vie ou des points de magie, tu peux en trouver
+    dans l'un des deux distributeurs qui sont sur le bar.
+de:
+  message: Wenn du Lebens- oder Zauberpunkte willst, die gibt's in einem der
+    beiden Automaten auf der Bar.
+es:
+  message: Si quieres puntos de vida o puntos de magia, los encontrarán en las
+    máquinas distribuidoras que hay en el bar.
+it:
+  message: Se vuoi dei punti di vita o dei punti di magia, puoi trovarne in uno
+    dei due distributori che sono sul bancone del bar.
+pt:
+  message: Se você quiser pontos de vida ou pontos de magia, você pode
+    encontrá-los em um dos dois distribuidores que est╞o no bar.

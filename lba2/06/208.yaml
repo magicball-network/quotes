@@ -1,3 +1,14 @@
+textId: 542
 location:
 speaker:
 message: Rick's Café.
+fr:
+  message: Le Rick's Café.
+de:
+  message: Ricks Café.
+es:
+  message: El Café Rick's.
+it:
+  message: Il Bar Rick's.
+pt:
+  message: Rick's Café.

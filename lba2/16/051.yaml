@@ -1,3 +1,14 @@
+textId: 40
 location:
 speaker:
 message: This painting is strange, signed by some guy...Gramitte.
+fr:
+  message: Un peu bizarre ce tableau. C'est signé d'un certain Gramitte...
+de:
+  message: Ziemlich eigenartig, das Bild. Von einem gewissen Gramitte gemalt ...
+es:
+  message: Un poco raro este cuadro. Está firmado por un tal Gramitte
+it:
+  message: Un po' strano questo quadro. Porta la firma di un certo Gramitte ...
+pt:
+  message: Um pouco estranho esse quadro. Está assinado por um tal Gramitte...

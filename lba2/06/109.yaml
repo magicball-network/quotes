@@ -1,3 +1,14 @@
+textId: 153
 location:
 speaker:
 message: Ring of Lightning, level Fire
+fr:
+  message: Sort de foudre niveau de feu
+de:
+  message: Feuerblitzzauber
+es:
+  message: Hechizo de rayo nivel de fuego
+it:
+  message: Sortilegio di fulmini grado di fuoco
+pt:
+  message: Feitiço de raio nível de fogo

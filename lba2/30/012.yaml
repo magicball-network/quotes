@@ -1,3 +1,14 @@
+textId: 590
 location:
 speaker:
 message: Twinsen, you managed to escape?
+fr:
+  message: Twinsen, tu as réussi à te sauver ?
+de:
+  message: Du bist entkommen, Twinsen!
+es:
+  message: Twinsen, ¿has conseguido escapar?
+it:
+  message: Twinsen, sei riuscito a scappare ?
+pt:
+  message: Twinsen, conseguiu escapar ?

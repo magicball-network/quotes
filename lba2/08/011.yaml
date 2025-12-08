@@ -1,3 +1,14 @@
+textId: 320
 location:
 speaker:
 message: All right Zoé, I'll take you back.
+fr:
+  message: Bon, viens Zoé, je te raccompagne.
+de:
+  message: Gut, komm, Zoe, ich begleite dich.
+es:
+  message: Bueno, Zoé, venga, te acompaño.
+it:
+  message: Bene, vieni Zoe, ti riaccompagno.
+pt:
+  message: Vamos Zoé, eu te levo de volta.

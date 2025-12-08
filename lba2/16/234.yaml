@@ -1,3 +1,16 @@
+textId: 511
 location:
 speaker:
 message: What are you doing here? You don't belong! now Get out!!
+fr:
+  message: Qu'est-ce que vous faites là ? Vous n'avez pas le droit d'être ici !
+    Sortez !!
+de:
+  message: Was machen Sie da? Sie sind nicht berechtigt, hier zu sein!
+    Verschwinden Sie!!!
+es:
+  message: ¿Qué hace usted ahí? ¡No puede estar aquí! ¡¡Salga!!
+it:
+  message: Cosa fa qui dentro ? Non ne ha il diritto !! Esca subito !!
+pt:
+  message: O que você está fazendo aí ? Você n╞o tem o direito de estar aqui! Saia!!

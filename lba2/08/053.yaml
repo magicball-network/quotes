@@ -1,3 +1,14 @@
+textId: 284
 location:
 speaker:
 message: '"I really like this image of my trusty Dino-Fly."'
+fr:
+  message: J'aime beaucoup cette image de mon fidèle Dino-Fly.
+de:
+  message: Dieses Bild meines treuen Dinofly mag ich unheimlich gern.
+es:
+  message: Me gusta mucho esta imagen de mi fiel Dino-Fly.
+it:
+  message: '" Mi piace molto questa immagine del mio fedele Dino-Fly "'
+pt:
+  message: Eu gosto muito deste retrato do meu fiel Dino-Fly

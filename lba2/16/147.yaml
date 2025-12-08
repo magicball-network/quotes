@@ -1,3 +1,14 @@
+textId: 401
 location:
 speaker:
 message: No touch the Boss!
+fr:
+  message: Pas toucher au Patron !
+de:
+  message: Lassen Sie die Finger vom Chef!
+es:
+  message: ¡No tocar al patrón!
+it:
+  message: Non toccare al capo !
+pt:
+  message: N╞o toque no patr╞o !

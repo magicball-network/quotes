@@ -1,3 +1,14 @@
+textId: 115
 location:
 speaker:
 message: Can of GazoGem
+fr:
+  message: Bidon de GazoGem
+de:
+  message: Behälter mit GazoGem
+es:
+  message: Bidón de GazoGem
+it:
+  message: Bidone di gazogem
+pt:
+  message: Gal╞o de Gasógeno

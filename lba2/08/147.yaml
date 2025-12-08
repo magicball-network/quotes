@@ -1,5 +1,27 @@
+textId: 77
 location:
 speaker:
 message: Don't touch that! I 'm trying to create an enchanted ring and this pot
   must not boil. Once I get myself an pearl of incandescence, I 'll be able to
   call the lightning!
+fr:
+  message: Ne touchez pas à ça ! J'essaie de créer un anneau enchanté et cette
+    marmite ne doit pas bouillir. Une fois que je me serais procuré une perle
+    d'incandescence, je pourrais invoquer la foudre !
+de:
+  message: Nicht anfassen! Ich versuche, einen Zauberring herzustellen, und der
+    Inhalt dieses Topfes darf auf keinen Fall zum Kochen gebracht werden. Sobald
+    ich eine Leuchtperle habe, kann ich den Blitz beschwören!
+es:
+  message:
+    ¡No toque eso! Estoy intentando crear un anillo encantado y esa olla no
+    debe hervir. ¡Cuando consiga la perla de incandescencia podré invocar al
+    rayo!
+it:
+  message: Non lo tocchi ! Sto cercando di creare un anello incantato e questa
+    pentola non deve bollire. Quando mi sarò procurato una perla di
+    incandescenza, potrò invocare i fulmini !
+pt:
+  message: N╞o toque nisso! Eu estou tentando criar um anel encantado e este
+    caldeir╞o n╞o deve ferver. Assim que eu conseguir uma pérola incandescente,
+    eu poderei invocar os raios !

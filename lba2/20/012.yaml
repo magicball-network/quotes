@@ -1,3 +1,14 @@
+textId: 31
 location:
 speaker:
 message: What a weird painting, looks like a monster from the gas.
+fr:
+  message: Drôle de tableau, on dirait un monstre du gaz.
+de:
+  message: Ein komisches Bild, sieht direkt aus wie ein Gasmonster.
+es:
+  message: Curioso cuadro, parece un monstruo del gas
+it:
+  message: Che strano quadro, sembra un mostro del gas.
+pt:
+  message: Quadro esquisito, parece um monstro do gás.

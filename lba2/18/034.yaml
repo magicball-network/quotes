@@ -1,3 +1,14 @@
+textId: 173
 location:
 speaker:
 message: So tell me, have you found Rick ?
+fr:
+  message: Alors, vous avez trouvé Rick ?
+de:
+  message: Und, haben Sie Rick gefunden?
+es:
+  message: ¿Encontró por fin a Rick?
+it:
+  message: Allora, ha trovato Rick ?
+pt:
+  message: E ent╞o, você encontrou Rick ?

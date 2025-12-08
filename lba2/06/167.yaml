@@ -1,3 +1,14 @@
+textId: 501
 location:
 speaker:
 message: Downtown Pharmacy.
+fr:
+  message: Pharmacie du centre ville.
+de:
+  message: Apotheke in der Innenstadt.
+es:
+  message: Farmacia del centro de la ciudad.
+it:
+  message: Farmacia del centro.
+pt:
+  message: Farmácia do centro da cidade.

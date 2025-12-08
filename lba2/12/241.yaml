@@ -1,3 +1,14 @@
+textId: 65
 location:
 speaker:
 message: I can't answer you, sir. I am not from here.
+fr:
+  message: Je ne peux pas vous répondre Monsieur, je ne suis pas d'ici.
+de:
+  message: Das kann ich Ihnen leider nicht sagen, ich bin nicht von hier.
+es:
+  message: No puedo contestarle, señor, no soy de aquí.
+it:
+  message: Non posso risponderle Signore, non abito da queste parti.
+pt:
+  message: Eu n╞o sei dizer, senhor, eu n╞o sou daqui.

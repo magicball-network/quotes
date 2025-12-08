@@ -1,4 +1,21 @@
+textId: 550
 location:
 speaker:
 message: Hello! Twinsen ! Zoé here! Come quickly to the house, some very strange
   things are going on!!
+fr:
+  message: Allô Allô ! Twinsen ! Ici Zoé ! Rejoins-moi vite à la maison, il se
+    passe des choses très graves !!
+de:
+  message: Hallo! Hallo! Twinsen? Ich bin's, Zoe! Komm ganz schnell nach Hause,
+    hier passieren schreckliche Dinge!
+es:
+  message: ¡Oye, oye Twinsen! ¡Zoé al habla! ¡Reúnete urgentemente conmigo en
+    casa! ¡¡Están pasando cosas gravísimas!!
+it:
+  message:
+    Pronto pronto ! Qui Zoe ! Raggiungimi presto a casa, stanno succedendo
+    delle cose gravissime !!
+pt:
+  message: Alô ! Alô ! Twinsen ! Aqui é Zoé ! Me encontre rápido na casa, há
+    coisas muito sérias acontecendo !!

@@ -1,4 +1,21 @@
+textId: 772
 location:
 speaker:
 message: I didn't know one existed. If we have time and manage to find it, we'll
   pay a visit, yes?
+fr:
+  message: Je ne savais pas qu'il en existait une. Si jamais on a le temps et
+    qu'on arrive à la trouver, on ira la visiter.
+de:
+  message: Ich wußte ja nicht 'mal, daß es so was gibt. Wenn wir mal Zeit haben
+    und sie finden, werden wir sie aber bestimmt mal besichtigen.
+es:
+  message:
+    No sabía que hubiera una. Si tenemos tiempo y conseguimos encontrarla,
+    iremos a visitarla
+it:
+  message: Non sapevo che ne esisteva una. Se per caso abbiamo il tempo e
+    riusciamo a trovarla, andremo a visitarla.
+pt:
+  message: Eu nem sabia que existia uma. Se tivermos tempo e se a encontramos,
+    vamos visitá-la

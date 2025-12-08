@@ -1,4 +1,22 @@
+textId: 560
 location:
 speaker:
 message: Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the
   lava to grab up the gems.
+fr:
+  message:
+    J'ai perdu mon gant quelque part dans la mine. Sans lui, je ne vais pas
+    pouvoir plonger mes mains dans la lave pour ramasser des gemmes.
+de:
+  message:
+    Ich habe meinen Handschuh irgendwo in der Mine verloren. Ohne ihn kann
+    ich nicht mehr in die Lava fassen und Juwelen sammeln.
+es:
+  message: He perdido mi guante en algún lugar de la mina. Sin él no voy a poder
+    meter la mano en la lava para recoger gemas.
+it:
+  message: Ho perso il mio guanto da qualche parte, nella miniera. Senza guanti
+    non potrò infilare le mie mani nella lava per raccogliere le gemme.
+pt:
+  message: Eu perdi minha luva em algum lugar na mina. Sem ela, eu n╞o posso
+    mergulhar minhas m╞os na lava para catar pedras preciosas.

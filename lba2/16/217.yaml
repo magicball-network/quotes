@@ -1,4 +1,24 @@
+textId: 431
 location:
 speaker:
 message: No taxi will go there. A guy I knew once tried to get close on a bet.
   But nobody's seen him since.
+fr:
+  message: Aucun taxi n'accepte d'y aller. Il paraît qu'un gars avait essayé de
+    s'en approcher pour une histoire de pari. Mais personne ne sait où il est
+    passé aujourd'hui.
+de:
+  message:
+    Dort bringt dich kein Taxi hin. Anscheinend hat es jemand mal auf eine
+    Wette hin versucht. Aber keiner weiß, wo er heute ist.
+es:
+  message: Ningún taxi quiere ir allí. Al parecer un tipo intentó llegar por una
+    apuesta. Pero nadie sabe dónde está ahora.
+it:
+  message: Nessun taxi accetta di andare. Pare che un tipo abbia tentato di
+    avvicinarsi per vincere una scommessa. Ma fino ad oggi nessuno sa dove sia
+    finito.
+pt:
+  message:
+    Nenhum taxi aceita ir lá. Parece que um cara tinha tentado chegar perto
+    por causa de uma aposta. Mas ninguém sabe onde ele foi parar.

@@ -1,3 +1,14 @@
+textId: 107
 location:
 speaker:
 message: Part for the car
+fr:
+  message: Pièce de la voiture
+de:
+  message: Autobauteil
+es:
+  message: Pieza de coche
+it:
+  message: Pezzo di ricambio della macchina
+pt:
+  message: Peça do carro

@@ -1,3 +1,16 @@
+textId: 287
 location:
 speaker:
 message: Aahhh, thank you! I think I can fly now and take you where you want.
+fr:
+  message: Aahhh, merci ! Je sens que je peux voler à présent et t'emmener où tu
+    le désires.
+de:
+  message: Aahhh, danke! Ich spüre schon, daß ich wieder fliegen und dich
+    hinbringen kann, wohin du willst.
+es:
+  message: ¡Ahhh, gracias ! Ahora ya siento que puedo volar y llevarte donde quieras.
+it:
+  message: Ahhh, grazie ! Sento che adesso sono in grado di volare e portarti dove vuoi.
+pt:
+  message: Aahhh, obrigado ! Eu sinto que posso voar agora e te levar onde você quiser.

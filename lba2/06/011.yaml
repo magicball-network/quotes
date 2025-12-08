@@ -1,4 +1,21 @@
+textId: 10
 location:
 speaker:
 message: You just seized the emperor's sword. Now you can face the hussars
   guarding the Emperor's palace.
+fr:
+  message: Tu viens de t'emparer du sabre de l'Empereur. Il te permettra
+    d'affronter les hussards qui gardent le palais de l'empereur.
+de:
+  message: Du hast dir den Säbel des Kaisers geschnappt. Mit ihm kannst du gegen
+    die Husaren kämpfen, die den Palast des Kaisers bewachen..
+es:
+  message:
+    Acabas de apoderarte del sable del emperador. Te permitirá hacer frente
+    a los húsares .
+it:
+  message: Ti sei impossessato della sciabola dell'imperatore. Ti permetterà di
+    affrontare gli ussari di guardia al palazzo dell'imperatore.
+pt:
+  message: Você se apossou do sabre do Imperador. Com ele, você poderá enfrentar
+    os cavaleiros que guardam o palácio do Imperador.

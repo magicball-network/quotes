@@ -1,3 +1,14 @@
+textId: 514
 location:
 speaker:
 message: Oh, that's you! Hi!
+fr:
+  message: Tiens, c'est vous ! Bonjour !
+de:
+  message: Oh, Sie sind's! Guten Tag!
+es:
+  message: ¡Vaya, es usted! ¡Buenos días!
+it:
+  message: Ah, é lei ! Buongiorno !
+pt:
+  message: Puxa, é você! Bom dia!

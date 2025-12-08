@@ -1,3 +1,14 @@
+textId: 503
 location:
 speaker:
 message: Baggage claim building.
+fr:
+  message: Bâtiment de la consigne.
+de:
+  message: Gepäckaufbewahrungsgebäude.
+es:
+  message: Edificio de consigna.
+it:
+  message: Edificio del deposito bagagli.
+pt:
+  message: Prédio do armazém.

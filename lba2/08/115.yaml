@@ -1,3 +1,14 @@
+textId: 117
 location:
 speaker:
 message: Could you help me find the school of magic?
+fr:
+  message: Pourriez vous m'aider, je cherche l'école de magie ?
+de:
+  message: Ich suche die Zauberschule, können Sie mir sagen, wo die ist?
+es:
+  message: ¿Podría ayudarme? busco la escuela de magia.
+it:
+  message: Potreste aiutarmi? Cerco la Scuola di magia.
+pt:
+  message: Você poderia me ajudar, eu procuro a Escola de Magia ?

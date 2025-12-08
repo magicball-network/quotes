@@ -1,3 +1,14 @@
+textId: 308
 location:
 speaker:
 message: Welcome to the Inter-islands Ferry, sir.
+fr:
+  message: Bienvenue à Inter-îles Ferry, monsieur.
+de:
+  message: Willkommen bei den Inselfähren.
+es:
+  message: Bienvenido a Inter-islas Ferry, señor.
+it:
+  message: Benvenuto a Inter-isole Traghetti signore.
+pt:
+  message: Bem-vindo a Balsa Inter-ilhas, senhor.

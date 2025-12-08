@@ -1,3 +1,14 @@
+textId: 160
 location:
 speaker:
 message: Lucky Clover Leaf
+fr:
+  message: Trèfle
+de:
+  message: Kleeblatt
+es:
+  message: Trébol
+it:
+  message: Quadrifoglio
+pt:
+  message: Trevo

@@ -1,5 +1,29 @@
+textId: 245
 location:
 speaker:
 message: Sorry, bud, I don't have none left. I'm waiting for some tanker due in
   from the island of the Francos. Their refinery produces the gazogem from the
   gems collected in the under-gas.
+fr:
+  message: Désolé m'sieur, j'en ai plus. J'attends l'arrivée du Tanker qui doit
+    venir de l'île des knartas. C'est dans leur raffinerie que le gazogem est
+    produit à partir des gemmes ramassées dans le sous-gaz.
+de:
+  message: Tut mir schrecklich leid, ich habe keins mehr. Ich warte auf den
+    Tanker, der von der Insel der Bifiden kommen soll. GazoGem wird dort in der
+    Raffinerie aus Edelsteinen gewonnen, die aus dem Gebiet unter der Gaswolke
+    stammen.
+es:
+  message: Lo siento, caballero, no me queda. Estoy esperando la llegada del
+    petrolero que tiene que venir de la isla de los purlones. El gazogem se
+    produce en sus refinerías con las gemas que se recogen en el sub-gas.
+it:
+  message:
+    Spiacente signore, non ne ho più. Aspetto l'arrivo della nave cisterna
+    che deve venire dall'isola dei Knartas. Il gazogem viene prodotto nella loro
+    raffineria, dalle gemme raccolte nel sotto-gas.
+pt:
+  message:
+    Sinto muito moço, acabou. Estou esperando a chegada do navio-tanque que
+    deve vir da Ilha dos knartas. É na sua refinaria que o gasógeno é produzido
+    a partir de pedras colhidas no sub-gás.

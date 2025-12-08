@@ -1,3 +1,19 @@
+textId: 905
 location:
 speaker:
 message: Incredibly smooth real-time animation with texture mapping and lighting.
+fr:
+  message: Animation en temps réel d'une fluidité remarquable avec gestion des
+    textures et des lumières
+de:
+  message: Eine bemerkenwert flüssige Echtzeitdarstellung mit Struktur- und
+    Lichtverwaltung.
+es:
+  message: Animaciones en tiempo real con gestión de texturas y luces.
+it:
+  message:
+    Animazione in tempo reale di notevole fluidità con gestione delle trame
+    e degli effetti luminosi.
+pt:
+  message: Animation en temps réel d'une fluidité remarquable avec gestion des
+    textures et des lumières

@@ -1,4 +1,22 @@
+textId: 202
 location:
 speaker:
 message: You can throw these darts at any time by selecting them in the
   inventory. To retrieve them, you only have to touch them.
+fr:
+  message: Tu peux lancer ces fléchettes à tout instant en les sélectionnant
+    depuis l'inventaire. Pour les récupérer il te suffit de les toucher.
+de:
+  message:
+    Du kannst jederzeit Pfeile werfen, indem du sie im Inventar auswählst.
+    Um sie aufzuheben, genügt es, sie zu berühren.
+es:
+  message: Puedes lanzar esos dardos en cualquier momento seleccionándolos desde
+    el inventario. Para recuperarlas te basta con tocarlas.
+it:
+  message: Puoi lanciare delle freccette in qualsiasi momento selezionandole
+    nell'inventario. Per recuperarle basta toccarle.
+pt:
+  message:
+    Você pode lançar esses dardos a qualquer hora selecionando-os a partir
+    da Listagem. Para recuperá-los basta tocá-los.

@@ -1,5 +1,28 @@
+textId: 536
 location:
 speaker:
 message: I'm in a bind, I've lost my glove in the mine. With it, I can catch the
   pieces of lava and the balls of fire, I can even pitch them back. Everybody
   has one, to extract gems.
+fr:
+  message: Je suis bien embêté, j'ai perdu mon gant à la mine. Avec lui je peux
+    attraper les morceaux de lave et les boules de feu, je peux même les
+    renvoyer. Tout le monde en a un pour extraire des gemmes.
+de:
+  message:
+    So ein Mist, ich habe meinen Handschuh in der Mine verloren. Damit kann
+    man Lava- und Feuerkugeln fangen und sogar zurückwerfen. Jeder hat hier
+    einen, um Juwelen abzubauen.
+es:
+  message: ¡Qué lata, he perdido mi guante en la mina! Con él puedo coger trozos
+    de lava y bolas de fuego, incluso puedo arrojarlas. Todos tienen uno para
+    extraer las gemas.
+it:
+  message:
+    Che rabbia, ho perso il mio guanto alla miniera. Mi serve per prendere
+    i pezzi di lava e le palle di fuoco, posso anche tirarle. Tutti ne hanno uno
+    per estrarre le gemme.
+pt:
+  message: Eu estou muito chateado, perdi a minha luva na mina. Com ela posso
+    pegar pedaços de lava e bolas de fogo, posso até jogá-las de volta. Todo
+    mundo tem uma para extrair as pedras preciosas.

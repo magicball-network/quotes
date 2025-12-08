@@ -1,5 +1,27 @@
+textId: 123
 location:
 speaker:
 message: '"THE OFFICIAL RUMOR: The Emperor asserts: Dark Monk will fulfill the
   prophecy, whether or not the mosquibees are willing to bring their
   fragment!!!"'
+fr:
+  message:
+    '" LA RUMEUR OFFICIELLE : L''Empereur affirme : Dark Monk accomplira la
+    prophétie, que les mosquibees acceptent ou pas d''apporter leur fragment
+    !!!"'
+de:
+  message: '"DAS OFFIZIELLE GERÜCHT: Kaiser bestätigt: Dark Monk wird die
+    Weissagung erfüllen, ganz gleich, ob die Moskibienos ihr Fragment des
+    Schlüssels herbringen oder nicht!!!"'
+es:
+  message: '"EL RUMOR OFICIAL: ¡¡¡El emperador afirma que Dark Monk cumplirá la
+    profecía, traigan o no su fragmento los mosquibitas!!!"'
+it:
+  message:
+    '" LE INDISCREZIONI UFFICIALI : L''Imperatore dichiara : la profezia di
+    Dark Monk si avvererà, che i Moschibei accettino o meno di dare il loro
+    frammento !!!"'
+pt:
+  message:
+    '" O RUMOR OFICIAL: O Imperador afirma: Dark Monk cumprirá a profecia,
+    quer os mosquibees aceitem ou n╞o levar sua parte da chave !!!"'

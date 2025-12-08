@@ -1,3 +1,14 @@
+textId: 996
 location:
 speaker:
 message: A flask of gallic costs 50 kashes.
+fr:
+  message: Un flacon d'acide gallique coûte 50 kashes.
+de:
+  message: Ein Fläschchen mit Gallussäure kostet 50 Kashes.
+es:
+  message: Un frasco de ácido gálico cuesta 50 kashes.
+it:
+  message: Un flacone di acido gallico costa 50 Kashes.
+pt:
+  message: Um frasco de ácido gálico custa 50 kashes.

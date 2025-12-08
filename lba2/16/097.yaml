@@ -1,4 +1,21 @@
+textId: 293
 location:
 speaker:
 message: No!! That device is not the tourist information terminal. Don't touch
   anything, please!!
+fr:
+  message: Non !! Cet appareil n'est pas la borne touristique ! N'y touchez pas
+    s'il vous plaît !!
+de:
+  message:
+    Halt! Der Apparat ist nicht der für die Touristen! Fassen Sie ihn bitte
+    nicht an!
+es:
+  message: ¡¡No!! ¡¡Por favor, no toque nada!!
+it:
+  message: No !! Questa macchina non è una colonnina di informazioni turistiche.
+    Per favore, non la tocchi !!
+pt:
+  message:
+    N╞o !! N╞o esse aparelho n╞o é o nosso guia turístico ! N╞o toque nele,
+    por favor !!

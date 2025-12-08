@@ -1,4 +1,20 @@
+textId: 174
 location:
 speaker:
 message: No... maybe not the lodges. I heard rumors about something, but I just
   don't remember.
+fr:
+  message:
+    Non.. peut être par les loges, j'avais entendu parler de quelque chose,
+    mais je ne me souviens plus très bien.
+de:
+  message: Nein ... vielleicht über die Logenplätze ... ich habe da was gehört,
+    aber ich weiß es nicht mehr so genau.
+es:
+  message: No.. quizá por las galerías, he oído algo pero no me acuerdo bien.
+it:
+  message: No ... forse attraverso la portineria avevo sentito parlare di
+    qualcosa, ma non ricordo bene.
+pt:
+  message: N╞o.. talvez pelas docas, ouvi falar alguma coisa, mas n╞o me lembro
+    muito bem.

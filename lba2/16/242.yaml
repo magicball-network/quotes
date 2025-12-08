@@ -1,3 +1,14 @@
+textId: 535
 location:
 speaker:
 message: Welcome to Otringal, sir. Have a pleasant stay.
+fr:
+  message: Bienvenue sur Otringal monsieur. Je vous souhaite de passer un bon séjour.
+de:
+  message: Willkommen in Otringal. Ich wünsche Ihnen einen schönen Urlaub.
+es:
+  message: Bienvenido al Otringal, señor, le deseo una feliz estancia.
+it:
+  message: Benvenuto su Otringal signore. Le auguro di passare un'eccellente soggiorno.
+pt:
+  message: Bem-vindo a Otringal senhor. Desejo que tenha um bom dia.

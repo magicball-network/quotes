@@ -1,3 +1,16 @@
+textId: 820
 location:
 speaker:
 message: Hi there Joe! Still having problems with your magical powers?
+fr:
+  message:
+    Salut Joe ! Alors, tu as toujours autant de problèmes avec tes pouvoirs
+    magiques ?
+de:
+  message: Hallo, Joe! Na, immer noch Probleme mit der Magie?
+es:
+  message: ¡Hola Joe! ¿Sigues teniendo tantos problemas con tus poderes mágicos?
+it:
+  message: Ciao Joe ! Allora, hai sempre tutti quei problemi con i tuoi poteri magici ?
+pt:
+  message: Olá Joe ! E ent╞o, você ainda tem problemas com os seus poderes mágicos?

@@ -1,4 +1,23 @@
+textId: 585
 location:
 speaker:
 message: Twinsen ! Did you see Zoé? She is looking for you everywhere! She has
   something very important to tell you!!
+fr:
+  message:
+    Twinsen ! Tu as vu Zoé ? Elle te cherche partout ! Elle a quelque chose
+    de très important à te dire !!
+de:
+  message:
+    Twinsen, hast du Zoe getroffen? Sie sucht überall nach dir! Sie hat dir
+    etwas sehr Wichtiges zu sagen!
+es:
+  message: ¡Twinsen ! ¿Has visto a Zoé? ¡Te anda buscando por todas partes!
+    ¡¡Tiene algo muy importante que decirte!!
+it:
+  message: Twinsen ! Hai visto Zoe ? Ti cerca dappertutto ! Ha qualcosa di molto
+    importante da dirti ! !
+pt:
+  message:
+    Twinsen ! Você viu Zoé ? Ela está te procurando ! Ela tem alguma coisa
+    muito importante para te dizer !!

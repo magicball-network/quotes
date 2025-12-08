@@ -1,4 +1,22 @@
+textId: 29
 location:
 speaker:
 message: You have found a translator. Now you'll be able to understand the Esmer
   language.
+fr:
+  message:
+    Tu as trouvé un traducteur. Grâce à lui, tu comprendras automatiquement
+    le langage des Esmers.
+de:
+  message:
+    Du hast einen Kommunikator gefunden. Mit ihm kannst du die Sprache der
+    Esmerier verstehen.
+es:
+  message: Has encontrado un traductor.
+it:
+  message:
+    Hai trovato un traduttore. Grazie ad esso potrai capire automaticamente
+    la lingua degli Esmers.
+pt:
+  message: Você encontrou um tradutor. Com ele, você entenderá automaticamente a
+    língua dos Esmers.

@@ -1,3 +1,14 @@
+textId: 259
 location:
 speaker:
 message: Adieu!!!
+fr:
+  message: Adieu !!!
+de:
+  message: Adieu!!!
+es:
+  message: ¡¡¡Adiós!!!
+it:
+  message: Addio !!!
+pt:
+  message: Adeus !!!

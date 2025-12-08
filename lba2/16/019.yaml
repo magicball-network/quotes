@@ -1,3 +1,14 @@
+textId: 19
 location:
 speaker:
 message: I'm looking for a Mr. Johnny Rocket.
+fr:
+  message: Je cherche Monsieur Johnny Rocket.
+de:
+  message: Ich suche Herrn Johnny Rocket.
+es:
+  message: Busco al señor Johnny Rocket.
+it:
+  message: Cerco il Signor Johnny Rocket.
+pt:
+  message: Estou procurando o Sr. Johnny Rocket.

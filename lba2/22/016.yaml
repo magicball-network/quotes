@@ -1,3 +1,21 @@
+textId: 611
 location:
 speaker:
 message: Don't you have any proof of your good faith? An identification sign, an object?
+fr:
+  message: N'avez vous aucune preuve de votre bonne foi ? Un signe de
+    reconnaissance, un objet ?
+de:
+  message:
+    Haben Sie denn überhaupt keinen Beweis für Ihre Ehrlichkeit? Irgendein
+    Erkennungszeichen oder ein Objekt?
+es:
+  message:
+    ¿No tiene nada que demuestre su buena fe? ¿Una señal de identificación,
+    algún objeto?
+it:
+  message: Ha una prova della sua buona fede ? Un segno di riconoscimento, un oggetto ?
+pt:
+  message:
+    Você n╞o tem nenhuma prova de sua boa fé ? Um sinal de reconhecimento,
+    um objeto ?

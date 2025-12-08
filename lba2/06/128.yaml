@@ -1,4 +1,23 @@
+textId: 217
 location:
 speaker:
 message: Gallic acid is used to restore ancient documents. It allows you to
   brighten up the areas where the ink has faded.
+fr:
+  message:
+    L'acide gallique est utilisée pour restaurer des documents anciens, il
+    te permet de raviver des parties dont l'encre est effacée.
+de:
+  message:
+    Mit Gallussäure kannst du alte Dokumente restaurieren. Damit werden die
+    Teile, in denen die Tinte verblaßt ist, wieder sichtbar.
+es:
+  message: El ácido gálico se utiliza para restaurar documentos antiguos, te
+    permite hacer reaparecer las partes cuya tinta se ha borrado..
+it:
+  message: L'acido gallico è utilizzato per restaurare i vecchi documenti, ti
+    permette di ravvivare le parti in cui l'inchiostro è stato cancellato.
+pt:
+  message:
+    O ácido gálico é usado para recuperar documentos antigos, com ele você
+    pode fazer reaparecer partes cuja tinta estava apagada.

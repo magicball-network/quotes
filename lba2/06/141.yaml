@@ -1,3 +1,16 @@
+textId: 230
 location:
 speaker:
 message: Your diploma in magic has allowed you to reach the green ball level of magic.
+fr:
+  message: Ton diplôme de magie t'as permis d'atteindre le niveau de magie balle verte.
+de:
+  message: Mit deinem Magierdiplom hast du die Magiestufe des Grünen Balls erreicht.
+es:
+  message: Tu diploma de magia te ha permitido conseguir el nivel de magia bola verde.
+it:
+  message:
+    Il tuo diploma di mago ti ha permesso di raggiungere un grado di magia
+    boccia verde .
+pt:
+  message: O seu diploma de mágico te permitiu atingir o nível de magia da bola verde.

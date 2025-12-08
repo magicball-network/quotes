@@ -1,4 +1,23 @@
+textId: 10
 location:
 speaker:
 message: Yeah, actually I saw him pass by a while back. He was holding his
   guitar, heading for the cliffs.
+fr:
+  message:
+    Oui, je l'ai vu passer il y a quelques temps. Il avait sa guitare à la
+    main et il allait vers la corniche.
+de:
+  message: Ja, der ist vor einiger Zeit vorbeigekommen. Er hatte seine Gitarre
+    dabei und ging auf die Küstenstraße zu.
+es:
+  message:
+    Sí, lo he visto pasar hace un rato. Llevaba su guitarra e iba hacia la
+    cornisa.
+it:
+  message: Si, l'ho visto passare poco tempo fa. Aveva la sua chitarra in mano e
+    andava verso la strada panoramica.
+pt:
+  message:
+    Sim, eu o vi passar faz pouco tempo. Ele estava com seu viol╞o na m╞o,
+    indo para o torre╞o.

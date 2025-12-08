@@ -1,4 +1,23 @@
+textId: 50
 location:
 speaker:
 message: You now own a laser-pistol in working condition. It gives you enough
   firepower to reach distant targets that your magical ball cannot reach..
+fr:
+  message: Tu possèdes maintenant un pistolaser en état de fonctionnement. Il
+    permet des tirs tendus et lointains. Grâce à lui, tu pourras toucher des
+    cibles que ta balle magique n'atteindrait pas.
+de:
+  message: Du besitzt jetzt einen funktionsfähigen PistoLaser. Mit ihm kannst du
+    kraftvoll und weit schießen und Ziele treffen, die sich außerhalb der
+    Reichweite deines Magischen Balls befinden.
+es:
+  message: Ahora posees un pistoláser que funciona.
+it:
+  message: Adesso hai una pistolaser pronta a funzionare. Ti permette dei tiri a
+    braccia tese e su lunghe distanze. Potrai colpire degli obiettivi
+    impossibili da raggiungere con la sfera magica.
+pt:
+  message:
+    Sua pistolaser está funcionando. Com ela você poderá dar tiros longos.
+    Também poderá atingir alvos que sua bola mágica n╞o alcança.

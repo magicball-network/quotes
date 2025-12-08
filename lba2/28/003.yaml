@@ -1,3 +1,17 @@
+textId: 500
 location:
 speaker:
 message: Ah, here you are at last! I was beginning to wonder if I would see you today.
+fr:
+  message: Ah, enfin te voilà ! Je commençais à me demander si j'allais te voir
+    aujourd'hui.
+de:
+  message:
+    Ah, da bist du ja endlich. Ich hatte mich schon langsam gefragt, ob ich
+    dich heute wohl noch zu Gesicht bekommen würde!
+es:
+  message: ¡Ah, por fin has llegado! Ya estaba preguntándome si te vería hoy.
+it:
+  message: Ah, sei qui finalmente ! Cominciavo a chiedermi se ti avrei visto oggi.
+pt:
+  message: Ah, finalmente, aí está você ! Já estava achando que n╞o ia te ver hoje.

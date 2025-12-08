@@ -1,4 +1,22 @@
+textId: 263
 location:
 speaker:
 message: Yeah, sure whatever, your the twelfth person to lay this on me... I
   didn't believe the first eleven so why should I believe you?
+fr:
+  message: C'est ça oui... Vu que y'en a déjà onze comme toi qui sont venus me
+    dire ça... j'risque pas d'te croire...
+de:
+  message: Ja, genau ... Angesichts der Tatsache, daß schon elf von deiner Sorte
+    hier waren und genau das Gleiche gesagt haben ... das Risiko kann ich nicht
+    eingehen, dir das zu glauben ...
+es:
+  message:
+    Sí, eso es. Como otros once ya han venido a decirme lo mismo, no pienso
+    creerte..
+it:
+  message: Ah si, è così ... Visto che ce ne sono undici come te ad avermi detto
+    questo ... non vedo perchè dovrei crederti...
+pt:
+  message: É isso, sei... Porque outros onze além de você já vieram me dizer
+    isso... É difícil de acreditar...

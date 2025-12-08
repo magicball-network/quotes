@@ -1,3 +1,14 @@
+textId: 307
 location:
 speaker:
 message: Hello Mr. Twinsen.
+fr:
+  message: Bonjour monsieur Twinsen.
+de:
+  message: Guten Tag, Herr Twinsen.
+es:
+  message: Buenos días, señor Twinsen.
+it:
+  message: Buongiorno signor Twinsen.
+pt:
+  message: Bom dia senhor Twinsen.

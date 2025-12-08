@@ -1,3 +1,14 @@
+textId: 15
 location:
 speaker:
 message: What are you doing here?
+fr:
+  message: Qu'est ce que vous faites là ?
+de:
+  message: Was machen Sie hier?
+es:
+  message: ¿Qué hace usted ahí?
+it:
+  message: Che cosa fa qui ?
+pt:
+  message: O que você está fazendo aqui ?

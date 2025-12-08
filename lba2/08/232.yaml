@@ -1,4 +1,26 @@
+textId: 12
 location:
 speaker:
 message: Since the good weather's back, my bird friends are much less on edge.
   Oh, and be careful, there's a weirdo hiding behind the trees.
+fr:
+  message:
+    Depuis qu'il fait beau, mes copains oiseaux sont beaucoup moins énervés
+    et bien plus sympas. Au fait, méfie-toi, il y a un type bizarre qui se cache
+    derrière les arbres.
+de:
+  message: Seit das Wetter gut ist, sind meine Freunde, die Vögel, viel besser
+    gelaunt. Paß' übrigens auf, da ist so ein komischer Typ, der sich hinter den
+    Bäumen versteckt.
+es:
+  message: Desde que hace buen tiempo mis amigos pájaros están mucho más
+    tranquilos y son mucho más amables, Por cierto, ten cuidado, hay un tipo
+    extraño escondido detrás de los árboles.
+it:
+  message: Da quando il tempo è bello, i miei amici uccelli sono meno nervosi e
+    molto più simpatici. A proposito, stai attento, c'è un tipo strano che si
+    nasconde dietro gli alberi.
+pt:
+  message: Desde que o tempo ficou bom, meus amigos pássaros est╞o mais calmos e
+    bem mais simpáticos. A propósito, cuidado, tem um cara esquisito escondido
+    atrás das árvores.

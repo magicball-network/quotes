@@ -1,3 +1,14 @@
+textId: 337
 location:
 speaker:
 message: Hang on!
+fr:
+  message: Accrochez-vous !
+de:
+  message: Gut festhalten!
+es:
+  message: ¡Agárrese!
+it:
+  message: Si tenga forte !
+pt:
+  message: Segure firme !

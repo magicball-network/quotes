@@ -1,4 +1,22 @@
+textId: 621
 location:
 speaker:
 message: I hope my clientele will come back. It looks like there are less and
   less Esmers in the streets of Port-Ludo.
+fr:
+  message:
+    J'espère que les clients vont revenir. Il semble que les Esmers soient
+    de moins en moins nombreux dans les rues de Port-Ludo.
+de:
+  message: Ich hoffe, meine Kunden kommen wieder. Anscheinend gibt es immer
+    weniger Esmerier in den Straßen von Port-Ludo.
+es:
+  message:
+    Espero que vuelvan los clientes. Parece que hay cada vez menos esmeres
+    en las calles de Port-Ludo.
+it:
+  message: Spero che i clienti ritornino. Pare che gli Esmers siano sempre meno
+    numerosi per le strade di Port-Ludo.
+pt:
+  message: Espero que os clientes apareçam. Parece que há cada vez menos Esmers
+    nas ruas de Porto Ludo.

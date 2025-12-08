@@ -1,4 +1,23 @@
+textId: 481
 location:
 speaker:
 message: I don't know where it is, but it would be nice if there was a driving
   school. At least, that would be useful.
+fr:
+  message:
+    Je ne sais pas où elle est, mais ça serait bien s'il y avait une école
+    de pilotage. Ça au moins, ça serait utile.
+de:
+  message: Ich weiß nicht wo sie ist, aber 'ne Schule für Rennfahrer wäre 'ne
+    feine Sache. Wär' wenigstens was Nützliches.
+es:
+  message:
+    No sé dónde está, pero estaría bien que hubiera una escuela de pilotos.
+    Eso al menos sería algo útil.
+it:
+  message: Non so dove sia, ma l'ideale sarebbe avere una scuola guida. sarebbe
+    sicuramente utile.
+pt:
+  message:
+    Eu n╞o sei onde ela fica, mas seria bom se tivesse por aqui uma escola
+    de pilotagem. Pelo menos isso seria útil.

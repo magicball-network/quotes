@@ -1,4 +1,21 @@
+textId: 418
 location:
 speaker:
 message: I don't know what to do. The island CX is totally inaccessible. It is
   impossible to get near it.
+fr:
+  message: Je ne vois pas comment faire. L'îlot CX est vraiment une zone
+    inabordable. Il est impossible de s'en approcher.
+de:
+  message: Ich weiß nicht, wie das zu schaffen wäre. Das Eiland CX ist wirklich
+    unerreichbar. Man kann sich ihm nicht einmal nähern.
+es:
+  message: No sé cómo hacerlo. El islote CX es una zona ciertamente inaccesible.
+    Es imposible aproximarse..
+it:
+  message:
+    Non so proprio come fare. L'isolotto CX è in una zona impenetrabile. E'
+    impossibile avvicinarsi.
+pt:
+  message: N╞o vejo como. A Ilhota CX é realmente uma área impenetrável. É
+    impossível chegar lá perto.

@@ -1,5 +1,32 @@
+textId: 705
 location:
 speaker:
 message: I'm worried, Twinsen. These visitors from the sky look weird to me.
   They act almost too friendly. And get this, I've seen some of them hide in the
   garbage cans.
+fr:
+  message:
+    Tu sais Twinsen, je suis inquiète. Je trouve ces visiteurs du ciel bien
+    étranges. Ils sont trop aimables pour être honnêtes. En plus ils ont parfois
+    de drôles de comportements. J'en ai vu se dissimuler dans les poubelles.
+de:
+  message: Weißt du, Twinsen, ich mache mir langsam Sorgen. Ich finde diese
+    Besucher aus dem All ziemlich seltsam. Sie sind einfach zu liebenswürdig,
+    als daß sie ehrlich sein könnten. Und außerdem verhalten sie sich manchmal
+    reichlich seltsam. Ich habe welche dabei beobachtet, wie sie sich in den
+    Mülltonnen versteckt haben.
+es:
+  message: ¿Sabes Twinsen? Estoy preocupada. Esos visitantes del cielo son muy
+    raros. Su amabilidad es excesiva para ser auténtica. Además tienen
+    comportamientos extraños a veces. He visto a algunos esconderse en los cubos
+    de la basura.
+it:
+  message:
+    Sai Twinsen, sono preoccupata. Trovo questi visitatori del cielo molto
+    strani. Sono troppo gentili per essere onesti. E a volte hanno un
+    comportamento strano. Ho visto alcuni di loro nascondersi nelle pattumiere.
+pt:
+  message: Sabe, Twinsen, estou preocupada. Eu acho estes visitantes do céu
+    bastante estranhos. S╞o bonzinhos demais para serem honestos. Além disso às
+    vezes se comportam de modo esquisito. Eu vi eles se esconderem nas latas de
+    lixo.

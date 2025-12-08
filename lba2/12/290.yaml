@@ -1,4 +1,21 @@
+textId: 755
 location:
 speaker:
 message: It has been two months since I enrolled in this blasted school, and I
   have not been able to pass a single test!!!
+fr:
+  message: Ça fait deux mois que je me suis inscrit à cette satanée école, et je
+    n'ai pas réussi à passer une seule épreuve !!!
+de:
+  message: Vor zwei Monaten habe ich mich bei dieser verfluchten Schule
+    eingeschrieben und bisher nicht eine einzige Prüfung bestanden!!!
+es:
+  message: ¡¡¡Hace dos meses que me matriculé en esa escuela del demonio y no he
+    conseguido superar ni una prueba!!!
+it:
+  message: Saranno due mesi che mi sono iscritto in questa dannata scuola e non
+    sono riuscito a superare nessuna prova !!!
+pt:
+  message:
+    Faz dois meses que eu me inscrevi nesta maldita escola, e n╞o consegui
+    completar uma prova sequer!!!

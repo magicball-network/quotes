@@ -1,3 +1,15 @@
+textId: 94
 location:
 speaker:
 message: It exists? I always thought it was just another desert mirage.
+fr:
+  message: Elle existe ? Je croyais que cela n'était qu'un des mirages de ce désert.
+de:
+  message: Wie, so was gibt's wirklich? Ich dachte, das wär' bloß so 'ne Fata
+    Morgana, sind ja schließlich in der Wüste hier!
+es:
+  message: ¿Existe? Creía que sólo era uno de los milagros de este desierto.
+it:
+  message: Esiste ? Credevo che fosse solo un miraggio di questo deserto.
+pt:
+  message: Ela existe ? Pensei que fosse só uma miragem desse deserto.

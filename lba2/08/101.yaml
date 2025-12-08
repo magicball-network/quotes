@@ -1,4 +1,20 @@
+textId: 541
 location:
 speaker:
 message: He told me the ball of Sendell would help me find the children. I've
   got to find it.
+fr:
+  message: Il m'a conseillé de trouver la boule de Sendell. Il a dit qu'elle
+    m'aiderait à sauver les enfants.
+de:
+  message: Er hat mir geraten, die Kugel von Sendell zu suchen, und gesagt, daß
+    sie mir helfen würde, die Kinder zu retten.
+es:
+  message: Me ha aconsejado que encontrara la bola de Sendell. Ha dicho que me
+    ayudaría a salvar a los niños.
+it:
+  message: Mi ha consigliato di trovare la sfera di Sendell. Mi ha detto che
+    potrebbe essermi di aiuto per salvare i bambini.
+pt:
+  message: Ele me aconselhou a encontrar a Bola de Sendell. Disse que ela me
+    ajudará a salvar as crianças.

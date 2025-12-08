@@ -1,5 +1,28 @@
+textId: 248
 location:
 speaker:
 message: It was put together by Jerome Baldino. It allows now you to access new
   locations and to follow some grades that were impracticable with the
   proto-pack.
+fr:
+  message:
+    Il a été bricolé par Jérôme Baldino. Il te permet maintenant d'accéder
+    à des endroits nouveaux et d'emprunter des dénivelés que tu ne pouvais
+    prendre avec le proto-pack.
+de:
+  message:
+    Wurde von Jerome Baldino gebastelt. Damit kannst du neue Orte erreichen
+    und Höhenunterschiede überwinden, die du mit dem ProtoPack nicht schaffen
+    konntest.
+es:
+  message: Lo ha arreglado Jerónimo Baldino. Ahora te permite acceder a nuevos
+    lugares y tomar desniveles que no podrías con el proto-pack.
+it:
+  message:
+    E' stato riadattato da Gerolamo Baldino. Ti permette, da questo momento
+    in poi, di accedere a nuovi luoghi e andare su terreni in dislivello non
+    accessibili con il precedente Proto-Pack.
+pt:
+  message:
+    Foi alterado por Jerônimo Baldino. Com ele você pode ir a novos lugares
+    e subir elevaçΣes que antes eram inatingíveis com seu proto-pack.

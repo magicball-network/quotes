@@ -1,3 +1,14 @@
+textId: 116
 location:
 speaker:
 message: Dissidents' Ring
+fr:
+  message: Bague des dissidents
+de:
+  message: Rebellenring
+es:
+  message: Anillo de los disidentes
+it:
+  message: Anello dei dissidenti
+pt:
+  message: Anel de rebeldes

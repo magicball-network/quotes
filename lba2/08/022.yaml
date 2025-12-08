@@ -1,3 +1,14 @@
+textId: 311
 location:
 speaker:
 message: Just looking.
+fr:
+  message: Rien, je regarde.
+de:
+  message: Nichts, ich schaue nur.
+es:
+  message: Nada, estoy mirando.
+it:
+  message: Niente, guardo.
+pt:
+  message: Nada, eu estou só olhando.

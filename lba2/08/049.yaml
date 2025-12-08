@@ -1,5 +1,27 @@
+textId: 282
 location:
 speaker:
 message: '"Diploma of Elementary-Weather Magic. The Wizard Bersimon has proven
   his talents as a master of the elements. He has reached the rank of Grand
   Master of sea winds and tornadoes. "'
+fr:
+  message:
+    '" Diplôme de Magie Météo-Elémentaire. Le Mage Bersimon a démontré ses
+    capacités de maîtrise des éléments. Il est élevé au rang de Grand Maître des
+    vents marins et tornades. "'
+de:
+  message: '"Diplom in Wetter- und Elementmagie. Der Zauberer Bersimon hat seine
+    Fähigkeiten im Beherrschen der Elemente bewiesen. Hiermit wird ihm der Titel
+    "Großmeister der Meeres- und Wirbelstürme" verliehen."'
+es:
+  message: '" Título de Magia Meteo-Básico. El Mago Bersimon ha demostrado su
+    capacidad para controlar los elementos. Es ascendido al rango de Gran
+    Maestro de vientos marinos y tornados"'
+it:
+  message: '"Diploma di Magia Meteorologica Elementare. Il mago Bersimon ha
+    dimostrato le sue capacità di controllo degli elementi. E'' promosso al grado
+    di Grande Maestro dei venti marini e dei tornadi"'
+pt:
+  message: '" Diploma Básico de Magia do Tempo. O Mago Bersimon demonstrou suas
+    capacidades de controlar os elementos. Ele foi promovido à posiç╞o de Grande
+    Mestre dos furacΣes e tornados. "'

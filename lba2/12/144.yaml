@@ -1,3 +1,14 @@
+textId: 21
 location:
 speaker:
 message: You are now a member of our school.
+fr:
+  message: Maintenant, tu es membre de notre école.
+de:
+  message: Jetzt gehörst du zu unserer Schule.
+es:
+  message: Ahora eres miembro de nuestra escuela.
+it:
+  message: Adesso, sei membro della nostra scuola.
+pt:
+  message: Agora você é membro da nossa escola.

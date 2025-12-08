@@ -1,5 +1,29 @@
+textId: 190
 location:
 speaker:
 message: This temple is dedicated to Dark Monk. He is the God of the Zeelichians
   and lives again! His Majesty promised to cancel the Zeelichian curse during
   the cult's next ceremony.
+fr:
+  message: Ce temple est dédié à Dark Monk. C'est le Dieu des Zeelichiens. Il
+    paraît qu'il se serait réincarné il y a peu de temps, et qu'il aurait promis
+    de lever la malédiction zeelichienne lors de la prochaine cérémonie du
+    culte.
+de:
+  message: Dieser Tempel ist Dark Monk, dem Gott der Zeelicher, geweiht.
+    Anscheinend wurde er vor kurzem wiedergeboren und hat versprochen, bei der
+    nächsten religiösen Zeremonie den Fluch zu heben, der auf Zeelich lastet.
+es:
+  message:
+    Este templo está dedicado a Dark Monk. Es el Dios de los Zeelichianos.
+    Al parecer se ha reencarnado hace poco y promete levantar la maldición
+    zeelichiana en la próxima ceremonia del culto.
+it:
+  message:
+    Questo tempio è dedicato a Dark Monk . E' il Dio dei Zeelichiani. Pare
+    che si sia reincarnato da poco tempo, e che avrebbe promesso di annulare la
+    maledizione zeelichiana durante la prossima cerimonia del culto.
+pt:
+  message: Esse templo é dedicado a Dark Monk. É o deus dos Zeelichianos. Parece
+    que ele reencarnou há pouco tempo, e prometeu desfazer a maldiç╞o
+    zeelichiana durante a próxima cerimônia do culto.

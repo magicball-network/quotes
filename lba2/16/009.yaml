@@ -1,3 +1,14 @@
+textId: 8
 location:
 speaker:
 message: Are you winning?
+fr:
+  message: Vous gagnez ?
+de:
+  message: Gewinnen Sie gerade?
+es:
+  message: ¿Gana?
+it:
+  message: Vincete ?
+pt:
+  message: Você está ganhando ?

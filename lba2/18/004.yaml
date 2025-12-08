@@ -1,3 +1,14 @@
+textId: 8
 location:
 speaker:
 message: Otringal
+fr:
+  message: Sur Otringal.
+de:
+  message: Nach Otringal.
+es:
+  message: A Otringal
+it:
+  message: Su Otringal
+pt:
+  message: Em Otringal

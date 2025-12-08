@@ -1,3 +1,14 @@
+textId: 545
 location:
 speaker:
 message: Where could I find it?
+fr:
+  message: Et où puis-je la trouver ?
+de:
+  message: Und wo ist sie?
+es:
+  message: ¿Y dónde puedo encontrarla?
+it:
+  message: E dove posso trovarla?
+pt:
+  message: E onde é que eu posso encontrá-la ?

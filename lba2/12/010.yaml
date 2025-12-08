@@ -1,3 +1,14 @@
+textId: 203
 location:
 speaker:
 message: Hey, Jerome.
+fr:
+  message: Salut Jérôme.
+de:
+  message: Hallo, Jerome.
+es:
+  message: Hola, Jerónimo.
+it:
+  message: Ciao Gerolamo
+pt:
+  message: Olá Jerônimo.

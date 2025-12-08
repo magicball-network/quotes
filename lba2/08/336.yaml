@@ -1,3 +1,14 @@
+textId: 373
 location:
 speaker:
 message: I can't help you, Mr. Twinsen.
+fr:
+  message: Je peux pas t'aider m'sieur Twinsen.
+de:
+  message: Keine Ahnung, Herr Twinsen.
+es:
+  message: No puedo ayudarte, señor Twinsen.
+it:
+  message: Non posso aiutarti signor Twinsen !
+pt:
+  message: Eu n╞o posso te ajudar, senhor Twinsen.

@@ -1,3 +1,14 @@
+textId: 10
 location:
 speaker:
 message: You are on the island below the Volcano of the Celebration.
+fr:
+  message: Vous êtes sur l'île en dessous du Volcan de la Célébration.
+de:
+  message: Sie sind auf der Insel unter dem Vulkan der Feste.
+es:
+  message: Estad usted en la isla de debajo del volcán de la celebración.
+it:
+  message: Siete sull'isola sotto il Vulcano della Celebrazione.
+pt:
+  message: Você está embaixo do vulc╞o da Celebraç╞o.

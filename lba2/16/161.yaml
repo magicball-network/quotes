@@ -1,5 +1,29 @@
+textId: 405
 location:
 speaker:
 message: He's our greatest hero. The first one to set foot on mysterious
   Twinsun! Thanks to him we'll get much-needed help from the Twinsunian wizards!
   He's over there, in the armchair, with his manicurist.
+fr:
+  message: C'est notre grand héros. C'est le premier à avoir posé le pied sur
+    Twinsun ! C'est grâce à lui que nous aurons obtenu l'aide des mages
+    twinsuniens !!! Il est là-bas, dans le fauteuil, avec sa manucure.
+de:
+  message:
+    Er ist unser großer Held - der erste, der Fuß auf Twinsun gesetzt hat!
+    Ihm haben wir es zu verdanken, daß die Magier von Twinsun uns geholfen
+    haben!!! Er sitzt da unten im Sessel, seine Kosmetikerin steht neben ihm.
+es:
+  message: ¡Es nuestro gran héroe. Fue el primero que pisó Twinsun! ¡¡¡Gracias a
+    él hemos conseguido la ayuda de los magos twinsianos!!!. Está allí, en la
+    butaca, con la manicura.
+it:
+  message:
+    E' il nostro grande eroe. E' il primo ad aver messo piede su Twinsun !
+    E' grazie a lui che abbiamo ottenuto l'aiuto dei maghi twinsuniani !!! E' in
+    fondo, seduto in poltrona con la sua manicurista.
+pt:
+  message:
+    É nosso grande herói. Foi o primeiro a pisar em Twinsun ! Graças a ele
+    obtivemos a ajuda dos magos twinsunianos !!! Ele está ali, na poltrona, com
+    sua manicure.

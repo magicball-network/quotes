@@ -1,3 +1,14 @@
+textId: 105
 location:
 speaker:
 message: If you are lost, go back and get your holomap.
+fr:
+  message: Si tu es perdu, retourne chercher ton holomap.
+de:
+  message: Wenn du dich verirrt hast, mußt du deine Holokarte suchen.
+es:
+  message: Si estás perdido, regresa a buscar tu holomapa.
+it:
+  message: Se non hai via di uscita, torna a cercare il tuo holomap.
+pt:
+  message: Se você estiver perdido, volte e procure seu holomapa.

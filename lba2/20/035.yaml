@@ -1,6 +1,34 @@
+textId: 587
 location:
 speaker:
 message: She's locked up in the premises of the Building Company, the entrance
   of which is heavily guarded. But from the mine, you can access the nearest
   hangar. And from there, if you take the roof, you can reach the building where
   she's being held.
+fr:
+  message:
+    Elle est enfermée dans le bâtiment de la Building Company dont l'entrée
+    est surveillée. Mais depuis la mine, tu peux accéder au hangar voisin. De
+    là, si tu passes par le toit, tu pourras aller jusqu'au bâtiment où elle a
+    été enfermée.
+de:
+  message:
+    Sie wird im Gebäude der Building Company gefangen gehalten. Der Eingang
+    wird bewacht. Aber von der Mine aus kannst du in die Lagerhalle daneben
+    gelangen. Und von da aus kannst du über das Dach bis zu dem Gebäude kommen,
+    in dem sie eingesperrt ist.
+es:
+  message:
+    Esta encerrada en el edificio de la Building Company cuya entrada está
+    vigilada. Pero desde la mina puedes acceder al hangar más próximo. Desde
+    allí, si pasas por el tejado, podrás ir hasta el edificio donde está
+    encerrada .
+it:
+  message: E' rinchiusa nel palazzo della Building Company, ma l'entrata è sotto
+    sorveglianza. Forse puoi entrare nell'hangar vicino passando dalla miniera.
+    Dall'hangar potrai accedere al tetto e andare fino all'edificio dove è
+    rinchiusa.
+pt:
+  message: Ela está trancada no prédio da Building Company cuja entrada está
+    vigiada. Mas partindo da mina, você pode ter acesso ao hangar vizinho. De
+    lá, se você passar pelo teto, poderá ir até o prédio onde ela está presa.

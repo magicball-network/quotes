@@ -1,4 +1,24 @@
+textId: 57
 location:
 speaker:
 message: Sorry, can't help you. The only story about magic that I know is the
   one about a rabbibunny that got turned into a shell!
+fr:
+  message: Désolé, je ne peux pas t'aider. Tout ce que je connais comme histoire
+    de magie, c'est celle d'un lapichon qui aurait été transformé en coquillage
+    !!
+de:
+  message:
+    Tut mir leid, da kann ich dir nicht helfen. Von Magie weiß ich nur, daß
+    es da einen Haasi gegeben haben soll, der in eine Muschel verwandelt wurde!
+es:
+  message:
+    Lo siento, no puedo ayudarte. ¡¡La única historia de magia que conozco
+    es la del conejuno convertido en molusco!!
+it:
+  message:
+    Spiacente, non ti posso aiutare. L'unica storia di magia che conosco è
+    quella di un lapinoide trasformato in conchiglia !!
+pt:
+  message: Sinto muito, n╞o posso te ajudar. Tudo que sei dessas histórias de
+    magia é a de um lapichom que teria sido transformado em concha !!

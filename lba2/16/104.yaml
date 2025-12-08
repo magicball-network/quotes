@@ -1,3 +1,4 @@
+textId: 540
 location:
 speaker:
 message: >-
@@ -6,3 +7,42 @@ message: >-
 
 
   With an unequaled kindness, he oversees our planet with skill and leniency.
+fr:
+  message: >-
+    Si vous ne le rencontrez pas, peut-être apercevrez vous notre grandissime
+    Empereur.
+
+
+    Fort d'une inégalable gentillesse, il dirige notre planète avec talent et
+    mansuétude.
+de:
+  message: >-
+    Wenn Sie ihn nicht persönlich kennenlernen, so werden Sie doch vielleicht
+    von weitem einen Blick auf seine kaiserliche Hoheit erhaschen.
+
+
+    Der Kaiser regiert unseren Planeten mit großer Umsicht, Freundlichkeit und
+    einer Güte, die ihresgleichen sucht.
+es:
+  message: >-
+    Aunque es posible que no se encuentren con él, percibirán la presencia de
+    nuestro excelentísimo emperador
+
+
+    Dotado de incomparable simpatía, dirige nuestro planeta con talento y
+    bondad.
+it:
+  message: >-
+    Se non lo incontrerete, potete forse intravedere il nostro grandissimo
+    Imperatore.
+
+
+    Ha il dono di un'incomparabile gentilezza e dirige il nostro pianeta con
+    bravura e dolcezza.
+pt:
+  message: >-
+    Se você n╞o o encontrar, talvez você aviste o nosso grandíssimo Imperador.
+
+
+    Cheio de uma gentileza inigualável, ele governa o nosso planeta com talento
+    e tranqüilidade.

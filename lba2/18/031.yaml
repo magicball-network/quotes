@@ -1,3 +1,14 @@
+textId: 170
 location:
 speaker:
 message: Yeah, it's me, or what's left of me. What do you want?
+fr:
+  message: Ouais, c'est moi, ou ce qu'il en reste. Qu'est-ce que vous voulez ?
+de:
+  message: Ja, ich bin's, oder zumindest das, was von mir übrig ist. Was wollen Sie?
+es:
+  message: Pues sí, soy yo o lo que queda de mí. ¿Qué quiere?
+it:
+  message: Si, sono io, o quello che ne resta. Cosa vuole ?
+pt:
+  message: É, sou eu, ou o que sobrou de mim. O que você quer?

@@ -1,4 +1,25 @@
+textId: 628
 location:
 speaker:
 message: It is a pearl of incandescence. The Weather Wizard makes use of it for
   his lightning spell. With it, you could free the Ball of Sendell.
+fr:
+  message: C'est une perle d'incandescence. Le mage météo m'a dit un jour qu'il
+    s'en servait pour fabriquer son sort de foudre. Grâce à lui, tu pourrais
+    libérer la boule de Sendell.
+de:
+  message: Das ist eine Leuchtmuschel. Der Wettermagier hat mir erzählt, daß er
+    damit eines Tages einen Blitzzauber herstellen würde. Damit könntest du die
+    Kugel von Sendell befreien.
+es:
+  message: Es una perla de incandescencia. La usa el mago meteo para fabricar su
+    hechizo de rayo. Mediante ese hechizo podrás liberar la bola de Sendell.
+it:
+  message:
+    E' una perla d'incandescenza e tempo fa il Mago metereologo mi ha detto
+    che se ne serviva per creare il suo sortilegio di fulmini. Grazie a lui
+    potrai liberare la sfera di Sendell.
+pt:
+  message: É uma pérola incandescente. O Mago do Tempo me disse um dia que ele a
+    usava para criar o feitiço do raio. Com esse feitiço, você poderá liberar a
+    Bola de Sendell.

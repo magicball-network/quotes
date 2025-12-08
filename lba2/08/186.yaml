@@ -1,4 +1,21 @@
+textId: 42
 location:
 speaker:
 message: Hi, Twinsen. With this storm, I've got lots of customers and I don't
   have one minute to myself.
+fr:
+  message:
+    Salut Twinsen. Avec cet orage les clients sont nombreux et je n'ai pas
+    le temps de souffler une minute.
+de:
+  message: Hallo, Twinsen. Bei diesem Sturm haben wir viel Kundschaft, und ich
+    habe nicht eine Minute Pause.
+es:
+  message: Hola Twinsen. Con esta tormenta hay un montón de clientes y no puedo
+    escaquearme ni un minuto.
+it:
+  message: Ciao Twinsen. Con questo temporale i clienti sono molti e non ho
+    nemmeno un minuto di tempo per respirare.
+pt:
+  message: Olá Twinsen. Tenho muitos clientes por causa dessa chuva e n╞o tenho
+    tempo sequer para respirar.

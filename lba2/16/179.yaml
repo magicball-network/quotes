@@ -1,4 +1,22 @@
+textId: 390
 location:
 speaker:
 message: Stand in front of the article of your choice and do "ACTION" if you
   want to buy it.
+fr:
+  message:
+    Placez-vous devant l'article de votre choix et faites "ACTION" si vous
+    désirez l'acheter.
+de:
+  message: Stellen Sie sich vor den gewünschten Artikel und führen Sie "AKTION"
+    aus, wenn Sie ihn kaufen wollen.
+es:
+  message: Colóquese delante del artículo que desea y pulse "ACCION" si quiere
+    comprarlo.
+it:
+  message: Mettetevi davanti all'articolo che avete scelto e premete su "AZIONE"
+    se volete comprarlo.
+pt:
+  message:
+    Posicione-se em frente ao produto de sua escolha e clique em "AÇ╟O" se
+    quiser comprá-lo.

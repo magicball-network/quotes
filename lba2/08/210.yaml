@@ -1,3 +1,14 @@
+textId: 66
 location:
 speaker:
 message: Sorry, I am not from here.
+fr:
+  message: Navré je ne suis pas d'ici.
+de:
+  message: Tut mir leid, bin nicht von hier.
+es:
+  message: Lo lamento, no soy de aquí.
+it:
+  message: Mi dispiace ma non sono di qui.
+pt:
+  message: Sinto muito eu n╞o sou daqui.

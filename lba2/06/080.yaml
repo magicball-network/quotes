@@ -1,3 +1,14 @@
+textId: 124
 location:
 speaker:
 message: Travel Token
+fr:
+  message: Disque de route
+de:
+  message: Routenscheibe
+es:
+  message: Disco de ruta
+it:
+  message: Disco di percorso
+pt:
+  message: Disco de rota

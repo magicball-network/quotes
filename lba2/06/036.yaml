@@ -1,3 +1,14 @@
+textId: 35
 location:
 speaker:
 message: You just found the key of the passage which leads to island CX.
+fr:
+  message: Tu viens de récupérer la clé du passage qui mène vers l'îlot CX.
+de:
+  message: Du hast gerade den Schlüssel für den Gang erhalten, der zur Insel CX führt.
+es:
+  message: Acabas de recuperar la llave del pasadizo que lleva al islote CX.
+it:
+  message: Hai recuperato la chiave del passaggio che porta all'isolotto CX.
+pt:
+  message: Você adquiriu a chave da passagem que leva até a Ilhota CX.

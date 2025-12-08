@@ -1,3 +1,14 @@
+textId: 107
 location:
 speaker:
 message: I am looking for the lighthouse keeper.
+fr:
+  message: Je cherche le gardien du phare.
+de:
+  message: Ich suche den Hüter des Leuchtturms.
+es:
+  message: Estoy buscando al guardián del faro.
+it:
+  message: Cerco il guardiano del faro.
+pt:
+  message: Eu procuro o guardi╞o do farol.

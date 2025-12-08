@@ -1,3 +1,16 @@
+textId: 537
 location:
 speaker:
 message: Master, I found a strange pearl in a cave, not far from Port-Ludo.
+fr:
+  message: Maître, j'ai trouvé une perle étrange dans une grotte, près de Port-Ludo.
+de:
+  message: Meister, ich habe eine seltsame Perle in einer Grotte bei Port-Ludo gefunden.
+es:
+  message: Maestro, he encontrado una perla rara en una gruta, cerca de Port-Ludo.
+it:
+  message: Maestro, ho trovato una strana perla in una grotta, vicino al Port-Ludo.
+pt:
+  message:
+    Mestre, eu encontrei uma pérola estranha dentro de uma gruta, perto do
+    Porto Ludo.

@@ -1,3 +1,14 @@
+textId: 424
 location:
 speaker:
 message: '"To the lighthouse at the end of the island."'
+fr:
+  message: '" Vers le phare du bout de l''île. "'
+de:
+  message: '"Zum Leuchtturm am Ende der Insel."'
+es:
+  message: '" Al faro de la punta de la isla "'
+it:
+  message: '"Verso il faro della punta dell''isola"'
+pt:
+  message: '" Em direç╞o ao Farol no extremo da Ilha. "'

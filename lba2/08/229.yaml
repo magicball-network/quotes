@@ -1,3 +1,14 @@
+textId: 396
 location:
 speaker:
 message: For 3 Kashes, do you want to use the telescope?
+fr:
+  message: Pour 3 Kashes, voulez-vous utiliser le télescope ?
+de:
+  message: Wollen Sie das Teleskop benutzen? Kostet nur 3 Kashes!
+es:
+  message: ¿Quiere usar el telescopio por 3 Kashes?
+it:
+  message: Per 5 Kashes, vuole utilizzare il telescopio ?
+pt:
+  message: Por 3 Kashes, você gostaria de usar o telescópio ?

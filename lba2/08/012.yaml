@@ -1,3 +1,14 @@
+textId: 30
 location:
 speaker:
 message: Hello?
+fr:
+  message: Allô ?
+de:
+  message: Hallo?
+es:
+  message: ¿Diga?
+it:
+  message: Pronto ?
+pt:
+  message: Alô ?

@@ -1,3 +1,14 @@
+textId: 525
 location:
 speaker:
 message: School of Magic.
+fr:
+  message: Ecole de magie.
+de:
+  message: Zauberschule.
+es:
+  message: Escuela de magia.
+it:
+  message: Scuola di Magia.
+pt:
+  message: Escola de Magia.

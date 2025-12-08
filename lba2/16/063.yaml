@@ -1,4 +1,20 @@
+textId: 205
 location:
 speaker:
 message: Welcome to Zeelich, Master. Follow me, I will take you to your
   twinsunian colleagues.
+fr:
+  message: Bienvenue sur Zeelich Maître. Suivez moi, je vais vous emmener auprès
+    de vos collègues twinsuniens.
+de:
+  message:
+    Willkommen auf Zeelich, Meister. Wenn Sie mir bitte folgen wollen? Ich
+    bringe Sie zu Ihren twinsunischen Kollegen.
+es:
+  message: Bienvenido a Zeelich Maestro. Sígame, lo llevaré con sus colegas twinsianos.
+it:
+  message: Benvenuto su Zeelich Maestro. Se vuole seguirmi, posso accompagnarla
+    dai suoi colleghi twinsuniani.
+pt:
+  message: Bem-vindo a Zeelich, Mestre. Siga-me, vou te levar até seus colegas
+    twinsunianos.

@@ -1,4 +1,22 @@
+textId: 218
 location:
 speaker:
 message: Oh! I don't know where he is. But if he'd done his job, I'd have seen
   his light and wouldn't have crashed.
+fr:
+  message:
+    Ça je ne sais pas où il est. Mais s'il avait fait son boulot, j'aurais
+    vu la lumière et je ne me serais pas fais aussi mal.
+de:
+  message: Ich weiß nicht, wo er ist. Aber wenn er seine Arbeit gemacht hätte,
+    hätte ich das Licht gesehen und hätte mich nicht so verletzt.
+es:
+  message:
+    No sé dónde es. Pero si hubiera hecho su trabajo como es debido, habría
+    visto la luz y no me habría hecho tanto daño.
+it:
+  message: Non so dove sia. Ma se aveva fatto bene il suo lavoro, avrei visto la
+    luce e non mi sarei fatto cosí male.
+pt:
+  message: Eu n╞o sei onde ele está. Mas se ele tivesse feito o serviço dele, eu
+    teria visto a luz e n╞o teria me machucado tanto.

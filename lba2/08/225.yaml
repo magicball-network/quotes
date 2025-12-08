@@ -1,4 +1,21 @@
+textId: 578
 location:
 speaker:
 message: There is still no maritime service, but I have the impression that
   there are less Esmers on our island.
+fr:
+  message:
+    Il n'y a toujours pas de liaisons maritimes, mais j'ai l'impression que
+    les Esmers sont moins nombreux sur notre île.
+de:
+  message: Es gibt zwar immer noch keine Fährverbindungen, aber ich habe den
+    Eindruck, daß es langsam weniger Esmerier hier auf der Insel werden.
+es:
+  message: Sigue sin haber comunicaciones marítimas, pero tengo la sensación de
+    que hay menos esmeres en nuestra isla
+it:
+  message: La situazione è la stessa, non ci sono più collegamenti marittimi, ma
+    ho l'impressione che gli Esmers siano meno numerosi sulla nostra isola.
+pt:
+  message: Ainda n╞o há transportes marítimos, mas tenho a impress╞o de que há
+    menos Esmers em nossa ilha.

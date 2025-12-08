@@ -1,5 +1,29 @@
+textId: 3
 location:
 speaker:
 message: Sorry, but I've forbidden roof access since my colleague from Citadel
   Island had legal issues with a customer who took a bad dive in the cellar of
   his bar!
+fr:
+  message: Navré, mais j'ai interdit l'accès au toit depuis que mon collègue de
+    l'île de la citadelle a eu des ennuis avec un client qui est tombé dans la
+    cave de son bar !
+de:
+  message:
+    Bedaure, aber ich habe den Zugang zum Dach verboten, seit mein Kollege
+    von der Zitadelleninsel Ärger mit einem Kunden hatte, der in den Keller
+    seiner Kneipe gefallen ist!
+es:
+  message: ¡Lo siento mucho, pero he prohibido el acceso al tejado desde que mi
+    colega de la isla de la ciudadela tuvo problemas con un cliente que se cayó
+    a la bodega de su bar!
+it:
+  message:
+    Mi dispiace, ma ho proibito l'accesso al tetto da quando il mio collega
+    dell'isola della Cittadella ha avuto dei problemi con un cliente che è
+    caduto dentro la cantina del suo bar !
+pt:
+  message:
+    Sinto muito, mas eu interditei o acesso ao telhado desde que meu colega
+    da Ilha da Fortaleza teve problemas com um cliente que caiu na adega de seu
+    bar !

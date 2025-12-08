@@ -1,3 +1,14 @@
+textId: 264
 location:
 speaker:
 message: Go!!!
+fr:
+  message: Allez !!!
+de:
+  message: Los!!!
+es:
+  message: ¡¡¡Venga!!!
+it:
+  message: Via !!!
+pt:
+  message: Vai !!!

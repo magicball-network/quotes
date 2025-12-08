@@ -1,3 +1,14 @@
+textId: 557
 location:
 speaker:
 message: Twinsen, did you find the children's trail?
+fr:
+  message: Twinsen, tu as trouvé la trace des enfants ?
+de:
+  message: Twinsen, hast du schon eine Spur der Kinder gefunden?
+es:
+  message: Twinsen, ¿has encontrado la pista de los niños?
+it:
+  message: Twinsen, hai trovato le tracce dei bambini ?
+pt:
+  message: Twinsen, você encontrou alguma pista das crianças ?

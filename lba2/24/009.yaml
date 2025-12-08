@@ -1,3 +1,14 @@
+textId: 12
 location:
 speaker:
 message: '"Roger de la Fontaine - Franco Burgermaster"'
+fr:
+  message: '"Roger de la Fontaine - Bourgmestre Knarta"'
+de:
+  message: '"Holger Brunnenschein - Bürgermeister der Bifiden "'
+es:
+  message: '"Roger de la Fontaine - Burgomaestre Purlón"'
+it:
+  message: '"Roger de la Fontaine - Borgomastro Knartas"'
+pt:
+  message: '"Roger de la Fontaine - Prefeito de Knarta"'

@@ -1,4 +1,23 @@
+textId: 1
 location:
 speaker:
 message: You just found your Magic Ball! When you wear your ancestral Tunic
   you'll be able to bounce it at your enemies!
+fr:
+  message: Tu viens de retrouver ta Balle Magique ! En portant ta Tunique
+    ancestrale, tu parviendras à lancer ta balle en lui faisant faire des
+    rebonds !
+de:
+  message: Du hast deinen Magischen Ball wiedergefunden! Wenn du die Tunika der
+    Ahnen trägst, kannst du den Ball werfen, und er kommt zu dir zurück!
+es:
+  message: ¡Acabas de volver a encontrar tu bola mágica! Si llevas tu túnica
+    ancestral, conseguirás lanzar la bola haciéndola rebotar!
+it:
+  message:
+    Hai ritrovato la tua Sfera Magica ! Se indossi la tua Tunica ancestrale
+    potrai lanciare la tua sfera e farla rimbalzare !
+pt:
+  message:
+    Você encontrou sua bola mágica ! Usando a Túnica ancestral, você poderá
+    lançar a bola fazendo ela quicar !

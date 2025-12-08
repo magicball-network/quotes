@@ -1,3 +1,16 @@
+textId: 126
 location:
 speaker:
 message: I don't know Twinsen, I don't live here. I was just imported.
+fr:
+  message: Je ne sais pas Twinsen, j'habite ailleurs. J'ai été importé jusque ici.
+de:
+  message:
+    Ich weiß es nicht, Twinsen, eigentlich bin ich nicht von hier. Ich bin
+    importiert.
+es:
+  message: No conosco a Twinsen, yo no vivo aquí. Acabo de llegar.
+it:
+  message: Non lo so Twinsen, non abito da queste parti. Sono stato portato fino a qui.
+pt:
+  message: Eu n╞o sei, Twinsen, eu n╞o moro aqui. Fui trazido para cá.

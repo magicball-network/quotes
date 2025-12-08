@@ -1,3 +1,14 @@
+textId: 346
 location:
 speaker:
 message: No, I fell asleep in the sun, I didn't see any wizard.
+fr:
+  message: Non, je me suis endormie au soleil, je n'ai pas vu de mages.
+de:
+  message: Nein, ich bin in der Sonne eingeschlafen, ich hab' keine Magier gesehen.
+es:
+  message: No, me he quedado dormida tomando el sol, no he visto a ningún mago.
+it:
+  message: No, mi sono addormentata al sole, non visto nessun mago.
+pt:
+  message: N╞o, eu acabei dormindo sob o sol, n╞o vi nenhum mago.

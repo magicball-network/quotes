@@ -1,3 +1,14 @@
+textId: 800
 location:
 speaker:
 message: Twinsen, Did you find the healing wizard?
+fr:
+  message: Twinsen, tu as trouvé le mage guérisseur ?
+de:
+  message: Twinsen, hast du den Heilmagier gefunden?
+es:
+  message: Twinsen, ¿has encontrado al mago curandero?
+it:
+  message: Twinsen, hai trovato il mago guaritore ?
+pt:
+  message: Twinsen, você encontrou o Mago Curador ?

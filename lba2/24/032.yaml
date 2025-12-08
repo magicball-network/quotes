@@ -1,5 +1,34 @@
+textId: 265
 location:
 speaker:
 message: You have to be crazy to believe all these stories of fragment hunting.
   Me, I think Roger lost it at home before getting eaten by the monster. What
   are you gonna do?, at least its good for business.
+fr:
+  message:
+    Avec ces histoires de chasse au fragment, tout le monde est devenu fou.
+    En plus, j'y crois pas à s't'histoire. Moi j'suis sur que Roger il l'a perdu
+    chez lui avant de se faire manger par le monstre !! Enfin, ça fait marcher
+    le commerce.
+de:
+  message: Wegen dieser Suche nach dem Fragment sind alle durchgedreht. Und
+    außerdem glaub' ich die ganze Geschichte sowieso nicht. Ich bin mir sicher,
+    daß Holger es zu Hause irgendwohin gepackt hat, bevor dieses Monster ihn
+    verputzt hat! Naja, wenigstens belebt's das Geschäft.
+es:
+  message:
+    Con ese cuento de buscar el fragmento, todo el mundo se ha vuelto loco.
+    Además yo no creo en esas cosas. ¡Estoy seguro que Roger lo había perdido en
+    su casa antes de que se lo comiera el monstruo! Pero bueno, da vida al
+    comercio.
+it:
+  message:
+    Con queste storie di caccia al frammento, sono diventati tutti pazzi. E
+    poi, io non credo proprio a questa storia. Sono sicuro che Roger l'ha perso
+    a casa sua prima di farsi mangiare dal mostro !! Mah, in fondo favorisce gli
+    affari.
+pt:
+  message: Com essas histórias de caça à nossa parte da chave, todo mundo ficou
+    maluco. Além disso, n╞o acredito nessa história. Tenho certeza de que Roger
+    perdeu-a em casa antes de ser comido pelo monstro !! Enfim, isso incentiva o
+    comercio.

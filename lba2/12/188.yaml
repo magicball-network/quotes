@@ -1,3 +1,14 @@
+textId: 69
 location:
 speaker:
 message: Hello!! Allow to me introduce the Grand Rector of the School of Magic!
+fr:
+  message: Hello !! Je vous présente le Grand Recteur de l'Ecole de Magie !
+de:
+  message: Der Große Rektor der Zauberschule!!
+es:
+  message: ¡¡Hola!! Les presento al gran rector de la Escuela de Magia!
+it:
+  message: Salve !! Vi presento il Gran Rettore della Scuola di Magia !
+pt:
+  message: Olá !! Gostaria de apresentá-lo ao Grande Reitor da Escola de Magia!

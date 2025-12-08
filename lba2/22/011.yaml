@@ -1,3 +1,14 @@
+textId: 26
 location:
 speaker:
 message: I've got to speak to your Queen!
+fr:
+  message: Je dois parler à votre Reine !
+de:
+  message: Ich muß mit Eurer Königin sprechen!
+es:
+  message: ¡Tengo que hablar con vuestra Reina!
+it:
+  message: Devo parlare alla vostra Regina !
+pt:
+  message: Tenho que falar com sua rainha!

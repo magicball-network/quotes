@@ -1,3 +1,14 @@
+textId: 276
 location:
 speaker:
 message: Thief!
+fr:
+  message: Au voleur !
+de:
+  message: Haltet den Dieb!
+es:
+  message: ¡Al ladrón!
+it:
+  message: Al ladro !
+pt:
+  message: Pega ladr╞o !

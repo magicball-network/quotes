@@ -1,3 +1,14 @@
+textId: 353
 location:
 speaker:
 message: Take me back home.
+fr:
+  message: Ramène-moi à la maison.
+de:
+  message: Bring mich zum Haus zurück.
+es:
+  message: Llévame a casa.
+it:
+  message: Riaccompagnami a casa.
+pt:
+  message: Leve-me para casa.

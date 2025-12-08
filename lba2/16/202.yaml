@@ -1,4 +1,26 @@
+textId: 445
 location:
 speaker:
 message: "Warning, warning!! Public notice!! Wanted: a Twinsunian named Twinsen,
   wearing a blue tunic. If you see him, you must immediately inform the police!"
+fr:
+  message: "Attention, attention !! Avis à la population !! On recherche : un
+    twinsunien dénommé Twinsen et habillé d'une tunique bleue. Si vous le voyez,
+    vous devez immédiatement prévenir les forces de police !!!"
+de:
+  message: Achtung, Achtung! Suchmeldung an die ganze Bevölkerung! Gesucht wird
+    ein Twinsunier namens Twinsen, bekleidet mit einer blauen Tunika.
+    Informieren Sie sofort die Polizei, wenn Sie ihn sehen!!!
+es:
+  message: ¡¡Atención, atención!! ¡¡Aviso a la población!! Se busca un twinsiano
+    llamado Twinsen vestido con una túnica azul. ¡¡¡Si lo ven deben avisar
+    inmediatamente a la policía!!!
+it:
+  message:
+    Attenzione, attenzione !! Avviso alla popolazione !! Stiamo cercando un
+    Twinsuniano chiamato Twinsen, indossa una tunica blu. Chiunque lo veda deve
+    avvertire immediatamente le forze dell'ordine !!!
+pt:
+  message: "Atenç╞o, atenç╞o!! Aviso à populaç╞o !! procura-se: um twinsuniano
+    chamado Twinsen que está vestido com uma túnica azul. Quem encontrá-lo deve
+    avisar imediatamente a polícia !!!"

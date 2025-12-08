@@ -1,5 +1,33 @@
+textId: 523
 location:
 speaker:
 message: Hi, pal! Hey, is that you who brought on all this military? They don't
   look all that strong, if you ask me. In my day, it was different. They fed us
   firefly tarts, that really built us up!!!
+fr:
+  message: Salut mon gars ! Ben dis voir, c'est toi qu'a ramené tous ces
+    militaires ? Y ont pas l'air bien costauds. A mon époque, c'était pas
+    pareil. On était nourri à la tarte aux lucioles, alors forcément, on était
+    baraqué !!!
+de:
+  message:
+    Tag, Junge! Sag mal, hast du die ganzen Soldaten hierher gebracht? Die
+    sehen mir ziemlich klapprig aus. Früher, als ich in dem Alter war, da war
+    das anders. Da bekam man Glühwürmchenkuchen zu essen, davon wurde man
+    automatisch groß und kräftig!
+es:
+  message:
+    Hola chaval. Dime una cosa, ¿has sido tu el que ha traído a todos esos
+    militares? Son muy escuchimizados. En mis tiempos las cosas eran
+    diferentes.. ¡¡¡Nos alimentábamos de tarta de luciérnagas, y claro, menuda
+    planta teníamos!!!
+it:
+  message:
+    Ciao ragazzo mio ! Dimmi un po', sei stato tu a riportare tutti questi
+    militari ? Non hanno l'aria di essere molto forti. Ai miei tempi, non era
+    così. Ci nutrivano con delle torte di lucciole, allora eravamo per forza dei
+    ragazzoni !!!
+pt:
+  message: Olá rapaz ! Foi você que trouxe todos esses militares ? Eles n╞o têm
+    uma cara muito saudável. Na minha época, era diferente. Éramos alimentados
+    com torta de pirilampos, ent╞o n╞o tinha jeito, éramos robustos!!!

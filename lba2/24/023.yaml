@@ -1,3 +1,15 @@
+textId: 262
 location:
 speaker:
 message: Holy Santa Maria!, somebody really ought to find this fragment.
+fr:
+  message: Nom d'un petit verre à moutarde, faut vraiment que quelqu'un retrouve
+    ce fragment.
+de:
+  message: Meine Güte, wird echt Zeit, daß jemand dieses Fragment findet.
+es:
+  message: Por mil pares de narices, alguien tiene que encontrar este fragmento.
+it:
+  message: Accidenti, ci vuole proprio qualcuno che ritrovi questo frammento.
+pt:
+  message: Em nome de todos os elementos, alguém tem que encontrar essa parte da chave.

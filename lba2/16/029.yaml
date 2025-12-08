@@ -1,3 +1,14 @@
+textId: 31
 location:
 speaker:
 message: '"You are in downtown Otringal."'
+fr:
+  message: '"Vous êtes au centre ville d''Otringal."'
+de:
+  message: '"Sie befinden sich im Stadtzentrum von Otringal."'
+es:
+  message: '"Está usted en el centro de la ciudad de Otringal."'
+it:
+  message: '"Siete al centro di Otringal".'
+pt:
+  message: '"Você está no centro da cidade de Otringal."'

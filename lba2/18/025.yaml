@@ -1,3 +1,14 @@
+textId: 175
 location:
 speaker:
 message: The fare I am charging is 5 Zlitos. Where would you like to go, sir?
+fr:
+  message: Le prix de la course est de 5 zlitos. Où désirez-vous aller monsieur ?
+de:
+  message: Die Fahrt kostet 5 Zlitos. Wo wollen sie denn hin?
+es:
+  message: El precio de la carrera es de 5 zlitos. ¿Adónde desea ir, señor?
+it:
+  message: Il prezzo del percorso è di 5 Zlitos. Dove desidera andare signore ?
+pt:
+  message: O preço da corrida é de 5 zlitos. Onde o senhor quer ir?

@@ -1,4 +1,21 @@
+textId: 580
 location:
 speaker:
 message: I don't know, sir. Once, a customer told me about it, but he didn't
   know where it was. That, or I forgot.
+fr:
+  message: Je ne sais pas monsieur. Une fois, un client m'en a parlé, mais il ne
+    savait pas où elle se trouvait. Ou alors j'ai oublié.
+de:
+  message: Ich weiß es nicht. Irgendwann einmal hat mir ein Kunde davon erzählt.
+    Entweder wußte er nicht, wo sie ist, oder ich habe es vergessen.
+es:
+  message:
+    No sé, señor. Una vez un cliente me habló de ella, pero no sabía dónde
+    se encontraba. O se me olvidó.
+it:
+  message: Non so signore. Una volta, un cliente me ne ha parlato, ma non sapeva
+    dove si trovava. Oppure sono io ad avere dimenticato.
+pt:
+  message: Eu n╞o sei, senhor. Uma vez, um cliente me falou dela, mas ele n╞o
+    sabia onde ficava. Ou ent╞o eu me esqueci.

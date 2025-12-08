@@ -1,3 +1,14 @@
+textId: 909
 location:
 speaker:
 message: 30 minutes of soft, enchanting music.
+fr:
+  message: 30 minutes de musique douce et enchanteresse
+de:
+  message: 30 Minuten sanfte und bezaubernde Musik.
+es:
+  message: 30 minutos de música suave y deleitadora.
+it:
+  message: 30 minuti di musica dolce ed incantevole
+pt:
+  message: 30 minutes de musique douce et enchanteresse

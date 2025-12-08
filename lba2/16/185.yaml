@@ -1,3 +1,14 @@
+textId: 399
 location:
 speaker:
 message: One meca-penguin costs 15 Zlitos.
+fr:
+  message: Un méca-pingouin coûte 15 zlitos.
+de:
+  message: Ein Meca-Pinguin kostet 15 Zlitos.
+es:
+  message: Un meca-pingüino cuesta 15 zlitos.
+it:
+  message: Un robo-pinguino costa 15 zlitos.
+pt:
+  message: Um méca-pingüim custa 15 zlitos.

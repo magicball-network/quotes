@@ -1,3 +1,14 @@
+textId: 220
 location:
 speaker:
 message: That's him! That's the Twinsunian we're looking for! Arrest him!
+fr:
+  message: Attention ! C'est le twinsunien que nous recherchons ! Arrêtons-le !!
+de:
+  message: Achtung! Das ist der gesuchte Twinsunier! Nehmt ihn fest!
+es:
+  message: ¡Alerta! Es el twinsiano que estamos buscando. !Detengámosle!
+it:
+  message: Attenzione ! E' il twinsuniano che cerchiamo ! Arrestiamolo !!
+pt:
+  message: Veja ! É o twinsuniano que nós procuramos ! Prendam-no !!

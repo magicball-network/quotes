@@ -1,3 +1,14 @@
+textId: 320
 location:
 speaker:
 message: Hello sir. I might be able to help you.
+fr:
+  message: Bonjour monsieur. Je peux peut-être vous aider.
+de:
+  message: Guten Tag. Vielleicht kann ich Ihnen helfen.
+es:
+  message: Buenos días, señor, quizá pueda ayudarle.
+it:
+  message: Buongiorno signore. Forse posso aiutarla.
+pt:
+  message: Bom dia, senhor. Talvez eu possa ajudar.

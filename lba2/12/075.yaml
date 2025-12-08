@@ -1,4 +1,25 @@
+textId: 735
 location:
 speaker:
 message: Here, this is that portable radio I forgot to give you. Sorry about the
   mixup, but I think you'll agree it was worth waiting for!
+fr:
+  message: Tiens, voilà la radio portable que j'ai fabriquée pour toi et que
+    j'avais oublié de te donner. Pardonne-moi pour ma maladresse, mais je suis
+    sûr qu'elle te servira bien !!
+de:
+  message:
+    Und hier ist das Funksprechgerät, das ich für dich gemacht habe. Hatte
+    vergessen, es dir zu geben. Tut mir leid. Aber ich bin mir sicher, daß es
+    dir noch gute Dienste leisten wird!
+es:
+  message: Toma, aquí tienes la radio portátil que hice para ti y que olvidé
+    darte. ¡¡Perdona el despiste, pero estoy seguro de que te será muy útil!!
+it:
+  message: Tieni, ecco la radio portatile che ho costruito per te e che avevo
+    dimenticato di darti. Scusami per la mancanza di tatto, ma sono sicuro che
+    ne avrai davvero bisogno !!
+pt:
+  message: Toma, aqui está o rádio portátil que eu fiz para você e que tinha
+    esquecido de te dar. Desculpe o mal jeito, mas tenho certeza de que vai ser
+    útil !!

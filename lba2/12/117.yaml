@@ -1,4 +1,22 @@
+textId: 512
 location:
 speaker:
 message: All I know is that the wizard Ker'aooc has gone on a trip with some of
   his colleagues. It's the Esmers who invited him!!
+fr:
+  message: Tout ce que je sais, c'est que le mage Ker'aooc est parti en voyage
+    avec des collègues à lui. Ce sont les Esmers qui l'ont invité !!
+de:
+  message: Ich weiß nur, daß Magier Ker'aooc mit Kollegen verreist ist. Die
+    Esmerier haben sie eingeladen!
+es:
+  message:
+    Sólo sé que el mago Ker'aooc se ha ido de viaje con unos colegas. !Los
+    esmeres fueron quienes lo invitaron!
+it:
+  message:
+    Tutto quello che so è che il mago Ker'aooc è partito in viaggio con dei
+    colleghi. E' stato invitato dagli Esmers !!
+pt:
+  message: Tudo o que eu sei é que o Mago Ker'aooc viajou com seus companheiros.
+    Foram os Esmers que o convidaram !!

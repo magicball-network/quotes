@@ -1,4 +1,23 @@
+textId: 501
 location:
 speaker:
 message: Moon base to shuttle. Moon base to shuttle. Please give your password
   for identification. I repeat, give your password for identification.
+fr:
+  message: Base lunaire à navette. Base lunaire à navette. Veuillez donner votre
+    mot de passe pour identification. Je répète, donnez votre mot de passe pour
+    identification.
+de:
+  message: Mondstützpunkt an Raumschiff, Mondstützpunkt an Raumschiff. Geben Sie
+    Ihr Codewort zur Identifizierung durch. Ich wiederhole, geben Sie Ihr
+    Codewort zur Identifizierung durch.
+es:
+  message: Base lunar a nave. Base lunar a nave. Haga el favor de dar su
+    contraseña para identificación. Repito dé su contraseña para identificación.
+it:
+  message: Base lunare a navetta. Base lunare a navetta. Comunicate la vostra
+    parola d'ordine per l'identificazione. Ripeto, comunicate la vostra parola
+    d'ordine per l'identificazione.
+pt:
+  message: Base lunar para nave. Base lunar para nave. Dê-nos sua senha de
+    identificaç╞o. Eu repito, dê-nos sua senha de identificaç╞o.

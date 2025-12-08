@@ -1,3 +1,16 @@
+textId: 297
 location:
 speaker:
 message: Starting the automatic guidance system from the control tower.
+fr:
+  message: Mise en route du guidage automatique des commandes depuis la tour de
+    contrôle.
+de:
+  message: Start der automatischen Steuerung vom Kontrollturm.
+es:
+  message: Puesta en marcha de la dirección automática de los mandos desde la
+    torre de control.
+it:
+  message: Attivazione della guida automatica dei comandi dalla torre di controllo.
+pt:
+  message: Acionamento do piloto automático a partir da torre de controle.

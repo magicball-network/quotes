@@ -1,3 +1,14 @@
+textId: 413
 location:
 speaker:
 message: You need a ticket to board the ferry, Mr. Twinsen.
+fr:
+  message: Il vous faut un ticket pour embarquer sur le ferry, monsieur Twinsen.
+de:
+  message: Sie brauchen eine Fahrkarte für die Fähre, Herr Twinsen.
+es:
+  message: Necesita un ticket para embarcar en el ferry, señor Twinsen.
+it:
+  message: Deve comprare un biglietto per imbarcarsi sul traghetto, signor Twinsen.
+pt:
+  message: Você precisa de um bilhete para entrar na barca, senhor Twinsen.

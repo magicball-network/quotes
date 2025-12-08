@@ -1,3 +1,14 @@
+textId: 27
 location:
 speaker:
 message: You just picked a Garden Balsam plant.
+fr:
+  message: Tu viens de cueillir un plant de Balsamine Impatiente.
+de:
+  message: Du hast gerade eine Ungeduldige Balsamine gepflückt.
+es:
+  message: Acabas de coger una planta de Balsamina Impaciente.
+it:
+  message: Hai raccolto una pianta di Balsamina Impatiens.
+pt:
+  message: Você colheu uma planta Balsamina Impaciente.

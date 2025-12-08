@@ -1,4 +1,22 @@
+textId: 406
 location:
 speaker:
 message: I adore this hotel. Kind of a private club. Only the finest elements of
   society are allowed entry.
+fr:
+  message: J'aime cet hôtel. C'est une sorte de club privé où les fréquentations
+    sont toujours excellentes.
+de:
+  message:
+    Ich mag dieses Hotel einfach. Es ist eine Art privater Klub, daher ist
+    die Gesellschaft auch immer 1A.
+es:
+  message: Me gusta este hotel. Es una especie de club privado y el ambiente es
+    siempre excelente.
+it:
+  message:
+    Mi piace questo albergo. C'è una specie di club privato ed è sempre ben
+    frequentato.
+pt:
+  message: Eu gosto desse hotel. É um tipo de clube privado onde a freqüência é
+    sempre excelente.

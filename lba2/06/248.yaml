@@ -1,3 +1,14 @@
+textId: 582
 location:
 speaker:
 message: Francos' fragment.
+fr:
+  message: Fragment des knartas.
+de:
+  message: Fragment der Bifiden.
+es:
+  message: Fragmento de los purlones.
+it:
+  message: Frammento dei Knartas
+pt:
+  message: Parte de chave dos knartas.

@@ -1,4 +1,23 @@
+textId: 281
 location:
 speaker:
 message: I can't believe it! There are two of them in this cell! Open the doors,
   I am going to put the funny one in his own cell!!
+fr:
+  message: Mais, c'est pas croyable ! Ils sont deux dans cette cellule ! Ouvrez
+    les portes, je vais remettre le petit dans son cachot !!
+de:
+  message: Aber das ist ja nicht zu fassen! Die sind ja zu zweit in der Zelle!
+    Macht die Türen auf, ich bring' den Kleinen in seine Zelle zurück!
+es:
+  message:
+    ¡Pero, no es posible! ¡En esta celda hay dos! --Abran las puertas, voy
+    a meter al pequeño en su calabozo!!
+it:
+  message:
+    Ma, è incredibile ! Sono due in questa cella ! Aprite le porte, vado a
+    rimettere il piccolo nelle segrete !!
+pt:
+  message:
+    Mas o que é isto ! Dois na mesma cela ! Abram as portas, eu vou colocar
+    o menor no calabouço !!

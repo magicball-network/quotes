@@ -1,5 +1,28 @@
+textId: 430
 location:
 speaker:
 message: From what we know, the passage is blocked by a door. The key belongs to
   the queen of the mosquibees. It's up to you to convince them of your good
   faith. But don't forget that our comrades are over there!
+fr:
+  message:
+    D'après ce que nous savons, le passage est fermé par une porte. La clé
+    appartient à notre reine, la reine des mosquibees. A toi de la convaincre de
+    ta bonne foi. Mais n'oublie pas que nos camarades sont là-bas !
+de:
+  message: Wir haben gehört, daß der Geheimgang durch eine Tür verschlossen ist.
+    Der Schlüssel gehört unserer Königin, der Königin der Moskibienos. Wie du
+    sie von deinen guten Absichten überzeugst, ist deine Sache. Aber vergiß
+    bitte nicht, daß unsere Kameraden dort unten sind!
+es:
+  message: Por lo que sabemos, el pasadizo está cerrado por una puerta. La llave
+    la tiene la reina de los mosquibitas. Tú tendrás que convencerla de tu buena
+    fe. ¡Pero recuerda que nuestros camaradas están allí abajo!
+it:
+  message: Per quanto ne sappiamo, il passaggio è chiuso da una porta. E' la
+    regina dei Moschibei ad avere la chiave. Dovrai convincerla della tua buona
+    fede. Ma non dimenticare che i nostri compagni sono laggiù !
+pt:
+  message: De acordo com o que sabemos, a passagem está fechada por uma porta. A
+    chave pertence à nossa rainha, a rainha dos mosquibees. Você terá que
+    convencê-la da sua boa fé. Mas n╞o esqueça que nossos camaradas est╞o lá!

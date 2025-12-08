@@ -1,6 +1,32 @@
+textId: 305
 location:
 speaker:
 message: Taking the size of the island, its geological structure and wind
   direction into account. I have concocted a potion which should allow me to
   precisely determine the location of the fragment! Unfortunately...I uh, lost
   the vial.
+fr:
+  message:
+    Compte tenu de la taille de l'îlot, de la structure géologique et de la
+    direction du vent, j'ai concocté une potion qui devrait me permettre de
+    déterminer avec précision l'endroit où se trouve le fragment !
+    Malheureusement ... j'ai perdu la fiole.
+de:
+  message: Ausgehend von der Größe des Eilands, seiner geologischen Struktur und
+    der Windrichtung, habe ich einen Trank bereitet, mit dem ich genau bestimmen
+    kann, wo sich das Fragment befindet. Aber leider habe ich ihn verloren.
+es:
+  message:
+    ¡Teniendo en cuenta el tamaño del islote, la estructura geológica y la
+    dirección del viento, he elaborado una poción que debería permitirme
+    determinar con precisión el lugar donde se encuentra el fragmento!
+    Desgraciadamente ... he perdido el frasco.
+it:
+  message: Vista la dimensione dell'isolotto, della struttura geologica e della
+    direzione del vento, ho inventato una pozione che dovrebbe permettermi di
+    fissare con precisione il luogo dove si trova il frammento ! Purtroppo ....
+    ho perso la fiala.
+pt:
+  message: Levando-se em conta o tamanho da ilhota, sua estrutura geológica e a
+    direç╞o do vento, fabriquei uma poç╞o que deveria determinar com precis╞o
+    onde está o nossa parte da chave ! Infelizmente... perdi o frasco.

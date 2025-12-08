@@ -1,5 +1,32 @@
+textId: 190
 location:
 speaker:
 message: Twinsen, I damaged the vessel during landing. I need some time for
   repairs. The Zeelichian fuel is called gazogem, it's very powerful. You should
   go get some.
+fr:
+  message: Twinsen, j'ai endommagé le vaisseau lors de l'atterrissage, il va me
+    falloir quelques temps pour le réparer. Sur la Lune, j'ai découvert le
+    carburant des zeelichiens. Il s'appelle gazogem et est très puissant. Il
+    faudrait que tu ailles m'en chercher.
+de:
+  message: Twinsen, ich habe das Raumschiff beim Landen beschädigt, ich brauche
+    etwas Zeit, um es zu reparieren. Auf dem Mond habe ich den Treibstoff der
+    Zeelicher entdeckt. Er heißt GazoGem und ist mehr als gut. Du mußt uns
+    welchen besorgen.
+es:
+  message: Twinsen, se me ha averiado la nave en el aterrizaje. Voy a necesitar
+    algún tiempo para repararla. En la Luna he descubierto el carburante de los
+    zeelichianos. Se llama gazogem y es muy potente. Necesitaría que fueras a
+    buscármelo..
+it:
+  message:
+    Twinsen, ho danneggiato il vascello durante l'atterraggio e ho bisogno
+    di un po' di tempo per ripararlo. Sulla luna, ho scoperto il carburante dei
+    Zeelichiani. Si chiama gazogem ed è molto potente. Dovresti andare a
+    prenderne un po'.
+pt:
+  message: Twinsen, eu danifiquei a nave durante a aterrissagem, vou precisar de
+    algum tempo para consertá-la. Na Lua, descobri o combustível dos
+    zeelichianos. Ele se chama gasógeno e é muito potente. Preciso que você me
+    traga algum.

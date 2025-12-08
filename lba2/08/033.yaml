@@ -1,3 +1,14 @@
+textId: 339
 location:
 speaker:
 message: '"Lupin-Bourg."'
+fr:
+  message: '" Lupin-Bourg. "'
+de:
+  message: '" Lupinburg. "'
+es:
+  message: '"Lupin-Bourg."'
+it:
+  message: '" Lupinburgo. "'
+pt:
+  message: '" Cidade de Lupin. "'

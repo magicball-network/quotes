@@ -1,3 +1,14 @@
+textId: 3
 location:
 speaker:
 message: Nowhere, I'm staying here.
+fr:
+  message: Nulle part, je reste ici.
+de:
+  message: Nirgends, ich bleibe hier.
+es:
+  message: A ninguna. Me quedo aquí
+it:
+  message: Da nessuna parte, io resto qui.
+pt:
+  message: A lugar nenhum, vou ficar aqui.

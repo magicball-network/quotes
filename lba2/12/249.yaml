@@ -1,5 +1,26 @@
+textId: 251
 location:
 speaker:
 message: If you want to go farther out, you'll have to board a vacant cart.
   Watch out during the visit, stay on the tracks and don't get off. It's
   dangerous, and you could easily injure yourself.
+fr:
+  message: Si vous voulez aller plus loin, vous devez monter sur un wagonnet
+    libre. Attention, pendant la visite, restez sur le circuit et ne descendez
+    pas. C'est dangereux, vous pourriez facilement vous blesser.
+de:
+  message: Weiter kommen Sie nur, wenn Sie in einen freien Wagen einsteigen.
+    Bleiben Sie während des Besuchs auf der Strecke, und steigen Sie auf keinen
+    Fall aus. Das ist gefährlich, Sie könnten sich verletzen.
+es:
+  message: Si quiere ir más lejos, tiene que subir a una vagoneta libre. Tenga
+    cuidado mientras dure la visita, permanezca en el circuito y no se baje. Es
+    peligroso, podría resultar herido muy fácilmente..
+it:
+  message: Se volete andare più lontano, dovete salire su un vagoncino libero.
+    Attenzione, durante la visita, restate sul circuito e non scendete. E'
+    pericoloso, potreste ferirvi facilmente.
+pt:
+  message: Se você quiser prosseguir, suba num vag╞o livre. Atenç╞o, durante a
+    visita, fique no circuito e n╞o desça. É perigoso, você pode se machucar
+    facilmente.

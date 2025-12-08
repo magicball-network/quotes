@@ -1,3 +1,14 @@
+textId: 505
 location:
 speaker:
 message: House of Twinsen and Zoé.
+fr:
+  message: Maison de Twinsen et Zoé.
+de:
+  message: Haus von Twinsen und Zoe.
+es:
+  message: Casa de Twinsen y Zoé.
+it:
+  message: Casa di Twinsen e Zoe.
+pt:
+  message: Casa de Twinsen e Zoé.

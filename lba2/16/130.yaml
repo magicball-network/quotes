@@ -1,5 +1,27 @@
+textId: 195
 location:
 speaker:
 message: Thank you, Twinsen. Now I can make us a ship that can race the comets!
   Anyway, here's something to turn your protopack into a superjetpack. and from
   now on, you can fly higher!
+fr:
+  message:
+    Ah merci Twinsen, je vais pouvoir nous faire un vaisseau ultra-puissant
+    !!! Tiens, voilà de quoi transformer ton protopack en superjetpack.
+    Désormais tu peux voler plus haut !!
+de:
+  message: Oh, danke, Twinsen, jetzt kann ich den Raumschiffantrieb extrastark
+    machen! Guck mal, hiermit kann ich auch dein ProtoPack in ein SuperJetPack
+    umbauen - jetzt kannst du noch höher fliegen!
+es:
+  message: ¡¡¡Gracias Twinsen, por fin voy a poder construir una nave super
+    potente!!! Vaya, con esto tu protopack se puede convertir en un
+    superjetpack. ¡¡A partir de ahora podrás volar más alto!!
+it:
+  message: Ah, grazie Twinsen, potrò costruire per noi un vascello ultrapotente
+    !!! Tieni, avrai di cosa trasformare il tuo Proto-Pack in superjetpack.
+    Adesso puoi volare più in alto !!
+pt:
+  message: Ah obrigado Twinsen, vou poder fazer uma nave super possante para nós
+    !!! Olhe, é assim que se transforma seu protopack em superjetpack. De agora
+    em diante você poderá voar mais alto !!

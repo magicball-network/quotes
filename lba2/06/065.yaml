@@ -1,3 +1,14 @@
+textId: 109
 location:
 speaker:
 message: Pisto-Laser
+fr:
+  message: PistoLaser
+de:
+  message: PistoLaser
+es:
+  message: PistoLáser
+it:
+  message: PistoLaser
+pt:
+  message: PistoLaser

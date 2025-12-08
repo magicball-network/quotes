@@ -1,3 +1,21 @@
+textId: 395
 location:
 speaker:
 message: '"Representation of our planet Twinsun, in stable orbit between 2 suns."'
+fr:
+  message: '" Représentation de notre planète Twinsun, en orbite stable entre 2
+    soleils jumeaux. "'
+de:
+  message: '"Darstellung unseres Planeten Twinsun in einer stabilen Laufbahn
+    zwischen zwei Zwillingssonnen."'
+es:
+  message:
+    '"Representación de nuestro planeta Twinsun, en órbita estable entre 2
+    soles gemelos."'
+it:
+  message: '" Rappresentazione del nostro pianeta Twinsun, in orbita tra 2 soli
+    gemelli. "'
+pt:
+  message:
+    '" Representaç╞o do nosso planeta Twinsun, em órbita estável entre dois
+    sóis gêmeos. "'

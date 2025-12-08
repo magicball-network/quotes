@@ -1,3 +1,14 @@
+textId: 13
 location:
 speaker:
 message: Do you wish to join our school?
+fr:
+  message: Désires-tu faire partie de notre école ?
+de:
+  message: Möchtest du dich bei unserer Schule einschreiben?
+es:
+  message: ¿Quieres formar parte de nuestra escuela?
+it:
+  message: Vuoi far parte della nostra scuola ?
+pt:
+  message: Você gostaria de fazer parte da nossa escola ?

@@ -1,4 +1,22 @@
+textId: 50
 location:
 speaker:
 message: Thanks for having freed my buddy Raph, kiddo. Without you, his goose
   was cooked for sure.
+fr:
+  message:
+    Merci d'avoir libéré mon copain Raph, p'tite couette. Sans toi je crois
+    bien qu'il passait à la casserole.
+de:
+  message: Danke, daß du meinen Freund Raph befreit hast. Ohne dich hätte er
+    sicher den Löffel abgeben müssen.
+es:
+  message: Gracias por liberar a mi colega, colita linda. Si no hubiera sido por
+    ti ya estaba en la olla..
+it:
+  message:
+    Ti ringrazio di avere liberato il mio amico Raph, codino mio. Senza di
+    te era sicuramente fritto !
+pt:
+  message: Obrigado por ter libertado meu amigo Raph, gatinho. Sem você eu acho
+    que ele teria ido para a panela.

@@ -1,3 +1,17 @@
+textId: 570
 location:
 speaker:
 message: You who are a tourist, you should go to the casino of the gloums. On my behalf.
+fr:
+  message: Vous qui êtes touriste, vous devriez aller au casino des gloums.
+    Allez-y de ma part.
+de:
+  message: Als Tourist müssen Sie unbedingt zum Glumm-Kasino gehen. Sagen Sie
+    ruhig, ich hätte Sie geschickt.
+es:
+  message: Usted que es turista debería ir al casino de los gloums. Vaya de mi parte
+it:
+  message: Visto che è un turista dovrebbe andare al casinò dei Gloums. Dica che
+    la mando io.
+pt:
+  message: Você que é turista, deveria ir ao cassino de Gloums. Diga que eu indiquei.

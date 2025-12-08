@@ -1,4 +1,21 @@
+textId: 253
 location:
 speaker:
 message: Personally, I have nothing for your Dino-Fly, but the client said she
   could help you.
+fr:
+  message: Moi je n'ai rien pour votre Dino-Fly, mais la cliente a dit qu'elle
+    pouvait vous aider.
+de:
+  message: Ich habe nichts, mit dem man Ihrem Dinofly helfen könnte, aber die
+    Kundin hat gesagt, sie könnte Ihnen helfen.
+es:
+  message: Yo no tengo nada para su Dino-Fly, pero la clienta ha dicho que podía
+    ayudarle.
+it:
+  message: Io non ho niente per il suo Dino-Fly, ma la cliente ha detto che
+    potrebbe aiutarla.
+pt:
+  message:
+    Eu n╞o tenho nada para o seu Dino-Fly, mas a cliente disse que podia te
+    ajudar.

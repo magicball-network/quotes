@@ -1,3 +1,14 @@
+textId: 7
 location:
 speaker:
 message: Hello, sir.
+fr:
+  message: B'jour monsieur
+de:
+  message: Tag.
+es:
+  message: Buendía señor
+it:
+  message: "'Giorno signore"
+pt:
+  message: Bom dia, moço

@@ -1,4 +1,21 @@
+textId: 222
 location:
 speaker:
 message: It lets you draw in hearts (Life points) and store them. You can then
   use them to treat yourself or someone else.
+fr:
+  message: Elle te permet d'aspirer et de stocker des coeurs (points de vie). Tu
+    peux ensuite t'en servir pour te soigner ou pour soigner quelqu'un.
+de:
+  message: Damit kannst du Herzen (Lebenspunkte) aufnehmen und speichern. Später
+    kannst du dich oder andere damit heilen.
+es:
+  message: Te permite aspirar a y almacenar corazones (puntos de vida) Luego
+    puedes utilizarlo para curarte o para curar a otros.
+it:
+  message:
+    Ti permette di aspirare e immagazzinare dei cuori (Punti di Vita). Puoi
+    servirtene più tardi per curarti o per curare qualcun'altro.
+pt:
+  message: Com ele você pode atrair e armazenar coraçΣes (pontos de vida). Você
+    também pode usá-lo para se curar ou para curar alguém.

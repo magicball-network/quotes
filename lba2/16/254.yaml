@@ -1,3 +1,14 @@
+textId: 580
 location:
 speaker:
 message: Sorry sir, this article is not for sale.
+fr:
+  message: Désolé monsieur, cet article n'est plus à vendre.
+de:
+  message: Bedaure, dieser Artikel steht nicht mehr zum Verkauf.
+es:
+  message: Lo siento, señor, este artículo no está en venta.
+it:
+  message: Mi dispiace signore, questo articolo non è più in vendita.
+pt:
+  message: Sinto muito, senhor, este artigo n╞o está mais a venda.

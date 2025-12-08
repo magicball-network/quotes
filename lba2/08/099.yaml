@@ -1,3 +1,14 @@
+textId: 529
 location:
 speaker:
 message: Joe? What are you doing here?
+fr:
+  message: Joe ? Mais que fais-tu là ?
+de:
+  message: Joe! Was machst Du denn da?
+es:
+  message: ¿Joe? ¿Y tú que haces ahí?
+it:
+  message: Joe ? Ma cosa fai qui ?
+pt:
+  message: Joe ? Mas o que você está fazendo aqui ?

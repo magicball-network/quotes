@@ -1,3 +1,14 @@
+textId: 20
 location:
 speaker:
 message: Are you Mr. Rocket?
+fr:
+  message: Vous êtes Monsieur Rocket ?
+de:
+  message: Sind Sie Herr Rocket?
+es:
+  message: ¿Es usted el señor Rocket?
+it:
+  message: Lei è il Signor Rocket ?
+pt:
+  message: Você é o Sr. Rocket ?

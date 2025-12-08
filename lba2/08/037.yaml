@@ -1,3 +1,14 @@
+textId: 431
 location:
 speaker:
 message: '"Harbor of Citadel Island."'
+fr:
+  message: '" Port de l''Ile de la Citadelle. "'
+de:
+  message: '"Hafen der Zitadelleninsel."'
+es:
+  message: '" Puerto de la Isla de la Ciudadela"'
+it:
+  message: '"Porto dell''Isola della Cittadella"'
+pt:
+  message: '" Porto da Ilha da Fortaleza. "'

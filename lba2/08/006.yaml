@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: OK, I'll buy it!
+fr:
+  message: Ok, j'achète !
+de:
+  message: Gut, ich nehme es!
+es:
+  message: ¡Vale, lo compro!
+it:
+  message: Ok, lo compro !
+pt:
+  message: Tudo bem, eu compro!

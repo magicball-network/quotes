@@ -1,4 +1,19 @@
+textId: 87
 location:
 speaker:
 message: Yes, that's exactly what I needed. I am going to use it on the map of
   the sewers.
+fr:
+  message: Oui, c'est exactement ce qu'il me fallait. Je vais l'utiliser sur le
+    plan des égouts.
+de:
+  message: Genau das brauche ich. Ich werde es für den Plan der Kanalisation verwenden.
+es:
+  message:
+    Sí, precisamente es lo que necesitaba. Voy a usarlo con el plano de las
+    cloacas..
+it:
+  message: Si, è asattamente quello di cui avevo bisogno. Lo utilizzerò sulla
+    mappa delle fognature.
+pt:
+  message: Sim, é exatamente o que eu precisava. Eu vou utilizá-lo na planta de esgotos.

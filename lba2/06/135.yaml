@@ -1,4 +1,20 @@
+textId: 224
 location:
 speaker:
 message: The travel token allows to program the destination of an Esmer shuttle.
   Without it, the spacecraft cannot take off.
+fr:
+  message: Le disque de route permet de programmer la destination d'une navette
+    Esmer. Sans lui, l'engin spatial ne peut pas décoller.
+de:
+  message: Mit der Routenscheibe kannst du das Ziel eines Esmerier-Raumschiffs
+    programmieren. Ohne diese Scheibe kann das Raumschiff nicht starten.
+es:
+  message: El disco de ruta permite programar el destino de una nave esmer. Sin
+    él, la nave espacial no puede despegar.
+it:
+  message: Il disco di percorso permette di programmare la destinazione di una
+    navetta Esmers. Senza il disco l'apparecchio spaziale non può decollare.
+pt:
+  message: Com o disco de rota você pode programar o destino de uma nave Esmer.
+    Sem ele, a nave n╞o decola.

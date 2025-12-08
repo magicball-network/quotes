@@ -1,3 +1,14 @@
+textId: 281
 location:
 speaker:
 message: '"To the harbor."'
+fr:
+  message: '" Vers le port. "'
+de:
+  message: '"Zum Hafen."'
+es:
+  message: '"Al puerto."'
+it:
+  message: '"Verso il porto."'
+pt:
+  message: '" Em direç╞o ao Porto. "'

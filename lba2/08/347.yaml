@@ -1,3 +1,14 @@
+textId: 567
 location:
 speaker:
 message: Hooooo !!!
+fr:
+  message: Hooooo !!!
+de:
+  message: Huuiii!
+es:
+  message: ¡¡¡Hooooo !!!
+it:
+  message: Oh !!!
+pt:
+  message: Hooooo !!!

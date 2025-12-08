@@ -1,3 +1,14 @@
+textId: 262
 location:
 speaker:
 message: Don't touch my cash register!
+fr:
+  message: Ne touchez pas à ma caisse !
+de:
+  message: Lassen Sie die Finger von meiner Kasse!
+es:
+  message: ¡No toque mi caja!
+it:
+  message: Non tocchi alla mia cassa !
+pt:
+  message: N╞o toque na minha caixa!

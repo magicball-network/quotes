@@ -1,3 +1,14 @@
+textId: 103
 location:
 speaker:
 message: The oasis in the desert.
+fr:
+  message: Sur l'oasis, dans le désert.
+de:
+  message: Zur Oase in der Wüste.
+es:
+  message: Al oasis, en el desierto.
+it:
+  message: Nell'oasi del deserto.
+pt:
+  message: No oásis, dentro do deserto.

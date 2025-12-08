@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: Operation Moon.
+fr:
+  message: Opération lune.
+de:
+  message: Operation Mond.
+es:
+  message: Operación luna.
+it:
+  message: Operazione luna.
+pt:
+  message: Operaç╞o lua.

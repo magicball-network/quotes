@@ -1,4 +1,23 @@
+textId: 28
 location:
 speaker:
 message: You now own a Magic Slate, which allows you to keep a copy of all kinds
   of images.
+fr:
+  message:
+    Tu possèdes maintenant une Ardoise Magique, elle te permet de conserver
+    une trace de toutes sortes d'images.
+de:
+  message: Du besitzt jetzt Magische Kreide. Mit ihr kannst du Abbildungen von
+    allen möglichen Sachen machen.
+es:
+  message: Ahora posees una Pizarra Mágica, te permite conservar un recuerdo de
+    todo tipo de imágenes.
+it:
+  message:
+    Adesso hai un'Ardesia Magica. Ti permette di conservare una traccia di
+    qualsiasi immagine.
+pt:
+  message:
+    Você possui agora uma ardósia mágica. Com ela você memorizará qualquer
+    tipo de imagem.

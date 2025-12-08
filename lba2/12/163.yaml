@@ -1,6 +1,33 @@
+textId: 626
 location:
 speaker:
 message: Shortly after FunFrock's disappearance, it was hidden on Citadel Island
   by the Weather Wizard. He placed it in a cage of ice which he then bound with
   a powerful spell. According to him, only the power of lightning is capable of
   freeing the ball.
+fr:
+  message: Après la disparition de FunFrock, elle fut cachée sur l'île de la
+    citadelle par le mage météo. Il l'enferma dans une cage de glace qu'il
+    protégea grâce à un sort puissant. D'après lui, seule la puissance de la
+    foudre est capable de faire fondre la glace et de libérer la boule.
+de:
+  message: Nach dem Sieg gegen FunFrock wurde sie vom Wettermagier auf der
+    Zitadelleninsel versteckt. Er hat sie in einen Käfig aus Eis eingesperrt,
+    den er mit einem mächtigen Schutzzauber belegt hat. Nur die Macht des
+    Blitzes kann das Eis zum Schmelzen bringen und die Kugel freisetzen.
+es:
+  message:
+    Después de la desaparición de Funfrock, el mago meteo la escondió en la
+    isla de la ciudadela. La guardó en una jaula que protegió mediante un
+    potente hechizo. Según dice, sólo el poder del rayo será capaz de liberar la
+    bola.
+it:
+  message: Dopo la scomparsa di Funfrock, fu nascosta dal Mago metereologo
+    sull'isola della Cittadella. La chiuse in una gabbia di ghiaccio protetta da
+    un potente sortilegio. Secondo lui, solo la potenza dei fulmini è in grado
+    di sciogliere il ghiaccio e liberare la sfera.
+pt:
+  message: Depois do desaparecimento de Funfrock, ela foi escondida na Ilha da
+    Fortaleza pelo Mago do Tempo. Ele a trancou numa gaiola de gelo protegida
+    por um poderoso feitiço. Segundo ele, somente o feitiço do raio é capaz de
+    derreter o gelo e libertar a Bola.

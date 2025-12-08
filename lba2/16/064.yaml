@@ -1,3 +1,14 @@
+textId: 206
 location:
 speaker:
 message: Follow us!!
+fr:
+  message: Suivez nous !!
+de:
+  message: Folgen Sie uns!
+es:
+  message: ¡¡Síganos!!
+it:
+  message: Ci segua !!
+pt:
+  message: Siga-nos !!

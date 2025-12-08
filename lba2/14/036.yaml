@@ -1,3 +1,14 @@
+textId: 541
 location:
 speaker:
 message: Stop!!
+fr:
+  message: Stop !!
+de:
+  message: Stopp!
+es:
+  message: ¡¡Deténgase!!
+it:
+  message: Stop !!
+pt:
+  message: Pare !!

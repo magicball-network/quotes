@@ -1,4 +1,20 @@
+textId: 223
 location:
 speaker:
 message: The Blowgun provides rapid firepower. You can reload it with small
   projectiles, such as berries.
+fr:
+  message: La Sarbacane autorise des tirs rapides. Tu peux la recharger avec de
+    petits projectiles, des baies par exemple.
+de:
+  message: Mit dem Blasrohr kann man sehr schnell schießen. Du kannst es mit
+    kleinen Geschossen aufladen.
+es:
+  message: La Cerbatana permite tiros rápidos. Puedes recargarla con pequeños
+    proyectiles, por ejemplo bayas.
+it:
+  message: La cerbottana permette dei tiri rapidi. Puoi ricaricarla con dei
+    piccoli proiettili, delle bacche per esempio.
+pt:
+  message: A zarabatana dá tiros rápidos. Você pode recarregá-la com pequenas
+    balas, por exemplo frutos.

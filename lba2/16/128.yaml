@@ -1,4 +1,22 @@
+textId: 193
 location:
 speaker:
 message: Thanks, Twinsen. Now I can finish up on the ship. I'll buzz you on the
   radio as soon as I do the protopack.
+fr:
+  message: Merci Twinsen, avec ce gazogem, je vais terminer notre vaisseau.
+    J'utiliserai la radio pour t'appeler dès que j'aurai fabriqué la pièce pour
+    ton protopack.
+de:
+  message: Danke, Twinsen, mit dem GazoGem kann ich unser Raumschiff startklar
+    machen. Ich rufe dich über Funk, sobald ich dein ProtoPack fertig habe.
+es:
+  message: Gracias Twinsen, con este gazogem, podré terminar la nave. Usaré la
+    radio para llamarte en cuanto haya fabricado la pieza para tu protopack.
+it:
+  message: Grazie Twinsen, con questo gazogem posso terminare la riparazione del
+    nostro vascello. Userò la radio per chiamarti non appena avrò finito di
+    costruire il pezzo per il tuo Proto-Pack.
+pt:
+  message: Obrigado, Twinsen, com esse gasógeno vou terminar a nave. Aviso pelo
+    rádio assim que fabricar a peça para seu protopack.

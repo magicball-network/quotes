@@ -1,3 +1,14 @@
+textId: 340
 location:
 speaker:
 message: Never heard of it.
+fr:
+  message: J'en ai jamais entendu parler.
+de:
+  message: Davon habe ich noch nie gehört.
+es:
+  message: Nunca he oído hablar de eso.
+it:
+  message: Non ne ho mai sentito parlare.
+pt:
+  message: Eu nunca ouvi falar.

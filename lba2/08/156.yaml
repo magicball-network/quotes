@@ -1,4 +1,22 @@
+textId: 212
 location:
 speaker:
 message: I am going to see the Dino-Fly, it just landed behind the house. Don't
   forget that you can change the perspective by pressing "ENTER".
+fr:
+  message:
+    Je vais voir le Dino-Fly, il a atterri derrière la maison. N'oublie pas
+    que tu peux changer l'angle de vue en appuyant sur "ENTREE".
+de:
+  message: Ich gehe zum Dinofly, er landet gerade hinter dem Haus. Vergiß nicht,
+    daß du den Blickwinkel ändern kannst, indem du auf die Eingabetaste drückst.
+es:
+  message: Voy a ver al Dino-Fly, ha aterrizado detrás de la casa. Recuerda que
+    puedes cambiar punto de vista pulsando :"ENTRADA"
+it:
+  message:
+    Vado a trovare il Dino-Fly, è atterrato dietro la casa. Non dimenticare
+    che puoi cambiare l'angolazione spingendo il tasto "Enter".
+pt:
+  message: Eu vou ver o Dino-Fly, ele aterrizou atrás da casa. N╞o esqueça que
+    você pode mudar o ângulo de vis╞o clicando em "ENTRADA".

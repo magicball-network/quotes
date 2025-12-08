@@ -1,4 +1,28 @@
+textId: 203
 location:
 speaker:
 message: "Thanks to Sendell's Ball, you just reached your third level of magic:
   red ball. With its help, Sendell can come and talk to you in case of danger."
+fr:
+  message:
+    "Grâce à la boule de Sendell, tu viens d'atteindre ton troisième niveau
+    de magie : balle rouge. Grâce à elle, une Sendell peut venir te parler en
+    cas de danger."
+de:
+  message:
+    Dank der Kugel von Sendell hast du die dritte Magiestufe, die Stufe des
+    Roten Balls, erreicht. Mit Hilfe der Kugel kann bei Gefahr eine Sendell
+    kommen und mit dir sprechen.
+es:
+  message: "Gracias a la bola de Sendell, acabas de conseguir tu tercer nivel de
+    magia: bola roja. Gracias a ella, una Sendell puede venir a hablar contigo
+    en caso de peligro."
+it:
+  message: "Con la boccia di Sendell hai raggiunto il tuo terzo grado di magia :
+    sfera rossa. Grazie a questa sfera una Sendell può venire a parlarti in caso
+    di pericolo."
+pt:
+  message:
+    "Graças à Bola de Sendell, você atingiu o seu terceiro nível de magia:
+    bola vermelha. Graças a ela, um Sendell pode falar com você em caso de
+    perigo."

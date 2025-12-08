@@ -1,3 +1,14 @@
+textId: 763
 location:
 speaker:
 message: Wrong code.
+fr:
+  message: Code incorrect.
+de:
+  message: Falscher Code.
+es:
+  message: Código incorrecto.
+it:
+  message: Codice errato.
+pt:
+  message: Senha incorreta.

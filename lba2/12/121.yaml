@@ -1,4 +1,21 @@
+textId: 605
 location:
 speaker:
 message: I hope that the Wizard Ker'aooc will come back soon. I don't feel safe
   with all these Esmers patrolling the streets.
+fr:
+  message: J'espère que le mage Ker'aooc rentrera bientôt, car je ne suis pas
+    tranquille avec ces patrouilles d'Esmers dans les rues.
+de:
+  message: Ich hoffe, Meister Ker'aooc kommt bald zurück, ich fühle mich einfach
+    nicht sicher mit den ganzen Esmerierpatrouillen auf der Straße.
+es:
+  message: Espero que el mago Ker'aooc vuelva pronto, porque no estoy tranquila
+    con esas patrullas de esmeres por las calles.
+it:
+  message:
+    Spero che il mago Ker'aooc rientrerà presto, perchè non sono per niente
+    tranquillo con tutte queste pattuglie di Esmers per le strade.
+pt:
+  message: Espero que o Mago Ker'aooc volte logo, estou ficando preocupada com
+    essas patrulhas de Esmers pelas ruas.

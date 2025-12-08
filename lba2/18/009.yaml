@@ -1,3 +1,14 @@
+textId: 15
 location:
 speaker:
 message: Oh man, I don't have enough Zlitos.
+fr:
+  message: Je n'ai pas assez de zlitos.
+de:
+  message: Ich habe nicht genug Zlitos.
+es:
+  message: No tengo suficientes zlitos.
+it:
+  message: Non ho abbastanza Zlitos.
+pt:
+  message: Eu n╞o tenho zlitos suficientes.

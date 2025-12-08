@@ -1,3 +1,14 @@
+textId: 290
 location:
 speaker:
 message: Hi Mr. Twinsen!
+fr:
+  message: Salut m'sieur Twinsen !
+de:
+  message: Hallo, Herr Twinsen!
+es:
+  message: ¡Hola señor Twinsen!
+it:
+  message: Salve signor Twinsen !
+pt:
+  message: Olá, senhor Twinsen !

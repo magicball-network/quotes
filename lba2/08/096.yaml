@@ -1,3 +1,20 @@
+textId: 526
 location:
 speaker:
 message: But what can I do? How do I find the trail of the lost children?
+fr:
+  message:
+    Mais que puis-je faire ? Je ne vois pas comment retrouver la trace des
+    enfants.
+de:
+  message:
+    Aber was kann ich denn tun? Ich habe keine Ahnung, wie ich die Spur der
+    Kinder wieder aufnehmen soll.
+es:
+  message:
+    ¿Y qué puedo hacer yo? No se me ocurre cómo puedo encontrar la pista de
+    los niños.
+it:
+  message: Ma cosa posso fare ? Non so proprio come ritrovare la traccia dei bambini.
+pt:
+  message: Mas o que eu posso fazer ? Eu n╞o sei como descobrir uma pista das crianças.

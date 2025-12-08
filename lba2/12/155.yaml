@@ -1,4 +1,27 @@
+textId: 62
 location:
 speaker:
 message: You have to find a peddler who lives on this island. I advised him to
   provide you with a hat and your wizard's parade tunic.
+fr:
+  message:
+    Tu dois retrouver un marchand ambulant qui se trouve sur cette île. Je
+    l'ai fais prévenir pour qu'il te remette un chapeau et ta tunique de parade
+    de mage .
+de:
+  message:
+    Du mußt einen fahrenden Händler ausfindig machen, der auf dieser Insel
+    unterwegs ist. Ich habe ihm gesagt, daß er Dir eine Paradeuniform und einen
+    Magierhut geben solle.
+es:
+  message:
+    Tienes que encontrar a un vendedor ambulante que está en esta isla. Le
+    he mandado aviso para que te entregue un sombrero y la túnica de gala de
+    mago.
+it:
+  message:
+    Devi ritrovare un venditore ambulante che si trova su quest'isola. L'ho
+    fatto avvertire perché ti dia un cappello e la tua tunica da mago.
+pt:
+  message: Encontre um mercador ambulante que fica nessa Ilha. Já avisei a ele
+    para te entregar um chapéu e a túnica de gala de mago.

@@ -1,3 +1,22 @@
+textId: 51
 location:
 speaker:
 message: You just found the Ring of Lightning! Use it to find Sendell's Ball.
+fr:
+  message:
+    Tu viens de récupérer l'Anneau de Foudre ! Il te permettra d'obtenir la
+    boule de Sendell.
+de:
+  message: Du hast gerade den Blitzring gefunden! Mit ihm kommst du an die Kugel
+    von Sendell.
+es:
+  message:
+    ¡Acabas de recuperar el Anillo de Rayo! Te permitirá recuperar la bola
+    de Sendell.
+it:
+  message: Hai recuperato l'Anello dei Fulmini ! Ti permetterà di recuperare la
+    boccia di Sendell.
+pt:
+  message:
+    Você adquiriu o Anel de Raio ! Com ele, você poderá adquirir a bola de
+    Sendell.

@@ -1,3 +1,14 @@
+textId: 43
 location:
 speaker:
 message: '"You are in the upper city of Otringal."'
+fr:
+  message: '"Vous êtes dans la ville haute d''Otringal."'
+de:
+  message: '"Sie befinden sich in der Oberstadt von Otringal."'
+es:
+  message: '"Está usted en la ciudad alta de Otringal."'
+it:
+  message: '"Siete nella città alta di Otringal."'
+pt:
+  message: '"Você está na cidade alta de Otringal."'

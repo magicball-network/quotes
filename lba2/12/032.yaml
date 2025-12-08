@@ -1,3 +1,14 @@
+textId: 423
 location:
 speaker:
 message: Do you know where the wizards are?
+fr:
+  message: Savez-vous où se trouvent les mages ?
+de:
+  message: Wissen Sie, wo die Magier sind?
+es:
+  message: ¿Sabe usted dónde se encuentran los magos?
+it:
+  message: Sa dove si trovano i maghi ?
+pt:
+  message: Você sabe onde est╞o os magos ?

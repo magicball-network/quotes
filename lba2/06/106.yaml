@@ -1,3 +1,14 @@
+textId: 150
 location:
 speaker:
 message: Pisto-Laser in working condition.
+fr:
+  message: Pistolaser en état de fonctionnement.
+de:
+  message: Funktionsfähiger PistoLaser
+es:
+  message: Pistoláser funcionando
+it:
+  message: Pistolaser in funzione
+pt:
+  message: Pistolaser funcionando.

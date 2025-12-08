@@ -1,3 +1,14 @@
+textId: 231
 location:
 speaker:
 message: Aha !, Sendell's Medallion and my Ancestral Tunic.
+fr:
+  message: Ah, voilà le Médaillon de Sendell et la Tunique ancestrale.
+de:
+  message: '"Ah, hier ist das Medaillon von Sendell und die Tunika der Ahnen."'
+es:
+  message: '" Ah, aquí está el Medallón de Sendell y la Túnica ancestral."'
+it:
+  message: '" Ah, ecco il Medaglione di Sendell e la Tunica ancestrale."'
+pt:
+  message: Ah, aqui está o Medalh╞o de Sendell e a Túnica ancestral.

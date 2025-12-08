@@ -1,3 +1,14 @@
+textId: 14
 location:
 speaker:
 message: The island of the Francos.
+fr:
+  message: Sur l'île des Knartas.
+de:
+  message: Auf das Eiland der Bifiden.
+es:
+  message: A la isla de los Purlones.
+it:
+  message: Sull'isola dei Knartas.
+pt:
+  message: Na Ilha das Knartas.

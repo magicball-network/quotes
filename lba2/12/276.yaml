@@ -1,3 +1,14 @@
+textId: 299
 location:
 speaker:
 message: Careful sir, keep off the grass!
+fr:
+  message: Attention monsieur, on ne marche pas sur la pelouse !
+de:
+  message: He, Sie da, Rasen betreten verboten!
+es:
+  message: ¡Cuidado, señor. No pise el césped!
+it:
+  message: Attenzione signore, non si può camminare sul prato !
+pt:
+  message: Atenç╞o, senhor, n╞o pise na grama!

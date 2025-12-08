@@ -1,3 +1,14 @@
+textId: 544
 location:
 speaker:
 message: Souvenir Shop.
+fr:
+  message: Magasin de souvenirs.
+de:
+  message: Souvenirladen.
+es:
+  message: Tienda de recuerdos.
+it:
+  message: Negozio di souvenir.
+pt:
+  message: Loja de lembranças.

@@ -1,3 +1,21 @@
+textId: 323
 location:
 speaker:
 message: The aliens have finally shown their true faces. Everybody's terrified of them.
+fr:
+  message: Les visiteurs du ciel ont révélé leur vrai visage. Depuis qu'ils sont
+    là, tout le monde a peur d'eux.
+de:
+  message: Die Besucher aus dem All haben ihr wahres Gesicht gezeigt. Seit sie
+    hier sind, fürchten sich alle vor ihnen.
+es:
+  message: Los visitantes del cielo han mostrado su auténtico rostro. Desde que
+    están aquí, todo el mundo tiene miedo.
+it:
+  message:
+    I visitatori del cielo hanno mostrato il loro vero viso. Da quando sono
+    là, tutti hanno paura di loro.
+pt:
+  message:
+    Os visitantes do céu mostraram quem realmente s╞o. Desde que chegaram,
+    todo mundo tem medo deles.

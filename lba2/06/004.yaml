@@ -1,5 +1,26 @@
+textId: 3
 location:
 speaker:
 message: "You just found Sendell's Ball. Now you have reached a new level of
   magic: Red Ball. It will also enable Sendell to contact you in case of
   danger."
+fr:
+  message: "Tu viens de récupérer la boule de Sendell. Avec elle, tu viens
+    d'obtenir un nouveau niveau de magie : balle rouge. En plus, elle te
+    permettra d'être contacté par une Sendell en cas de danger."
+de:
+  message: 'Du hast gerade die Kugel von Sendell wiedergefunden. Mit ihr hast du
+    eine neue Magiestufe erlangt: Die Stufe "Roter Ball". Außerdem kann bei
+    Gefahr eine Sendell Kontakt mit dir aufnehmen.'
+es:
+  message: "Acabas de recuperar la bola de Sendell. Con ella acabas de conseguir
+    un nuevo nivel de magia: bola roja. Además, te permitirá tomar contacto con
+    una Sendell en caso de peligro."
+it:
+  message: "Hai recuperato la boccia di Sendell. Grazie ad essa hai ottenuto un
+    nuovo grado di magia : sfera rossa. E inoltre potrai essere contattato da
+    una Sendell in caso di pericolo."
+pt:
+  message: "Você adquiriu a bola de Sendell. Com ela, você passou para um novo
+    nível de magia: bola vermelha. Além disso, ela permite que você seja
+    contatado por um Sendell em caso de perigo."

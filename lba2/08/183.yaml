@@ -1,3 +1,14 @@
+textId: 328
 location:
 speaker:
 message: Pfew, I'm totally exhausted moving all these crates.
+fr:
+  message: Pffou, qu'est-ce que ça peut m'épuiser de pousser toutes ces caisses.
+de:
+  message: Uff, das ist anstrengend, immer diese Kisten herumzuschieben!
+es:
+  message: ¡Puffff, estoy roto de mover todas estas cajas!
+it:
+  message: Uffa, spingere queste casse mi sfinisce proprio.
+pt:
+  message: Ufa, empurrar todas essas caixas me deixa esgotado.

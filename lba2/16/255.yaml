@@ -1,3 +1,14 @@
+textId: 581
 location:
 speaker:
 message: Hello sir. Wouldn't you have an object or something to show me?
+fr:
+  message: Bonjour monsieur. N'avez-vous pas un objet ou quelque chose à me montrer ?
+de:
+  message: Guten Tag. Haben Sie nicht etwas, was Sie mir zeigen wollen?
+es:
+  message: Buenos días, señor ¿No tendrá alguna cosa que enseñarme?
+it:
+  message: Buongiorno signore. Non ha un'oggetto o qualcosa da mostrarmi ?
+pt:
+  message: Bom dia, senhor. Você n╞o teria um objeto ou alguma coisa para me mostrar ?

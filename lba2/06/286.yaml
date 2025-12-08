@@ -1,3 +1,4 @@
+textId: 800
 location:
 speaker:
 message: With my eyes focused on the center of the bazaar, my back is glued to a
@@ -6,3 +7,43 @@ message: With my eyes focused on the center of the bazaar, my back is glued to a
   correct number of steps. Once there, the fences to my left point in the wrong
   direction. It's on the other side, down in the basin near the gas that my
   buried treasure lies.
+fr:
+  message:
+    Le regard vers le centre du bazar, mon dos est collé au parasol naturel
+    contre lequel je piquerais bien une sieste. Mais je dois garder l'esprit
+    sportif. Sans en rajouter, il y a suffisamment de poteaux de lumière et
+    d'arches dans le village pour compter le bon nombre de pas. Une fois là, les
+    barrières à ma gauche me montrent la mauvaise direction. C'est de l'autre
+    côté, en descendant dans la cuvette proche du gaz, que j'ai enterré mon
+    trésor.
+de:
+  message: Mein Blick ruht auf der Mitte des Ladens, mein Rücken lehnt an einem
+    natürlichen Sonnenschirm, an dem ich gerne eine Siesta machen würde. Aber
+    ich muß einen wachen Geist behalten. Im Dorf gibt es genügend Laternen und
+    Bögen, um die richtige Anzahl Schritte daran abzuzählen, ohne daß man noch
+    welche hinzufügen müßte. Einmal angekommen zeigen die Barrieren zu meiner
+    Linken in die falsche Richtung. Auf der anderen Seite habe ich meinen Schatz
+    vergraben, den man findet, indem man in den Kessel in der Nähe der Gaswolke
+    hinabsteigt.
+es:
+  message: La mirada dirigida al centro del bazar, espalda Apoyada en el parasol
+    natural donde echaría de buena gana una siesta. Pero debo mantener el
+    espíritu deportivo. Sin añadir ninguno, hay suficientes postes de luz y
+    arcos en el pueblo para contar el número adecuado de pasos. Una vez allí,
+    las barreras que están a mi izquierda me muestran la dirección que no es. Es
+    al otro lado, bajando a la hondonada cercana al gas, donde enterré mi
+    tesoro.
+it:
+  message: Lo sguardo verso il centro del bazar, la mia schiena è incollata
+    all'ombrellone naturale dove farei volontieri una siesta. Ma devo mantenere
+    uno spirito sportivo. Ci sono abbastanza pali e archi nel paese per contare
+    il buon numero di passi. Una volta là, le barriere alla mia sinistra mi
+    indicano la cattiva direzione. Dall'altra parte, scendendo verso la vasca
+    che si trova vicino al gas, ho sotterrato il mio tesoro.
+pt:
+  message: Olhando em direç╞o ao centro do bazar, minhas costas coladas na
+    pára-sol natural onde vou tirar uma soneca. Mas tenho que manter o espírito
+    esportivo. Na vila têm postes de luz e archotes suficientes para contar os
+    passos corretamente. Uma vez lá, as barreiras à minha esquerda me indicam
+    que n╞o é por ali. Foi do outro lado, descendo pela reentrância perto do
+    gás, que eu enterrei meu tesouro.

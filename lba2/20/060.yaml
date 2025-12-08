@@ -1,5 +1,31 @@
+textId: 545
 location:
 speaker:
 message: I can always look for gems around here, there are none. Nothing doing,
   they can only be found in the mine. And yet, I was told that they were easy to
   find on the other islands.
+fr:
+  message:
+    J'ai beau chercher des gemmes par ici, il n'y en a pas. Décidément, on
+    n'en trouve que dans la mine. Pourtant on m'a raconté qu'on en trouvait
+    facilement sur les autres îles.
+de:
+  message:
+    Hier kann ich lange nach Juwelen suchen, hier gibt es keine. Die gibt's
+    nur in der Mine. Auf anderen Inseln sind die aber angeblich leicht zu
+    finden.
+es:
+  message:
+    Por más que busco gemas no encuentro ninguna por aquí. Definitivamente
+    sólo se encuentran en la mina. Sin embargo me dijeron que se encontraban
+    fácilmente en las otras islas.
+it:
+  message:
+    Mi affanno inutilmente a cercare delle gemme da queste parti, non ce ne
+    sono. Credo proprio che si trovino solo nella miniera. Mi chiedo perchè mi
+    abbiano raccontato che se ne trovavano facilmente sulle altre isole.
+pt:
+  message:
+    Eu já procurei pedras preciosas por aqui, n╞o tem. Decididamente, elas
+    só s╞o encontradas na mina. Mas tinham me dito que elas eram facilmente
+    encontradas em outras ilhas.

@@ -1,6 +1,34 @@
+textId: 212
 location:
 speaker:
 message: Actually I was with the wizards when the Esmers invited them to this
   planet. Now, they're being held captive by the emperor and claim the Esmers
   want to kidnap the children of Twinsun. I got scared, so I left, and found you
   there.
+fr:
+  message:
+    J'étais avec les mages quand ils ont été invités par les Esmers à venir
+    jusque sur cette planète. Maintenant, ils sont retenus prisonniers par
+    l'Empereur. Ils disent que les Esmers veulent enlever les enfants de
+    Twinsun. J'ai eu peur, alors je suis parti, et c'est là que je t'ai trouvé.
+de:
+  message: Ich war bei den Magiern, als die Esmerier sie auf diesen Planeten
+    eingeladen haben. Jetzt sind sie Gefangene des Kaisers. Sie sagen, daß die
+    Esmerier die Kinder von Twinsun entführen wollen. Ich hatte Angst, deswegen
+    bin ich abgehauen, und dabei habe ich dich gefunden.
+es:
+  message: Estaba con los magos cuando los esmeres los invitaron a venir a este
+    planeta. Ahora el emperador los tiene prisioneros. Dicen que los esmeres
+    quieren llevarse a los niños de Twinsun. Tuve miedo y fue entonces cuando me
+    fui y te encontré.
+it:
+  message:
+    Ero con i maghi quando gli Esmers li hanno invitati a venire su questo
+    pianeta. Adesso sono prigionieri dell'imperatore e dicono che gli Esmers
+    vogliono rapire i bambini di Twinsun. Ho avuto paura e sono andato via, e
+    subito dopo ti ho incontrato.
+pt:
+  message: Eu estava com os magos quando eles foram convidados pelos Esmers para
+    virem até este planeta. Agora, s╞o prisioneiros do Imperador. Eles dizem que
+    os Esmers querem capturar as crianças de Twinsun. Tive medo, por isso parti,
+    e foi ent╞o que nos encontramos.

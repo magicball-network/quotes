@@ -1,3 +1,14 @@
+textId: 45
 location:
 speaker:
 message: Insert 5 Kashes if you want 10 Life points.
+fr:
+  message: Insérez 5 Kashes si vous désirez 10 points de Vie.
+de:
+  message: Werfen Sie 5 Kashes ein. Sie erhalten dafür 10 Lebenspunkte.
+es:
+  message: Inserte 5 Kashes si desea obtener 10 puntos de Vida .
+it:
+  message: Inserite 5 Kashes se desiderate 10 punti di Vita.
+pt:
+  message: Deposite 5 Kashes se quiser 10 pontos de Vida.

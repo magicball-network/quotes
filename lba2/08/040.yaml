@@ -1,3 +1,14 @@
+textId: 430
 location:
 speaker:
 message: '"To the Weather Wizard. "'
+fr:
+  message: '" Vers le Mage Météo. "'
+de:
+  message: '"Zum Wettermagier."'
+es:
+  message: '" Al mago Meteo."'
+it:
+  message: '" Verso il Mago Metereologo"'
+pt:
+  message: '" Em direç╞o ao Mago do Tempo. "'

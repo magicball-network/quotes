@@ -1,4 +1,23 @@
+textId: 274
 location:
 speaker:
 message: I've noticed I keep losing since you helped my little friend over
   there. Nice move Sherlock!
+fr:
+  message:
+    Dites, je perds systématiquement depuis que vous avez aidé mon copain.
+    C'est malin !
+de:
+  message: He, seit Sie meinem Freund geholfen haben, verliere ich nur noch! Das
+    ist nicht fair!
+es:
+  message:
+    ¡Oiga, estoy perdiendo sistemáticamente desde que ha ayudado usted a mi
+    compañero. ¡Vaya morro!
+it:
+  message: Vediamo un po', io perdo sistematicamente da quando ha aiutato il mio
+    amico. Che furbo !
+pt:
+  message:
+    Olha, eu estou perdendo direto desde que você ajudou o meu amigo. Isso
+    é roubo !

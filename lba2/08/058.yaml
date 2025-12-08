@@ -1,3 +1,14 @@
+textId: 228
 location:
 speaker:
 message: '"Vial which once contained the Clear Water. "'
+fr:
+  message: C'est le flacon dans lequel j'avais mis de l'Eau Claire.
+de:
+  message: '"In den Flakon hier hatte ich klares Wasser gefüllt."'
+es:
+  message: '"Es el frasco donde había puesto Agua Clara "'
+it:
+  message: '" E'' il flacone che avevo riempito di Acqua Chiara."'
+pt:
+  message: É o frasco onde eu tinha colocado a ╡gua Clara.

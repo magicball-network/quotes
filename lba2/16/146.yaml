@@ -1,3 +1,14 @@
+textId: 400
 location:
 speaker:
 message: the Boss no touch!
+fr:
+  message: Pas toucher Patron !
+de:
+  message: Finger weg vom Chef!
+es:
+  message: ¡No tocar patrón!
+it:
+  message: Non toccare il capo !
+pt:
+  message: N╞o tocar patr╞o

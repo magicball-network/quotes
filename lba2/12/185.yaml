@@ -1,3 +1,14 @@
+textId: 319
 location:
 speaker:
 message: Yup!!
+fr:
+  message: Ouaip !!
+de:
+  message: Genau ... hick!!
+es:
+  message: ¡¡Uapp!!
+it:
+  message: Uèè !!
+pt:
+  message: Sim !!

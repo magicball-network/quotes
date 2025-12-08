@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: OK!
+fr:
+  message: C'est d'accord !
+de:
+  message: Einverstanden!
+es:
+  message: ¡De acuerdo!
+it:
+  message: D'accordo.
+pt:
+  message: Tudo bem !

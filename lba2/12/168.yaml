@@ -1,4 +1,17 @@
+textId: 118
 location:
 speaker:
 message: Go look at the Temple of Bù. They're discussing an old treasure still
   buried there.
+fr:
+  message: Va voir au temple de Bù. On y parle d'un vieux trésor encore enfoui.
+de:
+  message: Sieh beim Bü-Tempel nach. Dort soll angeblich noch ein alter Schatz
+    vergraben sein.
+es:
+  message: Vete a ver al templo de Bú. Hablan de un viejo tesoro todavía encerrado.
+it:
+  message: Vai a vedere al tempio di Bù. La leggenda parla di un vecchio tesoro
+    che si troverebbe ancora nascosto in questo luogo.
+pt:
+  message: Vá ver no Templo de Bu. Andam falando de um antigo tesouro ainda enterrado.

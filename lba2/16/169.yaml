@@ -1,5 +1,29 @@
+textId: 365
 location:
 speaker:
 message: Ah, my dear sir, the Lady Luck is a fickle female! I have been losing
   since the curse of Dark Monk condemned us to live forever on this miserable
   planet. But the day will come when I will win!
+fr:
+  message: Ah mon bon monsieur, ça va, ça vient. Je perds depuis que la
+    malédiction de Dark Monk nous condamne à vivre éternellement sur notre
+    triste planète. Mais un jour viendra où je gagnerai !
+de:
+  message:
+    Naja, man muß halt Geduld haben. Seit dem Fluch von Dark Monk, der uns
+    dazu verurteilt, für alle Zeiten auf diesem traurigen Planeten unser Dasein
+    zu fristen, verliere ich nur. Aber der Tag wird kommen, an dem ich gewinne!
+es:
+  message:
+    Depende, señor mío, unas veces sí, otras no. Llevo perdiendo desde que
+    la maldición de Dark Monk nos condenó a vivir eternamente en nuestro triste
+    planeta. -Pero algún día ganaré!
+it:
+  message:
+    Ah caro signore, le cose vanno e vengono. Io perdo sempre da quando la
+    maledizione di Dark Monk ci condanna a vivere eternalmente sul nostro triste
+    pianeta. Ma verrà il giorno in cui vincerò !
+pt:
+  message: Ah meu caro senhor, dinheiro vai, dinheiro vem. Eu perco desde que a
+    maldiç╞o de Dark Monk nos condenou a viver eternamente em nosso triste
+    planeta. Mas ainda há de vir o dia em que eu hei de ganhar !

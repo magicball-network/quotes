@@ -1,3 +1,14 @@
+textId: 207
 location:
 speaker:
 message: Calm down!
+fr:
+  message: Calmez vous !!
+de:
+  message: Regen Sie sich ab!
+es:
+  message: ¡¡Cálmese!!
+it:
+  message: Si calmi !!
+pt:
+  message: Acalme-se !!

@@ -1,3 +1,14 @@
+textId: 601
 location:
 speaker:
 message: And what can we do?
+fr:
+  message: Et que pouvons-nous faire ?
+de:
+  message: Und was können wir tun?
+es:
+  message: ¿Y qué podemos hacer?
+it:
+  message: E noi cosa possiamo fare ?
+pt:
+  message: E o que nós podemos fazer ?

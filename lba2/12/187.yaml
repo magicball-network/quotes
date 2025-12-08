@@ -1,5 +1,25 @@
+textId: 498
 location:
 speaker:
 message: Greetings, Twinsunian. We are organizing a gathering for the wizards at
   the hacienda, near Bald Mountain. If you attend, I think you'll be very
   interested.
+fr:
+  message: Bonjour Maître. Vous devriez aller à l'hacienda près du Mont-Chauve,
+    nous organisons là-bas une petite réunion pour les mages. Cela vous
+    intéressera certainement.
+de:
+  message: Guten Tag, Meister. Sie sollten zur Hacienda in der Nähe des Kahlen
+    Berges gehen, dort organisieren wir ein kleines Treffen für Magier. Das
+    interessiert Sie doch bestimmt.
+es:
+  message: Buenos días Maestro. Debería usted ir a la hacienda, cerca del Monte
+    Pelado. Organizamos una pequeña reunión para magos. Seguro que le interesa.
+it:
+  message: Buongiorno Maestro. Dovrebbe andare sull'isola del deserto. Verso
+    l'Hacienda, vicino al Monte-Calvo, organizziamo una piccola riunione per i
+    maghi. Sono sicuro che potrà interessarla.
+pt:
+  message: Bom dia, Mestre. Você deveria ir até a Fazenda perto do Monte Careca,
+    estamos organizando uma pequena reuni╞o para os Magos. Você certamente irá
+    gostar.

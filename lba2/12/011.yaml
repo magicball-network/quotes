@@ -1,5 +1,24 @@
+textId: 219
 location:
 speaker:
 message: '"Visit Temple-Park. Just one step from Bald Mountain, relive a
   pivotal episode in Twinsun''s glorious history by exploring the Temple of
   Bù."'
+fr:
+  message: '" Visitez Temple-Park. A deux pas du Mont-Chauve, revivez un épisode
+    de l''histoire de Twinsen en explorant le Temple de Bù. "'
+de:
+  message:
+    '"Besuchen Sie den Tempelpark direkt am Kahlen Berg. Erleben Sie einen
+    Teil der Geschichte von Twinsen, während Sie den Bü-Tempel kennenlernen."'
+es:
+  message:
+    '"Visite Temple-Park. A dos pasos del Monte Pelado, reviva un episodio
+    de la historia de Twinsen explorando el Templo de Bú "'
+it:
+  message: '"Visitate Temple-Park. A due passi dal Monte-Calvo ed esplorando il
+    Tempio di Bù, potrete rivivere un''episodio della storia di Twinsen "'
+pt:
+  message:
+    '" Visite o Parque do Templo. A dois passos do Monte Careca, reviva um
+    episódio da história de Twinsen explorando o Templo de Bu. "'

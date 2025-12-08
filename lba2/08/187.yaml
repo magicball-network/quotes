@@ -1,3 +1,14 @@
+textId: 43
 location:
 speaker:
 message: I don't have the time, Twinsen. Ask Luc, the boss!
+fr:
+  message: J'ai pas le temps Twinsen. Demande à Luc, le patron !
+de:
+  message: Ich habe keine Zeit, Twinsen. Frag' doch Luc, den Besitzer!
+es:
+  message: No tengo tiempo. ¡Pregúntale a Luc, el patrón!
+it:
+  message: Non ho tempo Twinsen. Chiedi a Luc, il proprietario !
+pt:
+  message: Eu n╞o tenho tempo Twinsen. Pergunte a Luc, o patr╞o !

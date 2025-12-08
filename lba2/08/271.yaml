@@ -1,3 +1,20 @@
+textId: 411
 location:
 speaker:
 message: That alien jalopy's easy on the eyes, but it looks difficult to park.
+fr:
+  message:
+    Le véhicule volant de ces visiteurs est très beau, mais on dirait qu'il
+    est difficile à garer.
+de:
+  message: Das fliegende Fahrzeug dieser Besucher ist zwar sehr schön, aber beim
+    Einparken doch irgendwie ziemlich unpraktisch.
+es:
+  message: El vehículo volante de esos visitante es muy bonito, pero parece
+    difícil de aparcar..
+it:
+  message: L'oggetto volante di questi visitatori è molto bello, ma sembra
+    piuttosto difficile da parcheggiare.
+pt:
+  message: A nave voadora desses visitantes é muito bonita, mas parece que é
+    difícil de estacionar.

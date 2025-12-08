@@ -1,3 +1,14 @@
+textId: 525
 location:
 speaker:
 message: And nobody did anything?
+fr:
+  message: Mais personne n'a rien fait ?
+de:
+  message: Und niemand hat etwas getan?
+es:
+  message: Pero ¿nadie ha hecho nada?
+it:
+  message: Ma nessuno ha fatto niente ?
+pt:
+  message: Mas ninguém fez nada ?

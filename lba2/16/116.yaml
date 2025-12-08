@@ -1,4 +1,16 @@
+textId: 468
 location:
 speaker:
 message: Hey, you! Stop! Police! I've got him, he's right here! Let's see that
   reward!!!!
+fr:
+  message: Ah le criminel !! Police, police, je le tiens, donnez moi la prime !!!!
+de:
+  message: Das ist doch der Verbrecher! Hallo, Polizei! Polizei! Hallo, ich habe
+    ihn, ich krieg' die Belohnung!!!!
+es:
+  message: ¡¡Criminal!! ¡¡Policía, policía, lo tengo, déme la recompensa!!
+it:
+  message: Ah, criminale !! Polizia, polizia, l'ho acciuffato, datemi la ricompensa !!!!
+pt:
+  message: Ah o criminoso!! Polícia, polícia, eu o peguei, quero meu prêmio !!!!

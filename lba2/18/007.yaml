@@ -1,3 +1,18 @@
+textId: 13
 location:
 speaker:
 message: Nope, not yet. It'd be great to get to his office. Any ideas?
+fr:
+  message: Non pas encore. J'aimerais parvenir jusqu'à son bureau. Vous n'auriez
+    pas une idée ?
+de:
+  message: Nein, noch nicht. Ich würde gern bis zu seinem Büro kommen. Haben Sie
+    eine Ahnung, wie man das bewerkstelligen kann?
+es:
+  message: No, todavía no. Me gustaría llegar hasta su despacho. ¿Se le ocurre algo?
+it:
+  message: No, non ancora. Vorrei arrivare fino al suo ufficio. Ha un'idea ?
+pt:
+  message:
+    N╞o ainda n╞o. Gostaria de poder chegar até o escritório dele. Você n╞o
+    teria uma idéia ?

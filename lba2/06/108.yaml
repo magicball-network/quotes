@@ -1,3 +1,14 @@
+textId: 152
 location:
 speaker:
 message: Red Ring of Lightning
+fr:
+  message: Sort de foudre rouge
+de:
+  message: Roter Blitzzauber
+es:
+  message: Hechizo de rayo rojo
+it:
+  message: Sortilegio di fulmini rossi
+pt:
+  message: Feitiço de raio vermelho

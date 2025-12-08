@@ -1,3 +1,14 @@
+textId: 22
 location:
 speaker:
 message: Yes, but I have no clue where the others are.
+fr:
+  message: Oui, mais je ne sais pas où sont passés les autres.
+de:
+  message: Ja, aber ich weiß nicht, wo die anderen hin sind.
+es:
+  message: Sí, pero no sé dónde han ido los otros.
+it:
+  message: Si, ma non so dove siano andati gli altri.
+pt:
+  message: Sim, mas n╞o sei onde est╞o os outros.

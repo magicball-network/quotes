@@ -1,5 +1,31 @@
+textId: 608
 location:
 speaker:
 message: You're very brave, but I've got face the emperor. Soon I'll be
   transferred to his palace, and he'll come to interrogate me. So I suppose I'll
   just stay here. Here! Take the key to the passage! Go and save your people!!
+fr:
+  message: Tu es un brave, mais je dois affronter l'Empereur. Bientôt je serais
+    transférée dans son palais, et il viendra m'interroger. Je resterai donc
+    ici. Tiens ! Prends la clé du passage, je te la donne ! Va sauver ton peuple
+    !!
+de:
+  message:
+    Du bist sehr mutig, Twinsen, aber ich muß mich dem Kaiser stellen. Bald
+    werde ich in seinen Palast überführt, und er wird mich selbst verhören. Ich
+    bleibe also. Hier, nimm den Schlüssel für den Gang. Lauf und rette dein
+    Volk!
+es:
+  message: Eres un valiente pero he de hacer frente al emperador. Pronto seré
+    transferido a su palacio y vendrá a interrogarme. Así que me quedaré aquí.
+    ¡Toma! ¡Coge la llave del pasadizo, te la doy! ¡¡Ve a salvar a tu pueblo!!
+it:
+  message: Sei un prode, ma io devo affrontare l'imperatore. Sarò trasferita
+    presto nel suo palazzo, e verrà per interrogarmi. Quindi resterò qui. Tieni
+    ! Prendi la chiave del passaggio, te la regalo ! Vai a salvare il tuo popolo
+    !!
+pt:
+  message: Você é um herói, mas eu tenho que enfrentar o Imperador. Logo serei
+    transferida para seu palácio, e ele virá me interrogar. Ent╞o vou ficar
+    aqui. Tome! Pegue a chave da passagem, estou te dando! Vá salvar o seu
+    povo!!

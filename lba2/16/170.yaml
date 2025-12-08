@@ -1,5 +1,31 @@
+textId: 360
 location:
 speaker:
 message: To play, stand in front of a marker or a machine, and insert some
   Zlitos. If you play the slots, you could win the super Jackpot of the evening.
   It will grant you admission to our special room!
+fr:
+  message:
+    Pour jouer, placez-vous devant une borne ou une machine, et insérez des
+    zlitos. Si vous jouez aux machines à sous, vous pouvez gagner le super
+    Jackpot de la soirée. Il vous permettra d'avoir accès à notre salle spéciale
+    !
+de:
+  message:
+    Stellen Sie sich vor eines der Geräte und werfen Sie Zlitos ein, um zu
+    spielen. Wenn Sie an den Münzautomaten spielen, können Sie den Super-Jackpot
+    des Abends gewinnen - dann haben Sie Zugang zu unserem ganz besonderen
+    Zimmer.
+es:
+  message: Para jugar, sitúese delante de una terminal o una máquina e inserte
+    zlitos. ¡Si juega a las máquinas tragaperras, puede ganar el super Jackpot
+    de la noche, que le permitirá acceder a nuestra sala especial!
+it:
+  message: Per giocare, mettetevi davanti a una colonnina o ad una macchina e
+    inserite degli Zlitos. Se giocate alle slots machines, potete vincere il
+    super Jackpot della serata. Vi permetterà di accedere alla nostra sala
+    speciale !
+pt:
+  message: Para jogar, posicione-se em frente a uma marcaç╞o ou uma máquina, e
+    deposite os zlitos. Se você jogar nas máquinas de moeda, você pode ganhar o
+    Jackpot da noite. Com ele você terá acesso a nossa sala especial !

@@ -1,3 +1,14 @@
+textId: 446
 location:
 speaker:
 message: Police!!
+fr:
+  message: Police !!
+de:
+  message: Polizei!
+es:
+  message: ¡¡Policía!!
+it:
+  message: Polizia !!
+pt:
+  message: Polícia !!

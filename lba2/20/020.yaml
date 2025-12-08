@@ -1,3 +1,14 @@
+textId: 18
 location:
 speaker:
 message: '"You are entering the domain of the Wannies."'
+fr:
+  message: '"Vous entrez dans le domaine des Blafards."'
+de:
+  message: '"Sie betreten das Gebiet der Bleichlinge."'
+es:
+  message: '"Entra usted en el territorio de los Macilentos."'
+it:
+  message: '"State entrando nelle proprietà dei Pallidi."'
+pt:
+  message: '"Você está entrando no domínio dos Blafards."'

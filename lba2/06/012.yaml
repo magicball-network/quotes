@@ -1,4 +1,22 @@
+textId: 11
 location:
 speaker:
 message: You just found a Wannie's Glove. Use it to repell the fireballs your
   enemies throw at you.
+fr:
+  message: Tu viens de trouver un gant de Blafard. Grâce à lui, tu pourras
+    renvoyer les boules de feu que tes ennemis te jetteront.
+de:
+  message:
+    Du hast gerade einen Bleichlingshandschuh gefunden. Damit kannst du die
+    Feuerkugeln zurückwerfen, mit denen dich deine Feinde beschießen.
+es:
+  message:
+    Acabas de encontrar un guante de Macilento. Con él podrás devolver las
+    bolas de fuego que te tiren los enemigos.
+it:
+  message: Hai trovato un guanto di Pallido. Grazie ad esso potrai rimandare
+    indietro le boccie di fuoco che i tuoi nemici ti getteranno.
+pt:
+  message: Você achou uma luva de Blafard. Com ela, você pode lançar de volta as
+    bolas de fogo que seus inimigos jogarem em você.

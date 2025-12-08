@@ -1,5 +1,28 @@
+textId: 275
 location:
 speaker:
 message: I'm certain our fragment's buried here. Obviously, must be hidden under
   the grass. I mean the burgermaster couldn't have buried it under the rock, am
   I right?
+fr:
+  message:
+    Je suis sûr que notre fragment est enterré ici. Il est forcément caché
+    sous de l'herbe. Le bourgmestre n'a pas pu l'enterrer sous le rocher tout de
+    même.
+de:
+  message:
+    Ich bin mir sicher, daß unser Fragment hier vergraben ist. Es muß unter
+    dem Gestrüpp versteckt sein, schließlich hat es der Bürgermeister ja nicht
+    im Fels einbuddeln können.
+es:
+  message: Estoy seguro de que nuestro fragmento está enterrado aquí. Seguro que
+    está escondido bajo la hierba. En todo caso el burgomaestre no pudo
+    enterrarlo bajo la roca.
+it:
+  message: Sono sicuro che il nostro frammento è nascosto qui. E' nascosto per
+    forza sotto l'erba. Il borgomastro non l'avrà mica sotterrato sotto la
+    roccia !
+pt:
+  message: Tenho certeza de que nossa parte da chave está enterrada aqui. Ela só
+    pode estar escondida na grama. O prefeito n╞o poderia enterrá-la sob o
+    rochedo de qualquer maneira.

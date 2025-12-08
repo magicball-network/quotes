@@ -1,5 +1,29 @@
+textId: 125
 location:
 speaker:
 message: '"THE INQUIRER: Looking for witnesses! 10,000 Zlitos reward!!! If you
   see a Twinsunian in a blue tunic, call the police immediately...armed and
   dangerous..."'
+fr:
+  message:
+    '"L''INQUISITEUR : Appel à témoin ! 10 000 Zlitos de récompense !!! Si
+    vous apercevez un twinsunien en tunique bleue, appelez immédiatement la
+    police. Il s''agit d''un dangereux criminel !!"'
+de:
+  message: '"DER INQUISITOR: Zeugen gesucht! 10000 Zlitos Belohnung! Wenn Sie
+    einen Twinsunier in einer blauen Tunika sehen, benachrichtigen Sie sofort
+    die nächstgelegene Polizeidienststelle. Es handelt sich um einen
+    gefährlichen Verbrecher!"'
+es:
+  message:
+    '"EL INQUISIDOR: ¡¡¡Aviso a testigos: 10.000 Zlitos de recompensa!!! Si
+    usted ve un twinsiano con túnica azul, llame inmediatamente a la policía.
+    ¡¡Es un criminal peligroso!!'
+it:
+  message: '" L''INQUISITORE : .Avviso di ricerca ! 10.000 Zlitos di ricompensa
+    !!! Se notate un Twinsuniano in tunica blu, avvertite immediatamente la
+    polizia. E'' un criminale pericoloso !!"'
+pt:
+  message: '"A TRIBUNA: Procura-se! 10.000 Zlitos de recompensa !!! Se você
+    avistar um twinsuniano em túnica azul, chame imediatamente a polícia.
+    Trata-se de um criminoso perigoso!!"'

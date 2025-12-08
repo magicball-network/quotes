@@ -1,3 +1,14 @@
+textId: 244
 location:
 speaker:
 message: '"Horn of Gawley."'
+fr:
+  message: Tiens, la Trompe de Gawley.
+de:
+  message: '"Oh, das Horn von Galley."'
+es:
+  message: '" Vaya, la Trompa de Gawley."'
+it:
+  message: '" Guarda, una Tromba di Gawley."'
+pt:
+  message: Veja, a Trompa de Gawley.

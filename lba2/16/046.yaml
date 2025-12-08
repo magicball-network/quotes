@@ -1,3 +1,14 @@
+textId: 60
 location:
 speaker:
 message: I've got some Twinsunian money.
+fr:
+  message: J'ai de l'argent twinsunien.
+de:
+  message: Ich habe twinsunisches Geld.
+es:
+  message: Tengo dinero de Twinsun.
+it:
+  message: Ho del denaro twinsuniano.
+pt:
+  message: Eu tenho moeda twinsuniana.

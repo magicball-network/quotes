@@ -1,3 +1,14 @@
+textId: 340
 location:
 speaker:
 message: '"Ridge of the Flowers Circle."'
+fr:
+  message: '" Crête du Cercle des Fleurs. "'
+de:
+  message: '"Blumenkranzkamm."'
+es:
+  message: '"Cresta del Círculo de las flores."'
+it:
+  message: '" Cima del Cerchio dei Fiori"'
+pt:
+  message: '" Crista do Círculo das Flores. "'

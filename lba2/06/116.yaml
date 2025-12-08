@@ -1,4 +1,22 @@
+textId: 205
 location:
 speaker:
 message: By dipping this pearl in the Weather Wizard's cauldron, you will be
   able to create a ring of lightning.
+fr:
+  message: En plongeant cette perle dans la marmite chez le Mage Météo, tu vas
+    pouvoir créer un anneau de foudre.
+de:
+  message: Wenn du diese Perle beim Wettermagier in den Topf wirfst, kannst du
+    einen Blitzring erschaffen.
+es:
+  message: Sumergiendo esta perla en la olla del Mago Meteo, podrás crear un
+    anillo de rayo.
+it:
+  message:
+    Introducendo questa perla nella pentola di Papin del Mago Metereologo,
+    potrai creare un anello dei fulmini.
+pt:
+  message:
+    Mergulhando essa pérola no fogo do Mago do Tempo, você poderá criar um
+    anel de raio.

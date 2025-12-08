@@ -1,4 +1,24 @@
+textId: 280
 location:
 speaker:
 message: I, well, er, well I dig here because it's just as good as somewhere
   else. Everybody here digs, why not me? Heh? And why not here?
+fr:
+  message: Moi euh, ben euh, je creuse ici passe que c'est pas plus mal
+    qu'ailleurs. Tout le monde y creuse, alors pourquoi pas moi ? Hein ? Et
+    pourquoi pas ici ?
+de:
+  message: Ich ... also ... warum ich hier grabe? Na, weil ... weil's hier auch
+    nicht schlechter ist als anderswo! Hier graben eh' alle, kann ich doch auch,
+    oder? Und warum sollte ich nicht hier graben?
+es:
+  message:
+    Ehhh, pues bueno, yo cavo aquí porque es igual aquí que en otra parte.
+    Todo quisque cava ¿por qué no voy a cavar yo? ¿Eh? ¿y por qué no voy a cavar
+    aquí?
+it:
+  message: Io, beh io... scavo qui perchè mi pare che è meglio di altri posti.
+    Tutti scavano, allora scavo anch'io, eh ? Qui, perchè no ?
+pt:
+  message: Eu, eeé, cavo aqui porque é um lugar como outro qualquer. Todo mundo
+    está cavando, ent╞o porque n╞o eu ? H╞ ? E porque n╞o aqui ?

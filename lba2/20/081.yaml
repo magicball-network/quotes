@@ -1,5 +1,29 @@
+textId: 330
 location:
 speaker:
 message: Er... good day... sir... I'm the manager of this institution. You were
   let in without an appointment? I take it then you're here to deposit an
   obscenely large sum of money?
+fr:
+  message: Euh... bonjour... monsieur... Je suis le directeur de cet
+    établissement. On vous a laissé entrer sans rendez-vous ? Peut être venez
+    vous déposer une grosse somme d'argent ?
+de:
+  message:
+    Äh... guten Tag ... ahem ... ich bin der Direktor dieses Unternehmens.
+    Sie sind ohne Termin hereingekommen? Haben Sie vielleicht gerade eine große
+    Geldsumme bei uns einbezahlt?
+es:
+  message:
+    Eh... buenos días... señor... Soy el director de este establecimiento.
+    ¿Le han dejado entrar sin cita? ¿Acaso vienes a depositar una cantidad
+    importante de dinero?
+it:
+  message:
+    Ehm ...Buongiorno ... signore ... Sono il direttore di questa società.
+    L'hanno fatta entrare senza appuntamento ? Forse è venuto qui per versare
+    una grossa somma di denaro ?
+pt:
+  message: Eeé... bom dia... senhor... sou o diretor desse estabelecimento.
+    Deixaram você entrar sem hora marcada? Talvez você tenha vindo depositar uma
+    grande soma em dinheiro ?

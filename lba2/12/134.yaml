@@ -1,5 +1,29 @@
+textId: 72
 location:
 speaker:
 message: Ah, you must be Twinsen. Congratulations for passing your examination.
   If you want a magician's tunic it'll only cost you 50 kashes. We'll throw in a
   false beard to make you look like an old magician. Interested?
+fr:
+  message: Ah, vous devez être Twinsen. Félicitations pour votre réussite à
+    l'examen. Si vous désirez une tunique de mage, elle ne coûte que 50 kashes.
+    En plus, vous bénéficiez d'une fausse barbe... elle vous fera ressembler à
+    un vieux mage... Alors, ça vous intéresse ?
+de:
+  message: Ah, Sie sind sicher Twinsen. Herzlichen Glückwunsch zum bestandenen
+    Magierexamen. Wenn Sie eine Magiertunika wollen, kann ich Ihnen eine für nur
+    50 Kashes anbieten.
+es:
+  message: Usted debe de ser Twinsen. Enhorabuena. Me han encargado que le
+    entregue su ropa de gala. Por cierto, el director de la escuela de magia le
+    manda decir que si busca bien, encontrará un hechizo de protección.
+it:
+  message:
+    Ah, lei deve essere Twinsen. Complimenti per aver superato l'esame. Se
+    desidera un'abito da cerimonia le costerà solo 50 Kashes.
+pt:
+  message:
+    Ah, você deve ser Twinsen. Parabéns pelo seu sucesso na prova. Se você
+    quiser uma túnica de mago, ela custa apenas 50 kashes. além disso você
+    ganhará de brinde uma barba falsa... com ela você se parecerá com um velho
+    mago... E ent╞o, está interessado ?

@@ -1,3 +1,14 @@
+textId: 266
 location:
 speaker:
 message: Get lost!
+fr:
+  message: Fous le camp !!
+de:
+  message: Hau ab!
+es:
+  message: ¡¡Lárgate!!
+it:
+  message: Vattene !!
+pt:
+  message: Fuja !!

@@ -1,4 +1,20 @@
+textId: 48
 location:
 speaker:
 message: Jerome just gave you the super-jetpack. It will allow you to reach
   places you couldn't get to using the proto-pack.
+fr:
+  message: Jérôme viens de te donner le super-jetpack. Il te permettra d'aller
+    dans des endroits jusque là inaccessibles avec le proto-pack.
+de:
+  message: Jerome hat dir das SuperJetPack gegeben. Damit kannst du Orte
+    erreichen, die bisher mit dem ProtoPack nicht zugänglich waren.
+es:
+  message: Jerónimo acaba de darte el super-jetpack. Te permitirá ir a lugares
+    hasta ahora inaccesible con el proto-pack.
+it:
+  message: Gerolamo ti ha dato il Super Jet-Pack. Ti permetterà di andare in
+    luoghi prima inaccessibili con il semplice Proto-Pack.
+pt:
+  message: Jerônimo te deu o super-jetpack. Com ele você pode ir a lugares até
+    ent╞o inacessíveis com o Proto-Pack.

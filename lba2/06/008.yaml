@@ -1,3 +1,20 @@
+textId: 7
 location:
 speaker:
 message: Jerome Baldino just gave you a part that Zoé needs to fix the car.
+fr:
+  message: Jérôme Baldino vient de te donner une pièce dont Zoé a besoin pour
+    réparer la voiture.
+de:
+  message: Jerome Baldino hat dir gerade ein Bauteil gegeben, das Zoe für die
+    Reparatur des Autos braucht.
+es:
+  message:
+    Jerónimo Baldino acaba de darte una pieza que Zoé necesita para reparar
+    el coche.
+it:
+  message:
+    Gerolamo Baldino ti ha dato il pezzo di ricambio di cui Zoe ha bisogno
+    per riparare la macchina.
+pt:
+  message: Jerônimo Baldino te deu a peça que Zoé precisa para consertar seu carro.

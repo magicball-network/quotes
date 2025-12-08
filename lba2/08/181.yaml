@@ -1,3 +1,15 @@
+textId: 36
 location:
 speaker:
 message: I've got enough problems without you touching stuff...so get lost!
+fr:
+  message: Y'a assez de bazar ici, alors touchez à rien et dégagez !
+de:
+  message: Hier gibt's schon genug Chaos, also fassen Sie bloß nichts an, und
+    verschwinden Sie am besten gleich wieder!
+es:
+  message: ¡Ya hay bastante follón aquí, o sea que no toque nada y lárguese!
+it:
+  message: C'è troppa confusione qui, quindi non tocchi niente e se ne vada !
+pt:
+  message: Isso aqui está uma confus╞o, n╞o mexa em nada e saia daqui !

@@ -1,4 +1,24 @@
+textId: 301
 location:
 speaker:
 message: I know him. He is from my planet. He is evil... But don't worry, I'll
   make sure he knows what's right.
+fr:
+  message: Une vieille connaissance. Il vient de ma planète. C'est le mal
+    incarné... Mais rassurez-vous, je me charge de lui faire comprendre où se
+    trouve la vérité.
+de:
+  message: Ein alter Bekannter. Er kommt von meinem Planeten ... er ist die
+    Inkarnation des Bösen ... Aber Ihr könnt beruhigt sein, ich werde ihm
+    beibringen, wo die Wahrheit liegt.
+es:
+  message:
+    Un antiguo conocido. Viene de mi planeta. Es la encarnación del mal....
+    Pero tranquilícese, ya me encargo yo de que se entere de la verdad.
+it:
+  message: Una vecchia conoscenza. Viene dal mio pianeta. E' l'incarnazione del
+    male ... Ma, non c'è da preoccuparsi, prenderò la briga di fargli capire
+    dov'è la verità.
+pt:
+  message: Um velho conhecido. Ele vem do meu planeta. É o mal encarnado... Mas
+    fique tranqüilo, eu me encarrego de explicar a ele a verdade das coisas.

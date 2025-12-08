@@ -1,3 +1,16 @@
+textId: 24
 location:
 speaker:
 message: You have found a itinary token. You can now use an Esmer shuttle.
+fr:
+  message: Tu as trouvé un disque de route. Tu peux maintenant utiliser une
+    navette Esmer.
+de:
+  message: Du hast eine Routenscheibe gefunden. Nun kannst du mit einem
+    Esmerier-Raumschiff starten.
+es:
+  message: Has encontrado un disco de ruta. Ahora puedes usar una nave Esmer..
+it:
+  message: Hai trovato un disco di percorso. Adesso puoi usare una navetta Esmers.
+pt:
+  message: Você achou um disco de rota. Agora você pode usar uma nave Esmer.

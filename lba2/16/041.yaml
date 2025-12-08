@@ -1,5 +1,29 @@
+textId: 37
 location:
 speaker:
 message: '"DARK MONK HAS REINCARNATED!!! Come Join The Revelry! Be part of the
   celebration as he cancels the curse of Zeelich and restores its heavenly
   look!"'
+fr:
+  message: '"DARK MONK S''EST REINCARNE !!!- Venez assister à la prochaine
+    célébration - Il y annulera la malédiction de Zeelich et lui redonnera son
+    vrai visage paradisiaque !!"'
+de:
+  message:
+    '"DARK MONK WIEDER AUFERSTANDEN!!! Kommen Sie zur nächsten Feier - dort
+    wird er den Fluch aufheben, der auf Zeelich lastet, und unserem Planeten
+    sein ursprüngliches paradiesisches Antlitz zurückgeben!"'
+es:
+  message:
+    '"¡¡DARK MONK SE HA REENCARNADO!! ¡¡¡Asistan a la próxima celebración.
+    Anulará la maldición de Zeelich y le devolverá su auténtico aspecto
+    paradisíaco!!!"'
+it:
+  message:
+    '" DARK MONK SI E'' REINCARNATO !!! - Assistete numerosi alla prossima
+    celebrazione - nel corso della quale annullerà la maledizione di Zeelich
+    restituendogli il suo vero aspetto paradisiaco !!"'
+pt:
+  message:
+    '"DARK MONK SE REENCARNOU!!!- Venha assistir à próxima celebraç╞o - Ele
+    anulará a maldiç╞o de Zeelich e devolverá seu aspecto paradisíaco !!"'

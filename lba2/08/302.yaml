@@ -1,5 +1,27 @@
+textId: 482
 location:
 speaker:
 message: Greetings, Master. You should go to Desert Island. Towards the
   hacienda, near the Bald Mountain, we are organizing a little gathering for the
   wizards. You will certainly be interested should you choose to attend.
+fr:
+  message: Bonjour Maître. Vous devriez aller sur l'île du désert. Vers
+    l'hacienda, près du Mont-Chauve, nous organisons une petite réunion pour les
+    mages. Cela vous intéressera certainement.
+de:
+  message:
+    Guten Tag, Meister. Ihr solltet auf die Wüsteninsel gehen. In Richtung
+    Hacienda, in der Nähe des Kahlen Berges, organisieren wir ein kleines
+    Magiertreffen. Das interessiert Euch bestimmt. .
+es:
+  message: Buenos días, Maestro. Debería ir a la isla del desierto. Cerca del
+    Monte Pelado, camino de la Hacienda, organizamos una pequeña reunión para
+    los magos. Seguro que le interesará.
+it:
+  message: Buongiorno Maestro. Dovrebbe andare sull'isola del deserto. Verso
+    l'Hacienda, vicino al Monte-Calvo, organizziamo una piccola riunione per i
+    maghi. Sono sicuro che potrà interessarla.
+pt:
+  message: Bom dia, Mestre. Você deveria ir até a Ilha do Deserto. Perto da
+    fazenda, junto ao Monte Careca, estamos organizando uma pequena reuni╞o para
+    os Magos. Você certamente irá gostar.

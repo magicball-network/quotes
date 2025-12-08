@@ -1,3 +1,14 @@
+textId: 632
 location:
 speaker:
 message: Do you know that you are my first customer since way back when.
+fr:
+  message: Vous savez, vous êtes le seul client que j'ai eu depuis bien longtemps.
+de:
+  message: Wissen Sie, Sie sind mein erster Kunde seit langem.
+es:
+  message: Es usted el único cliente que he tenido desde hace mucho tiempo.
+it:
+  message: Sa, lei è l'unico cliente che ho avuto da molto tempo.
+pt:
+  message: Você é o único cliente que aparece aqui em muito tempo.

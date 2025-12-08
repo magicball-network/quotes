@@ -1,4 +1,22 @@
+textId: 372
 location:
 speaker:
 message: Hey Twinsen! It's me, Joe!! I don't feel too good. Couldn't you do
   something for me?
+fr:
+  message: Ah Twinsen ! C'est moi Joe !! Je ne me sens pas très bien... tu ne
+    pourrais pas faire quelque chose pour moi ?
+de:
+  message:
+    He, Twinsen! Ich bin's, Joe! Sag' mal, ich fühl' mich nicht so wohl ...
+    könntest du mir nicht irgendwie helfen?
+es:
+  message: ¡Eh Twinsen! ¡¡Soy yo, Joe!! No me encuentro nada bien, ¿no podrías
+    hacer algo por mí?
+it:
+  message: Ah Twinsen ! Sono io, Joe !! Non mi sento molto bene ... non potresti
+    fare qualcosa per me ?
+pt:
+  message:
+    Ha Twinsen ! Sou eu Joe !! N╞o estou me sentindo muito bem... Você n╞o
+    poderia me ajudar ?

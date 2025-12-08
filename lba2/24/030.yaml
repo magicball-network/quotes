@@ -1,3 +1,14 @@
+textId: 259
 location:
 speaker:
 message: 10 Magic points cost 20 Zlitos.
+fr:
+  message: 10 points de magie vous coûtent 20 zlitos.
+de:
+  message: 10 Zauberpunkte kosten 20 Zlitos.
+es:
+  message: 10 puntos de magia le cuestan 20 zlitos.
+it:
+  message: 10 punti di Magia le costeranno 20 Zlitos.
+pt:
+  message: 10 pontos de magia custam 20 zlitos.

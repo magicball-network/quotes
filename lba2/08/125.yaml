@@ -1,3 +1,14 @@
+textId: 214
 location:
 speaker:
 message: Get out of the way!!
+fr:
+  message: Poussez-vous !!
+de:
+  message: Platz da!
+es:
+  message: ¡¡Apártese!!
+it:
+  message: Si sposti !!
+pt:
+  message: Saia da frente !!

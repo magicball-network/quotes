@@ -1,3 +1,14 @@
+textId: 333
 location:
 speaker:
 message: How're you doing, Dino buddy?
+fr:
+  message: Alors mon Dino, comment ça va ?
+de:
+  message: Na, Dinolein, wie geht's Dir denn?
+es:
+  message: Querido Dino ¿cómo estás?
+it:
+  message: Allora, Dino mio, come va ?
+pt:
+  message: E ent╞o Dino, como est╞o as coisas ?

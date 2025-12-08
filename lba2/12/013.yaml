@@ -1,5 +1,26 @@
+textId: 228
 location:
 speaker:
 message: |-
   "Von Kournil tour.
   (Island of the White Leaf Desert) "
+fr:
+  message: |-
+    " Circuit Von Kournil.
+    (Ile du Désert de la Feuille Blanche) "
+de:
+  message: |-
+    "Von-Kournil-Rennstrecke.
+    (Insel der Wüste des Leeren Blattes)"
+es:
+  message: |-
+    " Circuito Von Kournil.
+    (Isla del Desierto de la Hoja Blanca) "
+it:
+  message: |-
+    "Circuito Von Kournil.
+    (Isola del Deserto della Foglia Bianca)."
+pt:
+  message: |-
+    " Circuito Von Kournil.
+    (Ilha do Deserto da Folha Branca) "

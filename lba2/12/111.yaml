@@ -1,3 +1,14 @@
+textId: 36
 location:
 speaker:
 message: Phew, it's hot but it feels so wonderful!
+fr:
+  message: Pff, on a chaud mais qu'est-ce que ça peut faire comme bien !
+de:
+  message: Puh, heiß ist es hier drin - aber es tut einfach unglaublich gut!
+es:
+  message: ¡Puff, qué calor, pero qué bien sienta!
+it:
+  message: Ehm, abbiamo caldo ma ... come fa bene alla salute !
+pt:
+  message: Nossa, faz calor, mas isto faz muito bem!

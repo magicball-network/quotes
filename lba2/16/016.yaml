@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: I'd like to see Rick, the boss.
+fr:
+  message: Je voudrais voir Rick, le patron.
+de:
+  message: Ich suche Rick, den Besitzer.
+es:
+  message: Quisiera ver a Rick, el patrón.
+it:
+  message: Vorrei vedere Rick, il proprietario.
+pt:
+  message: Eu gostaria de ver Rick, o patr╞o.

@@ -1,5 +1,27 @@
+textId: 540
 location:
 speaker:
 message: The Monk, he threw me out of his choir. It's not fair, I didn't do
   anything. So I stole the key to the chapel! So I boxed it in and gave it to
   the old man!
+fr:
+  message: Monsieur le Moine il m'a mis dehors de sa chorale. C'est pas juste,
+    j'avais rien fait. Alors j'ai volé la clé de la chapelle, je l'ai enfermé et
+    je l'ai donnée au papy.
+de:
+  message:
+    Der Mönch hat mich aus dem Chor geworfen. Das ist nicht fair, ich hatte
+    gar nichts getan. Also habe ich den Schlüssel zur Kapelle geklaut, ihn
+    eingeschlossen und ihn meinem alten Vater gegeben.
+es:
+  message: El señor Monje me ha echado del coro. No es justo, yo no había hecho
+    nada. Así que he robado la llave de la capilla, lo encerré y se la di al
+    abuelito.
+it:
+  message: Il Prete mi ha buttato fuori dal suo coro. Non è giusto, non avevo
+    fatto niente. Allora ho rubato la chiave della cappella, l'ho rinchiuso e ho
+    dato la chiave al nonno.
+pt:
+  message: O senhor Frade me expulsou do coral. N╞o é justo, eu n╞o tinha feito
+    nada. Ent╞o eu roubei a chave da capela, eu a tranquei e dei a chave ao
+    papai.

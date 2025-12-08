@@ -1,3 +1,14 @@
+textId: 40
 location:
 speaker:
 message: Are you ready to come and spend some time on our planet?
+fr:
+  message: Etes-vous prêts à venir quelques temps sur notre planète ?
+de:
+  message: Wären Sie bereit, einige Zeit mit auf unseren Planeten zu kommen?
+es:
+  message: ¿Está usted dispuesto a pasar una temporada en nuestro planeta?
+it:
+  message: Siete pronti a venire per qualche tempo sul nostro pianeta ?
+pt:
+  message: Vocês est╞o preparados para passar um tempo em nosso planeta ?

@@ -1,3 +1,21 @@
+textId: 351
 location:
 speaker:
 message: You can try your luck at the gaming tables or the slots. It's your choice.
+fr:
+  message: Vous pouvez tenter votre chance aux jeux de table, ou aux machines à
+    sous. C'est selon votre convenance.
+de:
+  message:
+    Sie können Ihr Glück im Spiel an den Tischen oder an den Spielautomaten
+    versuchen. Ganz wie Sie wünschen.
+es:
+  message: Puede probar suerte en los juegos de mesa o en las máquinas
+    tragaperras. Como prefiera.
+it:
+  message:
+    Può tentare la fortuna al tavolo da gioco a nelle slots machines, come
+    preferisce.
+pt:
+  message: Você pode tentar a sua sorte nos jogos de mesa, ou nas máquinas, de
+    acordo com a sua preferência.

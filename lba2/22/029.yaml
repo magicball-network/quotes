@@ -1,4 +1,24 @@
+textId: 511
 location:
 speaker:
 message: The Queen has been captured, but some of our people managed to escape.
   They took shelter in the cave of the volcano.
+fr:
+  message: La Reine a été capturée, mais une partie de notre peuple a pu
+    s'échapper. Ils ont du aller se réfugier dans la grotte du volcan.
+de:
+  message:
+    Die Königin wurde gefangengenommen, aber ein Teil unseres Volkes konnte
+    entkommen. Es mußte in der Grotte des Vulkans Zuflucht suchen.
+es:
+  message:
+    La Reina ha sido capturada, pero una parte de nuestro pueblo ha podido
+    escapar. Seguramente se han refugiado en la gruta del volcán.
+it:
+  message:
+    La Regina è stata catturata, ma una parte del nostro popolo è riuscito
+    a scappare. Sono andati sicuramente a rifugiarsi nella grotta del vulcano.
+pt:
+  message:
+    A rainha foi capturada, mas uma parte do nosso povo conseguiu escapar.
+    Eles devem ter se refugiado na gruta do vulc╞o.

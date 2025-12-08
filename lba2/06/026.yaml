@@ -1,3 +1,14 @@
+textId: 25
 location:
 speaker:
 message: You just found a slice of tart!
+fr:
+  message: Tu viens de récupérer un morceau de tarte.
+de:
+  message: Du hast gerade ein Stück Kuchen abgestaubt!
+es:
+  message: ¡Acabas de recuperar un trozo de tarta de luciérnagas!
+it:
+  message: Hai recuperato un pezzo di torta !
+pt:
+  message: Você adquiriu um pedaço da torta !

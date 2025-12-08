@@ -1,3 +1,14 @@
+textId: 2
 location:
 speaker:
 message: What do the wizards say??
+fr:
+  message: Que disent les mages ??
+de:
+  message: Was sagen die Magier?
+es:
+  message: ¿Qué dicen los magos?
+it:
+  message: Cosa dicono i maghi ??
+pt:
+  message: O que dizem os magos ??

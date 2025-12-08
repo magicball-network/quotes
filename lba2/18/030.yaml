@@ -1,3 +1,17 @@
+textId: 166
 location:
 speaker:
 message: I know you...you're the murderer everybody's looking for! Police, help!!!!
+fr:
+  message: Je vous reconnais, vous êtes l'assassin, celui que tout le monde
+    recherche ! Police, au secours !!!!
+de:
+  message: Ich kenne Sie doch, Sie sind der Mörder, den alle suchen! Hilfe, Polizei!
+es:
+  message: ¡Lo he reconocido, es usted el asesino que todos están buscando!
+    ¡¡¡¡Socorro, policía!!!!
+it:
+  message: La riconosco, è l'assassino, quello che tutti cercano ! Polizia, aiuto !!!!
+pt:
+  message: Estou te reconhecendo, você é o assassino, aquele que todos procuram!
+    Polícia, socorro !!!!

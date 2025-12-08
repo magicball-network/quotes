@@ -1,5 +1,26 @@
+textId: 270
 location:
 speaker:
 message: Mosquibee representative. The race of the Mosquibees lives in the
   under-gas. Their village is a magnificent cocoon anchored on the rocky tor
   which supports the island CX.
+fr:
+  message:
+    Représentant mosquibee. La race des Mosquibees habite dans le sous-gaz.
+    Leur village est un magnifique cocon accroché au pic rocheux qui supporte
+    l'îlot CX.
+de:
+  message: Vertreter der Moskibienos. Das Volk der Moskibienos lebt unter der
+    Gaswolke. Ihr Dorf ist ein wunderschöner Kokon. Er hängt an dem felsigen
+    Gipfel, der die Insel CX stützt.
+es:
+  message: Representante Mosquibita. La raza de los mosquibitas vive en el
+    sub-gas. Su pueblo es un magnífico capullo enganchado al pico rocoso que
+    sostiene el islote CX.
+it:
+  message: Rappresentante dei Moschibei. La razza dei Moschibei abita nel
+    sotto-gas. Il loro villaggio è uno splendido bozzolo aggrappato alle pareti
+    rocciose che sostengono l'isolotto CX.
+pt:
+  message: Representante Mosquibee. A raça dos Mosquibees vive no sub-gás. Sua
+    cidade é um magnífico casulo preso no pico rochoso que segura a ilhota CX.

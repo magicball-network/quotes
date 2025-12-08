@@ -1,3 +1,21 @@
+textId: 261
 location:
 speaker:
 message: Aah, thank you kiddo! Feels like I got the back of a young Sphero again.
+fr:
+  message:
+    Aah, merci gamin ! J'ai l'impression d'avoir retrouvé mon dos de jeune
+    bouboule.
+de:
+  message: Aah, danke, mein Junge! Ich fühl' mich wieder richtig jung!
+es:
+  message:
+    ¡Ahh, gracias, joven! Tengo la sensación de haber recuperado mi espalda
+    de joven burbujo.
+it:
+  message:
+    Ah, grazie ragazzo ! Ho l'impressione di avere ritrovato la schiena di
+    quando ero giovane bobollo.
+pt:
+  message: Aah, obrigado rapaz! Sinto como se tivesse de volta minhas costas de
+    quando era um jovem jogador.

@@ -1,3 +1,14 @@
+textId: 248
 location:
 speaker:
 message: Bravo!!
+fr:
+  message: Bravo.
+de:
+  message: Gratuliere!
+es:
+  message: Bravo
+it:
+  message: Bravo
+pt:
+  message: Parabéns

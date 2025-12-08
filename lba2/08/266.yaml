@@ -1,5 +1,28 @@
+textId: 216
 location:
 speaker:
 message: Oh what a fall, I'm hurt badly. Under normal conditions, I could have
   taken you for a spin in the air. But this time, you will have to treat me
   first.
+fr:
+  message:
+    Oh ben quelle chute, je me suis fait affreusement mal. En temps normal
+    j'aurais pu t'emmener faire une balade dans les airs. Mais cette fois-ci, il
+    faudra d'abord que tu me soignes.
+de:
+  message:
+    So ein blöder Unfall! Aua, Mann, hab' ich mir vielleicht wehgetan! Bei
+    normalem Wetter hätte ich dich zu einem Spazierflug einladen können. Aber
+    diesmal mußt du mich erst heilen.
+es:
+  message: ¡Cielos qué caída! ¡Me he hecho un daño tremendo! En condiciones
+    normales habría podido llevarte a dar una paseo por el aire, Pero ahora
+    primero tendrás que curarme.
+it:
+  message: Oh, che caduta, mi sono fatto spaventosamente male. In tempi normali
+    avrei potuto portarti a fare un giro sulle nuvole, ma per questa volta
+    dovrai curarmi tu.
+pt:
+  message: Oh que queda, me machuquei muito. Se o tempo estivesse bom eu poderia
+    te levar para dar uma volta. Mas n╞o consigo voar, você terá que me curar
+    primeiro.

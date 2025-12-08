@@ -1,3 +1,14 @@
+textId: 304
 location:
 speaker:
 message: A Nitro-Meca-Penguin costs 4 Kashes.
+fr:
+  message: Un Nitro-Méca-Pingouin coûte 4 Kashes.
+de:
+  message: Ein Nitro-Meca-Pinguin kostet 4 Kashes.
+es:
+  message: Un Nitro-Meca-Pingüino cuesta 4 Kashes.
+it:
+  message: Un Nitro-Robo-Pinguino costa 4 Kashes.
+pt:
+  message: Um Nitro-Méca-Pingüim custa 4 Kashes.

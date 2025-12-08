@@ -1,3 +1,14 @@
+textId: 900
 location:
 speaker:
 message: An action/adventure game on PC CD_ROM SVGA/DirectDraw graphics
+fr:
+  message: Jeu d'action/aventure pour PC CD-ROM Graphisme en SVGA/DirectDraw
+de:
+  message: Aktions/Abenteuerspiel für PC CD-ROM Grafiken in SVGA/DirectDraw
+es:
+  message: Juego de acción/aventuras para PC CD-ROM Grafismos en SVGA/DirectDraw
+it:
+  message: Gioco d'azione/d'avventura per PC CD-ROM Grafica su SVGA/DirectDraw
+pt:
+  message: Jeu d'action/aventure pour PC CD-ROM Graphisme en SVGA/DirectDraw

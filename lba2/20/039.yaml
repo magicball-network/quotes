@@ -1,4 +1,22 @@
+textId: 520
 location:
 speaker:
 message: Hey, pal! Say, if you bring me back a slice of tart, I'll tell you a
   pretty wacky secret.
+fr:
+  message: Salut mon chtiot gars ! Dis voir, si tu me rapportes un morceau de
+    tarte, j'te confierais un secret qu'est drôlement rigolo.
+de:
+  message: Hallo, Junge! Hör mal, wenn du mir ein Stück Kuchen bringst, verrat'
+    ich dir ein tolles Geheimnis!
+es:
+  message:
+    ¡Hola mozuelo! Mira lo que te digo, si me acercas otro pedazo de tarta,
+    te cuento un secreto que es la monda.
+it:
+  message: Salve ragazzo mio ! Dimmi un po', se mi porti un pezzo di torta, ti
+    racconterò un segreto proprio divertente.
+pt:
+  message:
+    Olá, amizade ! Olha, se você me trouxer um pedaço de torta, te direi um
+    segredo muito engraçado.

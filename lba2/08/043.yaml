@@ -1,3 +1,14 @@
+textId: 446
 location:
 speaker:
 message: '"Access to the cliffs."'
+fr:
+  message: '" Accès à la Corniche. "'
+de:
+  message: '"Zugang zur Küstenstraße."'
+es:
+  message: '"Acceso a la cornisa"'
+it:
+  message: '"Accesso alla Strada panoramica"'
+pt:
+  message: '" Acesso ao Torre╞o. "'

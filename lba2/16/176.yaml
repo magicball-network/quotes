@@ -1,6 +1,35 @@
+textId: 380
 location:
 speaker:
 message: Welcome, my dear sir! Welcome, welcome to our wheel of fortune! So
   you're the one fate has chosen today to try for our Super Jackpot! Excellent,
   excellent. Now, just stand behind the wheel on the small podium, give it a
   whirl, and maybe, maybe I say, you will hit it big!!!
+fr:
+  message: Bienvenue mon bon monsieur ! Bienvenue à notre roue du magot ! Vous
+    êtes celui que le sort a désigné aujourd'hui pour tenter le super jackpot
+    !!! Alors, placez-vous à côté de la roue, sur le petit podium, et faites la
+    tourner pour peut être, je dis bien peut être, empocher le magot !!!
+de:
+  message:
+    Willkommen, werter Herr, willkommen beim Glücksrad! Das Schicksal gibt
+    Ihnen heute die Chance, den Super-Jackpot zu gewinnen! Stellen Sie sich also
+    neben das Rad auf die kleine Bühne hier, und drehen Sie das Rad. Wer weiss,
+    vielleicht ist das Glück Ihnen hold!!!
+es:
+  message:
+    ¡Bienvenido, querido señor! ¡Bienvenido a nuestra rueda de la fortuna!
+    ¡¡¡Ha sido designado por la suerte para aspirar al super-jackport!!!
+    ¡¡¡Póngase al lado de la rueda, en el podium y hágala girar para quizás,
+    repito, quizás, embolsarse la fortuna!!!
+it:
+  message: Benvenuto caro signore ! Benvenuto alla nostra ruota della fortuna !
+    Lei è colui che la sorte ha designato oggi per tentare di vincere il super
+    jackpot !!! Allora, si metta accanto alla ruota, sul piccolo podio, e la
+    faccia girare per vincere, forse, dico bene forse, un bel gruzzoletto !!!
+pt:
+  message:
+    Bem-vindo, meu caro senhor ! Bem-vindo a nossa roleta premiada! Você é
+    aquele que o destino escolheu para tentar hoje o Jackpot !!! Ent╞o,
+    posicione-se ao lado da roleta, sobre o pequeno pódium, e gire para talvez,
+    e eu repito, talvez, embolsar o prêmio !!!

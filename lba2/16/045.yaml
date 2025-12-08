@@ -1,3 +1,14 @@
+textId: 27
 location:
 speaker:
 message: I have an umbrella.
+fr:
+  message: J'ai un parapluie.
+de:
+  message: Ich habe einen Regenschirm.
+es:
+  message: Tengo un paraguas.
+it:
+  message: Ho un ombrello.
+pt:
+  message: Eu tenho um guarda-chuva.

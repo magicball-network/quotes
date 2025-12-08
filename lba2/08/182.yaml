@@ -1,3 +1,14 @@
+textId: 41
 location:
 speaker:
 message: Ouch!
+fr:
+  message: Aïïeeuh !
+de:
+  message: Auaa!
+es:
+  message: ¡Ayyy!
+it:
+  message: Ahi !
+pt:
+  message: Aiieeee !

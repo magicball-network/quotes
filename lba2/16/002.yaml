@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: Thanks, Joe! But what are you doing here?
+fr:
+  message: Merci Joe ! Mais toi, que fais-tu là ?
+de:
+  message: Danke, Joe! Aber was machst Du denn hier?
+es:
+  message: ¡Gracias Joe! ¿pero, qué haces tú aquí?
+it:
+  message: Grazie Joe ! Ma tu, cosa fai qui ?
+pt:
+  message: Obrigado Joe ! Mas o que você está fazendo aqui ?

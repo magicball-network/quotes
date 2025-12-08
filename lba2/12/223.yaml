@@ -1,5 +1,28 @@
+textId: 96
 location:
 speaker:
 message: No... although ... I go to the desert to gather the plants with which I
   cook. But I always avoid crossing a terrifying place, a kind of a forlorn
   garden... It might be there.
+fr:
+  message: Non... quoique ... je cueille dans le désert les plantes avec
+    lesquelles je cuisine. Mais j'évite toujours de passer dans un endroit
+    effrayant, une sorte de jardin désolé... C'est peut-être là.
+de:
+  message:
+    Nein ... obwohl ... ich sammle in der Wüste immer Pflanzen, die ich zum
+    Kochen nehme. Aber da ist ein ziemlich gruseliger Ort, eine Art verlassener
+    Garten, um den ich immer einen großen Bogen mache. Vielleicht dort.
+es:
+  message: No... aunque ... recojo en el desierto las plantas para los guisos.
+    Pero siempre evito pasar por un sitio espantoso, una especie de jardín
+    desolado. Quizá sea all¡.
+it:
+  message:
+    No ... anche se ... io raccolgo nel deserto delle piante che mi servono
+    per cucinare. Ma evito sempre di passare vicino a un luogo terrificante, una
+    specie di giardino desolato ... Forse è là.
+pt:
+  message: N╞o... mesmo... colhendo no deserto as plantas que eu uso para
+    cozinhar. Eu sempre evito passar num lugar horrível, uma espécie de jardim
+    árido... Deve ser lá.

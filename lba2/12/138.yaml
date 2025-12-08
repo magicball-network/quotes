@@ -1,3 +1,17 @@
+textId: 79
 location:
 speaker:
 message: I know where it is, but I don't have the right to tell you.
+fr:
+  message: Je sais où elle se trouve, mais je n'ai pas le droit de vous le dire.
+de:
+  message: Ich weiß zwar, wo sie ist, aber ich darf es Ihnen nicht verraten.
+es:
+  message: Sé dónde se encuentra, pero no puedo decírselo. Sólo los que quieren
+    realmente convertirse en magos acabarán encontrándola. Encontrar la escuela
+    es el primer examen.
+it:
+  message: Io so dove si trova, ma non posso dirlo. Solo chi vuole veramente
+    diventare mago, finirà per trovarla. Trovare la scuola, è la prima prova.
+pt:
+  message: Eu sei onde ela fica, mas n╞o posso te contar.

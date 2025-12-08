@@ -1,3 +1,20 @@
+textId: 39
 location:
 speaker:
 message: Oh, hi Twinsen ! If you want to take a little sea trip, jump on my back!!
+fr:
+  message:
+    Oh salut Twinsen ! Si tu veux faire un petit tour en mer, saute sur mon
+    dos !!
+de:
+  message:
+    Oh, hallo, Twinsen! Wenn du dich auf meinen Rücken setzt, kann ich dich
+    ein bißchen durchs Meer schaukeln!
+es:
+  message: ¡Hola Twinsen! ¡Si quieres dar un paseíto por la mar, salta sobre mí!
+it:
+  message: Oh, ciao Twinsen ! Se vuoi fare un piccolo giro in mare, salta sulle
+    mie spalle !!
+pt:
+  message: Olá, Twinsen ! Se você quiser dar um passeio no mar, pule nas minhas
+    costas !!

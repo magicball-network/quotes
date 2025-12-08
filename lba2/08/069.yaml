@@ -1,3 +1,14 @@
+textId: 111
 location:
 speaker:
 message: Good day, Master
+fr:
+  message: Bonjour Maître.
+de:
+  message: Guten Tag, Meister.
+es:
+  message: Buenos días Maestro.
+it:
+  message: Buongiorno Maestro.
+pt:
+  message: Bom dia, Mestre

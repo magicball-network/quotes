@@ -1,5 +1,31 @@
+textId: 25
 location:
 speaker:
 message: Thank you, Mr. Twinsen! I was rehearsing a new tune when this filthy
   Tralü chewed up my guitar. Besides, it looks like he got others before me!!
   Well, back to the lighthouse, otherwise I'll get in hot water.
+fr:
+  message: Merci monsieur Twinsen ! Je répétais un nouveau morceau quand cette
+    saleté de Tralü a croqué ma guitare. En plus, on dirait qu'il en avait déjà
+    attrapé d'autres avant moi !! Bon, je retourne au phare, sinon je vais me
+    faire enguirlander.
+de:
+  message:
+    Danke, Herr Twinsen! Ich habe gerade ein neues Stück geübt, als dieses
+    Mistvieh von Tralü ankam und meine Gitarre aufgefuttert hat. Außerdem hat es
+    anscheinend schon andere vor mir erwischt! Also ich gehe jetzt zu meinem
+    Leuchtturm zurück, sonst kriege ich noch Schimpfe!
+es:
+  message: ¡Gracias señor Twinsen! Estaba ensayando una nueva obra cuando ese
+    asqueroso Tralu le hincó el diente a mi guitarra. Además, ¡¡se diría que ya
+    había atrapado a otros antes que a mí!! Bueno, vuelvo al faro, porque si no
+    van a echarme una bronca.
+it:
+  message: Grazie signor Twinsen ! Ripetevo un nuovo pezzo quando questo sporco
+    Tralu ha addentato la mia chitarra. E si direbbe che ne aveva acchiappate
+    altre prima della mia !! Beh, ritorno al faro, altrimenti mi farò ancora
+    sgridare.
+pt:
+  message: Obrigado senhor Twinsen ! Eu estava tocando uma canç╞o quando esse
+    maldito Tralu devorou meu viol╞o. Além disso, dizem que ele já pegou outros
+    antes de mim !! Bom, vou voltar para o farol, sen╞o eu vou levar uma bronca.

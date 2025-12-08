@@ -1,3 +1,14 @@
+textId: 141
 location:
 speaker:
 message: Red Magic Ball
+fr:
+  message: Balle Magique Rouge
+de:
+  message: Roter Magischer Ball
+es:
+  message: Bola Mágica Roja
+it:
+  message: Sfera Magica Rossa
+pt:
+  message: Bola Mágica Vermelha

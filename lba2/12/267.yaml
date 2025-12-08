@@ -1,3 +1,21 @@
+textId: 253
 location:
 speaker:
 message: Hey, mister! My daddy, he's smart. He was able to get us in without tickets!
+fr:
+  message:
+    Eh m'sieur !! Mon papa il est drôlement fort, il a réussi à nous faire
+    rentrer sans tickets !!
+de:
+  message: He, Sie! Mein Papa ist total stark, der hat uns ohne Eintritt reinbekommen!
+es:
+  message:
+    ¡¡Eh señor!! ¡¡Mi papá es muy muy fuerte y consiguió que entráramos sin
+    tickets!!
+it:
+  message:
+    Ehi, signore !! Il mio papà è un sacco intelligente, è riuscito a farci
+    entrare senza biglietto !!
+pt:
+  message: Eh moço!! Meu pai é muito valente, ele conseguiu que nós entrássemos
+    sem bilhete!!

@@ -1,4 +1,22 @@
+textId: 209
 location:
 speaker:
 message: This gun shoots straight, far reaching rays. But, after each use, it
   needs some time to reload.
+fr:
+  message: Ce pistolet lance des rayons droits et à longue portée. Mais après
+    chaque utilisation, il a besoin de temps pour se recharger.
+de:
+  message: Diese Pistole schießt gerade, weitreichende Strahlen ab. Aber nach
+    jeder Anwendung benötigt sie Zeit, sich wieder aufzuladen.
+es:
+  message:
+    Esta pistoláser laza rayos de gran alcance en línea recta. Pero después
+    de usarla necesita tiempo para recargarse.
+it:
+  message:
+    Questa pistola lancia dei raggi orizzontali e a lunga distanza. Ma una
+    volta usata ha bisogno di tempo per ricaricarsi.
+pt:
+  message: Essa pistola lança raios diretos e de longo alcance. Mas após cada
+    utilizaç╞o,

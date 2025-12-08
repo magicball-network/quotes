@@ -1,5 +1,28 @@
+textId: 261
 location:
 speaker:
 message: I don't think so. Anyhow, the closet that he had ornamented with little
   stuffed monsters from the gas, well, it is locked... Besides, I lost the key.
   Then...
+fr:
+  message:
+    Je crois pas. Et pis de toute façon, l'armoire qu'il avait décoré avec
+    des petits monstres du gaz tout empaillés, et ben elle est fermée à clé...
+    Et pis j'ai perdu la clé. Alors...
+de:
+  message:
+    Glaub' ich nich'. Und außerdem ist der Schrank abgeschlossen, du weißt
+    schon, der, den er mit lauter kleinen ausgestopften Gasmonstern verziert
+    hatte. Und ich hab' den Schlüssel verloren ... Also ...
+es:
+  message: No creo, y además, de todas formas, el armario que había decorado con
+    monstruitos del gas disecados, pues está cerrado con llave. Y además he
+    perdido la llave. Así que...
+it:
+  message: Non credo. E poi, in ogni caso, l'armadio che aveva decorato con dei
+    piccoli mostri di gas impagliati è ...beh, è chiuso a chiave ... E poi ...ho
+    perso la chiave. Allora ...
+pt:
+  message: Acho que n╞o. E, de qualquer modo, o armário que ele decorou com
+    pequenos monstros do gás todos empalhados, está fechado a chave... e eu
+    perdi a chave. Ent╞o...

@@ -1,3 +1,14 @@
+textId: 7
 location:
 speaker:
 message: How can I get there?
+fr:
+  message: Comment pourrais-je y aller !
+de:
+  message: Und wie komme ich da hin?
+es:
+  message: ¿Cómo podría ir allí?
+it:
+  message: Come potrei andarci !
+pt:
+  message: Como posso ir até lá !

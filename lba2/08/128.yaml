@@ -1,3 +1,16 @@
+textId: 20
 location:
 speaker:
 message: Thank you for releasing the door, Twinsen. Use your tunic with wisdom.
+fr:
+  message: Merci d'avoir débloqué la porte Twinsen. Utilise bien ta tunique.
+de:
+  message:
+    Danke, daß Du die Tür geöffnet hast, Twinsen. Mach' guten Gebrauch von
+    deiner Tunika.
+es:
+  message: Gracias por haber desbloqueado la puerta, Twinsen. Utiliza bien tu túnica.
+it:
+  message: Twinsen, ti ringrazio di avere sbloccato la porta . Usa bene la tua tunica.
+pt:
+  message: Obrigado por ter desbloqueado a porta, Twinsen. Faça bom uso da túnica.

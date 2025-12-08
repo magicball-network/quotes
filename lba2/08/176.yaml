@@ -1,3 +1,15 @@
+textId: 605
 location:
 speaker:
 message: Twinsen, as soon as I fix the car, I'll call you on the walkie-talkie!
+fr:
+  message: Twinsen, dès que j'aurai réparé la voiture, je t'appellerai avec le talkie !
+de:
+  message: Twinsen, sobald ich das Auto repariert habe, funke ich dich mit dem
+    Walkie-Talkie an!
+es:
+  message: ¡Twinsen, en cuanto haya reparado el coche te llamaré con el talkie!
+it:
+  message: Twinsen, appena avrò riparato la macchina, ti chiamerò con il walkie-talkie !
+pt:
+  message: Twinsen, assim que eu tiver consertado o carro, eu te chamarei pelo rádio !

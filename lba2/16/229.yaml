@@ -1,3 +1,14 @@
+textId: 505
 location:
 speaker:
 message: Can't you see I am busy ?
+fr:
+  message: Voyez bien que j'suis occupé non ?
+de:
+  message: Sie sehen doch, daß ich beschäftigt bin, oder?
+es:
+  message: ¿Pero no ve que estoy ocupado?
+it:
+  message: Lo vede bene che sono occupato, no ?
+pt:
+  message: N╞o está vendo que estou ocupado ?

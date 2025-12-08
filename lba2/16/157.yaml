@@ -1,4 +1,25 @@
+textId: 300
 location:
 speaker:
 message: I ain't takin' you noplace. Go try the casino Gloum. If you win the
   Jackpot, you'll have a nice surprise.
+fr:
+  message:
+    C'est pas moi qui vous y conduirait. Par contre... vous devriez essayer
+    le casino Gloum. Si vous gagnez au Jackpot, vous aurez une bien belle
+    surprise !!
+de:
+  message:
+    Also ich würd' Sie da bestimmt nicht hinfahren. Aber versuchen Sie doch
+    mal Ihr Glück im Glumm-Kasino ... wenn Sie da den Jackpot gewinnen, gibt's
+    'ne tolle Überraschung!
+es:
+  message: No seré yo quien lo lleve allí. En cambio... debería ir al Casino
+    Gloum. ¡¡Si gana al Jackpot, tendrá una bonita sorpresa!!
+it:
+  message:
+    Io non la porterò. Perchè non va al casinò Gloum, invece ?. Se vince al
+    Jackpot, avrà una bella sorpresa !!
+pt:
+  message: N╞o sou eu que vou te levar. Mas... você deveria tentar o Cassino
+    Gloum. Se ganhar o Jackpot, terá uma bela surpresa!!

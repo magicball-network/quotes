@@ -1,3 +1,14 @@
+textId: 321
 location:
 speaker:
 message: Not through there.
+fr:
+  message: Pas par là.
+de:
+  message: Nicht da herum.
+es:
+  message: Por ahí no.
+it:
+  message: Non da quella parte.
+pt:
+  message: Por aí n╞o.

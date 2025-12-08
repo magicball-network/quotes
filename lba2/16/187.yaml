@@ -1,3 +1,14 @@
+textId: 403
 location:
 speaker:
 message: I'll take it back for 15 Zlitos, and I think I'm being generous.
+fr:
+  message: Je vous le reprends pour 15 Zlitos.
+de:
+  message: Für 15 Zlitos nehme ich es zurück.
+es:
+  message: Se lo llevo por 15 Zlitos.
+it:
+  message: Lo riprendo per 15 zlitos.
+pt:
+  message: Eu compro de volta por 15 Zlitos.

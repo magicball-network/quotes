@@ -1,5 +1,30 @@
+textId: 256
 location:
 speaker:
 message: Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert
   Island. I work for him and, believe me, he knows tricks that would cure
   anything, even a Dino-Fly...
+fr:
+  message:
+    Ah vous êtes gentil. Allez donc voir le guérisseur Ker'aooc de ma part
+    sur l'île du désert. Je travaille chez lui et croyez-moi, il a des trucs qui
+    soigneraient n'importe qui, même un Dino-Fly...
+de:
+  message: Oh, das ist aber nett! Gehen Sie doch einmal zum Heiler Ker'aooc auf
+    der Wüsteninsel. Sagen Sie ihm, ich hätte Sie geschickt. Ich arbeite bei
+    ihm, und glauben Sie mir, der hat Sachen, die heilen jeden, sogar einen
+    Dinofly ...
+es:
+  message:
+    Es usted muy amable. Vaya de mi parte a ver al curandero Ker'aooc a la
+    isla del desierto. Trabajo con él y créame, tiene cosas que podrían curar a
+    cualquiera, incluso a un Dino-Fly...
+it:
+  message:
+    Ah, lei è gentile. Vada allora a trovare il guaritore Ker'aooc da parte
+    mia. E' sull'isola del deserto. Io lavoro da lui e mi creda, ha degli
+    intrugli che curerebbero chiunque, anche un Dino-Fly...
+pt:
+  message: Ah, é gentileza sua. Ent╞o vá ver o Curador Ker'aooc na Ilha do
+    Deserto. Diga que fui eu que te enviei. Eu trabalho lá e acredite-me, ele
+    tem coisas que curam qualquer um, até um Dino-Fly...

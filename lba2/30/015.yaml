@@ -1,3 +1,16 @@
+textId: 595
 location:
 speaker:
 message: Our village is now half destroyed. I don't know what's going to happen to us.
+fr:
+  message:
+    Notre village est à moitié détruit maintenant. Je me demande ce qui va
+    nous arriver.
+de:
+  message: Das halbe Dorf wurde zerstört. Ich frage mich, was mit uns geschehen wird.
+es:
+  message: Ahora nuestro pueblo está medio destruido. Me pregunto qué más nos sucederá..
+it:
+  message: Adesso il nostro paese è in parte distrutto. Mi chiedo cosa ci succederà.
+pt:
+  message: Metade de nossa vila está destruída. N╞o sei o que será de nós.

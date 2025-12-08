@@ -1,3 +1,14 @@
+textId: 13
 location:
 speaker:
 message: You have a ferry ticket.
+fr:
+  message: Tu possèdes un ticket de ferry.
+de:
+  message: Du besitzt eine Fahrkarte für die Fähre.
+es:
+  message: Tienes en tu poder un ticket de ferry.
+it:
+  message: Disponi di un biglietto per il traghetto.
+pt:
+  message: Você tem um bilhete de barca.

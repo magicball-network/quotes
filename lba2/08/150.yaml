@@ -1,4 +1,21 @@
+textId: 81
 location:
 speaker:
 message: Ah yes! It is on Desert Island. You'll find it easely, the entry is
   inside the cemetery !
+fr:
+  message: Ah oui ! Elle se trouve sur l'île du désert. Vous la trouverez
+    facilement, l'entrée est à l'intérieur du cimetière !!
+de:
+  message: Aber ja! Das liegt auf der Wüsteninsel und ist ganz leicht zu finden,
+    der Eingang befindet sich auf dem Friedhof!
+es:
+  message:
+    ¡Ah sí! Está en la isla del desierto. ¡!La encontraré con facilidad, la
+    entrada está en el cementerio!!
+it:
+  message: Ah si ! Si trova sull'Isola del deserto. La troverete facilmente,
+    l'entrata è all'interno del cimitero.
+pt:
+  message: Ah é ! Ela fica na ilha do deserto. Você a encontrará facilmente, a
+    entrada fica dentro do cemitério !!

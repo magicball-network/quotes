@@ -1,3 +1,14 @@
+textId: 255
 location:
 speaker:
 message: On island CX? No way Jack! That's rough turf over there!!
+fr:
+  message: Sur l'îlot CX ? Ah ça non monsieur, c'est bien trop dangereux !!
+de:
+  message: Auf das Eiland CX ? Nein, danke, das ist viel zu gefährlich!
+es:
+  message: ¿Al islote CX? ¡Eso sí que no, señor, es demasiado peligroso!
+it:
+  message: Sull'isolotto CX ? Ah, no signore, è troppo pericoloso !!
+pt:
+  message: Na Ilhota CX ? Ah isso n╞o moço, é muito perigoso !!

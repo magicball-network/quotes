@@ -1,4 +1,22 @@
+textId: 542
 location:
 speaker:
 message: After that, you will try your luck in one of our extraordinary casinos,
   where you might win the "Total Jackpot"!!
+fr:
+  message:
+    Après cela, vous tenterez votre chance dans l'un de nos extraordinaires
+    Casinos, où vous décrocherez peut être le "Total Jackpot" !!
+de:
+  message:
+    Danach können Sie Ihr Glück in einem unserer außergewöhnlichen Kasinos
+    versuchen - vielleicht gewinnen Sie ja den Super-Jackpot!!
+es:
+  message: ¡¡Tras ello, prueben fortuna en alguno de nuestros extraordinarios
+    Casinos donde quizá consigan el "Total Jackpot"!!
+it:
+  message: Dopo, tentate la fortuna in uno dei nostri straordinari casinò, dove
+    vincerete, forse, il "Total Jackpot" !!
+pt:
+  message: Depois disso, você testará sua sorte em um de nossos extraordinários
+    cassinos, onde poderá conseguir um "Jackpot" !!

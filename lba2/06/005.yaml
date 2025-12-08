@@ -1,4 +1,24 @@
+textId: 4
 location:
 speaker:
 message: You have just found your ancestral Tunic and Sendell's Medallion. By
   storing Magic, it will enable you to bounce your ball at your enemies.
+fr:
+  message: Tu viens de retrouver ta Tunique ancestrale et ton Médaillon de
+    Sendell. En stockant de la Magie, elle te permet désormais de lancer ta
+    balle en lui faisant faire des rebonds.
+de:
+  message: Du hast gerade die Tunika der Ahnen und dein Medaillon von Sendell
+    wiedergefunden. Die Tunika lädt sich mit Magie auf. Dadurch kannst du von
+    nun an deinen Magischen Ball werfen und zurückprallen lassen.
+es:
+  message: Acabas de volver a encontrar tu túnica ancestral y tu medallón de
+    Sendell Acumulando Magia, podrás lanzar tu bola haciéndola rebotar.
+it:
+  message:
+    Hai ritrovato la tua Tunica ancestrale e il tuo Medaglione di Sendell.
+    Ti permette di immagazzinare della Magia e di lanciare la sfera facendola
+    rimbalzare.
+pt:
+  message: Você encontrou sua Túnica ancestral e seu Medalh╞o de Sendell. Com a
+    Magia que a túnica armazena, você poderá lançar a bola fazendo ela quicar.

@@ -1,3 +1,14 @@
+textId: 485
 location:
 speaker:
 message: If you think you can follow me, go to the starting line.
+fr:
+  message: Si tu crois que tu peux me suivre, place toi sur la ligne de départ.
+de:
+  message: Wenn du glaubst, du kannst es mit mir aufnehmen, geh an den Start.
+es:
+  message: Si crees que puedes seguirme, colócate en la línea de salida.
+it:
+  message: Se credi di potermi seguire, mettiti sulla linea di partenza.
+pt:
+  message: Se você acha que pode me seguir posicione-se na linha de partida.

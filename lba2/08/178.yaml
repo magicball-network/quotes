@@ -1,6 +1,32 @@
+textId: 31
 location:
 speaker:
 message: Hello! Twinsen? Baldino here! How are you? Looks like this transmitter
   works! If you swing by, I have a portable radio to give you. Also, I will have
   the proto-pack finished soon. It will allow you to fly in complete safety.
   Over.
+fr:
+  message: Allô ! Twinsen ? Ici Baldino ! Comment vas-tu ? On dirait que cet
+    émetteur fonctionne ! Si tu passes, j'ai une radio portable à te donner. En
+    plus, j'aurai bientôt achevé la mise au point du nouveau Proto-Pack, il te
+    permettra de voler en toute sécurité. Terminé.
+de:
+  message: Hallo, Twinsen! Hier spricht Baldino! Wie geht's? Anscheinend
+    funktioniert dieser Sender tatsächlich! Ich habe hier noch ein
+    Funksprechgerät für dich. Außerdem werde ich bald das neue ProtoPack
+    entwickelt haben, mit dem man völlig gefahrlos fliegen kann. Ende.
+es:
+  message: ¿Twinsen? ¡Baldino al habla! ¿Cómo estás? ¡Parece que esta emisora
+    funciona! Si pasas por aquí te daré una radio portátil. Además, pronto
+    acabaré el nuevo Proto-Pack que te permitirá volar con la máxima seguridad.
+    Corto.
+it:
+  message: Pronto ! Twinsen ? Qui Baldino ! Come stai ? Sembra che questo
+    trasmettitore funzioni ! Se passi, ho una radio portatile per te. Inoltre,
+    sto per terminare il nuovo Proto-Pack, ti permetterà di volare in tutta
+    sicurezza. Passo e chiudo.
+pt:
+  message: Alô ! Twinsen ? Aqui é o Baldino ! Como você vai ? Parece que este
+    transmissor funciona ! Se você passar aqui, tenho um rádio portátil para te
+    dar. Além disso, logo logo o novo proto-pack estará funcionando, com ele
+    você poderá voar sem problemas. Câmbio e desligo.

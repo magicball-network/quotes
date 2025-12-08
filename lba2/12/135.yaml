@@ -1,4 +1,22 @@
+textId: 73
 location:
 speaker:
 message: Now that you are a wizard, I can sell you some orange powder. It costs
   10 Kashes, and will recharge you in Magic and Life Points.
+fr:
+  message:
+    Maintenant que vous êtes mage, je peux vous vendre de la poudre orange.
+    Elle coûte 10 kashes, et vous rechargera en points de vie et de magie.
+de:
+  message: Jetzt, da Sie Magier sind, darf ich Ihnen das orangefarbene Pulver
+    verkaufen. Es kostet 10 Kashes und lädt Ihre Vorräte an Lebens- und
+    Zauberpunkten wieder auf.
+es:
+  message: Ahora que es usted mago, puedo venderle el polvo naranja. Cuesta 10
+    kashes, y le servirá para recargar puntos de vida y de magia.
+it:
+  message: Adesso che è mago, posso venderle della polvere arancione. Costa 10
+    Kashes, e la ricaricherà di punti di vita e di magia.
+pt:
+  message: Agora que você é mago, posso te vender o pó laranja. Ele custa 10
+    kashes, e recarregará seus pontos de magia e de vida.

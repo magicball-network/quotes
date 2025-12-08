@@ -1,3 +1,14 @@
+textId: 121
 location:
 speaker:
 message: Gems
+fr:
+  message: Gemmes
+de:
+  message: Juwelen
+es:
+  message: Gemas
+it:
+  message: Gemme
+pt:
+  message: Pedras Preciosas

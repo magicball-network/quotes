@@ -1,3 +1,14 @@
+textId: 571
 location:
 speaker:
 message: Hi.
+fr:
+  message: Salut.
+de:
+  message: Hi.
+es:
+  message: Hola
+it:
+  message: Salve.
+pt:
+  message: Olá.

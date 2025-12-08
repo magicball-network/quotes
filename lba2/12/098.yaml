@@ -1,3 +1,14 @@
+textId: 52
 location:
 speaker:
 message: Out, quick!
+fr:
+  message: Dehors et vite !
+de:
+  message: Raus! Aber schnell!
+es:
+  message: ¡Fuera, y pronto!
+it:
+  message: Fuori e subito !
+pt:
+  message: Para fora e rápido !

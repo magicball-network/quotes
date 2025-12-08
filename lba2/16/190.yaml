@@ -1,3 +1,14 @@
+textId: 408
 location:
 speaker:
 message: A ferry ticket costs 30 Zlitos.
+fr:
+  message: Un ticket de ferry coûte 30 zlitos.
+de:
+  message: Eine Fahrkarte für die Fähre kostet 30 Zlitos.
+es:
+  message: Un ticket de ferry cuesta 30 zlitos.
+it:
+  message: Un biglietto per il traghetto costa 30 zlitos.
+pt:
+  message: Um bilhete de barca custa 30 zlitos.

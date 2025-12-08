@@ -1,4 +1,21 @@
+textId: 530
 location:
 speaker:
 message: I often go to see the healing wizard for my back... I have a sore back
   from time to time.
+fr:
+  message: Je vais souvent voir le mage guérisseur à cause de mon dos... Il me
+    fait mal de temps en temps mon dos.
+de:
+  message: Ich gehe oft wegen meines Rückens zum Heilmagier. Ich habe immer
+    häufiger Rückenschmerzen.
+es:
+  message:
+    Voy a menudo a ver al mago curandero por lo de mi espalda... Es que me
+    duele la espalda de vez en cuando
+it:
+  message: Vado spesso a trovare il mago guaritore per via della mia schiena ...
+    Mi fa male ogni tanto la mia schiena.
+pt:
+  message: Eu sempre venho ver o Mago Curador por causa das minhas costas... Ela
+    dói de quando em quando.

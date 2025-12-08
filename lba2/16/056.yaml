@@ -1,4 +1,22 @@
+textId: 45
 location:
 speaker:
 message: This control panel's been modified. Apparently, I can't put the
   itinerary tokens in here anymore.
+fr:
+  message: Ce tableau de commande a été transformé. Apparemment ça n'est plus là
+    qu'on insère les disques de route.
+de:
+  message: Dieses Cockpit wurde verändert. Anscheinend setzt man die
+    Routenscheiben nicht mehr hier ein.
+es:
+  message: Han modificado este cuadro de mandos. Por lo que se ve ya no es aquí
+    donde se insertan los discos de ruta..
+it:
+  message:
+    Questo quadro di comando è stato trasformato. A prima vista i dischi di
+    percorso non si inseriscono più qui.
+pt:
+  message:
+    Esse painel de controle foi alterado. Parece que n╞o é mais aqui que os
+    discos de rota s╞o colocados.

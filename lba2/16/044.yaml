@@ -1,3 +1,14 @@
+textId: 26
 location:
 speaker:
 message: One ferry ticket.
+fr:
+  message: Un ticket de ferry.
+de:
+  message: Eine Fahrkarte für die Fähre.
+es:
+  message: Un ticket de ferry.
+it:
+  message: Un biglietto per il traghetto.
+pt:
+  message: Um bilhete de barca.

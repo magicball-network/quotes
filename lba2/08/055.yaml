@@ -1,3 +1,16 @@
+textId: 225
 location:
 speaker:
 message: Hey, a portrait of Sendell! They must have used my descriptions to make it.
+fr:
+  message: Tiens, un portrait de Sendell ! Ils ont dû le faire d'après mes descriptions.
+de:
+  message: Oh, ein Bild von Sendell! Das haben sie wohl nach meiner Beschreibung
+    angefertigt.
+es:
+  message: ¡Vaya, un retrato de Sendell! Debieron hacerlo según mis descripciones.
+it:
+  message: Guarda, un ritratto di Sendell ! Hanno dovuto farlo sulla base delle
+    mie descrizioni.
+pt:
+  message: Puxa, um retrato de Sendell! Deve ter sido feito segundo minha descriç╞o.

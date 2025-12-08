@@ -1,3 +1,14 @@
+textId: 390
 location:
 speaker:
 message: We are ready, Master.
+fr:
+  message: Nous sommes prêts Maître.
+de:
+  message: Meister, wir sind bereit.
+es:
+  message: Estamos listos, Maestro.
+it:
+  message: Siamo pronti Maestro.
+pt:
+  message: Nós estamos prontos Mestre

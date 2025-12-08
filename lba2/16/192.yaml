@@ -1,3 +1,14 @@
+textId: 755
 location:
 speaker:
 message: A memory viewer costs 30 Zlitos
+fr:
+  message: Une visionneuse mémorielle coûte 30 zlitos.
+de:
+  message: Ein Erinnerungssichtgerät kostet 30 Zlitos.
+es:
+  message: Un visionario de memoria cuesta 30 zlitos.
+it:
+  message: Un visore di memoria costa 30 Zlitos.
+pt:
+  message: Um visualizador de memória custa 30 zlitos.

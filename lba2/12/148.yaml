@@ -1,3 +1,14 @@
+textId: 25
 location:
 speaker:
 message: Try again, Twinsen.
+fr:
+  message: Essaie à nouveau Twinsen.
+de:
+  message: Versuch's noch mal, Twinsen.
+es:
+  message: Inténtalo de nuevo, Twinsen.
+it:
+  message: Prova di nuovo Twinsen.
+pt:
+  message: Tente de novo, Twinsen.

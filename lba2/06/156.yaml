@@ -1,4 +1,21 @@
+textId: 245
 location:
 speaker:
 message: The memory viewer allows you to review the sequences which have
   punctuated your adventure.
+fr:
+  message: La visionneuse mémorielle te permet de revoir les séquences qui ont
+    jalonné ton aventure.
+de:
+  message:
+    Mit dem Erinnerungssichtgerät kannst du Szenen wieder abspielen, die in
+    deinen bisher bestandenen Abenteuern wichtig waren.
+es:
+  message: El visor de memoria te permite volver a ver las secuencias que han
+    jalonado tu aventura.
+it:
+  message: Il visore di memoria ti consente di rivedere i momenti più importanti
+    della tua avventura.
+pt:
+  message: Com o visualizador de memória você pode rever as seqüências que
+    marcaram sua aventura.

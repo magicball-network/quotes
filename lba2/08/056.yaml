@@ -1,3 +1,4 @@
+textId: 226
 location:
 speaker:
 message: |-
@@ -8,3 +9,48 @@ message: |-
   2: Well of Sendell
 
   3: Temple of Bù
+fr:
+  message: |-
+    Vue en coupe de Twinsun.
+
+    1 : Les Sendells
+
+    2 : Puits de Sendell
+
+    3 : Temple de Bù
+de:
+  message: |-
+    Querschnittsansicht von Twinsun."
+
+    1: Die Sendells
+
+    2: Sendell-Höhle
+
+    3: Bü-Tempel
+es:
+  message: |-
+    Vista de Twinsun en sección.
+
+    1 : Los Sendells
+
+    2 : Pozo de Sendell
+
+    3 : Templo de Bù
+it:
+  message: |-
+    " Sezione di Twinsun.
+
+    1 : Sendell
+
+    2 : Pozzi di Sendell
+
+    3 : Tempio di Bù
+pt:
+  message: |-
+    Vista em corte de Twinsun.
+
+    1 : Os Sendells
+
+    2 : Poço de Sendell
+
+    3 : Templo de Bu

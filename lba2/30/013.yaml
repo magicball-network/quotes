@@ -1,5 +1,32 @@
+textId: 591
 location:
 speaker:
 message: The Queen has been captured, as well as a few of our dissident friends.
   By now, they must be locked up in the jails of the Building Company. The cells
   are in the administrative building, next to the warehouse.
+fr:
+  message:
+    La Reine a été capturée, ainsi que quelques uns de nos amis dissidents.
+    Maintenant, ils doivent être prisonniers dans les geôles de la Building
+    Company. Le bâtiment administratif, celui qui est à côté du hangar de
+    stockage contient des cellules.
+de:
+  message:
+    Unsere Königin und einige unserer Rebellen-Freunde haben sie erwischt.
+    Jetzt sind sie wahrscheinlich in den Kerkern der Building Company gefangen.
+    Die Zellen sind im Verwaltungsgebäude, das ist das Bauwerk neben der
+    Lagerhalle.
+es:
+  message: La Reina ha sido capturada, así como algunos de nuestros amigos
+    disidentes, Ahora estarán presos en los calabozos de la Building Company. En
+    el edificio de la administración, el que está al lado del hangar del
+    almacén, están las celdas.
+it:
+  message:
+    La Regina è stata catturata insieme ad alcuni amici dissidenti. Adesso,
+    devono essere prigionieri nelle prigioni della Building Company. Nella sede
+    amministrativa, accanto al grande magazzino, ci sono delle celle.
+pt:
+  message: A rainha foi capturada, junto com alguns dos nossos amigos rebeldes.
+    Agora, eles s╞o prisioneiros nas masmorras da Building Company. As celas
+    ficam no prédio administrativo, que fica ao lado do hangar de armazenagem.

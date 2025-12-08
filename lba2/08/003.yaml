@@ -1,3 +1,14 @@
+textId: 309
 location:
 speaker:
 message: Could you help me treat my injured Dino-Fly ?
+fr:
+  message: Vous pourriez m'aider à soigner mon Dino-Fly qui s'est blessé ?
+de:
+  message: Können Sie mir helfen, meinen verletzten Dinofly zu heilen?
+es:
+  message: ¿Podría ayudarme a curar a mi Dino-Fly que está herido?
+it:
+  message: Potreste aiutarmi a curare il mio amico Dino-Fly ? Si è ferito.
+pt:
+  message: Você poderia me ajudar a curar meu Dino-Fly que se machucou ?

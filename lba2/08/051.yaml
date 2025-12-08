@@ -1,5 +1,27 @@
+textId: 29
 location:
 speaker:
 message: '"To my future descendants: I have lent to Miss Bloop''s private
   museum, the Medallion and the Ancestral Tunic which rightfully belong to you.
   Signed: Twinsen."'
+fr:
+  message:
+    '" A mes futurs descendants : J''ai prêté au musée privé de Mlle Bloop,
+    le Médaillon et la Tunique Ancestrale qui vous reviennent de droit. Signé
+    Twinsen. "'
+de:
+  message: '"An meine Nachkommen in der Zukunft: Ich habe dem Privatmuseum von
+    Mademoiselle Bloop das Medaillon und die Tunika der Vorväter als Leihgabe
+    überlassen. Beides steht von Rechts wegen Euch zu. Gezeichnet Twinsen."'
+es:
+  message: '"A mis futuros descendientes: He dejado en préstamo al museo privado
+    de Mlle Bloop, el Medallón y la Túnica Ancestral que os corresponden por
+    derecho propio.. Firmado Twinsen."'
+it:
+  message: '"Ai miei futuri discendenti : Ho prestato al museo privato della
+    Signorina Bloop il Medaglione e la Tunica Ancestrale di cui siete legittimi
+    eredi. Firmato Twinsen. "'
+pt:
+  message: '" Aos meus futuros descendentes: eu emprestei ao museu particular da
+    Senhorita Bloop o Medalh╞o e a Túnica Ancestral que pertencem a vocês por
+    direito. Assinado Twinsen. "'

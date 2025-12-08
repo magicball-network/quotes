@@ -1,3 +1,14 @@
+textId: 79
 location:
 speaker:
 message: I freed him!
+fr:
+  message: C'est moi qui l'ai libéré !
+de:
+  message: Ich habe ihn befreit!
+es:
+  message: ¡Soy yo quien lo ha liberado!
+it:
+  message: L'ho liberato io !
+pt:
+  message: Fui eu quem o libertei !

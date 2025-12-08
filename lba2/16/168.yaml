@@ -1,3 +1,16 @@
+textId: 352
 location:
 speaker:
 message: If you want sir, I can have you taken back up to the exit of the casino.
+fr:
+  message: Si vous le désirez monsieur, je peux vous faire remonter jusqu'à la
+    sortie du casino.
+de:
+  message: Wenn Sie wünschen, kann ich Sie bis zum Ausgang des Kasinos bringen,
+    werter Herr.
+es:
+  message: Si desea, señor, puedo conducirle hasta la salida del casino.
+it:
+  message: Se il signore desidera, posso farla risalire fino all'uscita del casinò.
+pt:
+  message: Se quiser, senhor, posso levá-lo até a saída do cassino.

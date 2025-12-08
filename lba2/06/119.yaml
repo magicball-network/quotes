@@ -1,4 +1,22 @@
+textId: 208
 location:
 speaker:
 message: It is the exchange currency of your planet Twinsun. It allows you to
   buy the articles you are interested in.
+fr:
+  message: C'est la monnaie d'échange de ta planète Twinsun. Ils te permettent
+    d'acheter les articles qui t'intéressent.
+de:
+  message: Das sind Tauschobjekte von deinem Planeten, Twinsun. Damit kannst du
+    sehr interessante Dinge kaufen.
+es:
+  message:
+    Es la moneda de cambio de tu planeta Twinsun. Te permitirá comprar los
+    artículos que te interesan.
+it:
+  message: E' la moneta del tuo pianeta Twinsun. Ti consente di comprare gli
+    articoli che ti interessano.
+pt:
+  message:
+    É a moeda do planeta Twinsun. Com ela você pode comprar os artigos que
+    desejar.

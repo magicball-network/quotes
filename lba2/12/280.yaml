@@ -1,3 +1,19 @@
+textId: 310
 location:
 speaker:
 message: Would you like 3 darts and try some duck shooting? The price is 4 kashes.
+fr:
+  message: Vous désirez récupérer 3 flêchettes et faire une partie de Tir au
+    canard ? Le prix est de 4 kashes.
+de:
+  message: 3 Pfeile und eine Runde Munition für die Schießbude kosten 4 Kashes.
+es:
+  message: ¿Desea recuperar tres dardos y jugar una partida de tiro al pato? El
+    precio es de 4 kashes.
+it:
+  message: Volete recuperare 3 freccette e fare una partita di Tiro all'anatra ?
+    Il prezzo è 4 Kashes.
+pt:
+  message:
+    Você quer recuperar 3 dardos e jogar uma partida de Tiro ao alvo? Custa
+    4 kashes.

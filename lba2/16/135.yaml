@@ -1,5 +1,24 @@
+textId: 310
 location:
 speaker:
 message: Oh most certainly not, sir. For some time now, nobody is returning from
   there. They say a monster is lurking in the area. No one in their right mind
   will take you there!
+fr:
+  message: Certainement pas monsieur. Depuis quelques temps, personne n'en
+    revient. On raconte qu'un monstre rôde là-bas. Personne ne vous y amènera !
+de:
+  message: Dahin fahre ich ganz sicher nicht! Seit einiger Zeit kommt von da
+    niemand wieder zurück! Angeblich treibt dort ein Monster sein Unwesen - da
+    fährt Sie keiner hin!
+es:
+  message: Ni lo sueñe, señor Desde hace una temporada, nadie vuelve de allí. Se
+    dice que hay un monstruo. ¡No lo llevará nadie!
+it:
+  message: Sicuramente no signore. Da qualche tempo, tutti quelli che ci vanno,
+    non tornano più. La gente racconta che un mostro si aggira da quelle parti.
+    Nessuno l'accompagnerà !
+pt:
+  message:
+    É claro que n╞o moço. Há algum tempo que ninguém volta de lá. Dizem que
+    um monstro anda por lá. Ninguém levará você até lá !

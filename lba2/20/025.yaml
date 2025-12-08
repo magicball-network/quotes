@@ -1,3 +1,14 @@
+textId: 502
 location:
 speaker:
 message: Hello. Won't you come in and share our meal?
+fr:
+  message: Bonjour. Entrez donc et venez partager notre repas.
+de:
+  message: Guten Tag. Kommen Sie doch herein, und teilen Sie unser Mahl mit uns.
+es:
+  message: Buenos días, entre y comparta nuestra comida
+it:
+  message: Buongiorno. Entri e venga a dividere con noi il nostro pranzo.
+pt:
+  message: Bom dia. Entre e coma conosco.

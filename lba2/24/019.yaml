@@ -1,3 +1,14 @@
+textId: 20
 location:
 speaker:
 message: Biddy, Biddy!!
+fr:
+  message: Bidi, Bidi !!
+de:
+  message: Mimi, mimi!
+es:
+  message: ¡¡Bidi, Bidi!!
+it:
+  message: Cucù, cucù !!
+pt:
+  message: Bidi, Bidi !!

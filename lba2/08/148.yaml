@@ -1,4 +1,23 @@
+textId: 80
 location:
 speaker:
 message: I just bumped into the keeper who was going back to the lighthouse. He
   told me that a true hero had just saved him from a voracious monster.
+fr:
+  message:
+    Je viens de croiser le gardien qui rentrait au phare. Il m'a dit qu'un
+    véritable héros venait de le délivrer d'un monstre vorace.
+de:
+  message:
+    Ich habe gerade den Wärter getroffen, der zum Leuchtturm zurückkehrte.
+    Er hat gesagt, daß ein echter Held ihn vor einem gefräßigen Monster gerettet
+    hat.
+es:
+  message: Acabo de encontrarme con el guardián que volvía del faro. Me ha dicho
+    que un auténtico héroe acababa de librarlo de un monstruo voraz.
+it:
+  message: Ho appena incrociato il guardiano che rientrava al faro. Mi ha detto
+    che un vero eroe lo aveva appena liberato da un mostro vorace.
+pt:
+  message: Eu acabei de cruzar com o guardi╞o que voltava para o farol. Ele me
+    disse que um verdadeiro herói acabou de resgatá-lo de um monstro voraz.

@@ -1,4 +1,22 @@
+textId: 456
 location:
 speaker:
 message: "This is a well organized planet: soldiers everywhere, law and order,
   discipline, clean streets."
+fr:
+  message: Cette planète est bien organisée. Les soldats sont partout. Au moins,
+    l'ordre et la sécurité règnent !
+de:
+  message:
+    Dieser Planet ist gut organisiert. Überall Soldaten - na, hier herrscht
+    jedenfalls Sicherheit und Ordnung!!!
+es:
+  message: Este planeta está muy bien organizado. Hay soldados por todas partes.
+    ¡Por lo menos imperan el orden y la seguridad!
+it:
+  message:
+    Questo pianeta è ben organizzato. I soldati sono ovunque. L'ordine e la
+    sicurezza regnano, almeno !
+pt:
+  message: Esse planeta é bem organizado. Há soldados por toda parte. Pelo menos
+    assim reinam a ordem e a segurança !

@@ -1,3 +1,15 @@
+textId: 600
 location:
 speaker:
 message: I believe it is in the desert, but I never found it!!
+fr:
+  message: Je crois qu'elle se trouve dans le désert, mais je ne l'ai jamais trouvée !!
+de:
+  message: Ich glaube, sie ist in der Wüste, aber ich habe sie bisher noch nicht
+    gefunden!
+es:
+  message: ¡¡Creo que está en el desierto, pero nunca la he podido encontrar!!
+it:
+  message: Credo che si trovi nel deserto, ma non l'ho mai trovata !!
+pt:
+  message: Eu acho que ela fica no deserto, mas eu nunca a encontrei !!

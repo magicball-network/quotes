@@ -1,6 +1,32 @@
+textId: 550
 location:
 speaker:
 message: Of course, it's fairly simple. You have to pay him in gems if you want
   him to take you. But first you have to call him. To do that, you have to stand
   at the end of the ferryman's pier and call him with this song. Listen to me
   and don't forget.
+fr:
+  message: Ah mais bien sûr, c'est très simple. Vous devrez le payer avec des
+    gemmes pour qu'il vous emmène. Mais d'abord, il vous faudra l'appeler. Pour
+    ça, il faut vous placer au bout du quai du passeur, et l'appeler en
+    chantant. Ecoutez-moi et retenez bien.
+de:
+  message: Aber natürlich, das ist ganz einfach. Sie müssen ihn mit Juwelen
+    bezahlen, damit er Sie mitnimmt. Aber zuerst muß man ihn rufen. Dazu stellen
+    Sie sich ans Ende des Landestegs und singen. Hören Sie gut zu, und merken
+    Sie sich das Lied.
+es:
+  message:
+    Ah, pues claro. es muy sencillo. Tendrá que pagar con gemas para que lo
+    lleve. Pero antes tendrá que llamarlo. Y para llamarlo tiene que ponerse al
+    final del embarcadero y llamarlo cantando. Escúcheme y recuérdelo.
+it:
+  message: Ah ma certo, è molto semplice. Se vuole essere accompagnato dovrà
+    pagarlo con delle gemme. Ma prima dovrà chiamarlo. Per poterlo fare, dovrà
+    mettersi in fondo al molo del traghettatore e cantare. Mi ascolti e
+    memorizzi bene.
+pt:
+  message: Ah, mas claro, é muito simples. Para ele te levar você deve pagar com
+    pedras preciosas. Mas primeiro, você tem que chamá-lo. Para isso
+    posicione-se no fim do cais do barqueiro, e chame-o cantando. Me escute e
+    lembre bem.

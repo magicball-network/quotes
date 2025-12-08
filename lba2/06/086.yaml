@@ -1,3 +1,14 @@
+textId: 130
 location:
 speaker:
 message: Wizard's Diploma
+fr:
+  message: Diplôme de mage
+de:
+  message: Magierdiplom
+es:
+  message: Diploma de mago
+it:
+  message: Diploma di mago
+pt:
+  message: Diploma de mago

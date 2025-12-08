@@ -1,3 +1,14 @@
+textId: 8
 location:
 speaker:
 message: Shuttle 64 87, mission Twinsun.
+fr:
+  message: Navette 64 87, mission Twinsun.
+de:
+  message: Raumschiff 64 87, Mission Twinsun.
+es:
+  message: Nave 64 87, misión Twinsun.
+it:
+  message: Navetta 64 87, missione Twinsun.
+pt:
+  message: Nave 64 87, miss╞o Twinsun.

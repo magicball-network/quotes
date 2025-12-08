@@ -1,3 +1,14 @@
+textId: 546
 location:
 speaker:
 message: HAL!!
+fr:
+  message: Hal !!
+de:
+  message: Hal!!
+es:
+  message: ¡¡Carl!!
+it:
+  message: Carl !!
+pt:
+  message: Alto !!

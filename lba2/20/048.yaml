@@ -1,5 +1,28 @@
+textId: 559
 location:
 speaker:
 message: The time of the ceremony is near. Dark Monk in person will chase away
   the monsters of the gas cloud when we reunite the four fragments for the last
   time.
+fr:
+  message: L'heure de la cérémonie se rapproche. Dark Monk en personne chassera
+    les monstres du gaz et fera disparaître le nuage de gaz lorsque nous
+    réunirons les quatre fragments pour la dernière fois."
+de:
+  message:
+    Die Stunde der Zeremonie naht. Dark Monk wird persönlich die Gasmonster
+    verjagen und die Gaswolke zum Verschwinden bringen, wenn wir unsere vier
+    Fragmente ein letztes Mal zusammenfügen.
+es:
+  message:
+    La hora de la ceremonia se acerca. Dark Monk en persona expulsará a los
+    monstruos del gas y hará desaparecer la nube de gas cuando reunamos los
+    cuatro fragmentos por última vez. "
+it:
+  message: L'ora della cerimonia si avvicina. Dark Monk in persona caccerà i
+    mostri di gas e farà sparire la nube tossica quando riuniremo i quattro
+    frammenti per l'ultima volta.
+pt:
+  message: A hora da cerimônia está chegando. Dark Monk em pessoa espantará os
+    monstros do gás e fará desaparecer a nuvem de gás quando as quatro partes da
+    chave forem reunidas pela última vez."

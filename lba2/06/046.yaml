@@ -1,3 +1,14 @@
+textId: 45
 location:
 speaker:
 message: You just found a memory viewer.
+fr:
+  message: Tu viens de récupérer une visionneuse mémorielle.
+de:
+  message: Du hast ein Erinnerungssichtgerät bekommen.
+es:
+  message: Acabas de recuperar un visor de memoria.
+it:
+  message: Hai recuperato un visore di memoria.
+pt:
+  message: Você adquiriu um visualizador de memória.

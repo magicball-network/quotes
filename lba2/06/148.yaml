@@ -1,4 +1,20 @@
+textId: 237
 location:
 speaker:
 message: It is the key that the burgermaster lost before he was eaten by a
   monster from the gas. Nobody has ever used it since.
+fr:
+  message: C'est la clé que le bourgmestre avait perdu avant de se faire dévorer
+    par un monstre du gaz. Personne ne l'a utilisée depuis ce moment.
+de:
+  message: Das ist der Schlüssel, den der Bürgermeister verloren hat, bevor ihn
+    ein Gasmonster gefressen hat. Seither hat ihn niemand mehr verwendet.
+es:
+  message: Es la llave que el burgomastre había perdido antes de que un monstruo
+    del gas lo devorara. Nadie la ha utilizado desde entonces.
+it:
+  message: Questa è la chiave che il borgomastro aveva perso prima di farsi
+    divorare da un mostro di gas. Da allora, nessuno l'ha più usata.
+pt:
+  message: É a chave que o prefeito perdeu antes de ser devorado pelo monstro do
+    gás. Ninguém a usou desde ent╞o.

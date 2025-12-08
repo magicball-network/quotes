@@ -1,4 +1,22 @@
+textId: 12
 location:
 speaker:
 message: But Jerome, I've got to find island CX and destroy the machines that
   control the lunar reactors!
+fr:
+  message: Mais Jérome, je dois trouver l'îlot CX et y détruire les machines qui
+    contrôlent les réacteurs lunaires !!
+de:
+  message:
+    Aber, Jerome, ich muß das Eiland CX finden und die Maschinen zerstören,
+    die die Mondreaktoren steuern!
+es:
+  message: ¡¡Pero Jerónimo, tengo que encontrar el islote CX y destruir las
+    máquinas que controlan los reactores lunares!!
+it:
+  message: Ma Gerolamo, devo trovare l'isolotto CX e distruggere le macchine che
+    controllano i reattori nucleari !!
+pt:
+  message:
+    Mas Jerônimo, eu tenho que achar a Ilhota CX e destruir as máquinas que
+    controlam os reatores lunares !!

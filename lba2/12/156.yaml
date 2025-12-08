@@ -1,3 +1,14 @@
+textId: 64
 location:
 speaker:
 message: Ah, only the wizards are able to read this.
+fr:
+  message: Ah, seuls les mages sont capables de lire ceci.
+de:
+  message: Das können nur Magier lesen.
+es:
+  message: Ah, sólo los magos pueden leer esto.
+it:
+  message: Ah, solo i maghi sono in grado di leggere questo.
+pt:
+  message: Ah, só os magos s╞o capazes de ler isso.

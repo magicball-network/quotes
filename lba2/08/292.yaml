@@ -1,4 +1,23 @@
+textId: 285
 location:
 speaker:
 message: Twinsen, your performance was exemplary; here's your reward, this
   slate. It allows you to memorize images that you see, such as maps.
+fr:
+  message:
+    Tu t'en es bien sorti, voici cette ardoise particulière en récompense.
+    Elle te permet de mémoriser les images que tu vois, par exemple des plans.
+de:
+  message: Das hast du gut gemacht. Hier, dafür bekommst du diese Zauberkreide.
+    Damit kannst du dir auf den ersten Blick Bilder einprägen. Pläne zum
+    Beispiel.
+es:
+  message: Has salido airoso, aquí tienes esta pizarra especial como recompensa.
+    Te permitirá memorizar las imágenes que ves, por ejemplo, planos.
+it:
+  message: Visto che sei riuscito a uscirne fuori, ecco questa ardesia speciale
+    come ricompensa. Ti permette di memorizzare le immagini che vedi, per
+    esempio delle mappe.
+pt:
+  message: Você se saiu bem, tome esta ardósia especial como recompensa. Com ela
+    você pode memorizar imagens, como por exemplo plantas.

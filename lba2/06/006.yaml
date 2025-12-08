@@ -1,4 +1,21 @@
+textId: 5
 location:
 speaker:
 message: You just found the Pearl of Incandescent. These Pearls are highly
   prized by magicians. They will enable you to complete a spell.
+fr:
+  message:
+    Tu viens de trouver la perle d'incandescence. Elle est très recherchée
+    par les mages et te permettra de terminer un sort.
+de:
+  message: Du hast gerade die Leuchtperle gefunden. Sie ist von Magiern sehr
+    gesucht und ermöglicht Dir, einen Zauber fertigzustellen.
+es:
+  message: Acabas de encontrar la perla de incandescencia..
+it:
+  message:
+    Hai trovato la perla d'incandescenza. E' molto ricercata dai maghi e ti
+    permetterà di terminare un sortilegio.
+pt:
+  message: Você acabou de encontrar a pérola incandescente. Ela é bastante
+    procurada pelos magos. Com ela você poderá criar um feitiço.

@@ -1,3 +1,14 @@
+textId: 89
 location:
 speaker:
 message: '"Do you want to use the telescope for 2 Kashes?"'
+fr:
+  message: '" Voulez-vous utilisez le télescope pour 2 Kashes ? "'
+de:
+  message: '"Wollen Sie für zwei Kashes das Teleskop benutzen?"'
+es:
+  message: '" ¿Quiere usar el telescopio por 2 Kashes?"'
+it:
+  message: '"Volte utilizzare il telescopio per 2 Kashes ?"'
+pt:
+  message: '" Você quer usar o telescópio por 2 Kashes ? "'

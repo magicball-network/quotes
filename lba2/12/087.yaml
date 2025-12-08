@@ -1,3 +1,14 @@
+textId: 105
 location:
 speaker:
 message: A School of Magic? Do you think they might need an assistant?
+fr:
+  message: Une école de magie ? Et vous croyez qu'ils auraient besoin d'une assistante ?
+de:
+  message: Eine Zauberschule? Meinen Sie, die brauchen vielleicht einen Assistenten?
+es:
+  message: ¿Una escuela de magia? ¿Y cree usted que necesitarán una ayudanta?
+it:
+  message: Una scuola di magia ? E crede che abbiano bisogno di un'assistente ?
+pt:
+  message: Uma Escola de Magia ? Você acha que eles est╞o precisando de uma assistente ?

@@ -1,3 +1,18 @@
+textId: 3
 location:
 speaker:
 message: You again Mr. Twinsen? But I don't have anything left to give you!
+fr:
+  message:
+    Encore vous m'sieur Twinsen ? Mais je n'ai plus rien à vous donner moi
+    maintenant !
+de:
+  message:
+    Sie schon wieder, Herr Twinsen? Aber ich habe doch gar nichts mehr, was
+    ich Ihnen geben könnte!
+es:
+  message: ¿Otra vez usted, don? ¡Pero si ahora ya no me queda nada que darle!
+it:
+  message: Ancora lei signor Twinsen ? Ma non ho più niente da darle io adesso !
+pt:
+  message: Você de novo, senhor Twinsen ? Mas eu n╞o tenho mais nada para te dar agora !

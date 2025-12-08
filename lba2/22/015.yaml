@@ -1,4 +1,21 @@
+textId: 610
 location:
 speaker:
 message: It's our secret identification sign. He just might be speaking the
   truth your Majesty.
+fr:
+  message: C'est notre signe de reconnaissance secret ! Je pense qu'il dit la
+    vérité majesté
+de:
+  message: Das ist unser geheimes Erkennungszeichen! Ich glaube, er sagt die
+    Wahrheit, Eure Majestät!
+es:
+  message: ¡Es nuestra señal secreta de identificación! Creo que dice la verdad,
+    majestad
+it:
+  message: E' il nostro segno di riconoscimento segreto ! Credo che dica la
+    verità, Maestà.
+pt:
+  message:
+    É o nosso sinal secreto de reconhecimento ! Acho que ele diz a verdade,
+    majestade

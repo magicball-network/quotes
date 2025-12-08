@@ -1,3 +1,14 @@
+textId: 34
 location:
 speaker:
 message: You now own the Wannies key fragment.
+fr:
+  message: Tu possèdes maintenant le fragment de clé des Blafards.
+de:
+  message: Du besitzt jetzt das Schlüsselfragment der Bleichlinge.
+es:
+  message: Ahora posees el fragmento de llave de los Macilentos.
+it:
+  message: Adesso hai un frammento della chiave dei Pallidi.
+pt:
+  message: Você tem agora a parte de chave dos Blafards.

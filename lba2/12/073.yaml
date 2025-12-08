@@ -1,5 +1,31 @@
+textId: 803
 location:
 speaker:
 message: I'm worried sick, Twinsen. These space visitors look pretty spooky, and
   their niceness seems...I don't know, phony? Did I mention I've seen some of
   them hiding in garbage cans?
+fr:
+  message:
+    Tu sais Twinsen, je suis inquiète. Je trouve ces visiteurs du ciel bien
+    étranges. Ils sont trop aimables pour être honnêtes. En plus ils ont parfois
+    de drôles de comportements. J'en ai vu se dissimuler dans les poubelles.
+de:
+  message:
+    Weißt du, Twinsen, ich mache mir Sorgen. Ich finde, diese Besucher vom
+    anderen Stern sind ziemlich seltsam. Sie sind einfach zu freundlich, um
+    ehrlich zu sein. Und außerdem verhalten sie sich manchmal reichlich seltsam.
+    Ich habe gesehen, wie sich einige von ihnen im Mülleimer versteckt haben.
+es:
+  message: ¿Sabes, Twinsen? estoy preocupada. Esos visitantes del cielo me
+    resultan muy extraños. Son demasiado amables para que sea cierto. Y además a
+    veces tienen un comportamiento muy raro. He visto a alguno esconderse en los
+    cubos de la basura.
+it:
+  message:
+    Sono troppo gentili per essere onesti. E a volte hanno un comportamento
+    strano. Ho visto alcuni di loro nascondersi nelle pattumiere.
+pt:
+  message: Sabe Twinsen, estou preocupada. Acho estes visitantes vindos do céu
+    bastante estranhos. Eles s╞o bonzinhos demais para serem honestos. Além
+    disso às vezes se comportam de modo esquisito. Eu vi eles se esconderem nas
+    latas de lixo.

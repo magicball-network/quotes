@@ -1,3 +1,14 @@
+textId: 135
 location:
 speaker:
 message: Key for the passage to CX
+fr:
+  message: Clé du passage vers CX
+de:
+  message: Schlüssel für Gang nach CX
+es:
+  message: Llave del pasadizo que conduce a CX
+it:
+  message: Chiave del passaggio verso CX
+pt:
+  message: Chave da passagem para CX

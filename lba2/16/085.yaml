@@ -1,3 +1,14 @@
+textId: 261
 location:
 speaker:
 message: Free me!!
+fr:
+  message: Libérez-moi !!
+de:
+  message: Laßt mich frei!
+es:
+  message: ¡¡Suélteme!!
+it:
+  message: Liberatemi !!
+pt:
+  message: Solte-me !!

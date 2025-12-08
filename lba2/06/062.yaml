@@ -1,3 +1,14 @@
+textId: 106
 location:
 speaker:
 message: Pyramid shaped key
+fr:
+  message: Clé Pyramidale
+de:
+  message: Pyramidenschlüssel
+es:
+  message: Llave piramidal
+it:
+  message: Chiave Piramidale
+pt:
+  message: Chave Piramidal

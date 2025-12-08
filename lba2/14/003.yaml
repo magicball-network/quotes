@@ -1,3 +1,14 @@
+textId: 2
 location:
 speaker:
 message: What's he saying??
+fr:
+  message: Qu'est-ce qu'il dit ??
+de:
+  message: Was hat er gesagt??
+es:
+  message: ¿Qué dice?
+it:
+  message: Cosa dice ??
+pt:
+  message: O que ele está dizendo ??

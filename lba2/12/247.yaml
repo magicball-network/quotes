@@ -1,3 +1,17 @@
+textId: 763
 location:
 speaker:
 message: Ah no, I didn't see any. On the other hand, quite a few Esmers pass by here.
+fr:
+  message: Ah non, je n'en ai pas vu. Par contre, il y a pas mal d'Esmers qui
+    passent par ici.
+de:
+  message:
+    Nein, habe ich nicht gesehen. Aber dafür kommen hier ständig eine Menge
+    Esmerier vorbei.
+es:
+  message: Pues no, no he visto. Sin embargo hay bastantes esmeres que pasan por aquí.
+it:
+  message: Ah no, non ne ho visti. Ho visto invece un mucchio di Esmers passare da qui.
+pt:
+  message: Ah n╞o, eu n╞o vi. Por outro lado, os Esmers n╞o param de passar por aqui.

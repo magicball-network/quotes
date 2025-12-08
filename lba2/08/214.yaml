@@ -1,3 +1,18 @@
+textId: 251
 location:
 speaker:
 message: If you are interested in an item, stand in front of it and do "ACTION".
+fr:
+  message: Si un article vous intéresse, placez-vous juste devant et faites " ACTION ".
+de:
+  message: Wenn Sie ein Gegenstand interessiert, stellen Sie sich vor ihn und
+    drücken "AKTION".
+es:
+  message: Si le interesa algún artículo, colóquese justo delante y pulse "ACCION.".
+it:
+  message: Se un articolo vi interessa, mettetevi proprio davanti e spingete il
+    tasto "AZIONE".
+pt:
+  message:
+    Se você se interessar por alguma coisa, posicione-se em frente e clique
+    em " AÇ╟O ".

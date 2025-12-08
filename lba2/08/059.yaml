@@ -1,3 +1,14 @@
+textId: 230
 location:
 speaker:
 message: '"Rock from the Temple of Bù."'
+fr:
+  message: C'est une roche provenant du Temple de Bù.
+de:
+  message: '"Das ist ein Stein aus dem Bü-Tempel."'
+es:
+  message: '"Es una roca procedente del Templo de Bù."'
+it:
+  message: '" E'' una roccia proveniente dal Tempio di Bù"'
+pt:
+  message: É uma rocha proveniente do Templo de Bu.

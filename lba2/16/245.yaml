@@ -1,4 +1,22 @@
+textId: 555
 location:
 speaker:
 message: Careful, sir, you shouldn't run like that. Someone might think you're
   you know who.
+fr:
+  message: Attention monsieur, il ne faut pas courir comme ça. On pourrait vous
+    prendre pour qui vous savez.
+de:
+  message: Passen Sie auf, und rennen Sie nicht so. Sonst hält man Sie womöglich
+    noch für einen Sie-wissen-schon-was!
+es:
+  message: Cuidado, señor, no debe correr de ese modo. Podrían confundirlo con
+    quien usted sabe.
+it:
+  message:
+    Attenzione signore, non deve correre così. Potremmo scambiarla per chi
+    sa lei.
+pt:
+  message:
+    Atenç╞o senhor, n╞o deve correr assim. Poderia ser confundido com outra
+    pessoa.

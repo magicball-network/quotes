@@ -1,5 +1,26 @@
+textId: 243
 location:
 speaker:
 message: |-
   "Port-Ludo
   (Island of the White Leaf Desert). "
+fr:
+  message: |-
+    " Port-Ludo
+    (Ile du Désert de la Feuille Blanche). "
+de:
+  message: |-
+    "Port-Ludo
+    (Insel der Wüste des Leeren Blattes). "
+es:
+  message: |-
+    "Port-Ludo
+    (Isla del Desierto de la Hoja Blanca)."
+it:
+  message: |-
+    "Port-Ludo
+    Isola del Deserto della Foglia Bianca."
+pt:
+  message: |-
+    " Porto Ludo
+    (Ilha do Deserto da Folha Branca). "

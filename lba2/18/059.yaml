@@ -1,3 +1,4 @@
+textId: 206
 location:
 speaker:
 message: Well, the reactor was much too powerful, even for us. If they had not
@@ -5,3 +6,37 @@ message: Well, the reactor was much too powerful, even for us. If they had not
   unmasked FunFrock in front of their eyes, when they thought he was Dark Monk,
   their savior. Thanks to your intervention, they've understood. That's why they
   came to our rescue!!!
+fr:
+  message:
+    Et bien, la force du réacteur était beaucoup trop puissante, même pour
+    nous. S'ils n'étaient pas venu le détruire, je crois que nous n'y serions
+    pas arrivés !! Tu as démasqué FunFrock devant leur yeux, lui qu'ils
+    prenaient pour Dark Monk, leur sauveur. Grâce à ton intervention, ils ont
+    compris. C'est pour cela qu'ils sont venus nous aider !!!
+de:
+  message: Nun, der Reaktor war auch für uns viel zu stark. Wenn sie nicht
+    gekommen wären, um ihn zu zerstören, hätten wir es, glaube ich, nicht
+    geschafft! Du hast FunFrock vor ihren Augen die Maske heruntergerissen, vor
+    denen, die ihn für ihren Retter Dark Monk hielten. Dank deines Eingreifens
+    haben sie ihren Irrtum gesehen. Nur deswegen sind sie gekommen, um uns zu
+    helfen!!!
+es:
+  message: Bueno, la fuerza del reactor era demasiado potente, incluso para
+    nosotros. ¡¡Si no hubieran ido a destruirlo, creo que no lo hubiéramos
+    conseguido!! ¡¡¡ Funfrock, a quien ellos tomaban por su salvador Dark Monk,
+    ha quedado desenmascarado!!!. Gracias a tu intervención lo han comprendido.
+    ¡¡Por eso vinieron a ayudarnos!!
+it:
+  message:
+    La forza del reattore era troppo potente, anche per noi. Se non fossero
+    venuti a distruggerlo, credo proprio che non ci saremmo riusciti !! Hai
+    smascherato Funfrock davanti ai loro occhi, proprio lui che credevano Dark
+    Monk, il loro salvatore. Grazie al tuo intervento hanno capito. Ed è per
+    questo che sono venuti ad aiutarci !!!
+pt:
+  message:
+    Bem, a força do reator era potente demais, até mesmo para nós. Se eles
+    n╞o tivessem vindo destruí-lo, acho que n╞o teríamos conseguido!! Você
+    desmascarou Funfrock na frente deles, que achavam que Funfrock fosse Dark
+    Monk, seu salvador. Graças a sua intervenç╞o, eles entenderam. É por isso
+    que vieram nos ajudar!!!

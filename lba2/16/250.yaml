@@ -1,3 +1,14 @@
+textId: 565
 location:
 speaker:
 message: Hello sir have a pleasant stay among us.
+fr:
+  message: Bonjour monsieur et bon séjour chez nous.
+de:
+  message: Guten Tag, und einen schönen Urlaub wünsche ich Ihnen.
+es:
+  message: Buenos días, señor, y feliz estancia aquí.
+it:
+  message: Buongiorno signore, le auguro un'eccellente soggiorno nella nostra città.
+pt:
+  message: Bom dia senhor e boa estadia conosco.
