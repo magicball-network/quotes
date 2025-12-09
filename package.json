@@ -14,7 +14,7 @@
 		"build:json": "node bin/generate-json-bundle.mjs lba1 lba2",
 		"build:site": "parcel build src/index.html src/robots.txt",
 		"build:assets": "copyfiles --verbose --up 1 src/characters.json src/portraits/**/*.png dist",
-		"test:merged-json": "node bin/validate-json.mjs dist/lba1.json dist/lba2.json",
+		"test:merged-json": "node bin/validate-json.mjs dist/lba1*.json dist/lba2*.json",
 		"prettier-write": "prettier --write ."
 	},
 	"devDependencies": {
@@ -25,11 +25,11 @@
 		"parcel": "^2.12.0",
 		"prettier": "^3.3.3",
 		"rimraf": "^5.0.9",
-		"yaml": "^2.5.0"
+		"yaml": "^2.5.0",
+		"@lbalab/hqr": "^3.4.4",
+		"iconv-lite": "^0.7.0"
 	},
 	"dependencies": {
-		"@lbalab/hqr": "^3.4.4",
-		"iconv-lite": "^0.7.0",
 		"mustache": "^4.2.0"
 	}
 }

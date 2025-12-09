@@ -79,10 +79,16 @@ function isEmpty(text, lang) {
 	}
 	// Looks like empty is sometimes translated
 	switch (lang) {
-		case "fr": return trimmed === "vide";
-		case "de": return trimmed === "leer";
-		case "it": return trimmed === "vuoto";
-		case "pt": return trimmed === "vazio";
+		case "en":
+			return trimmed === "empty";
+		case "fr":
+			return trimmed === "vide";
+		case "de":
+			return trimmed === "leer";
+		case "it":
+			return trimmed === "vuoto";
+		case "pt":
+			return trimmed === "vazio";
 	}
 	return false;
 }
