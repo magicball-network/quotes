@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /lba1/
 Disallow: /lba2/
-Disallow: /lba1.json
-Disallow: /lba2.json
+Disallow: /lba1-en.json
+Disallow: /lba2-en.json

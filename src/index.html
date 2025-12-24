@@ -359,42 +359,56 @@
 				}
 			}
 
-			async function retrieveQuotes(game) {
+			async function retrieveQuotes(game, lang = "en") {
 				areaMap[game] = new Set();
-				let response = await fetch(game + ".json");
+				let response = await fetch(`${game}-${lang}.json`);
 				if (response.ok) {
-					for (let quote of await response.json()) {
-						quote["fqnId"] = game + ":" + quote.id;
-						quote["game"] = game;
-						quote["gameTitle"] = () => games[game];
-						quote["sourceFile"] =
-							game +
-							"/" +
-							quote.id.split(":").join("/") +
-							".yaml";
-						const speaker = quote["speaker"] || false;
-						quote["speakerTitle"] = () => {
-							if (speaker && speakers[game][speaker]["name"]) {
-								return speakers[game][speaker]["name"];
-							} else {
-								return speaker;
-							}
-						};
-						quote["speakerPortrait"] = () => {
-							if (speaker && speakers[game][speaker]["img"]) {
-								return speakers[game][speaker]["img"];
-							} else {
-								return false;
-							}
-						};
-						quotes.push(quote);
-						quoteIndex[quote.fqnId] = quote;
-						areaMap[game].add(quote.area);
+					for (let entry of await response.json()) {
+						const fqnId = game + ":" + entry.id;
+						let quote = quoteIndex[fqnId];
+						if (!quote) {
+							quote = { ...entry, fqnId, game, lang: {} };
+							quote["gameTitle"] = () => games[game];
+							quote["sourceFile"] =
+								game +
+								"/" +
+								entry.id.split(":").join("/") +
+								".yaml";
+
+							const speaker = quote["speaker"] || false;
+							quote["speakerTitle"] = () => {
+								if (
+									speaker &&
+									speakers[game][speaker]["name"]
+								) {
+									return speakers[game][speaker]["name"];
+								} else {
+									return speaker;
+								}
+							};
+							quote["speakerPortrait"] = () => {
+								if (speaker && speakers[game][speaker]["img"]) {
+									return speakers[game][speaker]["img"];
+								} else {
+									return false;
+								}
+							};
+							quotes.push(quote);
+							quoteIndex[fqnId] = quote;
+							areaMap[game].add(quote.area);
+						} else {
+							quote.lang[lang] = {
+								speaker: entry.speaker,
+								location: entry.location,
+								message: entry.message,
+								audio: entry.audio,
+							};
+						}
 					}
+					console.log(`Loaded quotes for ${game} (lang: ${lang})`);
 				} else {
 					console.error(
-						"Loading quotes for {} failed: {}",
-						game,
+						`Loading quotes for ${game} (lang: ${lang}) failed: `,
 						response,
 					);
 				}
@@ -403,6 +417,7 @@
 			async function loadQuotes() {
 				return Promise.all([
 					retrieveQuotes("lba1"),
+					retrieveQuotes("lba1", "de"),
 					retrieveQuotes("lba2"),
 				]);
 			}
@@ -610,7 +625,6 @@
 			const init = async () => {
 				await loadSpeakers();
 				await loadQuotes();
-				console.log("Loaded quotes");
 				initUi();
 				if (window.location.hash !== "") {
 					specificQuote(
