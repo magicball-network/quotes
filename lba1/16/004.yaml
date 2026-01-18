@@ -1,5 +1,24 @@
+textId: 3
 location:
 speaker:
 message: Hi! If I take your flag to be representative of your intentions, I see
   that you too have chosen Liberty. Lieutenant Grap is down in the trench, go
   see him - he'll tell you where our leaders are.
+fr:
+  message:
+    Salut ! Si j'en crois le drapeau que tu arbores, toi aussi tu as choisi
+    la Liberté. Le lieutenant Grap est en bas dans la tranchée, va le voir et il
+    te dira où trouver nos chefs.
+de:
+  message:
+    Hallo ! Der Flagge nach, die Du gehißt hast, hast auch Du die Freiheit
+    gewählt. Oberleutnant Grap ist unten im Schützengraben, geh zu ihm und er
+    wird Dir sagen wo Du unsere Anführer finden kannst.
+es:
+  message: ¡Hola! Si juzgo por la bandera que enarbolas, tú también has escogido
+    la Libertad. El teniente Grap está bajo la trinchera, corre a verlo y él te
+    dirá dónde encontrar a nuestros jefes.
+it:
+  message: Salve! Stando alla bandiera che hai issato, anche tu hai scelto la
+    Libertà. Il luogotenente Grap è giù in trincea, vai da lui; ti dirà dove
+    trovare i nostri capi.

@@ -1,3 +1,14 @@
+textId: 210
 location:
 speaker:
 message: Waiter!
+fr:
+  message: Garçon !
+de:
+  message: Hallo, Ober!
+es:
+  message: ¡Camarero
+it:
+  message: Cameriere !
+pt:
+  message: Garçom !

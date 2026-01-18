@@ -1,3 +1,12 @@
+textId: 9
 location:
 speaker:
 message: This is not really a good time!
+fr:
+  message: C'est pas l'moment !
+de:
+  message: Hab' keine Zeit !
+es:
+  message: ¡No es el momento!
+it:
+  message: Non adesso!

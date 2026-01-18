@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: Before you destroy the cloning factory, I prepared THIS for you!
+fr:
+  message: Avant que tu ne détruises l'usine de clonage, je t'avais préparé ... CECI !
+de:
+  message: Bevor Du meine Klonfabrik zerstörst, habe ich DIES für Dich vorbereitet !
+es:
+  message: Antes que destruyas la fábrica de clonaje, te había preparado... ¡ESTO!
+it:
+  message: Prima che tu distruggessi la fabbrica di cloni, ti avevo preparato... QUESTO!

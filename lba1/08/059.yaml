@@ -1,3 +1,14 @@
+textId: 64
 location:
 speaker:
 message: You don't have to be aggressive all the time. I don't talk to pushy people!
+fr:
+  message: Il ne faut pas être agressif tout le temps. Je ne parle pas aux agités.
+de:
+  message:
+    Man muß nicht dauernd agressiv sein. Ich spreche nicht mit aufgeregten
+    Leuten.
+es:
+  message: No hay que ser agresivo todo el tiempo. No le hablo a los agresivos.
+it:
+  message: Non bisogna essere sempre aggressivi. Non parlo ai nevrotici, io.

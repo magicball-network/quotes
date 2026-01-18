@@ -1,3 +1,14 @@
+textId: 555
 location:
 speaker:
 message: Very well. But first, being that you're a stranger, I must warn you.
+fr:
+  message: Oui, mais je dois d'abord te mettre en garde car tu es étranger.
+de:
+  message: Ja, aber zunächst muß ich dich warnen, weil du hier fremd bist.
+es:
+  message: Sí, pero antes debo informarte porque eres extranjero.
+it:
+  message: Si, ma intanto devo metterti in guardia visto che sei straniero.
+pt:
+  message: É, mas antes eu tenho que te prevenir pois você é estrangeiro.

@@ -1,3 +1,14 @@
+textId: 702
 location:
 speaker:
 message: I don't know where he is. Try the lighthouse.
+fr:
+  message: Je ne sais pas où il est. Essaye d'aller au phare.
+de:
+  message: Ich weiß nicht, wo er ist. Versuchen wir es doch beim Leuchtturm.
+es:
+  message: No sé dónde está. Intenta ir al faro.
+it:
+  message: Non so dov'è. Cerca di andare al faro.
+pt:
+  message: Eu n╞o sei onde ele está. Tente ir ao Farol.

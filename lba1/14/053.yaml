@@ -1,4 +1,18 @@
+textId: 53
 location:
 speaker:
 message: "The museum's alarm system has been activated: we have evacuated the
   premises for your security. We will open up again later!"
+fr:
+  message: "Le système d'alerte du musée a été mis en marche : on a fait évacuer
+    par sécurité, les visites reprendront plus tard !"
+de:
+  message: "Das Alarmsystem des Museums ist ausgelöst worden : wir haben zur
+    Sicherheit das Museum räumen lassen, die Besichtigungen werden später
+    fortgesetzt !"
+es:
+  message: "Se ha puesto en marcha el sistema de alerta del museo: ha sido
+    evacuado por seguridad. ¡Las visitas se reanudarán más tarde!"
+it:
+  message: "Il sistema di allarme del museo è stato attivato: come misura di
+    sicurezza il museo è stato evacuato; le visite riprenderanno più tardi."

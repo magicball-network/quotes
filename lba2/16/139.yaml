@@ -1,4 +1,23 @@
+textId: 317
 location:
 speaker:
 message: If you want, mate, you can climb aboard my Leontine and I'll take you
   someplace for 10 Zlitos. OK then? Where to?
+fr:
+  message: Mon gars, si tu veux, pour 10 Zlitos, tu montes dans ma Léontine et
+    j't'emmène où qu'tu veux. Hein, alors, où ?
+de:
+  message:
+    Heda, Junge, wenn du willst, fahr' ich dich für 10 Zlitos überall hin!
+    Na, sag schon, wohin soll die Reise gehen?!
+es:
+  message:
+    Amigo, si quieres, por 10 Zlitos, subes a mi Leontina y te llevo donde
+    quieras. ¿Dónde pues?
+it:
+  message: Ragazzo mio, se vuoi, per 10 Zlitos, puoi salire sulla mia Leontina e
+    ti porto dove ti pare. Eh, allora, dove ?
+pt:
+  message:
+    Meu chapa, se quiser, por 10 Zlitos, você entra na minha Léontine e eu
+    te levo onde você quiser. Ent╞o, para onde vamos?

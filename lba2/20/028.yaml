@@ -1,4 +1,22 @@
+textId: 505
 location:
 speaker:
 message: Feeling better? Well, it's the first time I find somebody who does not
   like my tart!!
+fr:
+  message:
+    Ça va mieux ? Et bien, c'est la première fois que je vois quelqu'un qui
+    n'aime pas ma tarte !!
+de:
+  message:
+    Geht es Ihnen besser? Also ich muß schon sagen, das ist das erste Mal,
+    daß jemandem mein Kuchen nicht schmeckt!
+es:
+  message:
+    ¿Se encuentra mejor? ¡¡Pues es la primera vez que a alguien no le gusta
+    mi tarta!!
+it:
+  message: Va meglio ? Ebbene, è la prima volta che qualcuno non ama la mia torta !!
+pt:
+  message: Está melhor ? É a primeira vez que encontro alguém que n╞o gosta da
+    minha torta !!

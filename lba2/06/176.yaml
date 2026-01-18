@@ -1,3 +1,14 @@
+textId: 510
 location:
 speaker:
 message: Well of Sendell.
+fr:
+  message: Puits de Sendell.
+de:
+  message: Sendell-Höhle.
+es:
+  message: Pozo de Sendell.
+it:
+  message: Pozzi di Sendell.
+pt:
+  message: Poços de Sendell.

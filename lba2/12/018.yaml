@@ -1,3 +1,14 @@
+textId: 285
 location:
 speaker:
 message: '"To the Hacienda del Monte-Pelado."'
+fr:
+  message: '" Vers l''Hacienda del Monte-Pelado. "'
+de:
+  message: '"Zur Hacienda del Monte-Pelado. "'
+es:
+  message: '" A la ''Hacienda del Monte-Pelado."'
+it:
+  message: '" Verso l''Hacienda del Monte-Pelato."'
+pt:
+  message: '" Em direç╞o à Fazenda do Monte Careca. "'

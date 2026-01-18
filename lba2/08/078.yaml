@@ -1,3 +1,14 @@
+textId: 505
 location:
 speaker:
 message: Hello Mrs. Brune.
+fr:
+  message: Bonjour madame Brune.
+de:
+  message: Guten Tag, Frau Braun.
+es:
+  message: Buenos días señora Brune.
+it:
+  message: Buongiorno Signora Bruna.
+pt:
+  message: Bom dia, senhora Brune.

@@ -1,3 +1,14 @@
+textId: 59
 location:
 speaker:
 message: No, no idea.
+fr:
+  message: Non, aucune idée.
+de:
+  message: Nein, keine Ahnung.
+es:
+  message: No, ni idea.
+it:
+  message: No, non ne ho la più pallida idea.
+pt:
+  message: N╞o faço a menor idéia.

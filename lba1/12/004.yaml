@@ -1,3 +1,4 @@
+textId: 4
 location:
 speaker:
 message: "Very strange indeed. I'm just an old fool who would like to grow
@@ -6,3 +7,33 @@ message: "Very strange indeed. I'm just an old fool who would like to grow
   Temple of Bù which was buried by a violent sand storm. You can still get in,
   however, through one of the ventilation shafts still visible just behind me.
   But be careful: there is danger everywhere!"
+fr:
+  message:
+    Bizarre en effet. Je ne suis qu'un vieux fou qui aimerait faire pousser
+    des fleurs dans ce désert, mais ... je connais cette Légende que le Dr
+    FunFrock a proscrit. Je te dirais ce que je sais si tu me rapportes un livre
+    sacré. Il est au coeur du temple de Bù qui fut englouti par une tempête de
+    sable. Tu peux y entrer par un puits d'aération qui subsiste derrière moi,
+    mais attention, le péril est présent à chaque pas !
+de:
+  message: In der Tat, recht eigenartig. Ich bin nur ein alter Irrer, der in
+    dieser Wüste Blumen wachsen lassen möchte, aber ... ich kenne die Legende,
+    die Dr FunFrock verboten hat. Ich sage Dir was ich weiß, wenn Du mir ein
+    heiliges Buch wiederbringst. Es befindet sich mitten im Bù Tempel, der durch
+    einen Sandsturm verschüttet wurde. Du kannst durch einen verbliebenen
+    Luftschacht, der sich hinter mir befindet, hinein gelangen, aber Vorsicht,
+    die Gefahr lauert überall !
+es:
+  message: Rara en efecto. No soy mas que un viejo loco que me gustaría hacer
+    crecer flores en este desierto, pero ... conozco esa Leyenda que el Dr.
+    FunFrock ha prohibido. Te diré lo que sé si me traes un libro sagrado. Está
+    en el corazón del templo de Bù que fue tragado por una tormenta de arena.
+    Puedes entrar ahí por un pozo de ventilación que aun existe, y está trás de
+    mí, pero ¡atención, el peligro está presente en cada paso!
+it:
+  message: "Sì, proprio bizzarra. Io sono solo un vecchio pazzo che vorrebbe far
+    crescere fiori nel deserto ma... conosco la Leggenda che il Dottor FunFrock
+    ha messo al bando. Ti dirò quello che so se mi porterai un libro sacro. E'
+    al centro del Tempio di Bù, che venne sepolto durante una tempesta di
+    sabbia. Puoi entrare passando dal pozzo di aerazione che si trova alle mie
+    spalle. Ma attenzione: il pericolo è sempre in agguato!"

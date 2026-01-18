@@ -1,4 +1,18 @@
+textId: 25
 location:
 speaker:
 message: You will have to interrogate traffickers, people that are in this
   hemisphere in any case.
+fr:
+  message:
+    Il faudrait que tu interroges des trafiquants, des gens qui soient dans
+    cet hémisphère en tout cas.
+de:
+  message:
+    Du müßtest Schieber befragen, auf jeden Fall Leute die sich auf dieser
+    Halbkugel befinden.
+es:
+  message: Será necesario que interrogues a los traficantes, en cualquier caso
+    gente de este hemisferio.
+it:
+  message: Dovresti interrogare dei trafficanti, o comunque persone di questo emisfero.

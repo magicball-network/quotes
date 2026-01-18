@@ -1,5 +1,29 @@
+textId: 425
 location:
 speaker:
 message: Master, I figured out why the wizards disappeared. The Esmers invited
   them over to their planet for some kind of cultural and scientific exchange. I
   wonder what that's all about...
+fr:
+  message:
+    Maître, je sais pourquoi les mages ont disparu. Les Esmers les invitent
+    sur leur planète pour un programme d'échange culturel et scientifique. Je me
+    demande ce que cela cache !
+de:
+  message: Meister, ich weiß jetzt, warum die Magier verschwunden sind. Die
+    Esmerier haben sie im Rahmen eines Wissenschafts- und Kulturaustausches auf
+    ihren Planeten eingeladen. Ich frage mich nur, was da wohl dahintersteckt!
+es:
+  message: Maestro, ya sé por qué han desaparecido los magos. Los Esmeres los
+    están invitando a su planeta para un programa de intercambio cultural y
+    científico. ¡Quisiera saber lo que hay detrás!
+it:
+  message:
+    Maestro, io so perchè i maghi sono spariti. Gli Esmers li invitano sul
+    loro pianeta per un programma di scambi culturali e scientifici. Mi chiedo
+    cosa si nasconda dietro a tutto questo!
+pt:
+  message:
+    Mestre, eu sei porque os magos desapareceram. Os Esmers convidaram eles
+    para o seu planeta para um programa de intercâmbio cultural e científico. Eu
+    me pergunto o que há por trás disso !

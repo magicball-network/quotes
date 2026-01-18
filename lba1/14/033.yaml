@@ -1,3 +1,12 @@
+textId: 32
 location:
 speaker:
 message: '" BURBS "'
+fr:
+  message: '" BURBS "'
+de:
+  message: '" BURBS "'
+es:
+  message: '"BURBS"'
+it:
+  message: '" BURBS "'

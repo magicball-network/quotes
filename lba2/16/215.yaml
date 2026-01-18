@@ -1,4 +1,21 @@
+textId: 427
 location:
 speaker:
 message: The passage that leaves the Mosquibee village will allow you to reach
   island CX directly.
+fr:
+  message:
+    Le passage qui part du village des mosquibees te permettra de rejoindre
+    directement l'îlot CX.
+de:
+  message: Durch den Gang, der vom Dorf der Moskibienos ausgeht, gelangst du
+    direkt zum Eiland CX.
+es:
+  message:
+    El pasadizo que parte del pueblo de los mosquibitas te permitirá llegar
+    directamente al islote CX.
+it:
+  message: Il passaggio chre parte dal villaggio dei Moschibei ti permetterà di
+    arrivare direttamente all'isolotto CX.
+pt:
+  message: A passagem que sai da vila dos mosquibees o levará direto à Ilhota CX.

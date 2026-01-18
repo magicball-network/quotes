@@ -1,5 +1,32 @@
+textId: 228
 location:
 speaker:
 message: By using the Action command in front of a plan, a print or any other
   illustration, you immediately create a copy with the Magic Slate. You can
   consult it at any time by selecting the Slate in the inventory.
+fr:
+  message:
+    En faisant Action devant un plan, une gravure ou toute illustration, tu
+    en crées aussitôt une copie que tu conserves sur toi, avec l'Ardoise
+    Magique. Tu peux ensuite la consulter à tout moment en sélectionnant
+    l'Ardoise dans l'inventaire.
+de:
+  message: Wenn du vor einem Plan, einer Gravur oder sonst einem Bild "AKTION"
+    drückst, stellst du eine Kopie davon her, die du auf der Zauberkreide mit
+    dir führst. Später kannst du das Bild jederzeit betrachten, indem du die
+    Zauberkreide im Inventar auswählst.
+es:
+  message:
+    Pulsando Ación ante un plano, un grabado o cualquier ilustración creas
+    inmediatamente una copia que conservas en ti con la Pizarra Mágica. Luego
+    podrás consultarla en cualquier momento seleccionando la Pizarra en el
+    inventario.
+it:
+  message: Spingendo sul tasto AZIONE davanti a una mappa, a una stampa o a
+    un'illustrazione, ne puoi creare immediatamente una copia che puoi
+    conservare grazie all'Ardesia Magica. Potrai consultarla più tardi e in
+    qualsiasi momento selezionando l'Ardesia nell'inventario.
+pt:
+  message: Ao clicar em AÇ╟O em uma planta, uma gravura ou qualquer ilustraç╞o,
+    você você cria uma cópia para guardar com você, com a Ardósia mágica. Você
+    pode depois consultá-la a qualquer hora selecionando a ardósia na Listagem.

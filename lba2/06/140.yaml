@@ -1,4 +1,24 @@
+textId: 229
 location:
 speaker:
 message: This translator allows you to understand everything said by the
   visitors from Space. In discreet mode, you can even spy on conversations.
+fr:
+  message:
+    Ce traducteur te permet de comprendre tout ce que disent les visiteurs
+    de l'Espace. En mode discret, tu peux même espionner des conversations.
+de:
+  message:
+    Mit diesem Kommunikator kannst du alles verstehen, was die Besucher aus
+    dem Weltraum sagen. Im Modus "VORSICHTIG" kannst du sie sogar bespitzeln und
+    ihre Unterhaltungen mithören.
+es:
+  message: Este traductor te permite comprender todo lo que dicen los visitantes
+    del Espacio. Incluso podrás espiar conversaciones de modo discreto.
+it:
+  message: Questo traduttore ti permette di capire tutto quello che dicono i
+    visitatori dello Spazio. Mettendoti in modo DISCRETO puoi inoltre spiare le
+    conversazioni.
+pt:
+  message: Com esse tradutor você pode entender tudo que dizem os visitantes do
+    espaço. No modo Discreto, você pode até espionar algumas conversas.

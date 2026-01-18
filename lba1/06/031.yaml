@@ -1,5 +1,24 @@
+textId: 103
 location:
 speaker:
 message: "Gawley's Horn: (ENTER) key. For use on the Seals of Sendell. It will
   allow you to break them open, which will subsequently allow you to access new
   places."
+fr:
+  message:
+    "Trompe de Gawley : Touche (ENTREE) pour l'utiliser devant un sceau de
+    Sendell. Elle permet de les briser. Tu peux ainsi accéder à de nouveaux
+    endroits."
+de:
+  message:
+    "Horn von Gawley : (ENTER) Taste um es vor einem Siegel von Sendell zu
+    benutzen. Es ermöglicht die Siegel zu durchbrechen. Du kannst somit zu neuen
+    Orten gelangen."
+es:
+  message: "Trompa de Gawley: Tecla (ENTRAR) para utilizar ante un sello de
+    Sendell. Permite romperlos. Puedes acceder así a nuevos lugares."
+it:
+  message:
+    "Tromba di Gawley : Tasto (INVIO) per utilizzarla davanti a un sigillo
+    di Sendell. Consente di infrangerli. In questo modo potrai accedere a nuovi
+    luoghi."

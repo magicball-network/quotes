@@ -1,3 +1,14 @@
+textId: 520
 location:
 speaker:
 message: Do you know where I can find Raph the lighthouse keeper ?
+fr:
+  message: Tu ne saurais pas où est Raph, le gardien du phare ?
+de:
+  message: Du weißt nicht zufällig, wo Raph, der Leuchtturmwärter, ist?
+es:
+  message: ¿Sabrás donde está el guardián del faro?
+it:
+  message: Sai dov'è Raph, il guardiano del faro ?
+pt:
+  message: Você saberia dizer onde está Raph, o guardi╞o do farol ?

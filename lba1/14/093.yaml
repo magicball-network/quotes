@@ -1,3 +1,12 @@
+textId: 193
 location:
 speaker:
 message: Apparently, there was a burglary. Alas, the thief escaped!
+fr:
+  message: Apparemment il y a eu un cambriolage. Hélas, le voleur s'est échappé !
+de:
+  message: Anscheinend hat es einen Diebstahl gegeben. Leider ist der Dieb entkommen !
+es:
+  message: Aparentemente ha habido un robo. ¡Lástima, el ladrón se ha escapado!
+it:
+  message: Sembra che ci sia stato un furto con scasso. Purtroppo il ladro è fuggito!

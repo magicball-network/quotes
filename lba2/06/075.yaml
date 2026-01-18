@@ -1,3 +1,14 @@
+textId: 119
 location:
 speaker:
 message: Ring of Lightning
+fr:
+  message: Anneau de Foudre
+de:
+  message: Blitzring
+es:
+  message: Anillo de rayo
+it:
+  message: Anello dei fulmini
+pt:
+  message: Anel de Raio

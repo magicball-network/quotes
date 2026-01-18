@@ -1,3 +1,14 @@
+textId: 409
 location:
 speaker:
 message: An umbrella costs 35 Zlitos.
+fr:
+  message: Un parapluie coûte 35 zlitos.
+de:
+  message: Ein Regenschirm kostet 35 Zlitos.
+es:
+  message: Un paraguas cuesta 35 zlitos.
+it:
+  message: Un'ombrello costa 35 zlitos.
+pt:
+  message: Um guarda-chuva custa 35 zlitos.

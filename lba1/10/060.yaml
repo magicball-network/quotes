@@ -1,4 +1,14 @@
+textId: 66
 location:
 speaker:
 message: You are too aggressive! Get out of here, and don't come back until you
   have calmed down!
+fr:
+  message: Tu es trop agressif ! Sors d'ici et ne reviens que lorsque tu seras calmé !
+de:
+  message: Du bist zu agressiv ! Raus mit Dir, und komm erst wieder wenn Du Dich
+    beruhigt hast !
+es:
+  message: ¡Eres demasiado agresivo! ¡Sal de aquí y regresa cuando estés calmado!
+it:
+  message: Sei troppo aggressivo! Esci di qui e torna solo quando ti sarai calmato!

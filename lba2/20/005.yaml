@@ -1,3 +1,14 @@
+textId: 11
 location:
 speaker:
 message: Do you know where I could find the Mosquibees?
+fr:
+  message: Vous savez où je pourrais trouver les mosquibees ?
+de:
+  message: Wissen Sie, wo ich die Moskibienos finden kann?
+es:
+  message: ¿Sabe dónde podría encontrar a los mosquibitas?
+it:
+  message: Sa dove potrei trovare i Moschibei ?
+pt:
+  message: Você sabe onde posso encontrar os mosquibees ?

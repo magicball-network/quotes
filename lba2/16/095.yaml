@@ -1,4 +1,20 @@
+textId: 291
 location:
 speaker:
 message: Hello Master. Settle down comfortably and don't hestitate to consult
   our tourist information terminal.
+fr:
+  message:
+    Bonjour Maître. Installez vous et n'hésitez pas à consulter notre borne
+    touristique.
+de:
+  message: Guten Tag, Meister. Machen Sie es sich bequem, und zögern Sie nicht,
+    unsere kleine Touristikpräsentation zu betrachten.
+es:
+  message: Buenos días Maestro. Póngase cómodo, como si estuviera en su casa. El
+    viaje no será largo.
+it:
+  message: Buongiorno Maestro, si sieda. Può consultare la nostra colonnina di
+    informazioni turistiche.
+pt:
+  message: Bom dia, Mestre. Acomode-se e n╞o hesite em consultar nosso guia turístico.

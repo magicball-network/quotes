@@ -1,3 +1,14 @@
+textId: 800
 location:
 speaker:
 message: Ah Twinsen ! Still here?
+fr:
+  message: Ah Twinsen ! Tu es encore là ?
+de:
+  message: Oh, Twinsen, du bist ja immer noch hier!
+es:
+  message: ¡Ah Twinsen! ¿Sigues ahí?
+it:
+  message: Ah, Twinsen ! Sei ancora qui ?
+pt:
+  message: Ah, Twinsen! Você ainda está aí ?

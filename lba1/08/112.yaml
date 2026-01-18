@@ -1,3 +1,12 @@
+textId: 118
 location:
 speaker:
 message: Hey, Mr. Nurse! Use your holomap if you're lost.
+fr:
+  message: Dis l'infirmier ! Utilise ton holomap si t'es perdu.
+de:
+  message: He Pfleger ! Benutz' Dein Holomap falls Du nicht mehr weiter weißt.
+es:
+  message: ¡Oye enfermero! Utiliza tu holomapa si estás perdido.
+it:
+  message: Hei, infermiere! Se ti sei perso, usa l'holomap.

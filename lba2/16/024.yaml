@@ -1,3 +1,14 @@
+textId: 24
 location:
 speaker:
 message: Where should I go?
+fr:
+  message: Où dois-je aller ?
+de:
+  message: Wo muß ich hin?
+es:
+  message: ¿Adónde tengo que ir?
+it:
+  message: Dove devo andare ?
+pt:
+  message: Para onde tenho que ir?

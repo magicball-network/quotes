@@ -1,3 +1,12 @@
+textId: 38
 location:
 speaker:
 message: Hi, nice weather huh?
+fr:
+  message: Salut, beau temps n'est-ce pas ?
+de:
+  message: Hallo, schönes Wetter, nicht ?
+es:
+  message: Hola, qué clima tan agradable ¿no?
+it:
+  message: Salve! Bella giornata, vero?

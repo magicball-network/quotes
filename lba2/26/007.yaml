@@ -1,4 +1,22 @@
+textId: 510
 location:
 speaker:
 message: Who are you? This is the emperor's personal shuttle! You have no
   business here!!!
+fr:
+  message: Qui êtes-vous ? Ceci est la navette personnelle de l'Empereur ! Vous
+    n'avez rien à faire ici !!!
+de:
+  message:
+    Wer sind Sie? Das hier ist das persönliche Raumschiff des Kaisers! Sie
+    haben hier nichts zu suchen!!!
+es:
+  message: ¿Quién es usted? Esto en la nave personal del emperador. ¡¡¡No puede
+    estar usted aquí!!!
+it:
+  message:
+    Chi è lei ? Questa è la navetta personale dell'imperatore !! Lei non ha
+    niente da fare qui !!!
+pt:
+  message: Quem é você ? Esta é a nave pessoal do Imperador ! Você n╞o tem nada
+    que fazer aqui !!!

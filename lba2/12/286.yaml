@@ -1,3 +1,14 @@
+textId: 345
 location:
 speaker:
 message: No, I haven't seen any in quite a while.
+fr:
+  message: Non, je n'en ai pas vu depuis un bon moment.
+de:
+  message: Nein, ich habe schon eine ganze Weile lang keine mehr gesehen.
+es:
+  message: No no he visto a ninguno desde hace un buen rato
+it:
+  message: No, non ne ho visti da un bel pezzo.
+pt:
+  message: N╞o, n╞o os vejo faz um bom tempo.

@@ -1,3 +1,14 @@
+textId: 500
 location:
 speaker:
 message: Hi kiddo!
+fr:
+  message: Salut petit !
+de:
+  message: Hallo, Kleiner!
+es:
+  message: ¡Hola pequeño!
+it:
+  message: Ciao piccolo !
+pt:
+  message: Olá pequeno !

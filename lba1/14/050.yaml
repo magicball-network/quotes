@@ -1,5 +1,25 @@
+textId: 50
 location:
 speaker:
 message: "How's the Proto-Pack coming along? Keep testing, I have a bunch of
   calculations to finish up. And be careful when approaching water: you can only
   fly by coming in from a gently sloping beach."
+fr:
+  message: "Alors ce Proto-Pack ? Continue tes essais, j'ai encore plein de
+    calculs à revoir. Et prudence en approchant de l'eau : tu ne pourras voler
+    qu'en arrivant par une plage en pente douce."
+de:
+  message:
+    "Nun, wie ist dieser Proto-Pack ? Führe Deine Tests fort, ich habe noch
+    lauter Berechnungen zu überprüfen. Und Vorsicht wenn Du Dich dem Wasser
+    näherst : Du wirst nur fliegen können, wenn Du von einem Strand mit leichter
+    Neigung kommst."
+es:
+  message:
+    "¿Y ese Proto-Pack? Continúa tus ensayos, tengo muchísimos cálculos que
+    revisar y sé prudente al aproximarte al agua: no podrás volar más que al
+    llegar a una playa de pendiente suave."
+it:
+  message: "Allora, il Proto-Pack? Continua a provarlo, ho ancora un sacco di
+    calcoli da rivedere. E attenzione quando ti avvicini all'acqua: potrai
+    volare solo partendo da una spiaggia in leggera pendenza."

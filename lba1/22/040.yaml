@@ -1,3 +1,12 @@
+textId: 46
 location:
 speaker:
 message: The Cloning center.
+fr:
+  message: Le Centre de Clonage.
+de:
+  message: Das Klonzentrum.
+es:
+  message: El Centro de Clonaje.
+it:
+  message: Il Centro di Clonazione.

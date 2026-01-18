@@ -1,3 +1,14 @@
+textId: 394
 location:
 speaker:
 message: Brute!
+fr:
+  message: Brute !
+de:
+  message: Sie Bestie!
+es:
+  message: ¡Animal!
+it:
+  message: Bruto !
+pt:
+  message: Seu grosso !

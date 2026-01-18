@@ -1,3 +1,14 @@
+textId: 756
 location:
 speaker:
 message: Hmm.... I'll take your junk for 20 Zlitos.
+fr:
+  message: Humm... je vous reprends vot' ferraille pour 20 zlitos.
+de:
+  message: Hmmm ... ich kauf' Ihnen den Schrott für 20 Zlitos ab.
+es:
+  message: Humm... te compro tu basura por 20 zlitos.
+it:
+  message: Ehm ... posso riprendere questo rottame per 20 Zlitos.
+pt:
+  message: Humm... eu compro de volta sua tralha por 20 zlitos.

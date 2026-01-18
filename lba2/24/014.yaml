@@ -1,3 +1,14 @@
+textId: 17
 location:
 speaker:
 message: You are at the harbor of the Francos.
+fr:
+  message: Vous êtes au port des Knartas.
+de:
+  message: Sie sind am Hafen der Bifiden.
+es:
+  message: Está usted en el puerto de los Purlones.
+it:
+  message: Siete al porto dei Knartas.
+pt:
+  message: Você está no porto dos Knartas.

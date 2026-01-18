@@ -1,3 +1,4 @@
+textId: 53
 location:
 speaker:
 message: >-
@@ -8,3 +9,40 @@ message: >-
 
   We're really worried about the Teleportation Center: it's weak point is
   situated on the left, right after the first guard post.
+fr:
+  message: >-
+    J'ai été chargé de vérifier ce bâtiment, car il est en partie construit sur
+    des ruines portant un sceau étrange. Figurez-vous qu'un fou s'attaque à
+    différents endroits ayant ce genre de sceau. Alors j'ai eu un travail fou ce
+    week-end à cause de lui.
+
+    On craint pour le Centre de Téléportation : son point faible se situe sur la
+    gauche, après le premier poste de garde.
+de:
+  message: >-
+    Man hat mich beauftragt dieses Gebäude zu überprüfen, da es teilweise auf
+    Ruinen errichtet wurde, die ein merkwürdiges Siegel tragen. Stellen Sie sich
+    vor, ein Verrückter verübt Anschläge an verschiedenen Stellen, die solch ein
+    Siegel aufweisen. Deshalb hatte ich wegen ihm eine Wahnsinnsarbeit an diesem
+    Wochenende.
+
+    Man bangt um das Biemzentrum : sein Schwachpunkt befindet sich links hinter
+    dem ersten Wachposten.
+es:
+  message: >-
+    Me han encargado que inspeccione este edificio, ya que está en parte
+    construido sobre ruinas que tienen un sello extraño. Imagínese que un loco
+    ataca diferentes lugares que tienen ese tipo de sello. Y este fin de semana
+    he tenido un trabajo atroz gracias a él
+
+    Tememos por el Centro de Teleportación: su punto débil se sitúa a la
+    izquierda después del primer puesto de guardia.
+it:
+  message: >-
+    Sono stato incaricato di controllare questo edificio, poiché è in parte
+    costruito su rovine con uno strano sigillo. Si figuri che un pazzo vuole
+    distruggere diversi luoghi che portino questo tipo di sigillo. Per causa sua
+    ho dovuto lavorare un sacco questo fine settimana.
+
+    Si teme per il Centro di Teletrasporto: il suo punto debole si trova a
+    sinistra, dopo il primo posto di guardia.

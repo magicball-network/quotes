@@ -1,6 +1,32 @@
+textId: 20
 location:
 speaker:
 message: I need your help. Dark Monk and the Emperor have built a reactor on
   Emerald moon. This reactor is going to hurl the moon toward my planet
   destroying life as we know it!! We don't have much time, Dark Monk promised to
   make this happen at the next ceremony.
+fr:
+  message: Je viens chercher votre aide. Dark Monk et L'Empereur ont fait
+    construire un réacteur sur la lune d'émeraude. Ils projettent de la
+    propulser sur ma planète pour la détruire lors de la prochaine cérémonie, où
+    Dark Monk a promis d'accomplir son miracle.
+de:
+  message: Ich brauche Eure Hilfe. Dark Monk und der Kaiser haben einen Reaktor
+    auf dem Smaragd-Mond bauen lassen. Sie haben vor, ihn bei der nächsten
+    Zeremonie, für die Dark Monk das Wunder versprochen hat, auf meinen Planeten
+    abzuschießen, um ihn zu zerstören!
+es:
+  message: Vengo a pediros ayuda. Dark Monk y el emperador han construido un
+    reactor en la luna de esmeralda. Planean propulsarla sobre mi planeta para
+    destruirlo en la próxima celebración en la que Dark Monk prometió hacer el
+    milagro .
+it:
+  message: Sono venuto a chiedere il suo aiuto. Dark Monk e l'imperatore hanno
+    fatto costruire un reattore sulla Luna di Smeraldo. E' destinato a lanciare
+    la luna sul mio pianeta per distruggerlo. Questo avverrà durante la prossima
+    cerimonia, dove Dark Monk ha promesso di compiere il suo miracolo.
+pt:
+  message:
+    Eu vim pedir a sua ajuda. Dark Monk e o Imperador construíram um reator
+    na Lua de Esmeralda. Eles planejam jogá-la sobre meu planeta para destruí-lo
+    durante a próxima cerimonia, quando Dark Monk prometeu realizar seu milagre.

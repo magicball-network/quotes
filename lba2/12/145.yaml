@@ -1,3 +1,20 @@
+textId: 22
 location:
 speaker:
 message: To become a wizard, you must first pass 3 tests, in any order you wish.
+fr:
+  message:
+    Pour devenir mage, tu devras accomplir 3 épreuves, dans l'ordre que tu
+    désires.
+de:
+  message: Um Magier zu werden, mußt du 3 Prüfungen in beliebiger Reihenfolge bestehen.
+es:
+  message:
+    Para llegar a ser mago tendrás que superar tres pruebas en el orden que
+    quieras.
+it:
+  message: Per diventare mago, dovrai superare 3 prove, nell'ordine che vuoi.
+pt:
+  message:
+    Para se tornar mago, você deverá completar 3 provas, na ordem que você
+    quiser.

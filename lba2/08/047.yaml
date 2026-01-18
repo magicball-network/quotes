@@ -1,3 +1,14 @@
+textId: 58
 location:
 speaker:
 message: '"The Empire"'
+fr:
+  message: '"The Empire"'
+de:
+  message: '"The Empire"'
+es:
+  message: '"The Empire"'
+it:
+  message: '"The Empire"'
+pt:
+  message: '"The Empire"'

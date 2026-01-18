@@ -1,3 +1,12 @@
+textId: 151
 location:
 speaker:
 message: They took a fast boat a little while ago. Destination unknown.
+fr:
+  message: Ils ont pris un bateau rapide tout à l'heure, destination inconnue.
+de:
+  message: Sie haben vorhin ein schnelles Boot genommen, mit unbekanntem Ziel.
+es:
+  message: Han tomado un barco rápido hace un rato, con destino desconocido.
+it:
+  message: Sono appena salpati, destinazione sconosciuta.

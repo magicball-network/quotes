@@ -1,3 +1,12 @@
+textId: 200
 location:
 speaker:
 message: To Proxim-City.
+fr:
+  message: A Proxim-City.
+de:
+  message: Nach Proxim-City.
+es:
+  message: A Proxim-City.
+it:
+  message: A Proxim-City.

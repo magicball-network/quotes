@@ -1,3 +1,4 @@
+textId: 33
 location:
 speaker:
 message: >-
@@ -6,3 +7,40 @@ message: >-
   again.
 
   And that's all I've got left from the house that FunFrock razed.
+fr:
+  message: >-
+    C'est le texte de l'ancienne prophétie. Elle est destinée à ma famille, au
+    cas où, à leur tour, mes descendants seraient appelés par Sendell. Je n'en
+    aurai, je l'espère, plus jamais besoin.
+
+    Dire que c'est tout ce qui me reste de la maison que FunFrock a fait raser.
+de:
+  message: >-
+    Dies ist der Text der alten Weissagung, die für meine Familie gedacht ist,
+    falls meine Kinder ihrerseits einmal einen Ruf von Sendell erhalten sollten.
+    Ich hoffe, ich werde ihn nie wieder brauchen.
+
+    Wenn ich mir vorstelle, daß das alles ist, was von meinem Haus übrig ist,
+    nachdem FunFrock es dem Erdboden gleichgemacht hat.
+es:
+  message: >-
+    Es el texto de la antigua profecía. Está destinada a mi familia, suponiendo
+    que, a su vez, mis descendientes fueran llamados por Sendell. Espero que no
+    lo necesite nunca más.
+
+    Mira, es todo lo que me queda de la casa que FunFrock ha arrasado.
+it:
+  message: >-
+    E il testo dell'antica profezia. E' destinata alla mia famiglia nel caso che
+    i miei discendenti, a loro volta, fossero chiamati da Sendell. Spero di non
+    averne mai più bisogno.
+
+    E dire che è tutto quello che mi resta della casa che Funfrock ha fatto
+    radere al suolo.
+pt:
+  message: >-
+    É o texto de uma antiga profecia. Ela é destinada a minha família caso,
+    quando chegar sua vez, meus descendentes sejam chamados por Sendell. Espero
+    n╞o precisar mais disso.
+
+    E pensar que é tudo o que sobrou da casa que FunFrock mandou destruir.

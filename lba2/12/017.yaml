@@ -1,3 +1,14 @@
+textId: 282
 location:
 speaker:
 message: '"To the Temple of Bù."'
+fr:
+  message: '" Vers le Temple de Bù. "'
+de:
+  message: '"Zum Bü-Tempel."'
+es:
+  message: '"Al templo de Bú."'
+it:
+  message: '"Verso il Tempio di Bù."'
+pt:
+  message: '" Em direç╞o ao Templo de Bu. "'

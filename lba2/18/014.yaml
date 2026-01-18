@@ -1,4 +1,15 @@
+textId: 2
 location:
 speaker:
 message: FunFrock, you suck big time, and I'm going to take you out, and I don't
   mean for a pizza!
+fr:
+  message: Tu es ignoble FunFrock et j'empêcherai tout cela !
+de:
+  message: Du bist einfach niederträchtig, FunFrock! Ich werde das verhindern!
+es:
+  message: ¡Eres un traidor Funfrock y lo impediré!
+it:
+  message: Sei ignobile Funfrock. Impedirò tutto questo !
+pt:
+  message: Você é diabólico Funfrock, eu impedirei tudo isso !

@@ -1,4 +1,23 @@
+textId: 345
 location:
 speaker:
 message: By the way, don't forget that the trajectory of your magic ball changes
   with your behavior!
+fr:
+  message:
+    Au fait, n'oublie pas que la trajectoire de ta balle magique change en
+    fonction de ton comportement !
+de:
+  message: Vergiß nicht, daß die Flugbahn deines magischen Balls sich je nach
+    deinem Verhalten ändert!
+es:
+  message: Por cierto, ¡no olvides que la trayectoria de tu bola mágica cambia
+    según sea tu comportamiento!
+it:
+  message:
+    A proposito, non dimenticare che la traiettoria della tua sfera magica
+    cambia secondo il tuo comportamento !
+pt:
+  message:
+    A propósito, n╞o se esqueça de que a trajetória da bola mágica muda de
+    acordo com seu comportamento !

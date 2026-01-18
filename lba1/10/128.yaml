@@ -1,3 +1,12 @@
+textId: 137
 location:
 speaker:
 message: I have not seen this person.
+fr:
+  message: Je n'ai pas vu cette personne.
+de:
+  message: Ich habe diese Person nicht gesehen.
+es:
+  message: No he visto a esa persona.
+it:
+  message: Non ho vista questa persona.

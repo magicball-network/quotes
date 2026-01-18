@@ -1,3 +1,14 @@
+textId: 21
 location:
 speaker:
 message: Hey!... you know, you look like the guy in the picture!
+fr:
+  message: Tiens ... je trouve que vous ressemblez au personnage du tableau.
+de:
+  message: Also ich finde, Sie sehen der Person auf dem Bild sehr ähnlich.
+es:
+  message: Vaya ... pues se parece usted al personaje del cuadro.
+it:
+  message: Strano ... trovo che lei assomiglia al personaggio del quadro.
+pt:
+  message: Engraçado ... Eu acho que você é parecido com o personagem do quadro.

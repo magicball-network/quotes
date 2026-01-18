@@ -1,4 +1,25 @@
+textId: 194
 location:
 speaker:
 message: Hey there, don't forget my gazogem. I really need it to repair the
   vessel. And I think you'll really appreciate what it does to your protopack.
+fr:
+  message: Allo !! Twinsen, n'oublie pas d'aller me chercher du gazogem. J'en ai
+    absolument besoin pour réparer le vaisseau. Et en plus j'en profiterai pour
+    améliorer ton protopack.
+de:
+  message: Hallo! Twinsen, vergiß auf keinen Fall, mir GazoGem mitzubringen, ich
+    brauche das unbedingt, um das Raumschiff zu reparieren. Und außerdem kann
+    ich damit dein ProtoPack leistungsfähiger machen.
+es:
+  message: ¡¡Oye!! Twinsen, recuerda que tienes que ir a buscarme el gazogem. Me
+    es indispensable para reparar la nave. Y, además, aprovecharé para mejorar
+    tu protopack.
+it:
+  message: Pronto !! Twinsen, non dimenticare di andare a cercare il gazogem. Ne
+    ho assolutamente bisogno per riparare il vascello. E ne approfitterò anche
+    per migliorare il tuo Proto-Pack.
+pt:
+  message: Alô !! Twinsen, n╞o se esqueça de buscar gasógeno para mim. Preciso
+    dele de qualquer maneira para consertar a nave. Além disso aproveitarei para
+    melhorar o seu protopack.

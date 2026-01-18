@@ -1,3 +1,19 @@
+textId: 7
 location:
 speaker:
 message: Excuse him, he is a nice Grobo. You know, he only gives himself airs.
+fr:
+  message:
+    Excuse-le, c'est un gentil grobo. Tu sais, il ne fait que se donner des
+    allures.
+de:
+  message: Entschuldige ihn bitte, er ist eigentlich ein lieber Dicko. Er gibt
+    sich nur so.
+es:
+  message:
+    Perdónalo, es un elefo bueno. Pero, ya sabes, siempre tiene que llamar
+    la atención.
+it:
+  message: Lo devi scusare, è un grobo gentile. Sai, si dà soltanto delle arie.
+pt:
+  message: N╞o repare, é apenas um grobo. Ele só sabe fazer gracinhas.

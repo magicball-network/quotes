@@ -1,4 +1,18 @@
+textId: 13
 location:
 speaker:
 message: "New monsters are still coming to the village: the factory has not been
   completely disabled!"
+fr:
+  message: "Il arrive toujours de nouveaux monstres dans le village : l'usine
+    n'est pas totalement désactivée !"
+de:
+  message:
+    "Es kommen immer neue Monster in das Dorf : die Fabrik ist nicht völlig
+    abgeschaltet !"
+es:
+  message: "Siguen llegando nuevos monstruos al pueblo: ¡la fábrica no está
+    totalmente inutilizada!"
+it:
+  message: "Nel villaggio arrivano ancora nuovi mostri: la fabbrica non è
+    totalmente disattivata!"

@@ -1,3 +1,13 @@
+textId: 62
 location:
 speaker:
 message: Good day, if you like an item, move in front of it and use the ACTION command.
+fr:
+  message: Bonjour, si un article te plaît place-toi devant et fait ACTION.
+de:
+  message: Guten Tag, falls Dir ein Artikel gefällt, stell Dich davor und
+    aktiviere ACTION.
+es:
+  message: Buenos días, si un artículo te gusta, colócate delante y pulsa ACCION.
+it:
+  message: Buongiorno, se ti piace un articolo mettiti davanti e premi AZIONE.

@@ -1,3 +1,12 @@
+textId: 157
 location:
 speaker:
 message: Bah, you think so? And in the first place, I don't know it.
+fr:
+  message: Bof, vous trouvez ? Et puis d'abord je ne la connais pas.
+de:
+  message: Pfff, meinen Sie ? Und überhaupt, ich kenne Sie nicht.
+es:
+  message: ¿Ud. cree? En primer lugar, no le conozco.
+it:
+  message: Bah. E poi io non la conosco.

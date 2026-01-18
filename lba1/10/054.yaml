@@ -1,4 +1,18 @@
+textId: 60
 location:
 speaker:
 message: I didn't see her, but I think that I can trust you now. Follow me, I
   know how to get to the Astronomer's home.
+fr:
+  message: Je ne l'ai pas vue, mais maintenant je crois qu'on peut te faire
+    confiance. Suis-moi, j'ai un moyen pour aller chez l'Astronome.
+de:
+  message:
+    Ich habe sie nicht gesehen, aber ich glaube nun, daß man Dir vertrauen
+    kann. Folge mir, ich weiß wie man zum Astronomen gelangen kann.
+es:
+  message: No la he visto, pero ahora creo que se puede confiar en ti. Sígueme,
+    tengo un medio para ir a casa del Astrónomo.
+it:
+  message: Non l'ho vista, ma penso di potermi fidare di te. Seguimi, ho il modo
+    di raggiungere l'Astronomo.

@@ -1,5 +1,29 @@
+textId: 552
 location:
 speaker:
 message: No, Baldino left a little earlier for the emerald moon, where he'd
   noticed something was wrong. He left the proto-pack in working order downtown
   at the baggage claim, where you can pick it up.
+fr:
+  message:
+    Non ! Baldino était parti un peu avant sur la lune d'émeraude, car il y
+    avait observé des phénomènes étranges. Il t'a d'ailleurs laissé le
+    proto-pack en état de marche à la consigne du centre ville.
+de:
+  message: Nein! Baldino war kurz davor auf den Smaragd-Mond geflogen, weil er
+    dort seltsame Dinge beobachtet hat. Er hat übrigens ein voll
+    funktionsfähiges ProtoPack bei der Gepäckaufbewahrung in der Stadtmitte für
+    dich hinterlegt.
+es:
+  message: ¡No! Baldino se había ido un poco antes a la luna de esmeralda porque
+    había observado fenómenos extraños. Además te ha dejado el proto-pack a
+    punto en la consigna del centro de la ciudad.
+it:
+  message:
+    No ! Baldino era partito un po' prima sulla Luna di Smeraldo dove aveva
+    notato dei fenomeni strani. Ti ha peraltro lasciato il proto-pack in
+    funzione al deposito bagagli del centro.
+pt:
+  message: N╞o ! Baldino tinha partido um pouco antes para a Lua de Esmeralda,
+    pois tinha observado fenômenos estranhos nela. Aliás, ele deixou o
+    proto-pack funcionando no armazém no centro da cidade.

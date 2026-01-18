@@ -1,3 +1,14 @@
+textId: 376
 location:
 speaker:
 message: You cheater!!
+fr:
+  message: Tricheur !!
+de:
+  message: Falschspieler!!
+es:
+  message: ¡¡Tramposo!!
+it:
+  message: Imbroglione !!
+pt:
+  message: Trapaceiro !!

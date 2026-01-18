@@ -1,3 +1,14 @@
+textId: 543
 location:
 speaker:
 message: Imperial Hotel.
+fr:
+  message: Hôtel Impérial.
+de:
+  message: Hotel Imperial.
+es:
+  message: Hotel Imperial.
+it:
+  message: Hotel Imperial
+pt:
+  message: Hotel Imperial.

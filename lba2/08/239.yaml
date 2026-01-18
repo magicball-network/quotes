@@ -1,4 +1,24 @@
+textId: 83
 location:
 speaker:
 message: I am updating the works of my defunct son. Certain plans here date back
   from the time when he rebuilt the island's network of sewers.
+fr:
+  message:
+    Je remets à jour les travaux de mon défunt fils. Certains plans datent
+    de l'époque où il a refait le réseau d'égouts de l'île.
+de:
+  message: Ich möchte die Arbeiten meines verstorbenen Sohnes der Öffentlichkeit
+    zugänglich machen. Einige der Pläne stammen noch aus der Zeit, zu der das
+    Kanalisationsnetz der Insel erneuert wurde.
+es:
+  message: Estoy actualizando los trabajos de mi difunto hijo. Algunos planos
+    datan de la época en que rehizo la red de cloacas de la isla..
+it:
+  message:
+    Sto aggiornando i lavori del mio defunto figlio. Alcune mappe risalgono
+    all'epoca del suo lavoro di riabilitazione della rete fognaria dell'isola.
+pt:
+  message:
+    Estou atualizando os trabalhos de meu filho que morreu. Algumas plantas
+    datam da época em que ele refez a rede de esgotos da ilha.

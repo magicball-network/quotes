@@ -1,4 +1,22 @@
+textId: 226
 location:
 speaker:
 message: This portable radio allows you to dialogue with Baldino and Zoé when
   they are listening and if they are not out of range.
+fr:
+  message: Cette radio portable te permet de dialoguer avec Baldino et Zoé
+    lorsqu'ils sont à l'écoute et s'ils ne sont pas hors de portée.
+de:
+  message: Mit diesem Funksprechgerät kannst du mit Baldino und Zoe sprechen,
+    vorausgesetzt, die beiden haben ihr Gerät auf Empfang geschaltet und sind
+    nicht außer Reichweite.
+es:
+  message:
+    Esta radio portátil te permite dialogar con Baldino y Zoé cuando están
+    a la escucha y no están fuera de cobertura.
+it:
+  message: Questa radio portatile ti permette di dialogare con Baldino e Zoe
+    quando sono in ascolto e se non sono fuori portata massima.
+pt:
+  message: Com esse rádio portátil você pode conversar com Baldino e Zoé quando
+    eles estiverem na escuta e se eles n╞o estiverem fora do alcance.

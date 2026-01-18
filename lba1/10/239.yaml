@@ -1,4 +1,18 @@
+textId: 256
 location:
 speaker:
 message: Well ... I don't know, but someone in the Old Burg must know something
   about this stupid Legend.
+fr:
+  message: Ben ... je ne sais pas, mais pourtant dans le Vieux Bourg certains
+    doivent bien la connaître cette fichue Légende.
+de:
+  message: Hmm ... ich weiß nicht, aber es müssen doch einige Leute in der
+    Altstadt diese verflixte Legende sicher kennen.
+es:
+  message: Bah ... no sé, sin embargo en el Viejo Burgo hay algunos que deben
+    conocer esa dichosa Leyenda.
+it:
+  message:
+    Beh, io non so, eh, ma nel Vecchio Borgo qualcuno deve conoscere questa
+    cavolo di leggenda.

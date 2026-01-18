@@ -1,3 +1,14 @@
+textId: 584
 location:
 speaker:
 message: Here, to thank you, take this gem.
+fr:
+  message: Tiens, pour te remercier, prend cette gemme.
+de:
+  message: Hier, nimm diesen Edelstein als Dank.
+es:
+  message: Toma, en agradecimiento, coge esta gema.
+it:
+  message: Tieni, per ringraziarti, prendi questa gemma.
+pt:
+  message: Toma, para te agradecer, pegue esta pedra preciosa.

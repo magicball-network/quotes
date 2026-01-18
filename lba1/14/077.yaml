@@ -1,4 +1,20 @@
+textId: 77
 location:
 speaker:
 message: That name sounds familiar. Go visit the Maritime museum, I think that
   they have two objects that belonged to LeBorgne.
+fr:
+  message:
+    Ce nom-là me dit quelque chose. Va visiter le Musée de la Marine, il me
+    semble qu'ils possèdent deux objets ayant appartenus à LeBorgne.
+de:
+  message:
+    Dieser Name sagt mir etwas. Besichtige das Marinemuseum, ich glaube die
+    haben dort zwei Gegenstände, die EinAuge gehörten.
+es:
+  message: Ese nombre me dice algo. Vaya a visitar el Museo de la Marina, me
+    parece que poseen dos objetos que han pertenecido a El Tuerto.
+it:
+  message:
+    Quel nome mi dice qualcosa. Visita il Museo della Marina, mi sembra che
+    possiedano due oggetti che sono appartenuti al Guercio.

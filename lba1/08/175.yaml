@@ -1,3 +1,12 @@
+textId: 182
 location:
 speaker:
 message: Can I see your ferry ticket please?
+fr:
+  message: Montrez-moi votre ticket pour le ferry je vous prie.
+de:
+  message: Zeigen Sie mir bitte Ihren Fahrschein für die Fähre.
+es:
+  message: Muéstreme su billete para el ferry, por favor.
+it:
+  message: Per favore, mi faccia vedere il suo biglietto.

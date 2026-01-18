@@ -1,3 +1,14 @@
+textId: 509
 location:
 speaker:
 message: Hi Zed.
+fr:
+  message: Salut Zed.
+de:
+  message: Hallo, Zed.
+es:
+  message: Hola Zed.
+it:
+  message: Ciao Zed.
+pt:
+  message: Olá, Zed.

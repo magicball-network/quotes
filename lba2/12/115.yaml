@@ -1,3 +1,17 @@
+textId: 287
 location:
 speaker:
 message: You can borrow this vial, I don't think Master Ker'aooc has much use for it.
+fr:
+  message: Vous pouvez emprunter ce flacon, Maître Ker'aooc n'en a sûrement pas besoin.
+de:
+  message: Sie können das Fläschchen ausleihen, Meister Ker'aooc braucht es
+    bestimmt nicht.
+es:
+  message: Puede llevarse ese frasco, seguro que el Maestro Ker'aooc no lo necesita.
+it:
+  message:
+    Può prendere questo flacone, il Maestro Ker'aooc non ne ha sicuramente
+    bisogno.
+pt:
+  message: Você pode levar este frasco, Mestre Ker'aooc n╞o precisa mais dele.

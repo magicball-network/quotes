@@ -1,3 +1,12 @@
+textId: 74
 location:
 speaker:
 message: The 4 crates are not on the 4 crosses, try again!
+fr:
+  message: Les 4 caisses ne sont pas sur les 4 croix, essaie encore !
+de:
+  message: Die 4 Kisten stehen nicht auf den 4 Kreuzen, versuch's nochmal !
+es:
+  message: Las 4 cajas no están sobre las 4 cruces, ¡prueba una vez más!
+it:
+  message: Le 4 casse non sono sulle 4 croci. Riprova!

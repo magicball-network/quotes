@@ -1,3 +1,14 @@
+textId: 254
 location:
 speaker:
 message: This frying pan is not for sale, it's only for the decor.
+fr:
+  message: Cette poêle n'est pas à vendre, elle est juste décorative.
+de:
+  message: Diese Pfanne ist unverkäuflich, die ist nur zur Dekoration da.
+es:
+  message: Esta sartén no se vende, está para adornar.
+it:
+  message: Questa padella non è in vendita, è solo decorativa.
+pt:
+  message: Essa panela n╞o está a venda, é apenas decoraç╞o.

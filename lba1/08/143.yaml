@@ -1,5 +1,25 @@
+textId: 150
 location:
 speaker:
 message: I know that LeBorgne had some kind of a captain's log written for him
   (he was practically illiterate), and the boss of the tavern on Principal
   Island knows where it is!
+fr:
+  message:
+    Je sais que LeBorgne avait fait rédiger pour lui une sorte de livre de
+    bord (ce pirate était pratiquement analphabète). Et le patron de la taverne
+    sur l'île Principale sait où il se trouve !
+de:
+  message:
+    Ich weiß, daß EinAuge eine Art Logbuch für sich schreiben ließ (dieser
+    Pirat war praktisch Analphabet). Und der Wirt der Taverne auf der Hauptinsel
+    weiß wo es ist !
+es:
+  message:
+    Sé que El Tuerto había hecho redactar para sí una especie de bitácora.
+    (Ese pirata era prácticamente analfabeto). ¡Y el patrón de la taberna de la
+    isla Principal sabe donde se encuentra!
+it:
+  message: So che il Guercio aveva fatto redigere una specie di libro di bordo
+    (lui era praticamente analfabeta). E il padrone della taverna sull'Isola
+    Principale sa dove si trova!

@@ -1,4 +1,19 @@
+textId: 72
 location:
 speaker:
 message: Don't touch the alarm button, the grobo is wiring it as we speak. And
   in any case, it is forbidden to touch it!
+fr:
+  message: Ne touchez pas au bouton d'alerte, le grobo est en train de le
+    raccorder. Et d'abord c'est interdit d'y toucher !
+de:
+  message: Rühren sie den Alarmknopf nicht an, der Dicko schließt ihn gerade an.
+    Und überhaupt, es ist verboten daran zu gehen !
+es:
+  message:
+    Que toque el botón de alerta, el elefos está va a pulsarlo. ¡Y primero
+    que nada está prohibido tocarlo!
+it:
+  message:
+    Non si deve toccare il pulsante di allarme, il grobo lo sta collegando.
+    E poi è vietato toccarlo!

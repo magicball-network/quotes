@@ -1,4 +1,17 @@
+textId: 64
 location:
 speaker:
 message: I can help you get rid of the Supergro. Follow me, but wait until he
   moves away from the steps before going by!
+fr:
+  message: Je peux t'aider à te débarrasser du Supergro. Suis-moi, mais attends
+    qu'il s'éloigne des marches pour passer !
+de:
+  message: Ich kann Dir helfen Superdicko loszuwerden. Folge mir, aber warte bis
+    er sich von den Stufen entfernt, bevor Du weitergehst !
+es:
+  message: Puedo ayudarte a quitarte de encima al Supergordo. Sígueme, pero
+    ¡espera que se aleje de los peldaños para pasar!
+it:
+  message: Posso aiutarti a sbarazzarti dal Supergro. Seguimi, ma aspetta che si
+    allontani dalle scale prima di passare!

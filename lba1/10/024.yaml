@@ -1,5 +1,23 @@
+textId: 23
 location:
 speaker:
 message: A ferry ticket costs 10 kashes. However as I have a WANTED poster in my
   office, you will have to pay 30 Kashes to make me overlook the fact that you
   look a lot like the guy on it.
+fr:
+  message: Un ticket de ferry coûte 10 Kashes. Mais comme j'ai un avis de
+    recherche dans mon bureau, il me faudra 30 Kashes pour oublier que tu lui
+    ressembles.
+de:
+  message: Ein Fahrschein für die Fähre kostet 10 Kashes. Aber da ich einen
+    Steckbrief in meinem Büro habe, brauche ich 30 Kashes, damit ich vergessen
+    kann, daß Du ihm ähnlich siehst.
+es:
+  message:
+    Un billete para el ferry cuesta 10 Kashes. Pero como tengo un aviso de
+    búsqueda en mi oficina, me harán falta 30 Kashes para olvidar que te pareces
+    a él.
+it:
+  message: Un biglietto costa 10 Kash, ma siccome ho un bando di ricerca che ti
+    riguarda nel mio ufficio, mi basteranno 30 Kash per dimenticare che gli
+    assomigli.

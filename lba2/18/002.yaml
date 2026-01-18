@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: What did you see over there?
+fr:
+  message: Qu'est-ce qu'il y a là-bas, qu'est-ce que vous y avez vu ?
+de:
+  message: Und was gibt es dort zu sehen?
+es:
+  message: ¿Qué hay allí, qué vio?
+it:
+  message: Cosa c'è laggiù, cosa ha visto ?
+pt:
+  message: O que tem lá, o que você viu lá ?

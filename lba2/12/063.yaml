@@ -1,4 +1,19 @@
+textId: 855
 location:
 speaker:
 message: They claim to be peaceful... but let's be careful, they look sort of
   aggressive to me.
+fr:
+  message: Ils se disent pacifiques mais je me méfie, je les trouve bien agressifs.
+de:
+  message:
+    Sie behaupten zwar, sie seien in friedlicher Absicht gekommen, aber ich
+    finde sie ziemlich aggressiv.
+es:
+  message:
+    Dicen que son pacíficos, pero no me fío nada, a mí me parecen bastante
+    agresivos.
+it:
+  message: Si dicono pacifici, ma non mi fido, li trovo così aggressivi.
+pt:
+  message: Eles dizem que s╞o pacíficos mas eu desconfio, acho que s╞o bastante hostis.

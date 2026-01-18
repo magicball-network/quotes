@@ -1,3 +1,12 @@
+textId: 241
 location:
 speaker:
 message: I don't know her. Sorry.
+fr:
+  message: Je ne la connais pas, désolé.
+de:
+  message: Ich kenne sie nicht, tut mir leid.
+es:
+  message: Lo desconozco, lo siento.
+it:
+  message: Non la conosco, mi spiace.

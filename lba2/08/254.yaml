@@ -1,3 +1,14 @@
+textId: 315
 location:
 speaker:
 message: For 10 Kashes, wher...where do you want to go?
+fr:
+  message: Pour 10 Kashes, où désirez vous aller ?
+de:
+  message: Ich kann Sie für 10 Kashes fahren. Wohin wollen Sie?
+es:
+  message: ¿Adónde desea ir por 10 Kashes?
+it:
+  message: Per 10 Kashes, dove desidera andare ?
+pt:
+  message: Por 10 Kashes, onde você deseja ir?

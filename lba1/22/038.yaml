@@ -1,3 +1,12 @@
+textId: 44
 location:
 speaker:
 message: The Teleportation Center.
+fr:
+  message: le Centre de Téléportation.
+de:
+  message: Das Biemzentrum.
+es:
+  message: El Centro de Teleportación.
+it:
+  message: Il Centro di Teletrasporto.

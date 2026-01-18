@@ -1,3 +1,16 @@
+textId: 70
 location:
 speaker:
 message: A pleasant stay in our magnificent school of magic!!
+fr:
+  message: Bon séjour dans notre magnifique école de magie !!
+de:
+  message:
+    Einen angenehmen Aufenthalt in unserer großartigen Zauberschule wünsche
+    ich Ihnen!!!
+es:
+  message: ¡¡Les deseo una estancia agradable en nuestra magnífica escuela de magia!!
+it:
+  message: Buona permanenza nella nostra splendida Scuola di Magia !!
+pt:
+  message: Tenha uma boa estada na nossa magnífica Escola de Magia!!

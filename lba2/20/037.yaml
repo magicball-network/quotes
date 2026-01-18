@@ -1,5 +1,24 @@
+textId: 583
 location:
 speaker:
 message: Here, as a token of my gratitude, I'm giving you this glove. It
   protects us from fire and lets us get the gems out of the molten lava without
   burning up.
+fr:
+  message: Tiens, pour te remercier, je te donne ce gant. Il nous protège du feu
+    et nous permet de sortir des gemmes de la lave en fusion.
+de:
+  message:
+    Hier, als Dank möchte ich dir diesen Handschuh schenken. Er schützt uns
+    gegen Feuer und ermöglicht es uns, die Juwelen aus der flüssigen Lava zu
+    holen.
+es:
+  message: Toma, en agradecimiento, te doy este guante. Nos protege del fuego y
+    nos permite sacar gemas de la lava fundida.
+it:
+  message: Tieni, per ringraziarti, ti offro questo guanto. Protegge dal fuoco e
+    permette di estrarre le gemme dalla lava bollente.
+pt:
+  message:
+    Olha, queria te agradecer te dando esta luva. Ela nos protege do fogo e
+    com ela podemos extrair pedras preciosas da lava fervendo.

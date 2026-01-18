@@ -1,4 +1,17 @@
+textId: 28
 location:
 speaker:
 message: Welcome aboard! You have picked a wonderful day for travelling, the
   weather is beautiful!
+fr:
+  message:
+    Bienvenue à bord. Vous avez de la chance, on nous annonce un vrai temps
+    de croisière !
+de:
+  message: Willkommen an Bord. Sie haben Glück, es wird ein wahres
+    Kreuzfahrtwetter angesagt !
+es:
+  message: Bienvenido a bordo. ¡Tiene suerte, nos han anunciado que tendremos un
+    tiempo magnífico durante el viaje!
+it:
+  message: Benvenuto a bordo. E' fortunato, il bollettimo meteo è ottimo!

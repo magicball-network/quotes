@@ -1,3 +1,14 @@
+textId: 33
 location:
 speaker:
 message: You now own the Mosquibees key fragment.
+fr:
+  message: Tu possèdes maintenant le fragment de clé des Mosquibees.
+de:
+  message: Du besitzt jetzt das Schlüsselfragment der Moskibienos.
+es:
+  message: Ahora posees el fragmento de llave de los Mosquibitas..
+it:
+  message: Adesso hai un frammento della chiave dei Moschibei.
+pt:
+  message: Você tem agora a parte de chave dos Mosquibees.

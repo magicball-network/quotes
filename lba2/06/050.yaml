@@ -1,4 +1,20 @@
+textId: 49
 location:
 speaker:
 message: You just found a piece of the Crystal of Celebration. Now you can
   reload your laser-pistol.
+fr:
+  message: Tu viens de récupérer un morceau du Cristal de la Célébration. Il te
+    permettra de recharger un pistolaser.
+de:
+  message: Du hast ein Kristallstück von der Insel der Feste bekommen. Mit ihm
+    kannst du einen PistoLaser erneut aufladen.
+es:
+  message: Acabas de recuperar un trozo del Cristal de la Celebración.
+it:
+  message:
+    Hai recuperato un pezzo di Cristallo della Celebrazione. Ti permetterà
+    di ricaricare una pistolaser.
+pt:
+  message: Você adquiriu uma parte do Cristal da Celebraç╞o. Com ele você poderá
+    recarregar uma pistolaser.

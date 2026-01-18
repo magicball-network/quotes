@@ -1,5 +1,28 @@
+textId: 21
 location:
 speaker:
 message: The control center is on island CX. The only way in is the passage
   which starts from the under-gas. Fortunately, the rebels from above told me
   the local rebels would help me.
+fr:
+  message: Le centre de contrôle est sur l'îlot CX et le seul accès, c'est le
+    passage qui part du sous-gaz. Les dissidents du haut m'ont dit que ceux
+    d'ici m'aideraient.
+de:
+  message:
+    Das Kontrollzentrum liegt auf dem Eiland CX, und der einzige Zugang ist
+    der Gang, der unter der Gaswolke beginnt. Die Rebellen oben haben mir
+    gesagt, daß die Rebellen hier unten mir helfen würden.
+es:
+  message: El centro de control está en el islote CX y el único acceso es el
+    pasadizo que sale del sub-gas. Los disidentes de arriba me han dicho que los
+    de aquí me ayudarían.
+it:
+  message:
+    Il centro di controllo è sull'isolotto CX e l'unica via d'accesso è il
+    passaggio che parte dal sotto-gas. I dissidenti dell'alto mi hanno detto che
+    voi mi avreste aiutato.
+pt:
+  message: O centro de controle fica na Ilhota CX e o único acesso é a passagem
+    que sai do sub-gás. Os rebeldes do alto me disseram que os daqui me
+    ajudariam.

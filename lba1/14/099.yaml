@@ -1,3 +1,12 @@
+textId: 199
 location:
 speaker:
 message: To the Marked Stone.
+fr:
+  message: Vers la Pierre Scellée.
+de:
+  message: Zum Versiegelten Stein.
+es:
+  message: Hacia la Piedra Sellada.
+it:
+  message: Verso la Pietra col Sigillo.

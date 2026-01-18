@@ -1,6 +1,27 @@
+textId: 40
 location:
 speaker:
 message: |-
   " L.B.A.
   Proxim-City sewer service
   Ferry Street "
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts de Proxim-City
+    Rue du Bac "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst von Proxim-City
+    Trog Straße"
+es:
+  message: |-
+    "L.B.A.
+    Servicio de alcantarillado de Proxim-City
+    Calle del Bac"
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario di Proxim-City
+    Via della Chiatta"

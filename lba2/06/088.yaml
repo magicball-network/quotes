@@ -1,3 +1,14 @@
+textId: 132
 location:
 speaker:
 message: Fragment of the Sups
+fr:
+  message: Fragment des Sup's
+de:
+  message: Fragment der Elitos
+es:
+  message: Fragmento de los Sup's
+it:
+  message: Frammento dei Sup's
+pt:
+  message: Parte de chave dos Sup's

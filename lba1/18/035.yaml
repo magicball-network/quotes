@@ -1,5 +1,23 @@
+textId: 36
 location:
 speaker:
 message: What are you doing there? They're letting anyone in here now! I even
   captured an elf a little while ago. I don't know what to do with him,
   officially, that doesn't even exist!
+fr:
+  message: Que faites-vous là ? On rentre comme dans un moulin ici ! Tout à
+    l'heure j'ai même capturé un lutin. Je ne sais pas quoi en faire,
+    officiellement ça n'existe pas !
+de:
+  message: Was machen Sie da ? Das ist hier wie in einem Hotel ! Vorhin habe ich
+    sogar einen Kobold erwischt. Ich weiß nicht was ich damit machen soll,
+    offiziell gibt's das nicht !
+es:
+  message:
+    ¿Qué hacen ahí? ¡Se entra aquí como en un molino! Hace un rato yo mismo
+    capturé a un duende. No sé que hacer con él, oficialmente no existen.
+it:
+  message:
+    Cosa fa lei qui? Questa casa sembra un porto di mare! Addirittura prima
+    ho catturato un folletto. Non so cosa farne, ufficialmente non dovrebbe
+    neppure esistere!

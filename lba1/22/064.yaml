@@ -1,3 +1,12 @@
+textId: 78
 location:
 speaker:
 message: Or your life!
+fr:
+  message: Ou alors ta vie !
+de:
+  message: Oder Dein Leben !
+es:
+  message: ¡O si no tu vida!
+it:
+  message: O la vita !

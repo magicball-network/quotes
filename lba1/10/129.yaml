@@ -1,6 +1,30 @@
+textId: 138
 location:
 speaker:
 message: My dear sir, I have been looking for Captain LeBorgne's log for years
   now. And would you believe that I found it today while shopping in the Old
   Burg? Naturally, such a piece should be consulted on site. Go look on the
   table in the back of the room next to the projection room.
+fr:
+  message:
+    Mon cher, cela fait des années que nous cherchions le livre de bord du
+    Capitaine Leborgne. Et bien figurez-vous que je viens juste de le trouver en
+    faisant mes courses dans le Vieux Bourg ! Evidemment un tel ouvrage est à
+    consulter sur place. Voyez sur la table du fond, près de la salle de
+    projection.
+de:
+  message: Mein lieber, wir haben jahrelang das Logbuch des Kapitäns EinAuge
+    gesucht. Und stellen Sie sich vor, ich habe es vorhin beim Einkaufen in der
+    Altstadt gefunden ! Natürlich muß ein solches Werk vor Ort eingesehen
+    werden. Gehen Sie zum Tisch dort ganz hinten, gleich neben dem Vorführraum.
+es:
+  message:
+    Mi estimado, hace años que buscamos la bitácora del Capitán El Tuerto.
+    Y bien, imagínese que ¡acabo de encontrarlo haciendo mis compras en el Viejo
+    Burgo! Evidentemente una obra como esa hay que consultarla en el sitio.
+    Mire, allí en la mesa del fondo, cerca de la sala de proyección.
+it:
+  message: Caro mio, erano anni che cercavo il libro di bordo del Capitano
+    Guercio. E proprio oggi, mentre facevo la spesa nel Vecchio Borgo, mi è
+    capitato fra le mani! Si tratta ovviamente di un'opera da consultare sul
+    posto. E' là, su quel tavolo, vicino alla sala di proiezione.

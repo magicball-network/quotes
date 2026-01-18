@@ -1,3 +1,12 @@
+textId: 173
 location:
 speaker:
 message: Go to the tavern, they love pirate stories there!
+fr:
+  message: Allez en parler à la taverne, ils adorent les histoires de pirates là-bas !
+de:
+  message: Gehen Sie doch in die Taverne, die lieben dort Piratengeschichten !
+es:
+  message: Vaya a hablar a la taberna, ¡allí adoran las historias de piratas!
+it:
+  message: Vada alla taverna a parlarne, là adorano le storie di pirati!

@@ -1,4 +1,21 @@
+textId: 488
 location:
 speaker:
 message: "I am going to tell you a little secret: a wizard told me that he might
   have hidden a protective spell on the island across from the Hacienda."
+fr:
+  message:
+    "Je vais te confier un petit secret : un mage m'a raconté qu'il aurait
+    caché un sort de protection sur l'îlot en face de l'hacienda."
+de:
+  message: "Ich vertrau' dir ein Geheimnis an: Ein Magier hat mir gesagt, daß er
+    einen Schutzzauber auf dem Eiland gegenüber der Hacienda versteckt hat."
+es:
+  message: "Voy a contarte un pequeño secreto: un mago me ha contado que había
+    escondido un hechizo de protección enfrente de la hacienda."
+it:
+  message: "Ti confesso un piccolo segreto : un mago mi ha raccontato di avere
+    nascosto un sortilegio di protezione sull'isolotto di fronte all'Hacienda."
+pt:
+  message: "Eu vou te contar um pequeno segredo : um mago me contou que ele
+    escondeu um feitiço de proteç╞o na Ilhota em frente à Fazenda."

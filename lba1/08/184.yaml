@@ -1,5 +1,23 @@
+textId: 192
 location:
 speaker:
 message: "Do what I do: gather up the clover leaves and the boxes. You need one
   box to hold each clover leaf. Each clover leaf will give you another chance
   when you are in an extremely dangerous situation."
+fr:
+  message: "Fais comme moi : collectionne les trèfles et les boîtes, il faut une
+    boîte pour contenir chaque trèfle. Et chaque trèfle te donne une nouvelle
+    chance dans les situations périlleuses."
+de:
+  message:
+    "Mach es so wie ich : sammel Kleeblätter und Kästchen, man braucht ein
+    Kästchen für jedes Kleeblatt. In gefährlichen Situationen gibt Dir jedes
+    davon eine neue Chance."
+es:
+  message: "Haz como yo: colecciona tréboles y cajas, es necesario una caja para
+    que contenga cada trébol. Y cada trébol te da una nueva oportunidad en las
+    situaciones peligrosas."
+it:
+  message: "Fa' come me: colleziona trifogli e scatole; per ogni trifoglio è
+    necessaria una scatola. E ogni trifoglio ti offre un'altra chance nelle
+    situazioni più pericolose."

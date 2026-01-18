@@ -1,3 +1,18 @@
+textId: 37
 location:
 speaker:
 message: You need a ticket to board the ferry. You can buy one next door.
+fr:
+  message:
+    Il faut un ticket pour embarquer sur le ferry, monsieur. Vous pouvez en
+    acheter un juste à coté.
+de:
+  message: Sie brauchen ein Fahrschein für die Fähre mein Herr. Sie können dort
+    gleich nebenan einen kaufen.
+es:
+  message:
+    Es necesario un billete para embarcar en el ferry señor. Puede comprar
+    uno justo al lado.
+it:
+  message: Per prendere il traghetto ci vuole un biglietto, signore. Può
+    acquistarne uno proprio qui di fianco.

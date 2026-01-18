@@ -1,3 +1,14 @@
+textId: 851
 location:
 speaker:
 message: No, I have to find the school of magic.
+fr:
+  message: Non, je dois trouver l'école de magie.
+de:
+  message: Nein, ich muß die Zauberschule finden.
+es:
+  message: No, tengo que encontrar la escuela de magia.
+it:
+  message: No, devo trovare la scuola di magia.
+pt:
+  message: N╞o, eu tenho que encontrar a Escola de Magia.

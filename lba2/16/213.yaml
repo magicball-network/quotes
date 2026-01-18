@@ -1,5 +1,27 @@
+textId: 425
 location:
 speaker:
 message: I've got it! There's a passage between the under-gas and island CX. The
   entrance is in the Mosquibee village, that's what lets them keep the
   government soldiers out.
+fr:
+  message: Moi je sais ! Il existe un passage entre le sous-gaz et l'îlot CX.
+    L'entrée est dans le village des mosquibees, c'est ce qui leur permet de
+    tenir les soldats du gouvernement hors de leur village.
+de:
+  message: Ich hab's! Zwischen dem Gebiet unter der Gaswolke und dem Eiland CX
+    gibt es einen Geheimgang. Der Eingang dazu liegt im Dorf der Moskibienos. So
+    schaffen sie es auch, die Regierungssoldaten von ihrem Dorf fernzuhalten.
+es:
+  message: ¡Yo sí lo sé! Existe un pasadizo secreto entre el sub-gas y el islote
+    CX. La entrada está en el pueblo de los mosquibitas, es lo que les permite
+    mantener a los soldados del gobierno fuera de su pueblo
+it:
+  message: Io lo so ! Esiste un passaggio tra il sotto-gas e l'isolotto CX.
+    L'entrata è nel villaggio dei Moschibei e permette loro di tenere i soldati
+    del governo fuori dal loro villaggio.
+pt:
+  message:
+    Eu sei ! Há uma passagem entre o sub-gás e a Ilhota CX. A entrada fica
+    na vila dos mosquibees, é como conseguem manter os soldados do governo fora
+    de sua vila.

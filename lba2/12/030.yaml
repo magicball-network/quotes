@@ -1,3 +1,14 @@
+textId: 408
 location:
 speaker:
 message: Do you know where to find the school of magic?
+fr:
+  message: Vous savez où se trouve l'école de magie ?
+de:
+  message: Wissen Sie, wo die Zauberschule ist?
+es:
+  message: ¿Sabe usted dónde se encuentra la escuela de magia?
+it:
+  message: Sa dove si trova la Scuola di magia ?
+pt:
+  message: Você sabe onde fica a Escola de Magia ?

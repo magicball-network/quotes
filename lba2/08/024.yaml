@@ -1,3 +1,14 @@
+textId: 415
 location:
 speaker:
 message: I'm going back to Lupin-Bourg.
+fr:
+  message: Je retourne à Lupin-Bourg.
+de:
+  message: Ich gehe zurück zur Lupinburg.
+es:
+  message: Vuelvo a Lupin-Bourg.
+it:
+  message: Torno a Lupinburgo.
+pt:
+  message: Eu volto à Cidade de Lupin.

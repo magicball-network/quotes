@@ -1,3 +1,16 @@
+textId: 61
 location:
 speaker:
 message: My cousin is a locksmith. He will open the unguarded door for you. Follow me!
+fr:
+  message:
+    Mon cousin est serrurier, il t'ouvrira le portail qui n'est pas gardé.
+    Suis-moi !
+de:
+  message: Mein Cousin ist Schlosser, er wird Dir das Tor öffnen, das nicht
+    bewacht wird. Folge mir !
+es:
+  message: Mi primo es cerrajero, te abrirá el portalón que no está custodiado.
+    ¡Sígueme!
+it:
+  message: Mio cugino è fabbro, ti aprirà il portone che non è custodito. Seguimi !

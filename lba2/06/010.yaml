@@ -1,3 +1,21 @@
+textId: 9
 location:
 speaker:
 message: You have found a laser-pistol. It needs a rock crystal to work properly.
+fr:
+  message:
+    Tu as trouvé un pistolet laser. Il a besoin d'un cristal de roche pour
+    fonctionner.
+de:
+  message:
+    Du hast einen PistoLaser gefunden. Er benötigt einen Steinkristall, um
+    zu funktionieren.
+es:
+  message: Has encontrado una pistola láser.
+it:
+  message: Hai trovato una pistola laser. Per farla funzionare devi avere un
+    cristallo di roccia.
+pt:
+  message:
+    Você encontrou uma pistola a laser. Ela precisa de um cristal de rocha
+    para funcionar.

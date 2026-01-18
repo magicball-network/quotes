@@ -1,5 +1,25 @@
+textId: 7
 location:
 speaker:
 message: From this warehouse we send material to the other hemisphere, we use a
   shuttle that dates back to the old subway lines. I participated in its
   construction but I've been waiting for a ferry for two years... Two years!!
+fr:
+  message: Depuis cet entrepôt on envoie du matériel dans l'autre hémisphère, on
+    utilise une capsule qui date de l'ancien métro. Moi j'ai participé à la
+    construction, mais ca va faire deux ans que j'attends un ferry ... Deux ans
+    ! !
+de:
+  message:
+    Von diesem Depot aus wird Material zur anderen Halbkugel geschickt, es
+    wird dazu eine Kapsel benutzt, die aus der Zeit der früheren Metro stammt.
+    Ich habe beim Bau mitgewirkt, aber ich warte seit fast zwei Jahren auf eine
+    Fähre ... Zwei Jahre ! !
+es:
+  message: Desde este depósito se envía material al otro hemisferio, se utiliza
+    una cápsula que procede del antiguo metro. Yo participé en la construcción,
+    pero ya va para dos años que espero un ferry ¡Dos años!
+it:
+  message: Da questo deposito viene inviato materiale nell'altro emisfero. Si
+    utilizza una capsula che risale all'antica metropolitana. Io ho partecipato
+    alla costruzione, ma è due anni che aspetto un traghetto... Due anni!!

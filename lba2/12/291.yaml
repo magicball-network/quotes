@@ -1,4 +1,22 @@
+textId: 756
 location:
 speaker:
 message: Ah no!! If I had seen any, I'd have asked them to help me pass at least
   one test!!!
+fr:
+  message:
+    Ha non !! Si j'en avais vu, je leur aurais demandé de m'aider à passer
+    ne serait ce qu'une seule épreuve !!!
+de:
+  message: Ganz bestimmt nicht! Wenn ich welche gesehen hätte, hätte ich sie
+    gebeten, mir zu helfen, wenigstens eine der Prüfungen zu schaffen!!!
+es:
+  message: ¡¡Ah no!! Si los hubiera visto, les habría pedido que me ayudaran a
+    superar aunque sólo fuera una prueba!!
+it:
+  message: Ah, no !! Se ne avessi visto uno, gli avrei chiesto di aiutarmi a
+    superare almeno una prova !!!
+pt:
+  message:
+    Ah n╞o !! Se eu tivesse visto, teria pedido que me ajudasse a passar em
+    ao menos uma prova !!!

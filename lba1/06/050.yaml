@@ -1,3 +1,14 @@
+textId: 120
 location:
 speaker:
 message: Ancestral Key. Opens the secret compartment in Twinsen's house.
+fr:
+  message: Clef Ancestrale. Elle permet d'ouvrir la cache secrète chez Twinsen.
+de:
+  message: Alter Schlüssel. Er emöglicht das Geheimversteck bei Twinsen zu öffnen.
+es:
+  message: Llave Ancestral. Permite abrir el escondite secreto de Twinsen.
+it:
+  message:
+    Chiave Ancestrale. Consente di aprire il nascondiglio segreto a casa di
+    Twinsen.

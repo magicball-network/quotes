@@ -1,4 +1,21 @@
+textId: 508
 location:
 speaker:
 message: Only the welcoming building controls the opening of the doors. If you
   want to enter here, you must ask them to open!
+fr:
+  message: Seul le bâtiment d'accueil contrôle l'ouverture des portes. Si vous
+    voulez entrer ici, vous devez leur demander d'ouvrir !
+de:
+  message: Das Empfangsgebäude steuert die Öffnung sämtlicher Türen. Wenn Sie
+    durch diese Tür wollen, müssen Sie dort nachfragen, ob man sie Ihnen öffnet!
+es:
+  message:
+    Sólo el edificio de recepción controla la apertura de las puertas. ¡Si
+    quiere entrar aquí, tiene que solicitar que le abran!
+it:
+  message: Solo il servizio accoglienza dell'immobile controlla l'apertura delle
+    porte. Se volete entrare qui, dovete chiedere che vi aprano !
+pt:
+  message: Apenas a recepç╞o controla a abertura das portas. Se quiser entrar
+    aqui, você deve pedir que eles abram!

@@ -1,3 +1,4 @@
+textId: 15
 location:
 speaker:
 message: "We're going to help you take the fort: you will guide me, and I'll
@@ -5,3 +6,29 @@ message: "We're going to help you take the fort: you will guide me, and I'll
   zones and don't forget to neutralize the emitter. We won't talk during the
   combats and if I bite it, another rebel will come and take my place, he'll
   wait for you at the landing site."
+fr:
+  message: "Nous allons t'assister pour prendre le fortin : tu me guideras et je
+    te suivrai avec mes grenades ! Alors surtout attends-moi avant de changer de
+    zone et n'oublie pas de neutraliser l'émetteur. On ne parle pas durant les
+    combats et si j'y reste un autre rebelle me remplacera, il t'attendra à
+    l'endroit du débarquement."
+de:
+  message:
+    "Wir werden Dir beistehen um das Fort einzunehmen : Du führst mich, und
+    ich folge Dir mit meinen Granaten ! Also vor allem warte auf mich, bevor Du
+    den Bereich wechselst und vergiß nicht den Sender auszuschalten. Es wird
+    während des Kampfes nicht gesprochen, und falls ich auf der Strecke bleiben
+    sollte, ersetzt mich ein anderer Rebelle, er wird im Landungsbereich auf
+    Dich warten."
+es:
+  message: "Vamos a asistirte para tomar el fortín: ¡Tú me guiarás, y yo te
+    seguiré con mis granadas! Sobre todo espérame antes de cambiar de zona y no
+    te olvides de neutralizar el emisor. No se habla durante los combates y, si
+    muero, otro rebelde me reemplazará y te esperará en el lugar del
+    desembarco."
+it:
+  message:
+    Ti aiuteremo per prendere il fortino, mi farai da guida ed io ti seguo
+    con le bombe! Aspettami prima di cambiare zona e non dimenticare di
+    neutralizzare l'emittente. Silenzio durante i combattimenti e, se ci resto
+    secco, un altro ribelle mi sostituirà; ti aspetta al posto di sbarco.

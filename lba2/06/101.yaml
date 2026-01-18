@@ -1,3 +1,14 @@
+textId: 145
 location:
 speaker:
 message: Memory Viewer
+fr:
+  message: Visionneuse mémorielle
+de:
+  message: Erinnerungssichtgerät
+es:
+  message: Visor de memoria
+it:
+  message: Visore di memoria
+pt:
+  message: Visualizador de memória

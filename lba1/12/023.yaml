@@ -1,4 +1,19 @@
+textId: 60
 location:
 speaker:
 message: You seem to be nice enough, I dub thee an honorary elf. Here's your
   card. It entitles you to a present.
+fr:
+  message:
+    Tu m'es sympathique, je te fais lutin honoraire. Voici ta carte ! Elle
+    donne droit à un cadeau.
+de:
+  message: Du bist mir sympathisch, ich ernenne Dich zum Ehrenkobold. Hier ist
+    Deine Karte ! Und zur Karte gibt's ein Geschenk.
+es:
+  message: Tú me eres simpático, y voy a hacerte duende honorario. ¡Aquí está tu
+    tarjeta! Te da derecho a un regalo.
+it:
+  message:
+    Mi sei simpatico, ti nomino folletto onorario. Ecco la tua tessera. Dà
+    diritto a un regalo.

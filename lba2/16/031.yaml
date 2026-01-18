@@ -1,5 +1,26 @@
+textId: 120
 location:
 speaker:
 message: '"THE ZEELICH GAZETTE: ...Johnny Rocket at the Imperial! Zeelich''s
   brightest star, the first explorer to set foot on Twinsun, now lives on
   Otringal..."'
+fr:
+  message: '"LA DEPECHE DE ZEELICH : ...Johnny Rocket à l''Impérial ! La star de
+    Zeelich, le premier à avoir posé le pied sur Twinsun, habite maintenant sur
+    Otringal..."'
+de:
+  message: '"DER ZEELICHER BOTE: ... Johnny Rocket im "Imperial"! Der Zeelicher
+    Star - der erste, der Fuß auf Twinsun setzte - hat sich jetzt in Otringal
+    niedergelassen ..."'
+es:
+  message: '"EL NOTICIERO DE ZEELICH: ¡... Johnny Rocket en el Imperial! La
+    estrella de Zeelich, el primero que puso el pie en Twinsun vive ahora en
+    Otringal...!"'
+it:
+  message:
+    '"IL GAZZETTINO DI ZEELICH ... Johnny Rocket all''Imperial ! La star di
+    Zeelich, il primo ad aver mosso i primi passi su Twinsun, abita adesso su
+    Otringal ..."'
+pt:
+  message: '"A GAZETA DE ZEELICH : ...Johnny Rocket no Imperial ! A estrela de
+    Zeelich, o primeiro a pisar em Twinsun, mora agora em Otringal..."'

@@ -1,4 +1,19 @@
+textId: 115
 location:
 speaker:
 message: Gas, extract of molasses. You cannot use vehicles when your gas gauge
   is at zero.
+fr:
+  message: Carburant, extrait de mélasse. Tu ne peux plus utiliser de véhicule
+    lorsque ta jauge est à zéro.
+de:
+  message:
+    Kraftstoff, Melasseextrakt. Du kannst kein Fahrzeug mehr benutzen, wenn
+    Deine Kraftstoffanzeige auf Null steht.
+es:
+  message:
+    Combustible, extracto de melaza. No puedes utilizar el vehículo cuando
+    el indicador marca cero.
+it:
+  message: Carburante, estratto di melassa. Non puoi usare veicoli se il tuo
+    indicatore è a zero.

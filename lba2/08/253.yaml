@@ -1,3 +1,14 @@
+textId: 314
 location:
 speaker:
 message: What can I do for you?
+fr:
+  message: Que désirez-vous ?
+de:
+  message: Was wünschen Sie?
+es:
+  message: ¿Que desea?
+it:
+  message: Che cosa desidera ?
+pt:
+  message: O que você deseja ?

@@ -1,3 +1,4 @@
+textId: 595
 location:
 speaker:
 message: '[Sniff]...the children...we were at the "Flowers Circle"
@@ -5,3 +6,35 @@ message: '[Sniff]...the children...we were at the "Flowers Circle"
   was this big white flash, and then...nothing. Next thing I remember, I found
   myself alone, the children nowhere in sight, and the ship was taking off. It''s
   horrible, Mr. Twinsen! You have to find them! You have to!'
+fr:
+  message:
+    Sniff... les enfants... nous étions au cercle des fleurs, sniff... une
+    navette Esmer est arrivée au-dessus de nos têtes. Il y a eu un grand flash
+    blanc et puis plus rien. Je me suis retrouvée seule, sans les enfants, et la
+    navette qui repartait. C'est horrible monsieur Twinsen, vraiment horrible !!
+    Vous devez absolument les retrouver !!!
+de:
+  message:
+    Schnüff ... die Kinder ... wir waren beim Blumenkranz, schnüff ... und
+    ... und da kam so ein Esmerier-Raumschiff und hielt über uns. Und dann gab
+    es einen großen weißen Blitz und dann ... nichts. Plötzlich war ich alleine,
+    die Kinder waren weg, und das Raumschiff flog weiter. Oh, es ist einfach
+    schrecklich, Herr Twinsen! Sie müssen sie einfach wiederfinden!
+es:
+  message: Sniff... los niños... estábamos en el círculo de las flores, sniff...
+    una nave esmer llegó por encima de nuestras cabezas. Hubo un gran resplandor
+    y luego nada, Me encontré sola, sin los niños y la nave que se iba. ¡¡Es
+    terrible, señor Twinsen, verdaderamente terrible !! ¡¡¡Tiene que
+    encontrarlos cueste lo que cueste!!!
+it:
+  message: Sniff ... i bambini ...eravamo al Cerchio dei fiori, sniff... una
+    navetta esmer è arrivata sopra le nostre teste. C'è stato un gran flash
+    bianco e poi più niente. MI sono ritrovata sola, senza i bambini, e la
+    navetta che ripartiva. E' orribile signor Twinsen, veramente orribile !!
+    Deve assolutamente ritrovarli !!!
+pt:
+  message: Sniff... as crianças... nós estávamos no Círculo das Flores, sniff...
+    uma nave Esmer chegou bem em cima da gente. Houve um enorme clar╞o e pronto,
+    quando vi estava sozinha, sem as crianças, e a nave tinha partido. Isto é
+    horrível, senhor Twinsen, horrível mesmo !! Você precisa encontrá-los de
+    qualquer maneira !!!

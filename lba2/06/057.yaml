@@ -1,3 +1,14 @@
+textId: 101
 location:
 speaker:
 message: Magic Ball
+fr:
+  message: Balle Magique
+de:
+  message: Magischer Ball
+es:
+  message: Bola Mágica
+it:
+  message: Sfera Magica.
+pt:
+  message: Bola Mágica

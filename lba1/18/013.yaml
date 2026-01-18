@@ -1,5 +1,23 @@
+textId: 12
 location:
 speaker:
 message: Hang on! Wait for you partner before trying to change zones. If you are
   having problems reaching the fort, try neutralizing the radar above the
   bunkers, in the zone where you landed.
+fr:
+  message: Courage ! Attends ton équipier avant de changer de zone. Et si vous
+    avez des difficultés pour arriver au fortin, neutralisez d'abord le radar
+    qui est au-dessus des bunkers, dans la zone où vous avez débarqué.
+de:
+  message: Nur Mut ! Warte auf Deinen Kameraden, bevor Du den Bereich wechselst.
+    Und falls ihr Schwierigkeiten habt, um zum Fort zu gelangen, schaltet zuerst
+    den Radar aus, der sich über den Bunkern in eurem Landungsbereich befindet.
+es:
+  message: ¡Valor! Espera a tu compañero antes de cambiar de zona. Y si tienen
+    dificultades para llegar al fortín, neutralicen primero el radar que está
+    encima de los bunkers, en la zona en la que han desembarcado.
+it:
+  message:
+    Un attimo! Attendi il tuo compagno prima di cambiare zona. E se avrete
+    difficoltà per raggiungere il fortino, neutralizzate prima di tutto il radar
+    che si trova sotto ai bunker, nella zona in cui siete sbarcati.

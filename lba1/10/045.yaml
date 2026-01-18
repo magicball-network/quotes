@@ -1,5 +1,23 @@
+textId: 45
 location:
 speaker:
 message: If the Astronomer sent you, I guess I can trust you. Despite the
   solidarity in the resistance against FunFrock, you know, times are hard. For
   10 Kashes I'll take you where you want to go.
+fr:
+  message:
+    Si l'Astronome t'envoie, je peux te faire confiance. Seulement, malgré
+    la solidarité dans la résistance à FunFrock, les temps sont durs. Alors pour
+    10 Kashes, où veux-tu aller ?
+de:
+  message: Wenn Dich der Astronom schickt, kann ich Dir vertrauen. Wenn auch
+    Solidarität innerhalb des Widerstands gegen FunFrock herrscht, so sind die
+    Zeiten hart. Also wo möchtest Du hin für 10 Kashes ?
+es:
+  message: Si el Astrónomo te envía puedo confiar en ti. Solo que, a pesar de la
+    solidaridad en la resistencia contra FunFrock, los tiempos son duros.
+    Entonces por 10 Kashes, ¿A dónde quieres ir?
+it:
+  message:
+    Se ti manda l'Astronomo, posso fidarmi di te. Ma sotto FunFrock bisogna
+    tirare la cinghia. Per 10 Kash, dove posso portarti?

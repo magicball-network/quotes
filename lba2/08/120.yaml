@@ -1,3 +1,17 @@
+textId: 1
 location:
 speaker:
 message: You'll need a baggage check to claim anything stored here.
+fr:
+  message: Il vous faut un bulletin de consigne pour récupérer un objet entreposé ici.
+de:
+  message:
+    Sie brauchen einen Gepäckaufbewahrungsschein, um einen hier deponierten
+    Gegenstand abzuholen.
+es:
+  message: Hay que presentar un recibo de consigna para recoger cualquier objeto
+    depositado aquí.
+it:
+  message: Deve presentare una ricevuta per recuperare un oggetto depositato qui.
+pt:
+  message: Você precisa de uma permiss╞o para recuperar um objeto armazenado.

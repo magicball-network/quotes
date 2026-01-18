@@ -1,5 +1,26 @@
+textId: 74
 location:
 speaker:
 message: The foul weather prevents the boats from leaving the harbor. There's
   nothing to do, all maritime activity is paralyzed. Let me tell you, Mr.
   Twinsen, only the Weather Wizard could set things straight!!
+fr:
+  message: Le mauvais temps empêche les bateaux de sortir du port. Y'a rien à
+    faire, toute l'activité maritime est paralysée. Vous savez monsieur Twinsen,
+    y'a plus que le mage météo pour arranger ça !!
+de:
+  message: Wegen des schlechten Wetters können die Schiffe nicht auslaufen. Da
+    kann man nichts machen, die ganze Schiffahrt ist lahmgelegt. Wissen Sie,
+    Herr Twinsen, dagegen kann nur der Wettermagier etwas unternehmen!
+es:
+  message: El mal tiempo impide que los barcos salgan del puerto, No se puede
+    hacer nada, toda la actividad marítima está paralizada, ¿Sabe usted, señor
+    Twinsen? ¡¡sólo el mago meteo puede solucionar esto!!
+it:
+  message: Il cattivo tempo impedisce alle navi di uscire dal porto. Non c'è
+    niente da fare, tutta l'attività marittima è paralizzata. Sa, signor
+    Twinsen, solo il mago metereologo può risolvere il problema !!
+pt:
+  message: O mau tempo impede os barcos de saírem do porto. N╞o há nada a ser
+    feito, todas as atividades marítimas est╞o suspensas. Sabe, senhor Twinsen,
+    só o Mago do Tempo consegue resolver isso !!

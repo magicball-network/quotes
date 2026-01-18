@@ -1,3 +1,14 @@
+textId: 28
 location:
 speaker:
 message: You still have two tests to pass.
+fr:
+  message: Il te reste encore deux épreuves à franchir.
+de:
+  message: Du mußt noch zwei weitere Prüfungen bestehen.
+es:
+  message: Todavía te quedan dos pruebas por superar..
+it:
+  message: Ti restano ancora due prove da superare.
+pt:
+  message: Faltam ainda duas provas a serem completadas.

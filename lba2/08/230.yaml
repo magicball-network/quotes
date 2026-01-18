@@ -1,4 +1,23 @@
+textId: 6
 location:
 speaker:
 message: Hi, Twinsen. Far as I'm concerned, I like it when it rains. The grass
   gets nicely thick. Makes it taste better.
+fr:
+  message:
+    Salut Twinsen. Moi j'aime bien quand il pleut. L'herbe est bien grasse
+    et elle a meilleur goût.
+de:
+  message:
+    Hallo, Twinsen. Ich mag den Regen. Dann ist das Gras so schön fett und
+    hat erst den richtigen Geschmack.
+es:
+  message: Hola Twinsen. Me encanta que llueva porque la hierba se queda muy
+    esponjosa y sabe mucho mejor.
+it:
+  message: Ciao Twinsen. Mi piace molto la pioggia. L'erba è ben grassa e ha un
+    gusto migliore.
+pt:
+  message:
+    Olá, Twinsen. Eu gosto muito quando chove. É bom para o pasto e a grama
+    fica com um gosto melhor.

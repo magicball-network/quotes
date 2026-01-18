@@ -1,5 +1,30 @@
+textId: 535
 location:
 speaker:
 message: Ah, yes, right. Only thing is, they don't live on this island, sir. You
   have to go to the wharf and call the ferryman. I've never actually seen him,
   but this rumor has an air of truth. Ask the Monk, he'll be able to answer you.
+fr:
+  message: Ah ils n'habitent pas sur cette île monsieur. Il faut vous rendre à
+    l'embarcadère et appeler le passeur. Je ne l'ai jamais vu, mais il paraît
+    qu'il existe. Demandez à monsieur le Moine, il saura vous répondre lui.
+de:
+  message: Ach, die leben nicht hier auf der Insel. Dazu müssen Sie an den
+    Landesteg gehen und den Fährmann rufen. Ich habe ihn zwar noch nie gesehen,
+    aber angeblich gibt es ihn wirklich. Fragen Sie doch den Mönch, er wird
+    bestimmt die Antwort wissen.
+es:
+  message:
+    Ah, no viven en esta isla, señor. Tiene que ir al embarcadero y llamar
+    al barquero. Yo no lo he visto nunca, pero al parecer existe. Pregúntele al
+    Señor Monje, él seguro que sabe.
+it:
+  message:
+    Ah, non abitano su quest'isola signore. Deve andare al molo e chiamare
+    il traghettatore. Non l'ho mai visto, ma pare che esista. Chieda al Prete,
+    lui saprà risponderle.
+pt:
+  message:
+    Ah, eles n╞o moram nessa ilha, senhor. Vá ao cais e chame o barqueiro.
+    Eu nunca o vi, mas parece que ele existe. Pergunte ao senhor Frade, ele
+    saberá responder.

@@ -1,3 +1,12 @@
+textId: 273
 location:
 speaker:
 message: Ah, those plans are not present in our books.
+fr:
+  message: Ah, il n'y a pas ces plans parmi nos ouvrages.
+de:
+  message: Ach, diese Pläne befinden sich nicht unter unseren Werken.
+es:
+  message: Ah, esos planos no se encuentran entre nuestras obras.
+it:
+  message: Ah, non abbiamo queste mappe fra le nostre opere.

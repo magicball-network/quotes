@@ -1,3 +1,12 @@
+textId: 58
 location:
 speaker:
 message: '"Welcome to Principal Island."'
+fr:
+  message: '" Bienvenue sur l''Ile Principale. "'
+de:
+  message: '" Willkommen auf der Hauptinsel. "'
+es:
+  message: '"Bienvenido a la Isla Principal."'
+it:
+  message: '"Benvenuti sull''Isola Principale. "'

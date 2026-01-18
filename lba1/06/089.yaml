@@ -1,5 +1,22 @@
+textId: 224
 location:
 speaker:
 message: |-
   Well of Sendell
   (Polar island)
+fr:
+  message: |-
+    Puits de Sendell
+    (Ile Polaire)
+de:
+  message: |-
+    Sendells Brunnen
+    (Polarinsel)
+es:
+  message: |-
+    Pozo de Sendell
+    (Isla Polar)
+it:
+  message: |-
+    Pozzo di Sendell
+    (Isola Polare)

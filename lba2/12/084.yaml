@@ -1,3 +1,14 @@
+textId: 935
 location:
 speaker:
 message: You may board, Master.
+fr:
+  message: Vous pouvez embarquer Maître.
+de:
+  message: Gehen Sie an Bord, Meister.
+es:
+  message: Puede embarcar, Maestro.
+it:
+  message: Può imbarcarsi, Maestro.
+pt:
+  message: Você pode embarcar Mestre.

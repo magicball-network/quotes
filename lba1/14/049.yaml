@@ -1,6 +1,28 @@
+textId: 49
 location:
 speaker:
 message: Well it's not a Jet-Pack yet, it's still just a Proto-Pack. I would
   appreciate it if you could test it out to see how it works. You should be able
   to fly over the water if you approach it from a gently sloping beach. But
   don't jump! Will you test it for 10 Kashes?
+fr:
+  message: Bon ce n'est pas encore un Jet-Pack, c'est tout juste un Proto-Pack.
+    J'aimerais que tu le testes pour noter ses performances. En approchant par
+    une plage en pente douce tu dois pouvoir voler au-dessus de l'eau, mais sans
+    sauter ! Tu acceptes de l'essayer pour 10 Kashes ?
+de:
+  message: Nun gut, es ist noch kein Jet-Pack, das ist gerade mal eben ein
+    Proto-Pack. Ich möchte, daß Du ihn testest um seine Leistung festzustellen.
+    Wenn Du es an einem Strand mit leichter Neigung versuchst, solltest Du über
+    dem Wasser fliegen können, aber dies ohne zu springen ! Machst Du es für 10
+    Kashes ?
+es:
+  message: Bueno, todavía no es un Jet-Pack, sólo es un Proto-Pack. Me gustaría
+    que lo probaras para que veas su rendimiento. Aproximándose a una playa en
+    pendiente suave debes poder volar por encima del agua, pero sin saltar!
+    ¿Aceptas ensayarlo por 10 Kashes ?
+it:
+  message: Beh, non è ancora un Jet-Pack, è solo un Proto-Pack. Mi piacerebbe se
+    tu lo provassi per misurare le sue prestazioni. Partendo da una spiaggia in
+    leggera pendenza dovresti essere in grado di volare sopra l'acqua, ma non
+    devi saltare! Accetti di provarlo per 10 Kash?

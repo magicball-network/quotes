@@ -1,3 +1,12 @@
+textId: 181
 location:
 speaker:
 message: I don't know what you are talking about.
+fr:
+  message: Je ne vois même pas de quoi vous parlez.
+de:
+  message: Ich weiß überhaupt nicht wovon Sie sprechen.
+es:
+  message: Ni siquiera sé de qué está hablando.
+it:
+  message: Non so cosa intende dire.

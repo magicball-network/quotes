@@ -1,8 +1,45 @@
+textId: 55
 location:
 speaker:
 message: >-
-  Bravo Twinsen. You now bear the title of wizard.
+  Bravo Twinsen. You now bear the title of wizard. 
 
   I don't have any spare wizard's parade tunics left. But there is a peddler on
   the island. I'll contact him and ask him to give you one. Go find him. Also,
   let your beard grow.
+fr:
+  message: >-
+    Bravo Twinsen. Tu portes désormais le titre de mage.
+
+    Je n'ai plus de tunique de parade de mage en réserve. Mais il y a un
+    marchand ambulant sur l'île. Je le ferai prévenir pour qu'il t'en remette
+    une. Va le trouver et laisse toi aussi pousser la barbe.
+de:
+  message: >-
+    Gratuliere, Twinsen. Von nun an trägst du den Titel des Magiers.
+
+    Ich habe keine Paradetunika für Magier mehr. Aber auf der Insel gibt es
+    einen fahrenden Händler. Ich werde ihm sagen, daß er dir eine geben soll.
+    Such ihn auf und laß dir einen Bart wachsen.
+es:
+  message: >-
+    Bravo Twinsen. A partir de ahora posees el título de mago. Además, acabas de
+    conseguir un nuevo nivel de magia: bola verde.
+
+    No me quedan túnicas de gala de magia de reserva. Pero hay un vendedor
+    ambulante en la isla. Le mandaré un aviso para que te entregue una. Vete a
+    buscarlo y déjate la barba.
+it:
+  message: >-
+    Bravo Twinsen. Ti puoi fregiare ormai del titolo di mago.
+
+    Non ho più tuniche da cerimonia a disposizione. Ma c'è un venditore
+    ambulante sull'isola. Lo farò avvertire per fare in modo che te ne dia una.
+    Vai a trovarlo e lascia crescere anche tu la barba.
+pt:
+  message: >-
+    Parabéns Twinsen. De agora em diante você leva contigo o título de mago.
+
+    N╞o tenho mais nenhuma túnica de gala de mago sobrando. Mas tem um mercador
+    ambulante na ilha. Vou avisá-lo para te entregar uma. Encontre-se com ele, e
+    deixe sua barba crescer.

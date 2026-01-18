@@ -1,4 +1,24 @@
+textId: 63
 location:
 speaker:
 message: I don't know where it is, but it can't be that far. It's all wizards
   and Esmers that pass by here.
+fr:
+  message: Je ne sais pas où elle se trouve, mais elle ne doit pas être loin.
+    Parce qu'ici, on en voit passer des mages, il n'y a plus qu'eux, et des
+    Esmers !!!
+de:
+  message:
+    Ich weiß nicht, wo sie ist, aber sie kann nicht weit sein. Hier kommen
+    nämlich viele Magier vorbei, immer nur Magier und Esmerier!
+es:
+  message:
+    No sé dónde está pero no debe andar lejos. Porque por aquí pasan magos,
+    ¡¡¡no hay más que magos y esmeres!!!
+it:
+  message: Non so dove si trovi, ma non deve essere lontana. Perché qui non si
+    vede passare altro che dei maghi, ci sono solo loro e ... degli Esmers !!!
+pt:
+  message:
+    Eu n╞o sei onde ela fica, mas n╞o deve ser longe. Porque aqui só vemos
+    passar magos e Esmers, mais ninguém !!!

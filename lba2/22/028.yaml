@@ -1,5 +1,28 @@
+textId: 510
 location:
 speaker:
 message: Ah, Twinsen!! With the arrival of these paratroopers, I am afraid to
   see our fragment might fall into the hands of the emperor. By the way, If you
   know how to throw back the balls of fire with your hands, try to grab some.
+fr:
+  message:
+    Ah Twinsen !! Avec l'arrivée de ces parachutistes, j'ai peur que notre
+    fragment tombe aux mains de l'Empereur. Si tu sais comment renvoyer les
+    boules de feu avec tes mains, essaie de t'en emparer.
+de:
+  message: Twinsen! Es sind so viele Fallschirmspringer hier gelandet, daß ich
+    fürchte, unser Fragment könnte in die Hände des Kaisers fallen. Wenn du
+    weißt, wie man die Feuerkugeln mit den Händen abwehren kann, dann versuche
+    bitte, das Fragment zu holen.
+es:
+  message: ¡¡Ah Twinsen!! Con la llegada de esos paracaidistas temo que nuestro
+    fragmento caiga en manos del emperador. Si sabes cómo devolver las bolas de
+    fuego con las manos, intenta cogerlas.
+it:
+  message: Ah, Twinsen !! Con l'arrivo dei paracadutisti, temo che il nostro
+    frammento cada nelle mani dell'imperatore. Se sai come rilanciare le palle
+    di fuoco con le tue mani, cerca di impadronirtene.
+pt:
+  message: Ah, Twinsen !! Com a chegada dos pára-quedistas, tenho medo que nossa
+    parte de chave caia nas m╞os do Imperador. Se você sabe como devolver as
+    bolas de fogo com suas m╞os, tente pegar a parte de chave.

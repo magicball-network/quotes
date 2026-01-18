@@ -1,4 +1,17 @@
+textId: 0
 location:
 speaker:
 message: You've just rediscovered your Holomap! You can use it by going through
   your inventory with the (SHIFT) key or access it directly with the (H) key.
+fr:
+  message: Tu viens de retrouver ton Holomap ! Utilise-la en passant par
+    l'inventaire touche (SHIFT), ou directement par la touche (H).
+de:
+  message: Du hast soeben Dein Holomap wiedergefunden ! Benutze ihn mittels des
+    Inventars (SHIFT) Taste, oder direkt durch die Taste (H).
+es:
+  message: ¡Acabas de encontrar tu Holomapa! Utilízalo moviéndote por el
+    inventario, con la tecla (SHIFT), o directamente con la tecla (H).
+it:
+  message: Hai appena trovato la tua Holomap! Utilizzala scorrendo l'inventario
+    con il tasto (SHIFT), oppure direttamente con il tasto (H).

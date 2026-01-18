@@ -1,4 +1,21 @@
+textId: 288
 location:
 speaker:
 message: A ticket mister? For only 7 Kashes, you can visit all of Temple-Park,
   including the inside of the Temple of Bù.
+fr:
+  message:
+    Un ticket m'sieur ? Pour 7 Kashes vous pouvez visiter tout Temple-Park,
+    y compris l'intérieur du Temple de Bù.
+de:
+  message: Karte gefällig, mein Herr? Für nur 7 Kashes können Sie den gesamten
+    Tempelpark anschauen. Ein Besuch im Bü-Tempel ist auch im Preis mit drin.
+es:
+  message: ¿Un ticket señor? Por 7 Kashes puede usted visitar todo Temple-Park,
+    incluido el Templo de Bú por dentro.
+it:
+  message: Un biglietto signore ? Per 7 Kashes è possibile visitare tutto il
+    Temple-Park, compreso l'interno del Tempio di Bù.
+pt:
+  message: Um bilhete moço ? Por 7 Kashes você pode visitar todo o Parque do
+    Templo, inclusive o interior do Templo de Bu.

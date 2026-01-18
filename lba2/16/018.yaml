@@ -1,6 +1,36 @@
+textId: 18
 location:
 speaker:
 message: The emperor had some secret base built on island CX. From there, he'll
   trigger the firing of these reactors built on the moon in utmost secrecy
   which'll destroy my whole planet. I've got to go to this island to prevent
   this from happening. Could you help me get there?
+fr:
+  message: L'Empereur a fait bâtir une base secrète sur l'îlot CX. De là, il
+    déclenchera la mise à feu de réacteurs qu'il a fait construire sur la Lune
+    dans la plus grande discrétion. Et la Lune ira détruire ma planète. Je dois
+    aller sur cet îlot pour empêcher cela. Pouvez vous m'aider à aller jusque
+    là-bas ?
+de:
+  message: Der Kaiser hat einen geheimen Stützpunkt auf dem Eiland CX errichten
+    lassen. Von dort aus wird er die Zündung der Reaktoren auslösen, die er
+    unter höchster Geheimhaltung auf dem Mond bauen ließ. Und dann wird der Mond
+    meinen Planeten zerstören. Ich muß auf dieses Eiland, um das zu verhindern!
+    Können Sie mir helfen, daß ich dahin komme?
+es:
+  message:
+    El emperador ha construido una base secreta en el islote CX. Desde allí
+    dirigirá el encendido de los reactores que ha instalado en la Luna en el más
+    absoluto secreto. Y la Luna destruirá mi planeta. Tengo que ir a ese islote
+    para impedirlo. ¿Puede ayudarme a llegar hasta allí?
+it:
+  message: L'imperatore ha fatto costruire una base segreta sull'isolotto CX. E'
+    da questa base che attiverà i reattori che ha fatto segretamente installare
+    sulla luna . E la luna distruggerà il mio pianeta. Devo andare su questo
+    isolotto per fermarli. Mi può aiutare ad andare laggiù ?
+pt:
+  message:
+    O imperador mandou construir uma base secreta na Ilhota CX. De lá, ele
+    acionará discretamente os reatores que construiu na lua em completo segredo.
+    E ent╞o a lua vai destruir meu planeta. Tenho que ir até a Ilhota para
+    impedir que isso aconteça. Você pode me ajudar a ir até lá?

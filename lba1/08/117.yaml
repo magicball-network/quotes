@@ -1,3 +1,12 @@
+textId: 123
 location:
 speaker:
 message: Didn't see 'em. I ain't budged an inch!
+fr:
+  message: Jamais vus, je n'ai pas bougé d'ici !
+de:
+  message: Nie gesehen, ich habe mich nicht vom Fleck gerührt !
+es:
+  message: ¡Nunca los he visto, no me he movído de aquí!
+it:
+  message: Mai visti. Non mi sono mai mosso da qui.

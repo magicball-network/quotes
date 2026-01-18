@@ -1,3 +1,12 @@
+textId: 140
 location:
 speaker:
 message: To Proxima Island
+fr:
+  message: Sur l'île Proxima
+de:
+  message: Auf die Insel Proxima
+es:
+  message: A la isla Próxima
+it:
+  message: Sull'Isola Proxima

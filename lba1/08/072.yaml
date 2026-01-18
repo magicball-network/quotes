@@ -1,4 +1,18 @@
+textId: 78
 location:
 speaker:
 message: Bah! That doesn't interest me. Go see at the library or go drown your
   sorrows at the tavern; or even better, do it the other way around.
+fr:
+  message: Bof ! Je ne m'y intéresse pas. Renseignez-vous à la bibliothèque ou
+    allez chercher l'oubli à la taverne ; ou mieux faites l'inverse.
+de:
+  message: Pfff ! Das interessiert mich nicht. Erkundigen Sie sich in der
+    Bibliothek oder gehen Sie in die Taverne um zu vergessen ; oder machen Sie's
+    besser noch umgekehrt.
+es:
+  message: ¡Bah...! No me interesa. Infórmese en la biblioteca o vaya a buscar
+    olvido a la taberna; o aún mejor, haga a la inversa.
+it:
+  message: Boh. Io non ne so niente. Vada a consultare i libri in biblioteca,
+    oppure vada a dimenticare tutto alla taverna. Meglio, faccia il contrario.

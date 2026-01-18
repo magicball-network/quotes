@@ -1,4 +1,26 @@
+textId: 500
 location:
 speaker:
 message: For some time now, I've watched 'em pass through my establishment. They
   all hang around the patio or the steambath. Go take a look.
+fr:
+  message: Depuis quelques temps, je n'arrête pas d'en voir passer dans mon
+    établissement. Ils vont tous au patio ou aux bains de vapeur. Allez-y voir
+    !!
+de:
+  message:
+    Seit einiger Zeit sehe ich ständig welche, die hier hereinschauen. Sie
+    gehen alle ins Dampfbad oder in den Innenhof. Sehen Sie doch dort einmal
+    nach!
+es:
+  message:
+    Desde hace algún tiempo los estoy viendo pasar por mi establecimiento.
+    Van todos al patio o a los baños de vapor. ¡¡Vaya, vaya a ver!!
+it:
+  message:
+    Da un po' di tempo, ne vedo passare di continuo nel mio istituto. Vanno
+    tutti sul patio o alla sauna. Vada a vedere !!
+pt:
+  message:
+    Faz algum tempo que eles passam pela minha loja sem parar. V╞o todos ao
+    pátio ou ao banho a vapor. Vá lá ver !!

@@ -1,3 +1,16 @@
+textId: 165
 location:
 speaker:
 message: No, no, it's not me, it's not me!! Help, police!!! Murderer!!!!
+fr:
+  message: Non non, c'est pas moi, c'est pas moi !! Au secours, police !!! A
+    l'assassin !!!!
+de:
+  message: Nein, nein, das bin ich nicht! Hilfe, Hilfe, Polizei! Haltet den Mörder!
+es:
+  message: ¡¡No, no, no soy yo, no soy yo!! ¡¡¡Policía, socorro!!! ¡¡¡Al asesino!!!!
+it:
+  message: No, no, non sono io, non sono io !! Aiuto, polizia !!! L'assassino !!!!
+pt:
+  message: N╞o n╞o, n╞o sou eu, n╞o sou eu !! Socorro, polícia !!! Peguem o
+    assassino !!!!

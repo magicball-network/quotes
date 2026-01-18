@@ -1,3 +1,21 @@
+textId: 497
 location:
 speaker:
 message: Another tourist minibus. Man, that Temple of Bù really packs 'em in!
+fr:
+  message:
+    Encore un mini-bus de touristes. Décidément, ce qui s'est passé dans le
+    temple de Bù attire du monde !
+de:
+  message:
+    Noch so ein Touristenbus! Die Ereignisse im Bü-Tempel scheinen viele zu
+    interessieren!
+es:
+  message: Otro microbús de turistas. ¡Desde luego, lo que ha sucedido en el
+    templo de Bú atrae a cantidad de gente!
+it:
+  message: Ancora un minibus di turisti. Decisamente, quello che è successo nel
+    Tempio di Bù attira molta gente !
+pt:
+  message: Outro ônibus de turistas. Seja lá o que houve dentro do Templo de Bu,
+    está atraindo bastante gente!

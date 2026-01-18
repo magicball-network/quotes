@@ -1,4 +1,23 @@
+textId: 117
 location:
 speaker:
 message: Magic Flute. The enchanted melodies produced by this instrument can
   melt frozen Clear Water and make flowers grow in the desert.
+fr:
+  message: Flûte Magique. Les mélodies enchanteresses de cet instrument peuvent
+    faire fondre l'Eau Claire lorsqu'elle est gelée, ainsi que faire pousser des
+    fleurs dans le désert.
+de:
+  message:
+    Magische Flöte. Die verzaubernden Melodien dieses Instruments kann das
+    Klare Wasser auftauen, wenn es gefroren ist, sowie Blumen in der Wüste
+    wachsen lassen.
+es:
+  message: Flauta Mágica. Las melodías encantadoras de este instrumento pueden
+    derretir el Agua Clara cuando está congelada, así como hacer que broten
+    flores en el desierto.
+it:
+  message:
+    Flauto magico. Le melodie incantatrici di questo strumento possono far
+    fondere l'Acqua Limpida se questa è ghiacciata, e possono far sbocciare
+    fiori in pieno deserto.

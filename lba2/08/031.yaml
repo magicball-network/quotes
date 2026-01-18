@@ -1,3 +1,14 @@
+textId: 296
 location:
 speaker:
 message: '"Ruins of the old citadel."'
+fr:
+  message: '" Ruines de l''ancienne citadelle. "'
+de:
+  message: '"Ruinen der alten Zitadelle."'
+es:
+  message: '"Ruinas de la antigua ciudadela"'
+it:
+  message: '" Rovine dell''antica cittadella"'
+pt:
+  message: '" Ruínas da antiga fortaleza. "'

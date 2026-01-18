@@ -1,4 +1,21 @@
+textId: 109
 location:
 speaker:
 message: The wizards? Ah yes, I saw some pass by quite a while back. They were
   talking about the Hacienda, in the desert.
+fr:
+  message: Les mages. Ah oui, j'en ai vu passer il y a pas mal de temps. Ils
+    parlaient de l'hacienda, dans le désert.
+de:
+  message: Magier ... ja, stimmt, vor einiger Zeit habe ich welche vorbeikommen
+    sehen. Sie haben sich über die Hacienda in der Wüste unterhalten.
+es:
+  message:
+    Los magos. Sí los he visto pasar no hace mucho tiempo. Iban hablando de
+    la hacienda, en el desierto.
+it:
+  message: I maghi. Ah si, ne ho visti passare molto tempo fa. Parlavano
+    dell'Hacienda, nel deserto.
+pt:
+  message: Os magos. Ah sim, eu os vi passar algum tempo atrás. Eles estavam
+    falando da Fazenda, no deserto.

@@ -1,3 +1,12 @@
+textId: 44
 location:
 speaker:
 message: I don't have anything else to sell!
+fr:
+  message: Je n'ai plus rien à vendre !
+de:
+  message: Ich habe nichts mehr zu verkaufen !
+es:
+  message: ¡No tengo más que vender!
+it:
+  message: Non ho più niente da vendere!

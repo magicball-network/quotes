@@ -1,3 +1,14 @@
+textId: 351
 location:
 speaker:
 message: The island of the Dome of the Slate.
+fr:
+  message: Sur l'îlot du dôme de l'ardoise.
+de:
+  message: Auf das Eiland des Kreidedoms.
+es:
+  message: Al islote de la cúpula de la pizarra.
+it:
+  message: Sull'isolotto del Duomo dell'ardesia.
+pt:
+  message: Na Ilhota da Cúpula de Ardósia.

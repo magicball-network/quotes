@@ -1,3 +1,14 @@
+textId: 77
 location:
 speaker:
 message: '"You are at the Hacienda del Monte-Pelado."'
+fr:
+  message: '"Vous êtes à l''hacienda del Monte-Pelado."'
+de:
+  message: '"Sie befinden sich auf der Hacienda del Monte-Pelado."'
+es:
+  message: '"Está usted en la hacienda del Monte-Pelado."'
+it:
+  message: '"Siete all''Hacienda del Monte-Pelato."'
+pt:
+  message: '"Você está na Fazenda do Monte Careca."'

@@ -1,3 +1,14 @@
+textId: 393
 location:
 speaker:
 message: Go, they're downstairs.
+fr:
+  message: Allez-y, ils sont en bas.
+de:
+  message: Gehen Sie ruhig rein, sie sind unten.
+es:
+  message: Vaya, están abajo.
+it:
+  message: Ci vada, sono giù.
+pt:
+  message: Vá lá, eles est╞o em baixo.

@@ -1,4 +1,19 @@
+textId: 12
 location:
 speaker:
 message: The Legend is a weak spot in FunFrock's power. You must discover why;
   it's the only way of seeing your friend again.
+fr:
+  message: Cette Légende est une faille dans le pouvoir de FunFrock. Tu dois
+    découvrir pourquoi, c'est ton seul espoir de retrouver ton amie.
+de:
+  message: Diese Legende stellt einen Schwachpunkt innerhalb von FunFrocks Macht
+    dar. Du mußt feststellen warum, dies ist Deine einzige Hoffnung Deine
+    Freundin wiederzufinden.
+es:
+  message:
+    Esta Leyenda es una falla en el poder de FunFrock. Debes descubrir por
+    qué, es tu única esperanza de reencontrar a tu amiga.
+it:
+  message: Questa Leggenda è il tallone d'Achille di FunFrock. Devi scoprire
+    perché, è la tua sola speranza di ritrovare la tua amica.

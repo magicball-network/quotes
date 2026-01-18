@@ -1,5 +1,22 @@
+textId: 36
 location:
 speaker:
 message: |-
   My name is Twinsen and I am the Heir...
   voila, voila, voila.
+fr:
+  message: |-
+    Je me nomme Twinsen et je suis l'Héritier...
+    voilà, voilà, voilà.
+de:
+  message: |-
+    Ich heiße Twinsen und ich bin der Erbe...
+    voilà, so ist das nun mal.
+es:
+  message: |-
+    Me llamo Twinsen y soy el Heredero ...
+    Está bien, está bien, está bien.
+it:
+  message: |-
+    Mi chiamo Twinsen e sono l'Erede...
+    ecco, ecco, ecco.

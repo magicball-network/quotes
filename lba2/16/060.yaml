@@ -1,5 +1,28 @@
+textId: 451
 location:
 speaker:
 message: Darn! This here shuttle, t'will soon be ready fer takeoff. Me myself,
   ah would of fixed them stabilizing jets!! Barrin' that, best use an itinerary
   token! Might not take off without it.
+fr:
+  message: Crébondiou !! S'te navette, elle pourra bientôt décoller. J'aurai pas
+    tardé d'y réparer les propulsions de stabilité môaa !! Par contre, y'aura
+    intérêt à y utiliser un disk de route ! Sans ça, elle risquera pas
+    d'décoller.
+de:
+  message: Gut, das Raumschiff kann abheben. Ich habe die Stabilitätsantriebe
+    repariert! Verwenden Sie eine Routenscheibe. Sonst kann das Raumschiff
+    möglicherweise nicht starten!
+es:
+  message: ¡¡Demonios!! Esta nave pronto podrá despegar. No terdaré en arreglar
+    las propulsiones de estabilidad. ¡Pero como no tenga un disco de ruta...! No
+    podrá ni despegar.
+it:
+  message: Perbacco !! 'sta navetta potrà decollare presto. Sto terminando di
+    riparare le propulsioni di stabilità, io !! Invece, sarà meglio usare un
+    disco di percorso ! Altrimenti ... aspetta e spera che decolli !
+pt:
+  message:
+    Caramba !! Esta nave poderá decolar em breve. N╞o demorei nadinha para
+    consertar os propulsores de estabilidade!! Mas é bom usarem um disco de
+    rota! Sem isso, periga n╞o decolar.

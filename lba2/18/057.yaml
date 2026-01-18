@@ -1,4 +1,21 @@
+textId: 204
 location:
 speaker:
 message: Twinsen, the emerald moon just resumed its normal trajectory, Twinsun
   has been saved!!!!
+fr:
+  message:
+    Twinsen, la lune d'émeraude vient de reprendre sa trajectoire normale,
+    Twinsun est sauvée !!!!
+de:
+  message: Twinsen, der Smaragd-Mond ist wieder in seine normale Umlaufbahn
+    zurückgekehrt, Twinsun ist gerettet!!!
+es:
+  message: ¡¡¡¡Twinsen, la luna de esmeralda acaba de recuperar su trayectoria
+    normal, Twinsun está salvado!!!!
+it:
+  message: Twinsen, la Luna di Smeraldo ha ripreso la sua normale traiettoria...
+    Twinsun è salva !!!
+pt:
+  message: Twinsen, a Lua de Esmeralda acabou de voltar para sua trajetória
+    normal, Twinsun está salvo!!!!

@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: OK, Hang on!!
+fr:
+  message: Accrochez-vous !!
+de:
+  message: Festhalten!
+es:
+  message: ¡¡Sujétese!!
+it:
+  message: Si tenga forte !!
+pt:
+  message: Segure-se !!

@@ -1,3 +1,12 @@
+textId: 63
 location:
 speaker:
 message: Thief!
+fr:
+  message: Voleur !
+de:
+  message: Dieb !
+es:
+  message: ¡Ladrón!
+it:
+  message: Ladro!

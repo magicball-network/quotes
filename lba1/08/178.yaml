@@ -1,3 +1,12 @@
+textId: 186
 location:
 speaker:
 message: I haven't seen them.
+fr:
+  message: Je ne les ai pas vus.
+de:
+  message: Ich habe sie nicht gesehen.
+es:
+  message: No los he visto.
+it:
+  message: Non li ho visti.

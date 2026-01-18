@@ -1,3 +1,14 @@
+textId: 547
 location:
 speaker:
 message: Insert 10 Zlitos if you want 10 Magic points
+fr:
+  message: Insérez 10 Zlitos si vous désirez 10 points de Magie.
+de:
+  message: Werfen Sie 10 Zlitos ein, um 10 Zauberpunkte zu erhalten.
+es:
+  message: Inserte 10 Zlitos si desea 10 puntos de Magia.
+it:
+  message: Inserite 10 Zlitos se desiderate 10 punti di magia.
+pt:
+  message: Deposite 10 Zlitos se quiser 10 pontos de magia.

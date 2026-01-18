@@ -1,5 +1,22 @@
+textId: 215
 location:
 speaker:
 message: |-
   Forger's house
   (Proxima island)
+fr:
+  message: |-
+    Maison du faussaire
+    (Ile Proxima)
+de:
+  message: |-
+    Haus des Fälschers
+    (Proxima-Insel)
+es:
+  message: |-
+    Casa del falsificador
+    (Isla Próxima)
+it:
+  message: |-
+    Casa del falsario
+    (Isola Proxima)

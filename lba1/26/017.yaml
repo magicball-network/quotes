@@ -1,3 +1,12 @@
+textId: 16
 location:
 speaker:
 message: Uh ... Hi!
+fr:
+  message: Euh ... Salut !
+de:
+  message: Ööh ... Hallo !
+es:
+  message: ¡Eh ... Hola!
+it:
+  message: Eh... Salve!

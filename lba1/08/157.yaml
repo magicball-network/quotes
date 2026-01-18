@@ -1,3 +1,12 @@
+textId: 164
 location:
 speaker:
 message: Really! Well that's too bad, but I don't know anything about it.
+fr:
+  message: Ah bon ! Et bien c'est dommage, mais je n'y connais rien.
+de:
+  message: Ach so ! Das tut mir leid, aber davon verstehe ich nichts.
+es:
+  message: ¡Ah sí! Bueno, es una pena pero no sé nada.
+it:
+  message: Ah, sì? Eh, peccato, non ne so niente.

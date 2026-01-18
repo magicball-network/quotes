@@ -1,3 +1,14 @@
+textId: 240
 location:
 speaker:
 message: '"Safeguard Street"'
+fr:
+  message: '" Rue de la sauvegarde. "'
+de:
+  message: '"Schutzstraße "'
+es:
+  message: '"Calle de la Salvaguardia"'
+it:
+  message: '"Via del salvataggio"'
+pt:
+  message: '" Rua da Salvaguarda "'

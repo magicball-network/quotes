@@ -1,5 +1,32 @@
+textId: 204
 location:
 speaker:
 message: This Tunic, bequeathed by your ancestors, will help you store Magic
   power. Some is consumed each time you use a magical object, such as your ball.
   In order to use them, you must find enough Magic and carry it with you.
+fr:
+  message: Tu peux stocker de la Magie grâce à cette Tunique léguée par tes
+    ancêtres. Certains objets magiques comme ta balle, en consomment à chaque
+    utilisation. Pour arriver à les utiliser tu dois récupérer et conserver
+    suffisamment de Magie sur toi.
+de:
+  message: Mit dieser Tunika, die dir von deinen Ahnen vermacht wurde, kannst du
+    Magie speichern. Bestimmte Magische Objekte, z. B. Dein Magischer Ball,
+    benötigen diese Magie bei jedem Einsatz. Du kannst sie nur verwenden, wenn
+    du genug Magie sammelst und an dir speicherst.
+es:
+  message: Puedes acumular Magia gracias a esta Túnica legada por tus ancestros.
+    Algunos objetos mágicos como tu bola la consumen cada vez que son
+    utilizados. Para poder utilizarlos, tienes que recuperar y conservar
+    suficientemente Magia en ti.
+it:
+  message:
+    Con questa Tunica ereditata dai tuoi antenati puoi immagazzinare della
+    Magia. Alcuni oggetti magici, come la tua sfera, ne consumano ad ogni
+    utilizzazione. Per riuscire ad usarli devi recuperare e conservare su di te
+    una Magia sufficiente.
+pt:
+  message: Você pode armazenar Magia graças a essa Túnica herdada de seus
+    ancestrais. Alguns objetos mágicos, como a Bola, consomem magia a cada
+    utilizaç╞o. Para conseguir utilizá-la você deve adquirir e conservar Magia
+    com você.

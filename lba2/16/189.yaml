@@ -1,3 +1,14 @@
+textId: 407
 location:
 speaker:
 message: A wizard's diploma costs 40 Zlitos.
+fr:
+  message: Un diplôme de mage coûte 40 zlitos.
+de:
+  message: Ein Magierdiplom kostet 40 Zlitos.
+es:
+  message: Un diploma de mago cuesta 40 zlitos.
+it:
+  message: Un diploma di mago costa 40 zlitos.
+pt:
+  message: Um diploma de mago custa 40 zlitos.

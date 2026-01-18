@@ -1,3 +1,16 @@
+textId: 8
 location:
 speaker:
 message: '" The telepod''s activating pedals are fragile. Stop jumping on them! "'
+fr:
+  message:
+    '" Les pédales de déclenchement des télépodes sont fragiles. Arrêtez de
+    sauter dessus ! "'
+de:
+  message: '" Die Auslösepedale der Biemzellen sind nicht strapazierfähig. Hören
+    Sie auf darauf rumzuspringen ! "'
+es:
+  message: '"¡Los pedales de activación de los teleportadores son frágiles! ¡No
+    salte encima!"'
+it:
+  message: '"I pedali di avvio dei telepodi sono fragili. Smettete di saltarci sopra!"'

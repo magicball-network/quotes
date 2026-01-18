@@ -1,4 +1,20 @@
+textId: 110
 location:
 speaker:
 message: Twinsen's ID card. This card allows you to identify yourself to the
   authorities. Your smile is especially attractive on the photo!
+fr:
+  message: Carte d'Identité de Twinsen. Cette carte te permet de t'identifier
+    auprès des autorités, accessoirement tu es superbe sur la photo !
+de:
+  message: Twinsens Personalausweis. Mit dieser Karte kannst Du Dich den
+    Ordnungskräften auszuweisen, ganz nebenbei, auf dem Foto siehst Du wirklich
+    super aus !
+es:
+  message:
+    Tarjeta de Identidad de Twinsen. Esta tarjeta te permite identificarte
+    ante las autoridades, no está de más que sepas que ¡ saliste muy bien en la
+    foto !
+it:
+  message: Carta d'Identità di Twinsen. Questa carta ti consente di farti
+    riconoscere alle autorità; per di più, in questa foto sei bellissimo!

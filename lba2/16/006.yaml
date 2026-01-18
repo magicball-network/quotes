@@ -1,3 +1,14 @@
+textId: 5
 location:
 speaker:
 message: I'd like to get to island CX. Can you take me there?
+fr:
+  message: Je voudrais aller sur l'îlot CX. Pouvez vous m'y conduire ?
+de:
+  message: Können Sie mich auf das Eiland CX bringen?
+es:
+  message: Quisiera ir al islote CX. ¿Puede llevarme?
+it:
+  message: Vorrei andare sull'isolotto CX. Mi può accompagnare ?
+pt:
+  message: Gostaria de ir à Ilhota CX. Você poderia me levar até lá?

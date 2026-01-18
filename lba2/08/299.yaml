@@ -1,3 +1,4 @@
+textId: 455
 location:
 speaker:
 message: >-
@@ -5,3 +6,36 @@ message: >-
   We only wish to know you and to share our knowledge with you.
 
   Have trust in our friendship.
+fr:
+  message: >-
+    Bonjour twinsunien. Nous sommes vos amis. Nous venons en paix sur votre
+    planète. Nous ne désirons que vous connaître et vous faire profiter de notre
+    savoir.
+
+    Ayez confiance en notre amitié !
+de:
+  message: >-
+    Seid gegrüßt, Twinsunier. Wir sind Eure Freunde. Wir kommen in friedlicher
+    Absicht auf Euren Planeten. Wir möchten Euch nur kennenlernen und Euch an
+    unserem Wissen teilhaben lassen.
+
+    Auf unsere Freundschaft könnt Ihr Euch verlassen!
+es:
+  message: >-
+    Buenos días twinsianos. Somos amigos. Venimos a vuestro planeta en son de
+    paz, Sólo queremos conoceros y compartir con vosotros nuestro saber.
+
+    ¡Confiad en nuestra amistad !
+it:
+  message: >-
+    Buongiorno Twinsuniani. Siamo i vostri amici. Veniamo in pace sul vostro
+    pianeta. Desideriamo solo conoscervi e trasmettervi le nostre conoscenze.
+
+    Abbiate fiducia nella nostra amicizia !
+pt:
+  message: >-
+    Bom dia twinsuniano. Nós somos amigos. Nós viemos em paz a seu planeta.
+    Queremos apenas conhecer vocês e fazer com que desfrutem de nossos
+    conhecimentos.
+
+    Confie na nossa amizade!

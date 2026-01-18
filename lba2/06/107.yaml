@@ -1,3 +1,14 @@
+textId: 151
 location:
 speaker:
 message: Green Ring of Lightning
+fr:
+  message: Sort de foudre vert
+de:
+  message: Grüner Blitzzauber
+es:
+  message: Hechizo de rayo verde
+it:
+  message: Sortilegio di fulmini verdi
+pt:
+  message: Feitiço de raio verde

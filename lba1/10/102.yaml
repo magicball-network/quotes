@@ -1,4 +1,17 @@
+textId: 110
 location:
 speaker:
 message: The water is drinkable, but it is true that it tastes funny. You'll
   have to go to the water tower if you want to change something.
+fr:
+  message: L'eau est potable mais c'est vrai qu'elle a un goût bizarre. Il
+    faudrait aller au château d'eau pour y changer quelque chose.
+de:
+  message: Das Wasser ist trinkbar, aber es hat wirklich einen komischen
+    Geschmack. Man müßte hin zum Wasserturm um daran etwas zu ändern.
+es:
+  message: El agua es potable pero es verdad que tiene un sabor raro. Habría que
+    ir al castillo de agua para cambiar algo.
+it:
+  message: L'acqua è potabile, ma ha un gusto strano. Bisognerebbe andare al
+    serbatoio dell'acqua e cambiare qualche cosa.

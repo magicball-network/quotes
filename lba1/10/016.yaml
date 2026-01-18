@@ -1,5 +1,22 @@
+textId: 15
 location:
 speaker:
 message: |-
   "Opening hours for the Principal Island library:
   More or less, all the time."
+fr:
+  message: |-
+    " Horaires d'ouvertures de la bibliothèque de l'île Principale :
+    En gros, tout le temps. "
+de:
+  message: |-
+    " Öfnungszeiten der Bibliothek der Hauptinsel :
+    Praktisch dauernd geöffnet. "
+es:
+  message: |-
+    "Horarios de apertura de la biblioteca de la isla Principal:
+    Más o menos a todas horas".
+it:
+  message: |-
+    "Orari d'apertura della biblioteca dell'Isola Principale:
+    Sempre, praticamente."

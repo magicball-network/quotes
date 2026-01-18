@@ -1,3 +1,14 @@
+textId: 342
 location:
 speaker:
 message: I don't know, I heard that it is in the desert.
+fr:
+  message: Je ne sais pas, il paraît qu'elle se trouverait dans le désert.
+de:
+  message: Ich weiß nicht, angeblich soll sie in der Wüste sein.
+es:
+  message: No sé, al parecer se encuentra en el desierto.
+it:
+  message: Non so, sembra che si trovi nel deserto.
+pt:
+  message: N╞o sei, parece que ela ficava no deserto.

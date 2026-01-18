@@ -1,3 +1,4 @@
+textId: 299
 location:
 speaker:
 message: >-
@@ -6,3 +7,41 @@ message: >-
 
 
   Come! Come share our science.
+fr:
+  message: >-
+    Au coeur de nos laboratoires, nos scientifiques mettent au point une
+    technologie d'avenir, capable de traverser l'espace pour venir à votre
+    rencontre.
+
+
+    Venez ! Venez partager notre science !
+de:
+  message: >-
+    In unseren Laboratorien arbeiten unsere Wissenschaftler an einer
+    zukunftsweisenden Technologie, die es uns ermöglichen wird, das Weltall zu
+    durchqueren und Sie zu besuchen.
+
+
+    Kommen Sie, und haben Sie teil an unserem wissenschaftlichen Fortschritt!
+es:
+  message: >-
+    En nuestros laboratorios, nuestros científicos ponen a punto la tecnología
+    que nos permitirá atravesar el espacio para reunirnos con vosotros
+
+
+    ¡Vengan! ¡Vengan a compartir nuestra ciencia!
+it:
+  message: >-
+    Nei nostri laboratori, i nostri scienziati stanno perfezionando una
+    tecnologia del futuro, che permetterà di attraversare lo spazio per venirvi
+    incontro.
+
+
+    Venite ! Venite a condividere la nostra scienza !
+pt:
+  message: >-
+    No centro dos laboratórios, nossos cientistas trabalham numa tecnologia do
+    futuro, capaz de cruzar o espaço para chegar até você.
+
+
+    Venha ! Venha conhecer a nossa ciência!

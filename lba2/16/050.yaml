@@ -1,3 +1,14 @@
+textId: 34
 location:
 speaker:
 message: I don't have anything to sell.
+fr:
+  message: Je n'ai rien à vendre.
+de:
+  message: Ich habe nichts zu verkaufen.
+es:
+  message: No tengo nada para vender
+it:
+  message: Non ho niente da vendere.
+pt:
+  message: Eu n╞o tenho mais nada para vender.

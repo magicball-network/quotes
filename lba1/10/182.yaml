@@ -1,3 +1,12 @@
+textId: 199
 location:
 speaker:
 message: Julia spoke a lot about you.
+fr:
+  message: Julia m'a beaucoup parlé de vous.
+de:
+  message: Julia hat mir viel von Ihnen erzählt.
+es:
+  message: Julia me ha hablado mucho de Ud.
+it:
+  message: Giulia mi ha parlato molto di lei.

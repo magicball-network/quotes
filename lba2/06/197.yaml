@@ -1,3 +1,14 @@
+textId: 531
 location:
 speaker:
 message: Baldino's Cell.
+fr:
+  message: Cellule de Baldino.
+de:
+  message: Zelle von Baldino.
+es:
+  message: Celda de Baldino.
+it:
+  message: Cella di Baldino.
+pt:
+  message: Cela de Baldino.

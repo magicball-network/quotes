@@ -1,3 +1,12 @@
+textId: 23
 location:
 speaker:
 message: You have a Ferry Ticket.
+fr:
+  message: Tu possèdes un Ticket de Ferry.
+de:
+  message: Du besitzt einen Fahrschein für die Fähre.
+es:
+  message: Posees un Billete para el Ferry.
+it:
+  message: Possiedi un Biglietto per il Traghetto.

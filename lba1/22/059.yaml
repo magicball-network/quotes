@@ -1,3 +1,12 @@
+textId: 66
 location:
 speaker:
 message: 15 hearts of life powder costs 20 Kashes.
+fr:
+  message: 15 coeurs de poudre de vie coûtent 20 Kashes.
+de:
+  message: 15 Lebenspulverherzen kosten 20 Kashes.
+es:
+  message: 15 corazones de polvo de vida cuestan 20 Kashes.
+it:
+  message: 15 cuori di polvere di vita costano 20 Kash.

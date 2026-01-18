@@ -1,4 +1,20 @@
+textId: 11
 location:
 speaker:
 message: And, today, nobody knows where the heck the fragment is. That's why
   everyone is digging all over the place!! But why didn't he leave any notes?
+fr:
+  message: Et aujourd'hui personne ne sait où se trouve le fragment. C'est pour
+    cela que tout le monde creuse partout !! Mais il n'a pas laissé de notes ?
+de:
+  message: Und heute weiß niemand, wo dieses Fragment ist. Deswegen graben alle
+    wie verrückt! Aber hat er sich denn keine Notizen gemacht?
+es:
+  message: Y ahora nadie sabe dónde se encuentra el fragmento. ¡Por eso todo el
+    mundo anda cavando por todas partes! ¿Pero no dejó ninguna nota?
+it:
+  message: E oggi nessuno sa dove si trovi il frammento. E' per questo che tutti
+    scavano dappertutto !! Ma non ha lasciato scritto niente ?
+pt:
+  message: E hoje ninguém sabe onde está a parte da chave. É por isso que todo
+    mundo está cavando !! Mas ele n╞o deixou nada escrito ?

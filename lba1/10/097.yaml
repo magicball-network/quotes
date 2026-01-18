@@ -1,3 +1,14 @@
+textId: 105
 location:
 speaker:
 message: I've been all over the island today, and I haven't seen those people.
+fr:
+  message: Il se trouve que j'ai visité toute l'île et je ne ai pas vu ces gens.
+de:
+  message:
+    Ich habe tatsächlich die ganze Insel besichtigt, aber diese Leute habe
+    ich nicht gesehen.
+es:
+  message: Lo que pasa es que he visitado toda la isla y no he visto a esa gente.
+it:
+  message: Ho girato per tutta l'isola e non ho li ho visti.

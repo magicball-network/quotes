@@ -1,5 +1,26 @@
+textId: 238
 location:
 speaker:
 message: These notes contain the enigma which leads to the fragment of the
   Francos. They give a clue to the location where the fragment was buried is
   revealed.
+fr:
+  message:
+    Ces notes contiennent l'énigme qui conduit au fragment des Knartas. Au
+    travers des lignes, est indiqué l'endroit où le fragment a été enterré.
+de:
+  message:
+    Diese Notizen enthalten das Rätsel, das zum Fragment der Bifiden führt.
+    Durch die Linien wird angezeigt, wo das Fragment vergraben ist.
+es:
+  message: Estas notas contienen el enigma que conduce al fragmento de los
+    Purlones. A través de estas líneas se indica el lugar donde está enterrado
+    el fragmento.
+it:
+  message:
+    Questi appunti contengono l'enigma che guida al frammento dei Knartas.
+    Tra le linee è indicato il luogo dove il frammento è stato sotterrato.
+pt:
+  message:
+    Essas notas contêm um enigma que leva à parte da chave dos Knartas. Nas
+    entrelinhas, você descobrirá o lugar onde a parte da chave foi enterrada.

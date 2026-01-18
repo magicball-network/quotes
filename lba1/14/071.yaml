@@ -1,3 +1,12 @@
+textId: 71
 location:
 speaker:
 message: I don't know what you're talking about.
+fr:
+  message: Je ne connais pas.
+de:
+  message: Kenn ich nicht.
+es:
+  message: Lo desconozco.
+it:
+  message: Non lo so.

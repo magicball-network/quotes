@@ -1,6 +1,40 @@
+textId: 4
 location:
 speaker:
 message: Noble stranger, we will open the Door of the Sacred Carrot for you if
   you sabotage the mutant factory, from where the monsters that infest this
   hemisphere emerge. This door leads to the shore, and from there you can access
   all of this part of the planet.
+fr:
+  message: "Noble étranger, nous t'ouvrirons la Porte de la Carotte sacrée si tu
+    sabotes l'usine de mutants, d'où partent les monstres qui infestent cet
+    hémisphère. Cette porte mène au rivage et de là tu pourras accéder à toute
+    cette partie de la planète. De ce coté-ci tu ne pourras pas pénétrer dans
+    l'usine. Mais suis Wingy, cette jeune lapichonne va te conduire à un passage
+    secret : il te permettra de rentrer dans l'usine de mutants, mais de
+    l'intérieur !"
+de:
+  message:
+    "Werter Fremdling, wir öffnen Dir die Tür der heilige Karotte, wenn Du
+    die Mutantenfabrik sabotierst, aus der die Monster stammen, die diese
+    Halbkugel befallen. Diese Tür führt zum Ufer, und von dort aus kannst Du an
+    diesen Teil des Planeten gelangen. Von dieser Seite aus kannst Du nicht in
+    die Fabrik eindringen. Folge Wingy, diese junge Haasi wird Dich zu einem
+    Geheimgang führen : er wird Dir gestatten in die Mutantenfabrik
+    einzudringen, und zwar von innen !"
+es:
+  message: "Noble extranjero, nosotros te abriremos la Puerta de la Zanahoria
+    Sagrada si saboteas la fábrica de mutantes de donde salen los monstruos que
+    infestan este hemisferio. Esta puerta lleva a la orilla, y de allí podrás
+    acceder a toda esta parte del planeta. En este lado no podrás penetrar en la
+    fábrica. Pero sigue a Wingy, esta joven conejuna va a conducirte a un pasaje
+    secreto: éste te permitirá entrar a la fábrica de mutantes, pero ¡por el
+    interior!"
+it:
+  message: Nobile straniero, ti apriremo la Porta della Carota Sacra se tu
+    saboterai la fabbrica di mutanti, da cui escono i mostri che infestano
+    questo emisfero. Questa porta conduce alla riva; da qui tu potrai accedere a
+    ogni zona di questo emisfero. Da questo lato non potrai penetrare nella
+    fabbrica, ma segui Wingy; questa giovane lapinoide ti porterà a un passaggio
+    segreto che ti permetterà di entrare nella fabbrica di mutanti, ma
+    dall'interno!

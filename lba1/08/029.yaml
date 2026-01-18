@@ -1,3 +1,12 @@
+textId: 30
 location:
 speaker:
 message: Open up! We know you're in there!
+fr:
+  message: Ouvrez ! nous savons que vous êtes là !
+de:
+  message: Machen Sie auf ! Wir wissen, daß Sie da sind !
+es:
+  message: ¡Abra, sabemos que está ahí!
+it:
+  message: Aprite! Sappiamo che ci siete!

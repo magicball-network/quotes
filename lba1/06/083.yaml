@@ -1,5 +1,22 @@
+textId: 218
 location:
 speaker:
 message: |-
   Maritime Museum
   (Proxima island)
+fr:
+  message: |-
+    Musée de la Marine
+    (Ile Proxima)
+de:
+  message: |-
+    Marinemuseum
+    (Insel Proxima)
+es:
+  message: |-
+    Museo de la Marina
+    (Isla Próxima)
+it:
+  message: |-
+    Museo della Marina
+    (Isola Proxima)

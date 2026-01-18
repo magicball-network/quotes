@@ -1,5 +1,26 @@
+textId: 551
 location:
 speaker:
 message: I'm unclear on the details, but a customer told me about an old wiseman
   who presumably knows all the island secrets. I believe he lives near the
   Hacienda.
+fr:
+  message: Je ne sais pas, mais un client m'a parlé d'un vieux sage qui
+    connaîtrait tous les secrets de l'île. Je crois qu'il se trouve du côté de
+    l'hacienda.
+de:
+  message:
+    Ich weiß nicht, aber ein Kunde hat mir von einem Weisen berichtet, der
+    angeblich alle Geheimnisse der Insel kennt. Ich glaube, er lebt neben der
+    Hacienda.
+es:
+  message:
+    No sé, pero un cliente me habló de un viejo sabio que conoce todos los
+    secretos de la isla, Creo que está al lado de la hacienda.
+it:
+  message: Non so, ma un cliente mi ha parlato di un vecchio saggio che conosce
+    tutti i segreti dell'isola. Credo si trovi dalle parti dell'Hacienda.
+pt:
+  message: Eu n╞o sei n╞o, mas um cliente me falou de um velho sábio que conhece
+    todos os segredos da ilha. Acho que ele pode ser encontrado perto da
+    Fazenda.

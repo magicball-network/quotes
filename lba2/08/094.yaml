@@ -1,3 +1,14 @@
+textId: 354
 location:
 speaker:
 message: The island across from the hacienda.
+fr:
+  message: Sur l'îlot en face de l'hacienda.
+de:
+  message: Auf das Eiland gegenüber der Hacienda.
+es:
+  message: A la isla que está enfrente de la hacienda.
+it:
+  message: '" Sull''isolotto di fronte all''Hacienda."'
+pt:
+  message: Na ilhota em frente à fazenda.

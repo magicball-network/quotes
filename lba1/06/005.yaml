@@ -1,4 +1,20 @@
+textId: 4
 location:
 speaker:
 message: You've just earned the first level of Magic by finding the Tunic left
   for you by your ancestors. You will be able to store up magic with it.
+fr:
+  message: Tu viens d'atteindre le 1er niveau de Magie, en retrouvant la Tunique
+    léguée par tes ancêtres. Grâce à elle, tu peux désormais stocker de la
+    magie.
+de:
+  message: Du hast soeben die erste Magiestufe erreicht, da Du die Tunika
+    wiedergefunden hast, die Deine Vorfahren hinterlassen haben. Dank dieser
+    Tunika kannst Du von nun an Magie speichern.
+es:
+  message: Acabas de alcanzar el primer nivel de Magia al encontrar la Túnica
+    legada por tus antepasados. Gracias a ella podrás, de ahora en adelante,
+    almacenar magia.
+it:
+  message: Hai appena raggiunto il primo livello di Magia trovando la Tunica
+    lasciata dai tuoi avi. Grazie a essa puoi ora accumulare magia.

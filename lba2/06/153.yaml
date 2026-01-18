@@ -1,4 +1,24 @@
+textId: 242
 location:
 speaker:
 message: You can throw the Magic Ball and have it bounce in many different ways.
   The fire ball level allows you to inflict more damage upon your enemies.
+fr:
+  message: Tu peux lancer la Balle Magique en lui faisant faire toutes sortes de
+    rebonds. Le niveau balle de feu te permet d'effectuer plus de dégâts sur tes
+    ennemis.
+de:
+  message: Du kannst den Magischen Ball werfen und abprallen lassen. Mit der
+    Magiestufe des Feuerballs kannst du deinen Feinden mehr Schaden zufügen.
+es:
+  message:
+    Puedes lanzar la Bola Mágica haciéndola rebotar como quieras. El nivel
+    bola de fuego te permite causar más estragos entre tus enemigos.
+it:
+  message:
+    Puoi lanciare la Sfera Magica facendola rimbalzare come vuoi. Il grado
+    boccia di fuoco ti permette di produrre più lesioni ai tuoi nemici.
+pt:
+  message:
+    Você pode lançar a bola mágica quicando-a de qualquer modo. No nível da
+    bola de fogo você fará um estrago maior em seus inimigos.

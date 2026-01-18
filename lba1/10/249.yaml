@@ -1,4 +1,18 @@
+textId: 266
 location:
 speaker:
 message: "There's a treasure on this island: you must blow into a magic horn in
   front of FunFrock's bust to gain access to it."
+fr:
+  message: "Il y a un trésor sur cette île : il faut souffler dans une trompe
+    magique devant le buste de FunFrock pour y avoir accès."
+de:
+  message:
+    "Es gibt einen Schatz auf dieser Insel : man muß vor FunFrocks Büste in
+    ein magisches Horn blasen, um daran zu gelangen."
+es:
+  message: "Hay un tesoro en esta isla: hay que soplar en una trompa mágica
+    delante del busto de FunFrock para tener acceso."
+it:
+  message: "Su quest'isola è nascosto un tesoro: bisogna soffiare in una tromba
+    magica davanti al busto di FunFrock per potervi accedere."

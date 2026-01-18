@@ -1,4 +1,23 @@
+textId: 514
 location:
 speaker:
 message: Twinsen! I left my vessel near the outside of the crater. We'll be able
   to escape through the yard!
+fr:
+  message: Twinsen ! J'ai laissé mon vaisseau un peu à l'extérieur du cratère.
+    Nous pouvons nous enfuir en passant par la petite cour extérieure !
+de:
+  message:
+    Twinsen, ich habe mein Raumschiff neben dem Krater gelassen. Wir können
+    über den kleinen Außenhof fliehen!
+es:
+  message:
+    ¡Twinsen! He dejado mi nave cerca del cráter. ¡Podemos huir pasando por
+    el pequeño patio interior!
+it:
+  message:
+    Twinsen ! Ho lasciato il mio vascello all'esterno del cratere. Possiamo
+    scappare passando attraverso il piccolo cortile esterno.
+pt:
+  message: Twinsen ! Eu deixei a minha nave um pouco para fora da cratera. Nós
+    podemos fugir passando pelo pequeno pátio exterior !

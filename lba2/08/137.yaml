@@ -1,3 +1,14 @@
+textId: 19
 location:
 speaker:
 message: I don't know this character!
+fr:
+  message: Je ne connais pas cet énergumène !
+de:
+  message: Diesen Verrückten kenne ich nicht!
+es:
+  message: ¡No conozco a ese energúmeno!
+it:
+  message: Non conosco questo energumeno !
+pt:
+  message: Eu n╞o conheço este louco !

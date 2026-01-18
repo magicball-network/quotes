@@ -1,4 +1,16 @@
+textId: 104
 location:
 speaker:
 message: She's not here. I would have noticed her. We don't have many readers
   these days.
+fr:
+  message: Elle n'est pas là. Je l'aurai remarquée, nous avons peu de lecteurs
+    aujourd'hui.
+de:
+  message:
+    Sie ist nicht da. Ich hätte sie bemerkt, es sind heute nur wenige Leser
+    gekommen.
+es:
+  message: No está aquí. Me hubiera dado cuenta, tenemos pocos lectores hoy en día.
+it:
+  message: Non c'è. L'avrei notata, oggi ci sono pochi lettori.

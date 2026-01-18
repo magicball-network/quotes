@@ -1,3 +1,13 @@
+textId: 5
 location:
 speaker:
 message: You've just earned the second level of Magic by finding the Book of Bù.
+fr:
+  message: Tu viens d'atteindre le 2nd niveau de Magie, en retrouvant le Livre de Bù.
+de:
+  message: Du hast soeben die zweite Magiestufe erreicht, da Du das Bù Buch
+    wiedergefunden hast.
+es:
+  message: Acabas de alcanzar el segundo nivel de Magia, encontrando el Libro de Bù.
+it:
+  message: Hai appena raggiunto il secondo livello di Magia trovando il Libro di Bù.

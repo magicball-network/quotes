@@ -1,5 +1,26 @@
+textId: 30
 location:
 speaker:
 message: You know, I wonder if they might have brought her around,
   actually...What with all the wizards and Esmers hanging around the Hacienda
   these days...
+fr:
+  message:
+    Vous savez, je me demande s'il ne l'ont pas déménagée par ici ! Avec le
+    nombre de mages et d'Esmers qui fréquentent l'hacienda ces temps-ci !!
+de:
+  message: Wissen Sie, ich frage mich, ob sie mit der ganzen Schule hierher
+    umgezogen sind! Bei den vielen Magiern und Esmeriern, die derzeit auf der
+    Hacienda ein- und ausgehen, wäre das schon möglich!!
+es:
+  message:
+    ¿Sabe usted? ¡Igual la han trasladado por aquí! ¡¡Hay cantidad de magos
+    y de esmeres por la hacienda esta temporada!!
+it:
+  message: Sa, mi chiedo se per caso non l'hanno traslocata da queste parti !
+    Visto il numero di maghi e di Esmers che frequentano l'Hacienda in questi
+    ultimi tempi ...
+pt:
+  message:
+    Sabe, eu me pergunto se eles n╞o os deixaram por aqui! Com o número de
+    magos e de Esmers que têm freqüentado a Fazenda esses dias!!

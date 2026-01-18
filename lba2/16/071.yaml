@@ -1,5 +1,31 @@
+textId: 211
 location:
 speaker:
 message: Hey, Twinsen, great bumping into you! Say, you don't seem all that
   buddy-buddy with the locals! Soon as they heard your name, they jumped you,
   knocked you out, and stole your wizard's costume. And now, we're in jail.
+fr:
+  message: Ah Twinsen je suis drôlement content de te voir !! Dis donc, tu n'es
+    pas très copain avec les gens d'ici toi ! Dès qu'ils ont entendu ton nom,
+    ils se sont jetés sur toi pour t'assommer et te voler ton costume de mage.
+    Maintenant, nous sommes en prison.
+de:
+  message: Ah, Twinsen, bin ich vielleicht froh, dich zu sehen! Aber mit den
+    Leuten hier verträgst du dich wohl nicht so gut, was? Sobald sie deinen
+    Namen hörten, haben sie sich auf dich gestürzt, dich niedergeschlagen und
+    dir dein Magierkostüm weggenommen. Tja, und jetzt sitzen wir im Gefängnis.
+es:
+  message: ¡¡Vaya Twinsen estoy contentísimo de verte!! ¡Pero, oye, no se puede
+    decir que la gente de aquí te aprecie mucho! En cuanto han escuchado tu
+    nombre se han lanzado sobre ti para pegarte y robarte el traje de mago. Y
+    ahora estamos en la cárcel.
+it:
+  message: Ah Twinsen, sono veramente contento di vederti !! Dimmi un po', non
+    devi essere molto amico della gente di qui ! Appena hanno sentito il tuo
+    nome, si sono gettati su di te per stordirti e rubarti il tuo abito da mago.
+    Adesso, siamo in prigione.
+pt:
+  message:
+    Ah, Twinsen como é bom te ver !! Olha, você n╞o está sendo muito legal
+    com as pessoas daqui! Assim que ouviram seu nome, correram para cima de você
+    para te espancar e roubar sua roupa de mago. Agora, estamos presos.

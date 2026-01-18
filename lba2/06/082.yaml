@@ -1,3 +1,14 @@
+textId: 126
 location:
 speaker:
 message: Portable Radio
+fr:
+  message: Radio portable
+de:
+  message: Funksprechgerät
+es:
+  message: Radio portátil
+it:
+  message: Radio portatile
+pt:
+  message: Rádio portátil

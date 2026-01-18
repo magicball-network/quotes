@@ -1,3 +1,12 @@
+textId: 11
 location:
 speaker:
 message: I think we've got a hit here, thanks pal!
+fr:
+  message: Je sens qu'on tient un tube, merci vieux !
+de:
+  message: Ich glaub' wir landen einen Hit, danke Alter !
+es:
+  message: ¡Creo que éste será un hit, gracias viejo!
+it:
+  message: Son sicuro che questo sarà un successo. Grazie, amico!

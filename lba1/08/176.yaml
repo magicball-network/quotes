@@ -1,3 +1,12 @@
+textId: 184
 location:
 speaker:
 message: Ask a sailor, he might be able to help you.
+fr:
+  message: Demandez à un matelot, il pourra peut-être vous aider.
+de:
+  message: Fragen Sie einen Matrosen, der kann Ihnen vielleicht helfen.
+es:
+  message: Pregúntele a un marinero, quizás él pueda ayudarlo.
+it:
+  message: Chieda a un marinaio, potrà forse aiutarvi.

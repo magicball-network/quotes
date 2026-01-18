@@ -1,3 +1,12 @@
+textId: 57
 location:
 speaker:
 message: Adios! I think I'm going out to discover the world.
+fr:
+  message: Adios ! Je pense que je vais aller découvrir le monde.
+de:
+  message: Adios ! Ich glaube, ich gehe die Welt entdecken.
+es:
+  message: ¡Adiós! Pienso que voy a ir a descubrir el mundo.
+it:
+  message: Adios! Partirò alla scoperta del mondo.

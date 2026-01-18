@@ -1,3 +1,14 @@
+textId: 338
 location:
 speaker:
 message: '"Beach headland."'
+fr:
+  message: '" Promontoire de la plage. "'
+de:
+  message: '"Strandkap."'
+es:
+  message: '"Promontorio de la playa"'
+it:
+  message: '" Promontorio della spiaggia"'
+pt:
+  message: '" Promontório da praia. "'

@@ -1,3 +1,13 @@
+textId: 27
 location:
 speaker:
 message: Try over at Funky-Town. You can buy anything over there!
+fr:
+  message: Tu devrais essayer à Funky-Town. Là-bas tout s'achète paraît-il !
+de:
+  message: Du solltest es in Funky-Town versuchen. Es scheint, daß dort alles
+    käuflich ist !
+es:
+  message: Deberías tratar en Funky-Town. ¡Parece que allí todo se compra!
+it:
+  message: Dovresti provare a Funky-Town. Sembra che là vendano di tutto!

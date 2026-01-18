@@ -1,5 +1,33 @@
+textId: 962
 location:
 speaker:
 message: Gee, thanks, Twinsen! Now I'll be able to finish up the car. Oh,
   Baldino called recently -- he says he forgot to give you a portable radio and
   he wants you to come by to pick it up.
+fr:
+  message: Ah merci Twinsen ! Avec cette pièce, je vais pouvoir terminer la
+    réparation de la voiture. Au fait, Baldino a appelé tout à l'heure, il m'a
+    dit qu'il avait oublié de te donner une radio portable. Il aimerait bien que
+    tu passes la prendre.
+de:
+  message:
+    Oh, danke, Twinsen! Damit kann ich den Wagen reparieren. Ach übrigens,
+    Baldino hat gerade angerufen, er hat gesagt, daß er vergessen hat, dir ein
+    Funksprechgerät mitzugeben. Es wäre ihm recht, wenn du bei ihm vorbeischauen
+    würdest, um es abzuholen.
+es:
+  message:
+    ¡Gracias Twinsen ! Con esta pieza podré terminar de construir el coche.
+    Por cierto, Baldino acaba de llamar y me ha dicho que olvidó darte una radio
+    portátil. ¿Podrías ir a buscarla?
+it:
+  message: Ah, grazie Twinsen ! Con questo pezzo di ricambio, posso finire di
+    costruire la macchina. A proposito, Baldino ha chiamato poco fa, mi ha detto
+    che aveva dimenticato di darti una radio portatile. Vorrebbe che tu passassi
+    a prenderla.
+pt:
+  message:
+    Ah, obrigado Twinsen ! Com esta peça, eu vou poder terminar o conserto
+    do carro. A propósito, Baldino acabou de ligar, ele me disse que tinha
+    esquecido de te dar um rádio portátil. Ele gostaria muito que você passasse
+    lá para pegá-lo.

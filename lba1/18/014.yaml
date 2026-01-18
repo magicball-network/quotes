@@ -1,4 +1,18 @@
+textId: 13
 location:
 speaker:
 message: You're a real hero, Twinsen ! Well uh ... I mean, thanks for freeing
   Colonel Kroptman.
+fr:
+  message: Tu es devenu plus fort que la guerre Twinsen ! Enfin euh ... je veux
+    dire, merci d'avoir libéré le colonel Kroptman.
+de:
+  message: Du bist stärker als der Krieg Twinsen ! Nun ööh ... ich meine, danke
+    dafür, daß Du Oberst Kroptman befreit hast.
+es:
+  message: ¡Te has vuelto más fuerte que la guerra Twinsen! Ah... lo que quiero
+    decir, es gracias por haber liberado al coronel Kroptman.
+it:
+  message:
+    Sei diventato più forte della guerra, Twinsen! Insomma, volevo dirti...
+    grazie per aver liberato il colonnello Kroptman.

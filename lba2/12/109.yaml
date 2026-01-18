@@ -1,3 +1,19 @@
+textId: 127
 location:
 speaker:
 message: I saw one go by a while ago. I think he was looking for sand roses.
+fr:
+  message:
+    J'en ai vu passer un tout à l'heure. Je pense qu'il devait chercher des
+    roses des sables.
+de:
+  message: Vor kurzem ist hier einer vorbeigekommen. Ich nehme an, er wollte
+    Sandrosen suchen gehen.
+es:
+  message: Vi pasar uno hace un rato. Creo que estaba buscando rosas de arena.
+it:
+  message:
+    Ne ho visto passare uno poco fa. Penso che dovrebbe cercare delle rose
+    di sabbia.
+pt:
+  message: Passou um agora mesmo. Acho que devia estar indo procurar rosas da areia.

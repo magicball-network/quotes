@@ -1,4 +1,22 @@
+textId: 214
 location:
 speaker:
 message: You can use the Nitro-Meca-Penguins by placing them in a level and
   unencumbered area.
+fr:
+  message:
+    Tu peux utiliser les Nitro-Méca-Pingouins en les posant dans un endroit
+    plat et dégagé.
+de:
+  message: Nitro-Meca-Pinguine kannst du verwenden, indem du sie in flachem,
+    freiem Gelände aufstellst.
+es:
+  message: Puede usar los Nitro-Meca-Pingüino poniéndolos en un lugar plano y despejado.
+it:
+  message:
+    Puoi usate i Nitro-Robo-Pinguino mettendoli su una superficie piatta e
+    sgombra di oggetti.
+pt:
+  message:
+    Você pode usar os Nitro-Méca-Pingüins colocando-os em um lugar plano e
+    isolado.

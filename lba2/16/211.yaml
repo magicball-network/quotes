@@ -1,3 +1,14 @@
+textId: 422
 location:
 speaker:
 message: We have to find a way to go to this island. But how?
+fr:
+  message: Il faut que l'on trouve un moyen pour aller jusqu'à cet îlot. Mais comment ?
+de:
+  message: Wir müssen eine Möglichkeit finden, auf dieses Eiland zu gelangen. Aber wie?
+es:
+  message: Tengo que encontrar un medio para llegar a ese islote. ¿Pero cómo?
+it:
+  message: Devo trovare il modo di andare a quell'isolotto. Ma come ?
+pt:
+  message: Precisamos encontrar uma maneira de ir até essa Ilha. Mas como ?

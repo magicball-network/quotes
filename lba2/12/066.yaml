@@ -1,5 +1,25 @@
+textId: 117
 location:
 speaker:
 message: OFFICIAL NOTICE ... all shuttles going to the moon base... new
   password... without which the soldiers will intervene... operation GREEN MOON
   !!
+fr:
+  message: AVIS OFFICIEL ... toutes les navettes allant sur la base lunaire...
+    nouveau mot de passe... sans quoi les soldats interviendront... opération
+    GREEN MOON !!
+de:
+  message: OFFIZIELLE MELDUNG ... an alle Raumschiffe in Richtung Mondstützpunkt
+    ... neues Kennwort ... sonst Angriff ... Operation GREEN MOON!
+es:
+  message: AVISO OFICIAL ... todas las naves que vayan a la base lunar... nueva
+    contraseña... en su defecto los soldados tienen orden de intervenir...
+    operación GREEN MOON!!
+it:
+  message:
+    AVVISO UFFICIALE ... tutte le navette vadano alla loro base lunare ...
+    nuova parola d'ordine ... altrimenti i soldati interverranno ... operazione
+    GREEN MOON !!
+pt:
+  message: AVISO OFICIAL ... todas as naves com destino à base lunar... nova
+    senha... caso contrário os soldados intervir╞o... operaç╞o LUA VERDE!!

@@ -1,3 +1,14 @@
+textId: 502
 location:
 speaker:
 message: Hello Tim.
+fr:
+  message: Bonjour Tim.
+de:
+  message: Guten Tag, Tim.
+es:
+  message: Buenos días Tim.
+it:
+  message: Buongiorno Tim.
+pt:
+  message: Bom dia, Tim.

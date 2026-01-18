@@ -1,3 +1,12 @@
+textId: 247
 location:
 speaker:
 message: By the way - thanks, I have the red card!
+fr:
+  message: Merci au fait, j'ai la carte rouge !
+de:
+  message: Übrigens vielen Dank, ich habe die rote Karte !
+es:
+  message: Gracias, ¡A propósito, tengo la tarjeta roja!
+it:
+  message: Grazie, ho la carta rossa!

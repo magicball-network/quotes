@@ -1,3 +1,16 @@
+textId: 71
 location:
 speaker:
 message: My dear sir, my goods are only available to fully licensed wizards.
+fr:
+  message:
+    Cher monsieur, sachez que si vous n'êtes pas mage je ne peux rien vous
+    vendre.
+de:
+  message: Werter Herr, ich darf Ihnen nichts verkaufen, wenn Sie kein Magier sind.
+es:
+  message: Querido señor, sepa usted, que si no es mago no puedo venderle nada.
+it:
+  message: Caro signore, se lei non è mago non posso venderle niente.
+pt:
+  message: Caro senhor, saiba que se você n╞o é mago eu n╞o posso te vender nada.

@@ -1,3 +1,14 @@
+textId: 113
 location:
 speaker:
 message: Aha! a sign from Sendell. They are venerated by all the wizards.
+fr:
+  message: Tiens, un signe de Sendell. Ils sont vénérés par tous les mages.
+de:
+  message: Sieh an, ein Zeichen von Sendell. Alle Magier verehren diese Zeichen.
+es:
+  message: Mira, un signo de Sendell. Todos los magos los veneran.
+it:
+  message: Guarda, un segno di Sendell. Sono venerati da tutti i maghi.
+pt:
+  message: Veja, um signo de Sendell. Eles s╞o admirados por todos os magos.

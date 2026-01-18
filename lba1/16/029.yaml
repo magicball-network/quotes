@@ -1,3 +1,12 @@
+textId: 31
 location:
 speaker:
 message: To the rebel camp.
+fr:
+  message: Au camp des rebelles.
+de:
+  message: Zum Camp der Rebellen.
+es:
+  message: Al campo de los rebeldes.
+it:
+  message: Al campo dei ribelli.

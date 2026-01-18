@@ -1,3 +1,20 @@
+textId: 590
 location:
 speaker:
 message: It's in the desert. The entrance is in a cemetery to scare off strangers.
+fr:
+  message:
+    Elle est dans le désert. L'entrée se trouve dans un cimetière destiné à
+    effrayer les étrangers.
+de:
+  message: Sie ist in der Wüste. Der Eingang befindet sich auf dem Friedhof, um
+    Fremde abzuschrecken.
+es:
+  message: Está en el desierto. La entrada se encuentra en un cementerio por
+    aquello de ahuyentar a los extranjeros.
+it:
+  message: E' nel deserto. L'entrata si trova in un cimitero che serve a
+    spaventare gli stranieri.
+pt:
+  message: Ela fica no deserto. A entrada fica num cemitério construído para
+    espantar os estrangeiros.

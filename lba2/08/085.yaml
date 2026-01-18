@@ -1,3 +1,17 @@
+textId: 530
 location:
 speaker:
 message: I don't see my buddy Dino-Fly. He must have landed a little further away.
+fr:
+  message: Je ne vois pas mon cher Dino-Fly. Il a du atterrir un peu plus loin.
+de:
+  message:
+    Ich kann meinen Dinofly nicht sehen. Er ist vermutlich etwas weiter weg
+    gelandet.
+es:
+  message: No veo a mi querido Dino-Fly. Habrá aterrizado un poco más lejos.
+it:
+  message: Non vedo il mio caro Dino-Fly. E' atterrato sicuramente poco lontano da qui.
+pt:
+  message: N╞o estou vendo o meu querido Dino-Fly. Ele deve ter pousado um pouco
+    mais adiante.

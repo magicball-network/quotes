@@ -1,4 +1,18 @@
+textId: 211
 location:
 speaker:
 message: LeBorgne! Since he didn't know how to read, he had his cook write the
   Captain's log. I know that it is for sale at the bazaar next door.
+fr:
+  message:
+    LeBorgne ! Ne sachant pas lire il faisait rédiger son livre de bord par
+    le cuisinier. Je sais qu'il est en vente au bazar juste à coté.
+de:
+  message: EinAuge ! Weil er nicht lesen konnte, hat er den Koch sein Logbuch
+    schreiben lassen. Es steht im Bazar gleich nebenan zum Verkauf.
+es:
+  message: El Tuerto! Como no sabía leer, hizo que el cocinero redactase su
+    bitácora. Yo sé que está en venta en el bazar justo aquí al lado.
+it:
+  message: Il Guercio! Non sapeva scrivere, allora faceva redigere il libro di
+    bordo al cuoco. Adesso è in vendita al bazaar qui di fianco.

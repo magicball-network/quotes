@@ -1,3 +1,14 @@
+textId: 92
 location:
 speaker:
 message: You can board as soon as the storm is over.
+fr:
+  message: Vous pourrez embarquer dès que la tempête sera calmée.
+de:
+  message: Sie können an Bord gehen, sobald der Sturm sich gelegt hat.
+es:
+  message: Podrá embarcar en cuanto amaine la tempestad.
+it:
+  message: Potrà imbarcarsi appena la tempesta si sarà calmata .
+pt:
+  message: Você poderá embarcar assim que a tempestade acalmar.

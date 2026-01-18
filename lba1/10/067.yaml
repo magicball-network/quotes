@@ -1,3 +1,12 @@
+textId: 74
 location:
 speaker:
 message: No way, this smells like a scam!
+fr:
+  message: Pas question, ça sent l'arnaque !
+de:
+  message: Kommt nicht in Frage, das riecht nach Beschiß !
+es:
+  message: ¡Ni hablar, eso me suena a estafa!
+it:
+  message: Assolutamente no, puzza di truffa lontano un miglio!

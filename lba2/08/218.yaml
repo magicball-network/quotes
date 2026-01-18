@@ -1,5 +1,27 @@
+textId: 18
 location:
 speaker:
 message: But I have a customer who works for a healing wizard named Ker'aooc. He
   lives on Desert Island. According to my friend, he treats everybody for
   everything.
+fr:
+  message: Mais, j'ai une cliente qui travaille pour un mage guérisseur. Il
+    s'appelle Ker'aooc et il habite sur l'île du désert. D'après elle, il soigne
+    tout et tout le monde.
+de:
+  message:
+    Aber ich habe eine Kundin, die für einen Heilmagier arbeitet. Er heißt
+    Ker'aooc und lebt auf der Wüsteninsel. Sie meint, er kann alles und jeden
+    heilen.
+es:
+  message: Pero tengo una clienta que trabaja con un mago curandero que se llama
+    Ker'aooc y que vive en la isla del desierto. Según ella lo cura todo y a
+    todos .
+it:
+  message: Ma ... io ho una cliente che lavora per un mago guaritore. Si chiama
+    Ker'aooc e abita sull'sull'Isola del deserto. Secondo lei, è in grado di
+    curare tutto e tutti.
+pt:
+  message: Bem, eu tenho uma cliente que trabalha para um Mago Curador. Ele se
+    chama Ker'aooc e mora na Ilha do Deserto. Segundo ela, ele cura tudo e todo
+    mundo.

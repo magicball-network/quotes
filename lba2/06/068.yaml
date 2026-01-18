@@ -1,3 +1,14 @@
+textId: 112
 location:
 speaker:
 message: Proto-Pack
+fr:
+  message: Proto-Pack
+de:
+  message: ProtoPack
+es:
+  message: Proto-Pack
+it:
+  message: Proto-Pack
+pt:
+  message: Proto-Pack

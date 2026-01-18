@@ -1,3 +1,14 @@
+textId: 433
 location:
 speaker:
 message: To the wizard's lane.
+fr:
+  message: Au chemin du mage.
+de:
+  message: Zum Magierweg.
+es:
+  message: Al camino del mago.
+it:
+  message: Alla Strada del mago.
+pt:
+  message: No caminho do mago.

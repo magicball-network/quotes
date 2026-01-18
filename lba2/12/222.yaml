@@ -1,3 +1,14 @@
+textId: 99
 location:
 speaker:
 message: Welcome
+fr:
+  message: Bienvenue.
+de:
+  message: Willkommen.
+es:
+  message: Bienvenido
+it:
+  message: Benvenuto
+pt:
+  message: Bem-vindo

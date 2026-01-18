@@ -1,3 +1,16 @@
+textId: 283
 location:
 speaker:
 message: '"To the glory of Dr. FunFrock.". This bust makes an excellent target.'
+fr:
+  message: '" Gloire au Dr FunFrock ". Ce buste fait vraiment une cible idéale.'
+de:
+  message: '"Der wunderbare Dr. FunFrock". Die Büste ist wirklich eine ideale
+    Zielscheibe.'
+es:
+  message: '"Gloria al Dr FunFrock ". Este busto es ciertamente la diana ideal.'
+it:
+  message: '" Gloria al Dottor FunFrock ". Questo busto sarebbe proprio un
+    bersaglio ideale.'
+pt:
+  message: '" Viva o Dr. FunFrock ". Esse busto é um alvo perfeito.'

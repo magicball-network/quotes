@@ -1,5 +1,26 @@
+textId: 222
 location:
 speaker:
 message: |-
   "Jerome Baldino.
   Miscellaneous Gadgets & Inventions."
+fr:
+  message: |-
+    " Jérôme Baldino.
+    Gadgets & Inventions Diverses. "
+de:
+  message: |-
+    "Jerome Baldino.
+    Diverse Gerätschaften & Erfindungen."
+es:
+  message: |-
+    " Jerónimo Baldino.
+    Objetos & Inventos varios "
+it:
+  message: |-
+    "Gerolamo Baldino.
+    Gadget & Invenzioni diverse."
+pt:
+  message: |-
+    " Jerônimo Baldino.
+    Aparelhos & InvençΣes Diversas. "

@@ -1,4 +1,22 @@
+textId: 629
 location:
 speaker:
 message: Have you found the Ball of Sendell? Again, all I know is that it lies
   on Citadel Island and that only the lightning spell can free it.
+fr:
+  message: As-tu retrouvé la Boule de Sendell ? Je te rappelle qu'elle est sur
+    l'île de la citadelle et que seul le sort de foudre pourra la libérer.
+de:
+  message: Hast du die Kugel von Sendell gefunden? Sie ist auf der
+    Zitadelleninsel, und nur mit dem Blitzzauber kannst du sie freisetzen.
+es:
+  message:
+    ¿Has encontrado la bola de Sendell? Te recuerdo que está en la isla de
+    la ciudadela y que sólo podrá liberarla el hechizo del rayo.
+it:
+  message: Hai ritrovato la sfera di Sendell ? Ti ricordo che è sull'isola della
+    Cittadella e che solo il sortilegio di fulmini potrà liberarla.
+pt:
+  message:
+    Você encontrou a Bola de Sendell ? Queria lembrar que ela está na Ilha
+    da Fortaleza e que apenas o feitiço do raio poderá liberá-la.

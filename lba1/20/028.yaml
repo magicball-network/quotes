@@ -1,3 +1,12 @@
+textId: 27
 location:
 speaker:
 message: To Tippett island.
+fr:
+  message: Sur l'île Tippett.
+de:
+  message: Auf die Insel Tippett.
+es:
+  message: A la isla Tippett.
+it:
+  message: Sull'isola Tippett.

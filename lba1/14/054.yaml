@@ -1,4 +1,21 @@
+textId: 54
 location:
 speaker:
 message: There was a false alarm at the museum. The only way out was through the
   sewers, but the grate was not moved, so we're reopening the building.
+fr:
+  message: Il y a eu une fausse alerte au musée. La seule issue possible c'était
+    par les égouts, mais la plaque n'a pas été actionnée, alors on rouvre le
+    bâtiment.
+de:
+  message: Es hat falschen Alarm im Museum gegeben. Die Kanalisation war der
+    einzig mögliche Fluchtweg, aber der Deckel ist nicht versetzt worden, also
+    wird wieder geöffnet.
+es:
+  message:
+    Ha habido una falsa alerta en el museo. La única salida posible era por
+    las alcantarillas, pero la placa no fue accionada, así que reabramos el
+    edificio.
+it:
+  message: Falso allarme al museo. La sola uscita possibile era attraverso le
+    fogne, ma la piastra non è stata azionata, l'edificio viene quindi riaperto.

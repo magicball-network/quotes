@@ -1,4 +1,19 @@
+textId: 35
 location:
 speaker:
 message: Hi, you should go see one of my fellow elves who is in the White Leaf
   Desert. He can give you a blue card.
+fr:
+  message: Dans une grotte près du Temple de Bù, tu peux trouver l'un de mes
+    confrêres, il peut te procurer une carte bleue.
+de:
+  message:
+    Hallo, Du solltest zu einem Kobold-Kollegen, der sich in der Wüste des
+    Leeren Blattes befindet, gehen. Er kann Dir eine blaue Karte geben.
+es:
+  message:
+    Hola, tú deberías ir a ver a un hermano duende que está en el Desierto
+    de la Hoja Blanca. El puede darte una tarjeta azul.
+it:
+  message: Dovresti incontrare un confratello folletto nel Deserto della Foglia
+    Bianca. Potrebbe darti una tessera blu.

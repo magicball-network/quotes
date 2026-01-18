@@ -1,4 +1,17 @@
+textId: 29
 location:
 speaker:
 message: Mister, Mister! There's a loose stone in the back wall. I might be able
   to escape!
+fr:
+  message: M'sieur, m'sieur ! Y'a une pierre bizarre dans le mur du fond. Je
+    risque de m'évader !
+de:
+  message:
+    Schauen Sie, schauen Sie doch ! Da ist ein komischer Stein dort hinten
+    in der Mauer. Ich könnte doch ausbrechen !
+es:
+  message: ¡Señor, señor! Hay una piedra rara en la pared del fondo. ¡Podría fugarme!
+it:
+  message: Signore, signore! C'è una strana pietra sulla parete in fondo! Forse
+    riesco ad evadere!

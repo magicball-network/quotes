@@ -1,3 +1,19 @@
+textId: 286
 location:
 speaker:
 message: Ah thank you. I don't need it anymore, but it was kind of you to bring it back.
+fr:
+  message: Ah merci, je n'en ai plus besoin mais c'est gentil de me l'avoir rapporté.
+de:
+  message: Oh, danke, ich brauche ihn nicht mehr, aber es ist trotzdem nett, daß
+    Sie ihn mir gebracht haben.
+es:
+  message: Gracias, ya no lo necesito, pero ha sido muy amable trayéndomelo.
+it:
+  message:
+    Ah grazie, non ne ho più bisogno ma è gentile da parte sua di avermelo
+    riportato.
+pt:
+  message:
+    Ah obrigado, eu n╞o preciso mais, mas de qualquer maneira agradeço por
+    ter trazido.

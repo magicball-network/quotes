@@ -1,3 +1,14 @@
+textId: 445
 location:
 speaker:
 message: '"Downtown."'
+fr:
+  message: '" Vers le Centre-Ville. "'
+de:
+  message: '"Zur Stadtmitte."'
+es:
+  message: '" Al Centro Ciudad"'
+it:
+  message: '" Verso il centro della città"'
+pt:
+  message: '" Em direç╞o ao Centro da Cidade. "'

@@ -1,3 +1,16 @@
+textId: 104
 location:
 speaker:
 message: Tunic. With this magical symbol, you have just earned the first level of power.
+fr:
+  message:
+    Tunique. Grâce à ce symbole magique, tu viens d'atteindre le 1er niveau
+    de puissance.
+de:
+  message: Tunika. Dank dieses magischen Symbols hast Du soeben die erste
+    Kraftstufe erreicht.
+es:
+  message: Túnica. Gracias a este símbolo mágico, acabas de alcanzar el primer
+    nivel de poder.
+it:
+  message: Tunica. Con questo simbolo magico raggiungi il primo livello di potenza.

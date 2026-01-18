@@ -1,4 +1,24 @@
+textId: 960
 location:
 speaker:
 message: Hello? Twinsen? That's it, I fixed the car... You should give it a
   whirl... I'm bringing it to Desert Island...
+fr:
+  message:
+    Allô ! Twinsen ! Ça y est, j'ai réparé la voiture... j'aimerais que tu
+    l'essayes... je te l'amène sur l'île du désert...
+de:
+  message: Hallo! Twinsen! Ich habe das Auto repariert ... kannst du es
+    ausprobieren? ... ich bringe es dir auf die Wüsteninsel ...
+es:
+  message:
+    ¡Oiga! -Twinsen! Ya está, ya he reparado el coche... Me gustaría que lo
+    probaras... te lo llevo a la isla del desierto...
+it:
+  message:
+    Pronto ! Twinsen ! Ci siamo, ho riparato la macchina ... vorrei che tu
+    la provassi ... ti porto sull' Isola del Deserto...
+pt:
+  message:
+    Alô ! Twinsen ! Está pronto, consertei o carro... eu gostaria que você
+    testasse ele... eu te levo à Ilha do Deserto...

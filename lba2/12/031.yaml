@@ -1,3 +1,14 @@
+textId: 422
 location:
 speaker:
 message: Did you see a wizard walk this way recently?
+fr:
+  message: Avez-vous vu passer un mage récemment ?
+de:
+  message: Haben Sie in letzter Zeit einen Magier vorbeikommen sehen?
+es:
+  message: ¿Ha visto pasar hace poco a un mago?
+it:
+  message: Ha visto passare il mago recentemente ?
+pt:
+  message: Você viu um mago passar há pouco ?

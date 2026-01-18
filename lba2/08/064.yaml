@@ -1,3 +1,14 @@
+textId: 241
 location:
 speaker:
 message: '"Green Corulla Street"'
+fr:
+  message: '" Rue Corulle-Verte. "'
+de:
+  message: '"Blumenstraße"'
+es:
+  message: '"Calle Chirivía-Verde"'
+it:
+  message: '" Via Corolla-Verde"'
+pt:
+  message: '" Rua Círculo-Verde "'

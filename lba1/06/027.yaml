@@ -1,3 +1,12 @@
+textId: 26
 location:
 speaker:
 message: M. Lanktir gave you his list.
+fr:
+  message: M. Lanktir t'a donné sa liste.
+de:
+  message: Herr Lanktir hat Dir eine Liste gegeben.
+es:
+  message: Lanktir te ha dado su lista.
+it:
+  message: Lanktir ti ha dato la sua lista.

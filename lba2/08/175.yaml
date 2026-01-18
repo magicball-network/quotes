@@ -1,3 +1,14 @@
+textId: 450
 location:
 speaker:
 message: Twinsen, is that it, you have become a wizard?!
+fr:
+  message: Twinsen, ça y est, tu es devenu mage ? !
+de:
+  message: Twinsen, du bist Magier geworden?!
+es:
+  message: Twinsen, ¡Al fin te has convertido en mago!
+it:
+  message: Twinsen, ci siamo, sei diventato mago ?!
+pt:
+  message: Twinsen, você se tornou um mago ? !

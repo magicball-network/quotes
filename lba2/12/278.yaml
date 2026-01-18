@@ -1,3 +1,15 @@
+textId: 582
 location:
 speaker:
 message: No, sir, can't help you. It's not often we see wizards around here..
+fr:
+  message: Non monsieur, je ne peux pas vous aider. On n'en voit pas souvent par
+    ici des mages.
+de:
+  message: Nein, ich kann Ihnen leider nicht helfen. Magier kommen nur selten hierher.
+es:
+  message: No, señor, no puedo ayudarlo. Por aquí no suelen verse magos.
+it:
+  message: No signore, non posso aiutarla. Qui di maghi non ne vediamo spesso.
+pt:
+  message: N╞o, senhor, eu n╞o posso ajudar. Quase n╞o vemos magos por aqui.

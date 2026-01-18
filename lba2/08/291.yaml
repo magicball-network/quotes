@@ -1,3 +1,14 @@
+textId: 966
 location:
 speaker:
 message: Now then, meet me at the School of Magic. I've got a surprise for you.
+fr:
+  message: Maintenant retrouve-moi à l'Ecole de Magie. J'ai une surprise pour toi.
+de:
+  message: Wir treffen uns in der Zauberschule. Ich habe eine Überraschung für dich.
+es:
+  message: Ahora reúnete conmigo en la Escuela de Magia, Tengo una sorpresa para ti.
+it:
+  message: Adesso raggiungimi alla Scuola di magia. Ho una sorpresa per te.
+pt:
+  message: Agora encontre-me na Escola de Magia. Tenho uma surpresa para você.

@@ -1,3 +1,4 @@
+textId: 75
 location:
 speaker:
 message: I can guide you through the Censored Publications Department. There is
@@ -5,3 +6,25 @@ message: I can guide you through the Censored Publications Department. There is
   would like you to change the taste of the tap water, here in the city. It is
   the only type of water that I am allowed to drink, and it is really
   disgusting.
+fr:
+  message:
+    "Je peux vous ouvrir la porte de l'enfer de cette bibliothèque. Il y a
+    là un livre parlant de la Légende. Mais pour cela j'aimerais que vous
+    changiez le goût de l'eau de la ville : c'est la seule que je puisse boire
+    mais elle n'est pas fameuse."
+de:
+  message:
+    "Ich kann Ihnen die Tür des Geheimarchivs dieser Bibliothek öffnen. Es
+    gibt dort ein Buch, das von der Legende handelt. Aber dafür möchte ich, daß
+    Sie den Geschmack des Leitungswassers ändern : das ist das einzige was ich
+    trinken kann, aber es schmeckt nicht gerad' famos."
+es:
+  message: "Puedo abrirle la puerta del infierno de esta biblioteca. Allí hay un
+    libro que habla de la Leyenda. Pero para conseguirlo me gustaría que cambie
+    el sabor del agua de la ciudad: es la única que puedo beber, pero no es
+    buena."
+it:
+  message: "Posso aprirle la porta dell'enfer di questa biblioteca. Troverà un
+    libro che parla della Leggenda. Ma in cambio desidero che cambi il sapore
+    dell'acqua della città: è l'unica bevanda che mi sia concessa, e non è certo
+    delle migliori."

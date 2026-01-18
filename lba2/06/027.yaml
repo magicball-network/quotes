@@ -1,3 +1,19 @@
+textId: 26
 location:
 speaker:
 message: You now own a portable radio. You can now receive calls from your friends.
+fr:
+  message: Tu possèdes maintenant une radio portable. Elle te permettra de
+    recevoir des appels envoyés par tes amis.
+de:
+  message: Du besitzt jetzt ein Funksprechgerät. Mit ihm kannst du Anrufe Deiner
+    Freunde empfangen.
+es:
+  message: Ahora tienes una radio portátil.
+it:
+  message: Adesso hai una radio portatile. Ti permetterà di ricevere le chiamate
+    dei tuoi amici.
+pt:
+  message:
+    Você agora tem um rádio portátil. Com ele você poderá receber chamadas
+    de seus amigos.

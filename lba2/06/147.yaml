@@ -1,4 +1,26 @@
+textId: 236
 location:
 speaker:
 message: This pick-ax will allow you to dig into the ground or harder materials.
   With it, you can now locate objects buried underground, or extract materials.
+fr:
+  message:
+    Cette pioche te permettra de creuser le sol ou des matières plus dures.
+    Avec elle, tu peux maintenant retrouver des objets enfouis sous la terre, ou
+    extraire des matériaux.
+de:
+  message: Mit dieser Hacke kannst du im Boden oder in härteren Materialien
+    graben. Damit kannst du nun Objekte finden, die unter der Erde vergraben
+    sind, oder Dinge aus anderen herauslösen.
+es:
+  message:
+    Este pico te permitirá cavar en el suelo o en materiales más duros. Con
+    él ahora podrá encontrar objetos enterrados o extraer materiales.
+it:
+  message:
+    Questa zappa ti permetterà di scavare la terra o delle matiere più dure
+    e farti ritrovare degli oggetti nascosti sotto terra, oppure estrarre dei
+    materiali.
+pt:
+  message: Com essa enxada você poderá cavar o solo ou lugares mais duros para
+    encontrar objetos enterrados ou extrair materiais.

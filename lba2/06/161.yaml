@@ -1,4 +1,21 @@
+textId: 250
 location:
 speaker:
 message: This pisto-Laser shoots horizontal rays. They will allow you to hit
   enemies who are at a great distance.
+fr:
+  message: Ce pistolaser tire des rayons horizontaux. Ils te permettront de
+    toucher des ennemis qui se trouvent à bonne distance.
+de:
+  message:
+    Dieser PistoLaser schießt horizontale Laserstrahlen ab. Damit kannst du
+    Feinde treffen, die ziemlich weit weg sind.
+es:
+  message: Esta pistoláser dispara rayos horizontales. Te permitirán alcanzar
+    enemigos que se encuentran a considerable distancia.
+it:
+  message: Questa pisolaser tira dei raggi orizzontali. Ti permetteranno di
+    colpire dei nemici che si trovano a una buona distanza.
+pt:
+  message: Essa pistolaser atira raios horizontais. Com ela você poderá atingir
+    inimigos a uma boa distância.

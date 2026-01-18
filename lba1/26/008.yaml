@@ -1,5 +1,18 @@
+textId: 7
 location:
 speaker:
 message: Their teleportation thingamajig is all smashed up. I was walking,
   minding my own business, in the Hamalayi mountains, and suddenly I end up
   here!
+fr:
+  message: Y l'est tout pété leur truc de téléportation. J'me promenais
+    tranquillement dans l'Hamalayi et voilà qu'j'aterris ici !
+de:
+  message: Ihr Biemdinsgda is' völlig im Eimer. Ich ging ganz ruhig auf'em
+    Hamalayi spazieren, und da lande ich plötzlich hier !
+es:
+  message: Está transtornado todo su entramado de teleportación. Me paseaba
+    tranquilamente en el Hamalayi, y ¡héme aquí que aterrizo!
+it:
+  message: E' tutto a pezzi il loro coso di teletrasporto. Camminavo tranquillo
+    per l'Hamalayi, ed eccomi qui!

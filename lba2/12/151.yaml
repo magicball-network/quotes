@@ -1,3 +1,15 @@
+textId: 29
 location:
 speaker:
 message: You still have one test to pass before you become a wizard.
+fr:
+  message: Il te faut encore triompher d'une épreuve avant de devenir un mage.
+de:
+  message: Du mußt noch eine Prüfung bestehen, bevor du Magier wirst.
+es:
+  message: Todavía te falta salir triunfante de otra prueba antes de convertirte
+    en mago.
+it:
+  message: Devi ancora superare una prova prima di diventare un mago.
+pt:
+  message: Você ainda tem que completar uma prova antes de se tornar um mago.

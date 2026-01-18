@@ -1,5 +1,29 @@
+textId: 950
 location:
 speaker:
 message: By the way, the missus was looking for you. She tells you to go see
   Ker'aooc, the healing wizard, on Desert island. He knows how to cure your
   Dino-Fly.
+fr:
+  message:
+    Au fait, votre dame vous cherchait tout à l'heure. Elle vous fait dire
+    d'aller voir Ker'aooc, le mage guérisseur, sur l'île du désert. Il saurait
+    comment soigner votre Dino-Fly.
+de:
+  message: Ach übrigens, Ihre Frau hat Sie gerade gesucht. Sie läßt Ihnen
+    ausrichten, daß Sie zu Ker'aooc, dem Heilmagier, auf der Wüsteninsel gehen
+    sollen. Er weiß angeblich, wie man Ihren Dinofly wieder hinbekommt.
+es:
+  message:
+    Por cierto, su acompañante estaba buscándolo hace un momento. Le manda
+    decir que vaya a ver a Ker'aooc, el mago curandero, a la isla del desierto.
+    El sabrá cómo curar a su Dino-Fly.
+it:
+  message: A proposito, la sua signora la cercava. Mi ha pregato di dirle di
+    andare a trovare Ker'aooc, il mago guaritore, sull'Isola del deserto. Saprà
+    come curare il suo Dino-Fly.
+pt:
+  message:
+    A propósito, sua mulher estava te procurando agora mesmo. Ela te mandou
+    dizer para ir ver Ker'aooc, o Mago Curador, na Ilha do Deserto. Ele saberá
+    como curar seu Dino-Fly.

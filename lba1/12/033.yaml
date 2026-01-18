@@ -1,3 +1,12 @@
+textId: 70
 location:
 speaker:
 message: I can't help you, sorry.
+fr:
+  message: Je ne peux pas t'aider, je regrette.
+de:
+  message: Ich kann Dir nicht helfen, bedauere.
+es:
+  message: No puedo ayudarte, lo siento.
+it:
+  message: Non posso aiutarti, mi spiace.

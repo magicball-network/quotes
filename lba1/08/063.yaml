@@ -1,5 +1,22 @@
+textId: 68
 location:
 speaker:
 message: |-
   "Welcome to Lupin-Burg
   (Citadel Island)."
+fr:
+  message: |-
+    " Bienvenue à Lupin-Bourg
+    (Ile de la Citadelle). "
+de:
+  message: |-
+    " Willkommen in Lupin-Burg
+    (Zitadelleninsel). "
+es:
+  message: |-
+    "Bienvenido a Lupin-Burgo
+    (Isla de la Ciudadela)."
+it:
+  message: |-
+    " Benvenuti a Lupinburgo
+    (Isola della Cittadella). "

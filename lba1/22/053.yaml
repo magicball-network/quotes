@@ -1,3 +1,12 @@
+textId: 60
 location:
 speaker:
 message: I don't know what it is.
+fr:
+  message: Je sais pas ce que c'est.
+de:
+  message: Ich weiß nicht was das ist.
+es:
+  message: No sé lo que es.
+it:
+  message: Non so cosa sia.

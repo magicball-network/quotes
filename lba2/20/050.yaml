@@ -1,4 +1,23 @@
+textId: 530
 location:
 speaker:
 message: Oh, my, that's pretty far, no. You see, none of us have ever left our
   island or our beloved old mine.
+fr:
+  message: Hou la, c'est loin ça. Non, vous savez, ici aucun de nous n'a jamais
+    quitté notre île et notre bonne vieille mine.
+de:
+  message:
+    Oh, das ist ganz schön weit. Nein, von uns hat noch keiner unsere Insel
+    und die gute alte Mine verlassen.
+es:
+  message:
+    ¡Uhhh, eso está muy lejos! No, mire, aquí ninguno de nosotros ha salido
+    de esta isla ni de nuestra querida vieja mina.
+it:
+  message:
+    Oh, è così lontano. Sa, qui nessuno di noi ha mai lasciato l'isola e la
+    nostra cara vecchia miniera.
+pt:
+  message: Ai, é longe. N╞o, sabe, nenhum de nós nunca saiu da nossa ilha e de
+    nossa velha mina.

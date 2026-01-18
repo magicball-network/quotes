@@ -1,3 +1,14 @@
+textId: 561
 location:
 speaker:
 message: Stop!!
+fr:
+  message: Arrêtez vous !!
+de:
+  message: Halten Sie an!
+es:
+  message: ¡¡Deténgase!!
+it:
+  message: Si fermi !!
+pt:
+  message: Você, pare!!

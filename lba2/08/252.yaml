@@ -1,4 +1,15 @@
+textId: 310
 location:
 speaker:
 message: Why don't you read the posters. And if you are interested in a
   destination, you tell me.
+fr:
+  message: Lisez donc les affiches. Et si une destination vous intéresse, dites-le moi.
+de:
+  message: Lesen Sie die Plakate. Wenn Sie ein Ziel interessiert, sagen Sie es mir.
+es:
+  message: Lea los carteles. Y si le interesa algún destino, dígamelo..
+it:
+  message: Legga i manifesti. E se una destinazione le interessa, me lo dica.
+pt:
+  message: Leia os painéis. Se você se interessar por algum lugar, é só me dizer.

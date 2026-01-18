@@ -1,3 +1,12 @@
+textId: 40
 location:
 speaker:
 message: So, which one of FunFrock's factories do you want information about?
+fr:
+  message: Alors, sur quelle usine de FunFrock veux-tu des renseignements ?
+de:
+  message: Also, über welche von FunFrocks Fabriken möchtest Du Informationen ?
+es:
+  message: Entonces, ¿Sobre cuál de las fábricas de FunFrock quieres informacion?
+it:
+  message: Allora, su quale fabbrica di FunFrock vuoi informazioni?

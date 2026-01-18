@@ -1,3 +1,14 @@
+textId: 320
 location:
 speaker:
 message: Watch out!!
+fr:
+  message: Attention !!
+de:
+  message: Achtung!
+es:
+  message: ¡¡Cuidado!!
+it:
+  message: Attenzione !!
+pt:
+  message: Atenç╞o !!

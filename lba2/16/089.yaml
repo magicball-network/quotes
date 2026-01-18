@@ -1,3 +1,14 @@
+textId: 766
 location:
 speaker:
 message: I am innocent, let me free!!!
+fr:
+  message: Je suis innocent, libérez moi !!!
+de:
+  message: Ich bin unschuldig, laßt mich hier raus!!!
+es:
+  message: ¡¡¡Suéltenme, yo soy inocente!!!
+it:
+  message: Sono innocente, liberatemi !!!
+pt:
+  message: Eu sou inocente, soltem-me !!!

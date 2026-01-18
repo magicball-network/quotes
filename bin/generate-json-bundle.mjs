@@ -24,9 +24,30 @@ async function load_yaml(file) {
 	}
 }
 
-async function resolveAudioFile(file) {
+function explodeLanguage(data) {
+	let langMap = Object.keys(data).filter(
+		(k) => /^[a-z]{2}(-[a-z]*)?$/i.test(k) && typeof data[k] === "object",
+	);
+	let base = { ...data };
+	for (let lang of langMap) {
+		delete base[lang];
+	}
+	let result = { en: base };
+	for (let lang of langMap) {
+		let entry = { ...base, ...data[lang] };
+		result[lang] = entry;
+	}
+	return result;
+}
+
+async function resolveAudioFile(file, lang = "en") {
 	let fp = path.parse(file);
-	let audioFile = `${fp.dir}/${fp.name}.webm`;
+	if (lang === "en") {
+		lang = "";
+	} else {
+		lang = `-${lang}`;
+	}
+	let audioFile = `${fp.dir}/${fp.name}${lang}.webm`;
 	try {
 		await fs.stat(path.join("dist", audioFile));
 		return audioFile;
@@ -37,44 +58,65 @@ async function resolveAudioFile(file) {
 
 async function load_quotes(game, bundlefile) {
 	console.log("Processing bundle:", bundlefile);
-	let result = [];
+	let result = { en: [] };
 	const bundledir = path.dirname(bundlefile);
-	const bundle = {
+	const bundle = explodeLanguage({
 		...(await load_yaml(bundlefile)),
-	};
+	});
 	let quotes = await glob(`${bundledir}/*.yaml`);
 	for (let quotefile of quotes) {
 		if (!path.basename(quotefile).match(/^[0-9]{3}\.yaml$/)) {
 			// Not a quote file
 			continue;
 		}
-		let quote = {
-			id: `${path.basename(bundledir)}:${path.parse(quotefile).name}`,
-			...bundle,
-			audio: await resolveAudioFile(quotefile),
-			...(await load_yaml(quotefile)),
-		};
-		result.push(quote);
+		let quoteData = await load_yaml(quotefile);
+		delete quoteData["textId"];
+		quoteData = explodeLanguage(quoteData);
+		for (let lang of Object.keys(quoteData)) {
+			let quote = {
+				id: `${path.basename(bundledir)}:${path.parse(quotefile).name}`,
+				...bundle[lang],
+				audio: await resolveAudioFile(quotefile, lang),
+				...quoteData[lang],
+			};
+			result[lang] = result[lang] || [];
+			result[lang].push(quote);
+		}
 	}
 	return result;
 }
 
 async function generate_game_bundle(dirname, destination) {
-	let quotes = [];
+	let quotes = {};
 	let bundles = await glob(`${dirname}/*/_bundle.yaml`);
 	for (let bundle of bundles) {
-		quotes.push(...(await load_quotes(dirname, bundle)));
+		let bundleQuotes = await load_quotes(dirname, bundle);
+		for (let lang of Object.keys(bundleQuotes)) {
+			quotes[lang] = quotes[lang] || [];
+			quotes[lang].push(...bundleQuotes[lang]);
+		}
 	}
 	await fs.mkdir(path.dirname(destination), { recursive: true });
-	await fs.writeFile(destination, JSON.stringify(quotes));
-	console.log(`Merged ${dirname} into ${destination}`);
+	const destDir = path.dirname(destination);
+	const destBasename = path.basename(destination);
+	const manifest = {};
+	for (let lang of Object.keys(quotes)) {
+		let dest = `${destBasename}-${lang}.json`;
+		manifest[lang] = { src: dest };
+		await fs.writeFile(`${destDir}/${dest}`, JSON.stringify(quotes[lang]));
+		console.log(`Merged ${dirname} [${lang}] into ${dest}`);
+	}
+	await fs.writeFile(
+		`${destDir}/${destBasename}.manifest.json`,
+		JSON.stringify(manifest),
+	);
 }
 
 let procs = [];
 for (let i = 2; i < process.argv.length; i++) {
 	let dirname = process.argv[i];
 	if (await is_dir(dirname)) {
-		procs.push(generate_game_bundle(dirname, `dist/${dirname}.json`));
+		procs.push(generate_game_bundle(dirname, `dist/${dirname}`));
 	} else {
 		console.warn("Not a directory:", dirname);
 	}

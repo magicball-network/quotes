@@ -1,4 +1,18 @@
+textId: 277
 location:
 speaker:
 message: It's kind of you to help me, but I managed to steal the guard's key.
   Take it, I don't need it any more.
+fr:
+  message: C'est sympa de m'aider, mais j'ai réussi à piquer la clef du gardien.
+    Prends-la, je n'en ai plus besoin.
+de:
+  message: Nett daß Du mir hilfst, aber ich habe es geschafft den Schlüssel der
+    Wache zu klauen. Nimm ihn, ich brauche ihn nicht mehr.
+es:
+  message:
+    ¡Qué amable has sido al ayudarme!, pero he logrado robarle la llave al
+    guardia. Tómala, ya no la necesito.
+it:
+  message: Gentile ad aiutarmi, ma sono riuscito a sgraffignare la chiave del
+    guardiano. Prendila, non mi serve più.

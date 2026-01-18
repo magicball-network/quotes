@@ -1,3 +1,14 @@
+textId: 325
 location:
 speaker:
 message: Welcome, Mr. Twinsen!
+fr:
+  message: Bienvenue monsieur Twinsen !
+de:
+  message: Willkommen, Herr Twinsen!
+es:
+  message: ¡Bienvenido señor Twinsen!
+it:
+  message: Benvenuto signor Twinsen !
+pt:
+  message: Bem vindo, senhor Twinsen !

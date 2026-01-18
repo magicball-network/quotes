@@ -1,4 +1,20 @@
+textId: 55
 location:
 speaker:
 message: "Go ask my son, he has come home from work. Sorry about your house: the
   clones came with an attack tank, and they were looking for you!"
+fr:
+  message: "Voyez avec mon fils, il est revenu de son travail. A propos, navré
+    pour votre maison : des clones sont venus avec un char d'assaut, ils vous
+    cherchaient !"
+de:
+  message: "Fragen Sie meinen Sohn, er ist von der Arbeit zurück. A propos, tut
+    mir leid um Ihr Haus : Klone sind mit einem Kampfpanzer gekommen, sie haben
+    nach Ihnen gesucht !"
+es:
+  message:
+    "Vea a mi hijo, ya regresó de su trabajo. A propósito, ¡qué pena lo de
+    su casa: han venido clones con un tanque de asalto, lo estaban buscando!"
+it:
+  message: "Mio figlio è appena tornato dal lavoro. A proposito, spiacente per
+    casa sua: alcuni cloni sono arrivati con un carro armato, la cercavano!"

@@ -1,3 +1,4 @@
+textId: 384
 location:
 speaker:
 message: >-
@@ -7,3 +8,47 @@ message: >-
   observed your planet for many cycles now and have decided to come and study
   your culture on the spot. We have traveled through Space solely with the goal
   of discovering your civilization.
+fr:
+  message: >-
+    Habitants de la planète Twinsun, nous sommes venus animés par un esprit de
+    paix.
+
+    Merci d'avoir dissipé cette tempête qui nous empêchait d'atterrir. Cela fait
+    bien des cycles que nous observons votre planète et nous avons décidé de
+    venir étudier votre culture sur place. Nous avons traversé l'Espace dans le
+    seul but de découvrir votre civilisation.
+de:
+  message: >-
+    Bewohner des Planeten Twinsun, wir sind in friedlicher Absicht hierher
+    gekommen.
+
+    Wir danken Euch, daß Ihr den Sturm aufgelöst habt, der uns an der Landung
+    hinderte. Seit vielen Zyklen beobachten wir Euren Planeten bereits, und wir
+    haben beschlossen, Euch einen Besuch abzustatten und Eure Kultur vor Ort zu
+    erleben. Wir haben das All mit dem einzigen Ziel durchquert, Eure
+    Zivilisation zu entdecken.
+es:
+  message: >-
+    Habitantes del planta Twinsun, hemos venido en son de paz
+
+    Gracias por haber disipado esa tormenta que nos impedía aterrizar. Llevamos
+    muchos ciclos observando vuestro planeta y hemos decidido venir a estudiar
+    vuestra cultura in situ. Hemos atravesado el Espacio sólo para descubrir
+    vuestra civilización.
+it:
+  message: >-
+    Abitanti del pianeta Twinsun, siamo venuti animati da intenzioni pacifiche.
+
+    Vi ringraziamo di avere allontanato questa tempesta che ci impediva di
+    atterrare. E' da molti cicli che osserviamo il vostro pianeta e abbiamo
+    deciso di venire tra di voi per studiare la vostra cultura . Abbiamo
+    attraversato lo Spazio con un'unico obiettivo : conoscere la vostra
+    civilizzazione.
+pt:
+  message: >-
+    Habitantes do planeta Twinsun, viemos tomados por um espírito de paz.
+
+    Obrigado por ter dissipado essa tempestade que nos impedia de pousar. Há
+    muitos ciclos estamos observamos seu planeta e decidimos vir estudar a sua
+    cultura. Cruzamos o espaço com o objetivo único de descobrir a sua
+    civilizaç╞o.

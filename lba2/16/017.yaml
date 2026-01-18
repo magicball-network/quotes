@@ -1,3 +1,14 @@
+textId: 17
 location:
 speaker:
 message: You know Rick, I'd like to see him.
+fr:
+  message: Vous connaissez Rick, je voudrais le voir.
+de:
+  message: Kennen Sie Rick? Ich muß ihn sprechen.
+es:
+  message: Usted conoce a Rick, quisiera verlo.
+it:
+  message: Conoscete Rick? Vorrei vederlo.
+pt:
+  message: Você conhece Rick, eu gostaria de vê-lo.

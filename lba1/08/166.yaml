@@ -1,3 +1,12 @@
+textId: 173
 location:
 speaker:
 message: I didn't see them, but try asking at the tavern.
+fr:
+  message: Je ne les ai pas vus mais essayez de demander à la taverne.
+de:
+  message: Ich habe sie nicht gesehen, aber fragen Sie mal in der Taverne nach.
+es:
+  message: No los he visto, pero pruebe a preguntar en la taberna.
+it:
+  message: Non li ho visti, ma provi a chiedere alla taverna.

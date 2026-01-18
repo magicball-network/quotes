@@ -1,5 +1,22 @@
+textId: 219
 location:
 speaker:
 message: |-
   Cloning Center & Fortress
   (Fortress island)
+fr:
+  message: |-
+    Centre de Clonage & Forteresse
+    (Ile de la Forteresse)
+de:
+  message: |-
+    Klonzentrum & Festung
+    (Festungsinsel)
+es:
+  message: |-
+    Centro de Clonaje y Fortaleza
+    (Isla de la Fortaleza)
+it:
+  message: |-
+    Centro di Clonazione & Fortezza
+    (Isola della Fortezza)

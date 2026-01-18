@@ -1,3 +1,13 @@
+textId: 15
 location:
 speaker:
 message: Get out of here without breaking anything and we'll take it into consideration!
+fr:
+  message: Sortez d'ici sans rien casser et nous en tiendrons compte !
+de:
+  message: Gehen Sie raus ohne etwas zu beschädigen und wir werden Ihnen das
+    zugute halten !
+es:
+  message: ¡Salga de aquí sin romper nada y lo tendremos en cuenta!
+it:
+  message: Esca di qui senza rompere nulla!

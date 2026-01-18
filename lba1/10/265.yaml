@@ -1,3 +1,12 @@
+textId: 282
 location:
 speaker:
 message: Peg Leg Street.
+fr:
+  message: Rue du Pied-Bot.
+de:
+  message: Zur Klumpfuß Straße.
+es:
+  message: Calle Chueca.
+it:
+  message: Via di Piè-Scarpa.

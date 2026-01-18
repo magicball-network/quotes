@@ -1,4 +1,19 @@
+textId: 47
 location:
 speaker:
 message: You know, don't worry about putting up a fence around the chimney. I've
   thought about it and I prefer to keep it as it is.
+fr:
+  message:
+    Finalement laissez tomber pour la barrière autour de la cheminée. J'ai
+    réfléchi et je l'aime comme ça.
+de:
+  message: Ach, lassen Sie den Zaun um den Kamin rum fallen. Ich habe es mir
+    überlegt, ich mag ihn lieber so.
+es:
+  message: Finalmente, olvídese de la barandilla alrededor de la chimenea. He
+    reflexionado y me gusta así.
+it:
+  message:
+    Allora, lasciate stare la barriera attorno al camino. Ci ho pensato, mi
+    va bene così com'è.

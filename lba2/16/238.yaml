@@ -1,4 +1,18 @@
+textId: 525
 location:
 speaker:
 message: Get going, mister. You can't stand in the middle -- that'd bother the
   other pedestrians.
+fr:
+  message: Circulez monsieur, il ne faut pas rester au milieu, ça pourrait gêner
+    les autres piétons.
+de:
+  message: Fahren Sie weiter, fahren Sie weiter, Sie können nicht hier in der
+    Mitte stehenbleiben, das stört die Fußgänger!
+es:
+  message: Circule señor, no puede quedarse en medio, molestaría a los demás peatones.
+it:
+  message: Circolare, circolare... non si metta in mezzo signore, potrebbe dar
+    fastidio agli altri pedoni.
+pt:
+  message: Circule moço, n╞o pode ficar aí no meio, pode atrapalhar os outros pedestres.

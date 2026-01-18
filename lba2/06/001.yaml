@@ -1,4 +1,22 @@
+textId: 0
 location:
 speaker:
 message: You just found your Holomap! To use it, look at the inventory by
   pressing <SHIFT> or simply press <TAB>.
+fr:
+  message: Tu viens de retrouver ton Holomap ! Utilise-la en passant par
+    l'inventaire, touche SHIFT, ou directement par la touche TAB.
+de:
+  message:
+    Du hast deine Holokarte wiedergefunden! Um sie zu verwenden, kannst du
+    entweder die Tabulatortaste drücken oder über das Inventar gehen, indem Du
+    die Umschalttaste drückst.
+es:
+  message: ¡Acabas de volver a encontrar tu holomapa! Utilízalo pasando por el
+    inventario, tecla SHIFT, o directamente en la tecla TAB.
+it:
+  message: Hai ritrovato la tua Holomap ! Utilizzala passando attraverso
+    l'inventario, premendo il tasto SHIFT, o direttamente il tasto TAB.
+pt:
+  message: Você encontrou seu holomapa ! Para pegá-lo selecione-o a partir da
+    Listagem, pressionando a tecla SHIFT, ou diretamente através da tecla TAB.

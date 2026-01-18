@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: No thank you.
+fr:
+  message: Non merci.
+de:
+  message: Nein, danke.
+es:
+  message: No gracias.
+it:
+  message: No grazie.
+pt:
+  message: N╞o obrigado.

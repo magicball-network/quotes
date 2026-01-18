@@ -1,3 +1,14 @@
+textId: 565
 location:
 speaker:
 message: No time.
+fr:
+  message: Pas le temps.
+de:
+  message: Keine Zeit.
+es:
+  message: No hay tiempo.
+it:
+  message: Non ho tempo.
+pt:
+  message: Sem tempo.

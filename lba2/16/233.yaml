@@ -1,4 +1,20 @@
+textId: 510
 location:
 speaker:
 message: You can't get in here, it's closed. Members only. Quit loitering now,
   and get moving.
+fr:
+  message: On ne rentre pas. C'est fermé. Seuls les membres de l'hôtel peuvent
+    passer. Alors ne restez pas là. Dégagez !!
+de:
+  message: Hier kommen Sie nicht rein, da ist geschlossen. Das ist nur für
+    Hotelbewohner. Also verschwinden Sie!
+es:
+  message: No se puede entrar. Está cerrado. Sólo los miembros del hotel pueden
+    pasar. Así que no se quede ahí. ¡Circule!
+it:
+  message: Non si può entrare. E' chiuso. Solo i soci dell'albergo possono
+    passare. Allora non resti là. Vada via !!
+pt:
+  message: N╞o é possível voltar. Está fechado. Apenas os sócios do Hotel podem
+    passar. Ent╞o n╞o fique aí. Circule!!

@@ -1,4 +1,22 @@
+textId: 225
 location:
 speaker:
 message: You don't like this tart, but you must give this slice to someone who
   appreciates it more than you.
+fr:
+  message: Tu n'aimes pas cette tarte, mais tu dois pouvoir donner ce morceau à
+    quelqu'un qui l'appréciera mieux que toi.
+de:
+  message:
+    Du magst diesen Kuchen zwar nicht, aber du kannst dieses Stück jemandem
+    geben, der es mehr zu schätzen weiß.
+es:
+  message: No te gusta la tarta de luciérnagas, pero tienes que poder dar este
+    trozo a alguien a quien le guste más que a ti..
+it:
+  message: Questa torta non ti piace ma puoi darne un pezzo a qualcun'altro che
+    l'apprezzerà più di te.
+pt:
+  message:
+    Você n╞o gosta dessa torta, mas você pode dar esse pedaço a alguém que
+    a apreciará mais do que você.

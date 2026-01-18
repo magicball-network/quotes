@@ -1,3 +1,12 @@
+textId: 36
 location:
 speaker:
 message: Use your red card to use the skilift.
+fr:
+  message: Pour utiliser le remonte-pente servez-vous de votre carte rouge.
+de:
+  message: Benutzen Sie Ihre rote Karte um den Lift zu nehmen.
+es:
+  message: Para utilizar el remonta-pendiente use su tarjeta roja.
+it:
+  message: Per usare la risalita meccanica, servitevi della carta rossa.

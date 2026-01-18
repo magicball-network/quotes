@@ -1,3 +1,12 @@
+textId: 63
 location:
 speaker:
 message: Rebellion Island.
+fr:
+  message: Sur l'île de la Rébellion.
+de:
+  message: Auf die Rebellion-Insel.
+es:
+  message: A la isla de la Rebelión.
+it:
+  message: Sull'Isola della Ribellione.

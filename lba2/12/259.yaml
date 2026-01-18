@@ -1,4 +1,24 @@
+textId: 242
 location:
 speaker:
 message: I don't know. I always make a detour whenever I take a stroll in the
   area. Not far from here, there is a dreadful garden on the rocky hillside.
+fr:
+  message:
+    Je ne sais pas. Je fais toujours un détour quand je me promène dans le
+    coin. Près d'ici, il y a un jardin effrayant à flanc de rocaille.
+de:
+  message:
+    Ich weiß nicht. Ich mache immer einen Umweg, wenn ich da unterwegs bin.
+    Ganz in der Nähe hier gibt es einen gruseligen Garten neben dem Fels.
+es:
+  message:
+    No sé. Doy siempre un rodeo cuando paseo por aquí. Cerca de aquí hay un
+    jardín espantoso con lindes de rocalla.
+it:
+  message:
+    Non so. Faccio sempre una deviazione quando gironzolo da queste parti.
+    C'è un giardino sinistro qui vicino, sulla fiancata delle rocce.
+pt:
+  message: Eu n╞o sei. Eu sempre faço um desvio quando passo por lá. Aqui perto
+    tem um jardim assustador com muros de brita.

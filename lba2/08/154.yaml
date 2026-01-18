@@ -1,4 +1,21 @@
+textId: 0
 location:
 speaker:
 message: Twinsen, rush to the downtown pharmacy and find a cure for the Dino-Fly
   ! He has just crashed in the garden and looks injured.
+fr:
+  message:
+    Twinsen, fonce à la pharmacie du centre ville et trouve un remède pour
+    le Dino-Fly. Il vient de se blesser en se posant dans le jardin.
+de:
+  message: Twinsen, lauf schnell zur Apotheke in der Stadtmitte und hol ein
+    Medikament für den Dinofly. Er hat sich bei der Landung im Garten verletzt.
+es:
+  message: ¡Twinsen, corre a la farmacia del centro de la ciudad y busca un
+    remedio para el Dino-Fly.! Acaba de herirse al posarse en el jardín. .
+it:
+  message: Twinsen, corri alla farmacia del centro e trova una medicina per il
+    Dino-Fly . Si è ferito posandosi sul giardino.
+pt:
+  message: Twinsen, corra até a farmácia no centro da cidade e ache um remédio
+    para o Dino-Fly. Ele acabou de se machucar pousando no jardim.

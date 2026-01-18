@@ -1,3 +1,12 @@
+textId: 220
 location:
 speaker:
 message: Hi friend.
+fr:
+  message: Salut ami.
+de:
+  message: Hallo Freund.
+es:
+  message: Hola amigo.
+it:
+  message: Salve, amico.

@@ -1,3 +1,14 @@
+textId: 854
 location:
 speaker:
 message: He gave it to me already. I'll bring it over to you.
+fr:
+  message: Il me l'a déjà donnée. Je passerai pour te l'apporter.
+de:
+  message: Das hat er mir schon gegeben. Ich komme vorbei und bringe es dir.
+es:
+  message: Ya me la ha dado. Pasaré a llevártela.
+it:
+  message: Me l'ha già data. Passerò a portartela.
+pt:
+  message: Ele já me deu. Vou passar aí para deixar com você.

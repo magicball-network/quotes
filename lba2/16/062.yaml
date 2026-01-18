@@ -1,3 +1,14 @@
+textId: 201
 location:
 speaker:
 message: Cool down, Mr. Wizard sir! Please, walk this way...
+fr:
+  message: Calmez vous monsieur le mage et suivez moi !!
+de:
+  message: Regen Sie sich ab, Herr Magier, los folgen Sie mir!
+es:
+  message: ¡¡Cálmese señor mago y sígame!!
+it:
+  message: Si calmi signor mago e mi segua !!
+pt:
+  message: Acalme-se, senhor mago, e siga-me !!

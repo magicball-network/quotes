@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: '" Appropriate attire required! "'
+fr:
+  message: '" Tenue correcte exigée ! "'
+de:
+  message: '" Einlaß nur mit vorschriftsmäßiger Garderobe ! "'
+es:
+  message: '"¡Se exige vestimenta correcta!"'
+it:
+  message: '" E'' richiesta una tenuta decente!"'

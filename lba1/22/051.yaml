@@ -1,3 +1,12 @@
+textId: 58
 location:
 speaker:
 message: Wow! Never heard anything like that before, they are too much!
+fr:
+  message: Wow ! Jamais entendu ça avant, c'est d'enfer !
+de:
+  message: Wow ! Habe so etwas noch nie gehört, das ist spitzenmäßig !
+es:
+  message: ¡Oh! Jamás escuché eso antes, ¡es increíble!
+it:
+  message: Wow! Mai sentito niente di simile prima, sono scatenati!

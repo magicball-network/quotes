@@ -1,6 +1,36 @@
+textId: 272
 location:
 speaker:
 message: Franco representative. The Francos live on the island of the Francos,
   (what a surprise!), which is enshrouded by the gas swarming with monsters. The
   Francos refine the gems extracted in the under-gas, and turn them into
   gazogem, usable by all the vehicles of Zeelich.
+fr:
+  message:
+    Représentant knarta. La race des Knartas habite sur l'îlot des knartas.
+    Il dépasse à peine du gaz infesté de monstres. Les knartas raffinent les
+    gemmes extraites dans le sous-gaz, pour en faire du gazogem, utilisable par
+    tous les véhicules de Zeelich.
+de:
+  message:
+    Vertreter der Bifiden. Das Volk der Bifiden lebt auf der Insel Bifidi.
+    Die Insel ragt gerade so eben noch aus der Gaswolke heraus, in der die
+    Gasmonster leben. Die Bifiden verarbeiten die Juwelen, die unter der
+    Gaswolke abgebaut werden, zu GazoGem, dem Treibstoff, der von allen
+    Fahrzeugen auf Zeelich verwendet wird.
+es:
+  message:
+    Representante Purlón. La raza de los Purlones vive en el islote de los
+    purlones. Sobresale a duras penas del gas infestado de monstruos. Los
+    purlones refinan las gemas extraídas del sub-gas para hacer gazogem,
+    utilizable por todos los vehículos de Zeelich.
+it:
+  message: Rappresentante dei Knartas. La razza dei Knartas abita sull'isolotto
+    dei Knartas, appena oltre il gas infestato di mostri. I Knartas raffinano le
+    gemme estratte nel sotto-gas per fare del gazogem , utilizzabile in tutti i
+    veicoli di Zeelich.
+pt:
+  message: Representante Knarta. A raça dos Knartas vive na Ilhota dos Knartas.
+    Ela ultrapassa por pouco o gás infestado de monstros. Os knartas refinam as
+    pedras preciosas extraídas no sub-gás, para fabricar o gasógeno, combustível
+    para todos os veículos de Zeelich.

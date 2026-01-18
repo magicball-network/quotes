@@ -1,5 +1,26 @@
+textId: 280
 location:
 speaker:
 message: |-
   "You are at the harbor
   (Island of the White Leaf Desert). "
+fr:
+  message: |-
+    " Vous êtes au port
+    (Ile du Désert de la Feuille Blanche). "
+de:
+  message: |-
+    "Sie sind am Hafen.
+    (Insel der Wüste des Leeren Blattes). "
+es:
+  message: |-
+    "Está usted en el puerto
+    (Isla del Desierto de la Hoja Blanca)."
+it:
+  message: |-
+    "Siete al porto
+    (Isola del Deserto della Foglia Bianca)."
+pt:
+  message: |-
+    " Você está no Porto
+    (Ilha do Deserto da Folha Branca). "

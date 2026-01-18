@@ -1,3 +1,4 @@
+textId: 1
 location:
 speaker:
 message: You must break the seal so that I can enter the Well of Sendell. None
@@ -6,3 +7,37 @@ message: You must break the seal so that I can enter the Well of Sendell. None
   for me to reach the center of the planet! You'll see, I will realize the
   prophecy myself, and I'll take good care of this planet. Break the seal and
   I'll spare you Twinsen, you and your friend.
+fr:
+  message: Il faut que tu brises le sceau pour que j'entre dans le Puits de
+    Sendell. Aucun de mes engins n'est arrivé à percer cette roche, elle me
+    résiste, tout comme la Pierre Runique. J'ai commencé à creuser autour du
+    piton rocheux, mais cela prendra des mois avant que j'atteigne le centre de
+    la planète ! Tu vas voir, je vais réaliser la prophétie pour mon seul compte
+    et je vais bien m'occuper de cette planète. Brise le sceau et je
+    t'épargnerai Twinsen, toi et ton amie.
+de:
+  message:
+    Du mußt das Siegel durchbrechen, damit ich in Sendells Brunnen gelange.
+    Kein einziges meiner Geräte hat diesen Felsen durchbohren können, er hält
+    mir stand, genauso wie der Runenstein. Ich habe begonnen rund um die
+    Felsenbergspitze zu graben, aber es wird Monate dauern, bis ich das Zentrum
+    des Planeten erreichen werde ! Du wirst es erleben, ich werde die
+    Prophezeiung für mich ganz allein erfüllen, und ich werde mich um diesen
+    Planeten richtig kümmern. Durchbrich das Siegel und ich werde Dich und Deine
+    Freundin verschonen, Twinsen.
+es:
+  message:
+    Es necesario que rompas el sello para que entre en el Pozo de Sendell.
+    Ninguno de mis aparatos ha logrado perforar esta roca, se resiste, igual que
+    la Piedra Rúnica. He comenzado a excavar alrededor del pico rocoso, pero
+    esto llevará meses hasta que llegue al centro del planeta. Verás, voy a
+    realizar la profecía por mi cuenta. Y voy a ocuparme del bien de este
+    planeta. Rompe el sello y te perdonaré Twinsen, a ti y a tu amiga.
+it:
+  message: Devi infrangere il sigillo per farmi entrare nel Pozzo di Sendell.
+    Nessuna delle mie macchine è riuscita a perforare questa roccia che non si
+    fa neppure scalfire, proprio come la Pietra Runica. Ho iniziato a perforare
+    attorno al picco di roccia, ma ci vorranno mesi prima di riuscire a
+    raggiungere il centro del pianeta! Vedrai, realizzerò la profezia da solo, e
+    allora mi prenderò cura io del pianeta. Infrangi il sigillo; ti risparmierò
+    la vita, Twinsen, a te e anche alla tua amica.

@@ -1,3 +1,15 @@
+textId: 226
 location:
 speaker:
 message: You are welcome, Master. Make yourself comfortable.
+fr:
+  message: Je vous en prie Maître. Installez vous confortablement.
+de:
+  message: Gern geschehen, Meister. Machen Sie es sich bequem.
+es:
+  message: Por favor, Maestro, acomódese a su gusto. Si lo desea puede consultar
+    nuestro terminal turístico.
+it:
+  message: La prego, Maestro.Si sieda comodamente.
+pt:
+  message: Eu insisto, Mestre. Fique à vontade.

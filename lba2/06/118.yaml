@@ -1,4 +1,21 @@
+textId: 207
 location:
 speaker:
 message: After a few adjustmenta and once Zoé fits the part, the car will be
   ready to go.
+fr:
+  message:
+    Après quelques réglages et une fois la pièce fixée par Zoé, la voiture
+    sera prête à rouler.
+de:
+  message: Nach einigen Einstellungen und sobald Zoe das Bauteil von Baldino
+    eingebaut hat, ist das Auto fahrbereit.
+es:
+  message: Después de algunos arreglos y cuando Zoé coloque la pieza el coche
+    estará listo para circular.
+it:
+  message: La macchina sarà pronta per viaggiare dopo una messa a punto e quando
+    il pezzo di ricambio sarà fissato.
+pt:
+  message: Depois de uma regulagem e assim que a peça for instalada por Zoé, o
+    carro estará pronto para andar.

@@ -1,3 +1,14 @@
+textId: 260
 location:
 speaker:
 message: This Lucky Clover Leaf gives you the benefit of an additional life.
+fr:
+  message: Ce trèfle te permet de bénéficier d'une vie supplémentaire.
+de:
+  message: Dieses Kleeblatt gibt ein zusätzliches Leben.
+es:
+  message: Este trébol te permite disfrutar de una vida suplementaria.
+it:
+  message: Questo quadrifoglio ti permette di avere una vita in più.
+pt:
+  message: Com esse trevo você terá uma vida a mais.

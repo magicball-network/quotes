@@ -1,4 +1,22 @@
+textId: 331
 location:
 speaker:
 message: Hey, buddy, you lost something? What is it? You looking for your
   glasses? Here, we'll help you out!
+fr:
+  message:
+    Alors mon gars, t'as perdu quelque chose, tu cherches tes lunettes ? On
+    va t'aider, tu vas voir !!!
+de:
+  message: Also, was ist, Junge, hast du was verloren? Suchst du etwa deine
+    Brille? Na, dir werden wir schon helfen!
+es:
+  message: Vaya, vaya, colega, ¿has perdido algo, buscas las gafas? ¡¡Vamos a
+    ayudarte, ya verás, ya!!
+it:
+  message:
+    Allora ragazzo mio, hai perso qualcosa, cerchi i tuoi occhiali ? Adesso
+    ti aiutiamo, sta' a vedere !!!
+pt:
+  message: E aí meu chapa, perdeu alguma coisa, está procurando os seus óculos?
+    Vamos te ajudar, você vai ver!!!

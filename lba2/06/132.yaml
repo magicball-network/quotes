@@ -1,4 +1,21 @@
+textId: 221
 location:
 speaker:
 message: The gems are commonly used by the Francos to produce gazogem. But you
   can use it to pay for the ferryman's services.
+fr:
+  message: Les gemmes servent habituellement aux knartas pour fabriquer du
+    gazogem. Mais tu pourras t'en servir pour payer les services du passeur.
+de:
+  message:
+    Aus den Juwelen stellen die Bifiden normalerweise GazoGem her. Aber du
+    kannst mit ihnen auch die Dienste des Fährmanns bezahlen.
+es:
+  message: Las gemas son utilizadas generalmente por los purlones para fabricar
+    gazogem. Pero podrás usarlas para pagar los servicios del barquero.
+it:
+  message: Di solito le gemme servono ai Knartas per fabbricare del gazogem. Ma
+    potrai usarle per pagare i servizi del traghettatore.
+pt:
+  message: As pedras preciosas s╞o usadas pelos knartas para fabricar gasógeno.
+    Mas você pode usá-las para pagar o serviço do barqueiro.

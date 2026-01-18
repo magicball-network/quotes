@@ -1,3 +1,23 @@
+textId: 126
 location:
 speaker:
 message: '"OTRINGAL NEWS: Twinsunian Anarchist Disrupts Dark Monk''s Ceremony...'
+fr:
+  message: '"OTRINGAL NEWS : Un anarchiste twinsunien tente d''empêcher la
+    cérémonie de Dark Monk. Vêtu d''une tunique bleue, il est activement
+    recherché par la police..."'
+de:
+  message: '"OTRINGALER NACHRICHTEN: Ein twinsunischer Anarchist versucht, die
+    Zeremonie von Dark Monk zu verhindern. Der mit einer blauen Tunika
+    bekleidete Twinsunier wird polizeilich gesucht ..."'
+es:
+  message:
+    '"OTRINGAL NEWS: Un anarquista twinsiano trata de impedir la ceremonia
+    de Dark Monk. Viste túnica azul; la policía lo busca activamente..."'
+it:
+  message: '"OTRINGAL NEWS : Un anarchico twinsuniano cerca di impedire lo
+    svolgimento della cerimonia del Dark Moon. Indossa una tunica blu ed è
+    ricercato attivamente dalla polizia ..."'
+pt:
+  message: '"OTRINGAL NEWS : Um anarquista twinsuniano tenta impedir a cerimônia
+    de Dark Monk. Vestido com uma túnica azul, ele é procurado pela polícia..."'

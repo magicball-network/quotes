@@ -1,3 +1,14 @@
+textId: 206
 location:
 speaker:
 message: 10 Magic points! All right!
+fr:
+  message: 10 points de Magie !
+de:
+  message: 10 Zauberpunkte!
+es:
+  message: ¡10 puntos de magia!
+it:
+  message: 10 punti di Magia !
+pt:
+  message: 10 pontos de Magia!

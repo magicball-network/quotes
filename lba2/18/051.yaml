@@ -1,3 +1,14 @@
+textId: 263
 location:
 speaker:
 message: Ready?
+fr:
+  message: Prêts ?
+de:
+  message: Seid ihr bereit?
+es:
+  message: ¿Listos?
+it:
+  message: Pronti ?
+pt:
+  message: Prontos ?

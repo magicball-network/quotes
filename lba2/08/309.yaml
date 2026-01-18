@@ -1,5 +1,28 @@
+textId: 299
 location:
 speaker:
 message: Say Twinsen, did you ever see that Tralü? They say it's a monster that
   lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't
   forget to carry a weapon. I mean your magic ball!
+fr:
+  message: Twinsen, tu l'as déjà vu ce Tralü, toi ? On raconte que c'est un
+    monstre qui habite les falaises, au-dessus de Lupin-Bourg. Si tu vas te
+    balader là-haut, n'y vas pas sans arme. Pense à prendre ta balle magique !
+de:
+  message: He, Twinsen, hast du schon dieses Tralü gesehen? Soll angeblich ein
+    Monster sein, das in den Klippen über der Lupinburg lebt. Da oben solltest
+    du nicht unbewaffnet spazierengehen. Denk' dran, deinen magischen Ball
+    mitzunehmen!
+es:
+  message:
+    ¿Twinsen, tú ya lo has visto a ese Tralu? Dicen que es un monstruo que
+    vive en los acantilados, encima de Lupin-Bourg. ¡Si vas a pasear por allí
+    arriba no olvides llevar armas. Acuérdate de llevar tu bola mágica!
+it:
+  message: Twinsen, lo hai già visto questo Tralu, tu ? La gente racconta che
+    abita nella scogliera, sopra Lupinburgo. Se vai da quelle parti, porta
+    un'arma con te. E ricordati di prendere la tua Sfera magica !
+pt:
+  message: Twinsen, você já viu esse tal Tralu ? Dizem que é um monstro que mora
+    nos penhascos, acima da Cidade de Lupin. Se você for passear por lá, n╞o vá
+    sem arma. Pense em levar a bola mágica!

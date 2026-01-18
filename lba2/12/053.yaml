@@ -1,3 +1,14 @@
+textId: 490
 location:
 speaker:
 message: Citadel Island.
+fr:
+  message: Sur l'île de la citadelle.
+de:
+  message: Auf die Zitadelleninsel.
+es:
+  message: A la isla de la ciudadela.
+it:
+  message: Sull'Isola della Cittadella.
+pt:
+  message: Na Ilha da Fortaleza.

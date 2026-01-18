@@ -1,3 +1,14 @@
+textId: 105
 location:
 speaker:
 message: Incandescent pearl
+fr:
+  message: Perle d'incandescence
+de:
+  message: Leuchtperle
+es:
+  message: Perla de incandescencia
+it:
+  message: Perla d'incandescenza
+pt:
+  message: Pérola Incandescente

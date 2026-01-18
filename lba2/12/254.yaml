@@ -1,4 +1,23 @@
+textId: 256
 location:
 speaker:
 message: My son adores tales of magic... he even believes we got in here with
   our special powers!! as if by a miracle!!
+fr:
+  message: Mon fils adore les histoires de magie... on lui a fait croire qu'on
+    était entrés comme ça ! Par miracle !!
+de:
+  message:
+    Mein Sohn liebt Geschichten über Magier ... wir haben ihm erzählt, daß
+    wir so hier hereingekommen wären, durch ein Wunder!
+es:
+  message:
+    A mi hijo le encantan las historias de magia. ¡Le hemos hecho creer que
+    habíamos entrado así! ¡¡Milagrosamente!!
+it:
+  message:
+    Mio figlio adora queste storie di magia ... gli hanno fatto credere che
+    eravamo entrati così ! Per miracolo !!
+pt:
+  message: Meu filho adora histórias de magia... dissemos para ele que entramos
+    assim ! Por milagre!!

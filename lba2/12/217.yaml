@@ -1,3 +1,14 @@
+textId: 484
 location:
 speaker:
 message: Lost!!
+fr:
+  message: Perdu !!
+de:
+  message: Verloren!
+es:
+  message: ¡¡Perdido!!
+it:
+  message: Sconfitto !!
+pt:
+  message: Perdido !!

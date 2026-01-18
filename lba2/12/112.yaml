@@ -1,4 +1,24 @@
+textId: 321
 location:
 speaker:
 message: A School of Magic? Is that for real? At any rate, it's not here. I come
   here everyday, I should know.
+fr:
+  message: Une école de magie, ça existe ? En tous cas elle n'est pas ici, je
+    viens tous les jours, je le saurais.
+de:
+  message:
+    Eine Zauberschule? Sowas gibt's? Na, die ist auf jeden Fall nicht hier,
+    ich komme nämlich jeden Tag hierher, das wüßte ich, wenn hier eine
+    Zauberschule wäre.
+es:
+  message:
+    ¿Existe en serio una escuela de magia? De todos modos aquí no está, yo
+    que vengo todos los días lo sabría.
+it:
+  message:
+    Una scuola di magia, esiste ? In ogni caso non è qui... lo saprei visto
+    che vengo tutti i giorni.
+pt:
+  message: Uma Escola de Magia, isso existe ? De qualquer maneira n╞o é aqui, eu
+    venho todos os dias, saberia disso.

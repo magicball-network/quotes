@@ -1,3 +1,14 @@
+textId: 102
 location:
 speaker:
 message: Darts
+fr:
+  message: Fléchettes
+de:
+  message: Pfeile
+es:
+  message: Dardos
+it:
+  message: Freccette.
+pt:
+  message: Dardos

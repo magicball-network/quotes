@@ -1,3 +1,14 @@
+textId: 123
 location:
 speaker:
 message: Blowgun
+fr:
+  message: Sarbacane
+de:
+  message: Blasrohr
+es:
+  message: Cerbatana
+it:
+  message: Cerbottana
+pt:
+  message: Zarabatana

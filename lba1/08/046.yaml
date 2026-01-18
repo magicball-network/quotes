@@ -1,4 +1,18 @@
+textId: 51
 location:
 speaker:
 message: I'm on special assignment for the good Dr. FunFrock, and am looking for
   the plans of the Teleportation Center.
+fr:
+  message:
+    Je cherche les plans du Centre de Téléportation, mission spéciale pour
+    le bon Dr FunFrock.
+de:
+  message: Ich suche die Pläne des Biemzentrums, ein Spezialauftrag des guten Dr
+    FunFrock.
+es:
+  message: Busco los planos del Centro de Teleportación, misión especial para el
+    buen Dr. FunFrock.
+it:
+  message: Cerco le mappe del Centro di Teletrasporto, sono in missione speciale
+    per il caro Dottor FunFrock.

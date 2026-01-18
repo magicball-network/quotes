@@ -1,3 +1,14 @@
+textId: 440
 location:
 speaker:
 message: '"To the cliffs of the Woodbridge."'
+fr:
+  message: '" Vers les falaises du Pont de bois. "'
+de:
+  message: '"Zu den Klippen an der Holzbrücke."'
+es:
+  message: '" A los acantilados del Puente de madera"'
+it:
+  message: '" Verso le scogliere del Ponte di legno"'
+pt:
+  message: '" Em direç╞o aos Penhascos da Ponte de Madeira. "'

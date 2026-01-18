@@ -1,3 +1,12 @@
+textId: 112
 location:
 speaker:
 message: Proto-Pack. It is controlled with the arrow keys.
+fr:
+  message: Proto-Pack. Il se pilote avec les flêches de direction.
+de:
+  message: Proto-Pack. Dieser wird mit den Cursor-Tasten gesteuert.
+es:
+  message: Proto-Pack. Se pilota con las flechas de dirección.
+it:
+  message: Proto-Pack. Va pilotato con i tasti di spostamento del cursore.

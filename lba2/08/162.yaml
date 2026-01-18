@@ -1,4 +1,23 @@
+textId: 359
 location:
 speaker:
 message: By the way, would you be kind enough to go to Baldino's? I am missing a
   part for the car.
+fr:
+  message: Au fait, ce serait gentil si tu pouvais passer chez Baldino, il me
+    manque une pièce pour la voiture.
+de:
+  message: Es wäre wirklich nett von dir, wenn du bei Baldino vorbeischauen
+    könntest, mir fehlt ein Teil für den Wagen.
+es:
+  message:
+    Por cierto, ¿serías tan amable de pasar por donde Baldino? Me falta una
+    pieza para el coche.
+it:
+  message:
+    A proposito ... saresti così gentile da passare da Baldino? Mi manca un
+    pezzo di ricambio per la macchina.
+pt:
+  message:
+    Na verdade, eu agradeceria se você pudesse passar no Baldino, me falta
+    uma peça para o carro.

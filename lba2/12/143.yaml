@@ -1,5 +1,29 @@
+textId: 19
 location:
 speaker:
 message: You'll obtain the power to heal by passing one of the tests of
   wizardry. But first you have to enroll. Upon graduation, you get an additional
   level of magic!
+fr:
+  message:
+    Tu obtiendras le pouvoir de guérison en passant l'une des épreuves qui
+    feront de toi un mage. Mais tu dois d'abord t'inscrire. Et lorsque tu seras
+    mage, tu obtiendras un niveau de magie supplémentaire !!
+de:
+  message: Die Macht des Heilens wirst du bei einer der Prüfungen, die Dich zum
+    Magier machen, erhalten. Und sobald du Magier bist, erhältst du die
+    nächsthöhere Magiestufe!
+es:
+  message:
+    Conseguirás el poder de curación cuando superes una de las pruebas que
+    te convertirán en mago. Pero primero tienes que matricularte. ¡¡Y cuando
+    seas mago, conseguirás un nivel de magia superior!!
+it:
+  message: Otterrai il potere di guarigione passando una delle prove che faranno
+    di te un mago. Ma devi intanto iscriverti. E quando sarai mago, otterrai un
+    grado di magia supplementare !!
+pt:
+  message:
+    Você obterá o dom da cura completando uma das provas que far╞o com que
+    você se torne um mago. Mas antes você deve se inscrever. E quando se tornar
+    mago, você terá um nível a mais de magia!!

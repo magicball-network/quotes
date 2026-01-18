@@ -1,3 +1,12 @@
+textId: 61
 location:
 speaker:
 message: Hello, quetch !
+fr:
+  message: Salut le quetch !
+de:
+  message: Hallo Du Quetsch !
+es:
+  message: ¡Hola colines!
+it:
+  message: Salve, quetch !

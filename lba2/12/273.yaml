@@ -1,4 +1,27 @@
+textId: 49
 location:
 speaker:
 message: Now that the temple's under repair, we don't have too many customers.
   Just Esmers mostly, visiting. They offered to help us.
+fr:
+  message: Maintenant que le temple est en réparations, on n'a plus beaucoup de
+    clients. Par contre, qu'est-ce qu'on a comme visiteurs Esmers. Surtout
+    depuis qu'ils ont proposé de nous aider.
+de:
+  message: Jetzt, wo der Tempel restauriert wird, haben wir nicht mehr viele
+    Kunden. Aber Esmerier kommen massenweise hierher! Besonders, seit sie
+    angeboten haben, uns bei der Arbeit zu helfen.
+es:
+  message: Ahora que el templo está en obras, no tenemos muchos clientes. ¡Pero
+    qué cantidad de visitantes esmeres hay! Sobre todo desde que se han ofrecido
+    a ayudarnos.
+it:
+  message:
+    Adesso che il tempio è da restaurare, non abbiamo più molti clienti. Di
+    visitatori Esmers, invece ... ne abbiamo da vendere ! Soprattutto da quando
+    hanno proposto di aiutarci.
+pt:
+  message:
+    Agora que o Templo está em reparo, n╞o temos mais muitos clientes. Por
+    outro lado, como temos visitantes Esmers. Principalmente depois que eles se
+    dispuseram a nos ajudar.

@@ -1,3 +1,17 @@
+textId: 23
 location:
 speaker:
 message: You now have a blowgun. It fires darts fast and accurately.
+fr:
+  message: Tu disposes d'une sarbacane. Elle te permettra des tirs précis et rapides.
+de:
+  message: Du besitzt ein Blasrohr. Mit ihm kannst Du sehr zielgenau und schnell
+    schießen.
+es:
+  message: Dispones de una cerbatana.
+it:
+  message: Hai una cerbottana. Ti permetterà di effettuare dei tiri precisi e rapidi.
+pt:
+  message:
+    Você dispΣe de uma zarabatana. Com ela, você poderá dar tiros precisos
+    e rápidos.

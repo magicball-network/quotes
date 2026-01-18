@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: You've just rediscovered your Magic Ball! Try using it on the clones!
+fr:
+  message: Tu viens de retrouver ta Balle Magique ! Essaie-la sur les clones !
+de:
+  message:
+    Du hast soeben den Magischen Ball wiedergefunden ! Probiere ihn an den
+    Klonen aus !
+es:
+  message: ¡Acabas de encontrar tu Bola Mágica! ¡Pruébala con los clones!
+it:
+  message: Hai appena trovato la Sfera Magica! Prova a utilizzarla sui cloni!

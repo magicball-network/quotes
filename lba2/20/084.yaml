@@ -1,4 +1,20 @@
+textId: 335
 location:
 speaker:
 message: Please leave now and close the door! Here, as we say, "Idle hands make
   the Devil's workshop!!!"
+fr:
+  message: Veillez à bien fermer la porte ! Ici, l'estime s'envole avec les
+    courants d'air !!!
+de:
+  message:
+    Achten Sie darauf, daß Sie die Tür gut schließen! Hier wird der Respekt
+    schon mit dem kleinsten Lufthauch weggepustet!
+es:
+  message: ¡Cierre la puerta, por favor! ¡¡¡Aquí el prestigio se va con las
+    corrientes de aire!!!
+it:
+  message: Stia attento a chiudere bene la porta ! In questo posto la stima vola
+    con le correnti d'aria !!!
+pt:
+  message: Feche bem a porta, por favor! Aqui, a estima se vai com a corrente de ar!!!

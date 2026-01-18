@@ -1,3 +1,14 @@
+textId: 180
 location:
 speaker:
 message: Strange, this looks like a keyhole.
+fr:
+  message: C'est étrange, on dirait une serrure.
+de:
+  message: Komisch, scheint ein Schloß zu sein.
+es:
+  message: ¡Qué raro! parece una cerradura..
+it:
+  message: E' strano, sembrerebbe una serratura.
+pt:
+  message: É estranho, parece uma fechadura.

@@ -1,3 +1,14 @@
+textId: 191
 location:
 speaker:
 message: Apparently, there was a burglary. The visits will recommence later!
+fr:
+  message: Apparemment il y a eu un cambriolage. Les visites reprendront plus tard !
+de:
+  message: Anscheinend hat es einen Diebstahl gegeben. Die Besichtigungen werden
+    später fortgesetzt !
+es:
+  message: Aparentemente ha habido un robo. ¡Las visitas se reanudarán más tarde!
+it:
+  message: Sembra che ci sia stato un furto con scasso. Le visite riprenderanno
+    più tardi!

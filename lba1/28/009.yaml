@@ -1,3 +1,13 @@
+textId: 8
 location:
 speaker:
 message: Uh ... you might be surprised when you discover the house.
+fr:
+  message: Euh ... tu risques d'être surprise en découvrant la maison.
+de:
+  message: Öööh ... Du wirst vielleicht etwas überrascht sein, wenn Du das Haus
+    wiedersiehst.
+es:
+  message: Oh.... corres el riesgo de ser sorprendido descubriendo la casa.
+it:
+  message: Ehm... Sarai sorpreso quando vedrai la casa.

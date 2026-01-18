@@ -1,3 +1,14 @@
+textId: 524
 location:
 speaker:
 message: Balsam Plant.
+fr:
+  message: Plante Balsamine.
+de:
+  message: Balsaminpflanze.
+es:
+  message: Planta Balsamina.
+it:
+  message: Pianta Balsamina.
+pt:
+  message: Planta Balsamina.

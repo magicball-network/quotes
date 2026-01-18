@@ -1,4 +1,16 @@
+textId: 256
 location:
 speaker:
 message: If you want to buy something from me, you just have to stand in front
   of it and do "ACTION".
+fr:
+  message: Si vous voulez m'acheter quelque chose, placez-vous devant et faites
+    "ACTION".
+de:
+  message: Wenn Sie mir was abkaufen wollen, stellen Sie sich hin und drücken "AKTION".
+es:
+  message: Si quiere comprar algo, póngase delante y pulse acción.
+it:
+  message: Se volete comprare qualcosa, mettetevi davanti e spingete il tasto "azione".
+pt:
+  message: Se quiser comprar alguma coisa, posicione-se frente a ela e clique em AÇ╟O

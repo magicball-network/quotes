@@ -1,5 +1,23 @@
+textId: 10
 location:
 speaker:
 message: Thanks for your help. And, whatever you do, destroy the eggs if you are
   going in the factory! If you don't, new monsters will be produced and will
   come and attack the village.
+fr:
+  message:
+    Merci de ton aide. Et surtout si tu vas dans l'usine, détruis bien les
+    oeufs ! Sinon d'autres monstres seront produits et viendront attaquer le
+    village.
+de:
+  message: Danke für Deine Hilfe. Und denk dran, wenn Du in die Fabrik gehst,
+    zerstöre alle Eier ! Sonst werden neue Monster produziert, die dann das Dorf
+    angreifen werden.
+es:
+  message: Gracias por tu ayuda. Y sobre todo si vas a la fábrica, ¡asegurate de
+    destruir los huevos! si no, otros monstruos serán producidos y vendrán a
+    atacar el pueblo.
+it:
+  message: "Grazie per il tuo aiuto. E ricorda: se vai alla fabbrica, distruggi
+    completamente le uova, altrimenti nasceranno altri mostri che verranno ad
+    attaccare il villaggio."

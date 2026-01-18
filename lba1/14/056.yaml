@@ -1,3 +1,12 @@
+textId: 56
 location:
 speaker:
 message: Sorry, but you don't have enough Kashes.
+fr:
+  message: Désolé, mais vous n'avez pas assez de Kashes.
+de:
+  message: Tut mir leid, aber Sie haben nicht genügend Kashes.
+es:
+  message: Lo siento, pero no tiene sufcientes Kashes.
+it:
+  message: Spiacente, non ha abbastanza Kash.

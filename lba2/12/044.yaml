@@ -1,4 +1,22 @@
+textId: 27
 location:
 speaker:
 message: I don't know what Jerome's cooking up, but there's a demonic machine
   under there.
+fr:
+  message:
+    Je ne sais pas ce que prépare Jérome, mais il y a une machine infernale
+    là-dessous.
+de:
+  message:
+    Ich weiß nicht, was Jerome da macht, aber da drunter ist eine richtige
+    Höllenmaschine.
+es:
+  message: No sé lo que estará haciendo Jerónimo, pero ahí abajo hay una máquina
+    del demonio.
+it:
+  message: Non so cosa stia preparando Gerolamo, ma c'è una macchina infernale là sotto.
+pt:
+  message:
+    Eu n╞o sei o que Jerônimo está armando, mas tem uma máquina infernal lá
+    embaixo.

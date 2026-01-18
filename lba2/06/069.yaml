@@ -1,3 +1,14 @@
+textId: 113
 location:
 speaker:
 message: Ferry Ticket
+fr:
+  message: Ticket de ferry
+de:
+  message: Fahrkarte für Fähre
+es:
+  message: Ticket de ferry
+it:
+  message: Biglietto per il traghetto
+pt:
+  message: Bilhete de barca

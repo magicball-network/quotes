@@ -1,3 +1,12 @@
+textId: 3
 location:
 speaker:
 message: Hey, you, don't touch our kitchen!
+fr:
+  message: Hé, toi, ne touche pas à notre tambouille !
+de:
+  message: He, Du, Hände weg von unserem Mampf !
+es:
+  message: ¡Eh tú, no toques nuestra cocina!
+it:
+  message: Ehi, tu, giù le mani dalla nostra sbobba!

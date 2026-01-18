@@ -1,3 +1,14 @@
+textId: 39
 location:
 speaker:
 message: You now own a protective spell.
+fr:
+  message: Tu possèdes maintenant un sort de protection.
+de:
+  message: Du bist jetzt im Besitz eines Schutzzaubers.
+es:
+  message: Ahora está en posesión de un hechizo de protección.
+it:
+  message: Adesso disponi di un sortilegio protettivo.
+pt:
+  message: Você tem agora um feitiço de proteç╞o.

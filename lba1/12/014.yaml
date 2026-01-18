@@ -1,4 +1,19 @@
+textId: 14
 location:
 speaker:
 message: Ow, you crazy or what? You don't deserve to be an elf, give me your
   membership card!
+fr:
+  message:
+    Aïe, ça va pas la tête ! Tu n'es plus digne d'être un lutin, rends-moi
+    ta carte de membre !
+de:
+  message: Aua, Du bist wohl nicht ganz bei Trost ! Du bist es nicht mehr Wert
+    Kobold zu sein, gib mir Deine Mitgliedskarte zurück !
+es:
+  message: ¡Ay! ¿estás loco, no? ¡No eres más digno de ser un duende, devuélveme
+    tu tarjeta de miembro!
+it:
+  message:
+    Ahi! Ma sei impazzito? Non sei più degno di essere un folletto, rendimi
+    la tessera del club!

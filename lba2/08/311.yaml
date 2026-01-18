@@ -1,5 +1,28 @@
+textId: 301
 location:
 speaker:
 message: Hey, did you really destroy the Tralü? This monster really existed?
   Hail to you, may you be prosperous and may the Sendells protect your
   descendants!
+fr:
+  message: Dis-moi c'est vrai, tu nous as débarrassé du Tralü ? Ce monstre
+    existait réellement ? Grâce te soit rendue, que ta couette prospère et que
+    les Sendell préservent ta descendance !
+de:
+  message:
+    Sag mal, stimmt das, daß du uns vom Tralü befreit hast? Das Monster gab
+    es also wirklich? Gott möge dir dafür danken, auf daß dein Pferdeschwanz
+    ewig wachsen und Sendell deine Kinder beschützen möge.
+es:
+  message: ¡Dime si es verdad que nos has librado del Tralu! ¿Existía realmente
+    ese monstruo? ¡Gracias te sean dadas, que tu coleta prospere y que los
+    Sendell guarden a tus descendientes!.
+it:
+  message:
+    Dimmi, è vero che ci hai sbarazzati del Tralu ? Questo mostro esisteva
+    veramente ? Grazia ti sia resa, che il tuo codino cresca e che i Sendell
+    preservino i loro discendenti.
+pt:
+  message: Fala aí, é verdade, você nos livrou do Tralu ? Este monstro existia
+    realmente? Te agradecemos, que sua vida seja próspera e que os Sendell
+    preservem sua descendência!

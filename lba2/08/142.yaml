@@ -1,5 +1,30 @@
+textId: 89
 location:
 speaker:
 message: Please, Mr. Twinsen, go get your fetching little costume and your magic
   ball. Be our hero again! Come back to save me from the Tralü. I'm scared he's
   gonna eat me!!
+fr:
+  message:
+    S'il vous plaît monsieur Twinsen, allez chercher votre joli costume et
+    votre balle magique. Redevenez notre héros et revenez me sauver du Tralü.
+    J'ai peur, il va me manger !!
+de:
+  message: Bitte, Herr Twinsen, holen Sie doch Ihr wunderbares Kostüm und Ihre
+    Zauberkugel zurück! Ihr müßt wieder zu unserem großen Helden werden und
+    zurückkehren, um mich vor dem Tralü zu retten! Ich hab' solche Angst! Ich
+    will nicht gefressen werden!
+es:
+  message:
+    Por favor, señor Twinsen, vaya a por su hermoso traje y su bola mágica.
+    Transfórmese en nuestro héroe y venga a salvarme del Tralu. ¡¡Tengo miedo,
+    va a comerme!!
+it:
+  message:
+    Signor Twinsen, per favore, vada a cercare il suo bel costume e la sua
+    sfera magica. Sia di nuovo il nostro eroe e torni qui per salvarmi dal
+    Tralu. Ho paura, mi mangerà !!
+pt:
+  message: Por favor senhor Twinsen, vá procurar o seu belo traje e a sua bola
+    mágica. Volte a ser nosso herói e volte para me salvar do Tralu. Estou com
+    medo, ele vai me devorar !!

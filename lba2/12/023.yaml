@@ -1,3 +1,14 @@
+textId: 110
 location:
 speaker:
 message: It's locked.
+fr:
+  message: C'est fermé.
+de:
+  message: Geschlossen.
+es:
+  message: Está cerrado.
+it:
+  message: E' chiuso.
+pt:
+  message: Está fechado.

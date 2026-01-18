@@ -1,3 +1,14 @@
+textId: 581
 location:
 speaker:
 message: Gazogem Refinery.
+fr:
+  message: Raffinerie de gazogem.
+de:
+  message: GazoGem-Raffinerie.
+es:
+  message: Refinería de gazogem.
+it:
+  message: Raffineria di gazogem.
+pt:
+  message: Refinaria de gasógeno.

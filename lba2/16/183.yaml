@@ -1,3 +1,14 @@
+textId: 394
 location:
 speaker:
 message: 20 Life points cost 20 Zlitos.
+fr:
+  message: 20 points de vie coûtent 20 zlitos.
+de:
+  message: 20 Lebenspunkte kosten 20 Zlitos.
+es:
+  message: 20 puntos de vida cuestan 20 zlitos.
+it:
+  message: 20 punti di vita costano 20 zlitos.
+pt:
+  message: 20 pontos de vida custam 20 zlitos.

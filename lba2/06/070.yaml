@@ -1,3 +1,14 @@
+textId: 114
 location:
 speaker:
 message: Nitro-Meca-Penguin
+fr:
+  message: Nitro-Méca-Pingouin
+de:
+  message: Nitro-Meca-Pinguin
+es:
+  message: Nitro-Meca-Pingüino
+it:
+  message: Nitro-Robo-Pinguino
+pt:
+  message: Nitro-Méca-Pingüim

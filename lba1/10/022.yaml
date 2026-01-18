@@ -1,3 +1,12 @@
+textId: 21
 location:
 speaker:
 message: Sound the alarm! It's the escapee!
+fr:
+  message: Alerte ! C'est l'évadé !
+de:
+  message: Alarm ! Das ist der Ausbrecher !
+es:
+  message: ¡Alerta! ¡Es el prisionero que se ha evadido!
+it:
+  message: Suonate l'allarme! E' l'evaso!

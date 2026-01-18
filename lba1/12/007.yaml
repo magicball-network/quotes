@@ -1,3 +1,12 @@
+textId: 7
 location:
 speaker:
 message: I'll leave later on.
+fr:
+  message: Je partirai plus tard.
+de:
+  message: Ich breche später auf.
+es:
+  message: Iré más tarde.
+it:
+  message: Partirò dopo.

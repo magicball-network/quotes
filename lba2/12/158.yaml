@@ -1,4 +1,24 @@
+textId: 663
 location:
 speaker:
 message: To practice for your Blowgun Test, simply go through this door at the
   back of this room. You'll then have a limited time to shoot all the targets.
+fr:
+  message: Pour t'essayer à l'épreuve de la sarbacane, il te suffit de passer la
+    porte, au fond de cette pièce. Tu disposeras alors d'un temps limité pour
+    abattre toutes les cibles.
+de:
+  message: Um die Blasrohrprüfung zu bestehen, genügt es, durch die Tür bis ans
+    Ende des Raumes zu gelangen und dann in einer bestimmten Zeit alle Ziele
+    umzuwerfen.
+es:
+  message: Para realizar la prueba de la cerbatana, sólo tienes que franquear la
+    puerta que está al fondo de esta habitación. Allí dispondrás de tiempo
+    ilimitado para acertar todas las dianas.
+it:
+  message: Per la prova della cerbottana devi soltanto oltrepassare la porta, in
+    fondo a questa stanza. Dopo avrai un tempo limitato per abbattere tutti i
+    bersagli.
+pt:
+  message: Para tentar a prova da zarabatana, basta você atravessar a porta, no
+    fundo desta sala. Você terá um tempo limitado para acertar todos os alvos.

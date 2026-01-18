@@ -1,3 +1,12 @@
+textId: 34
 location:
 speaker:
 message: To the mutant factory.
+fr:
+  message: A l'usine de mutants.
+de:
+  message: Zur Mutantenfabrik.
+es:
+  message: A la fábrica de los mutantes.
+it:
+  message: Alla fabbrica di mutanti.

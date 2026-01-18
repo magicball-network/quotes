@@ -1,3 +1,12 @@
+textId: 219
 location:
 speaker:
 message: Sorry, I never heard anything about that.
+fr:
+  message: Navré, connais pas.
+de:
+  message: Tut mir leid, kenn ich nicht.
+es:
+  message: Lo siento, lo desconozco.
+it:
+  message: Spiacente, non lo so.

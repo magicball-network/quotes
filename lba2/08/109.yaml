@@ -1,3 +1,14 @@
+textId: 491
 location:
 speaker:
 message: The Dome of the Slate.
+fr:
+  message: Sur le dôme de l'ardoise.
+de:
+  message: Auf den Kreidedom.
+es:
+  message: A la cúpula de la pizarra.
+it:
+  message: Sul Duomo dell'ardesia.
+pt:
+  message: Na Cúpula de Ardósia

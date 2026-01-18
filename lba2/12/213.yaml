@@ -1,4 +1,29 @@
+textId: 479
 location:
 speaker:
 message: I found this car in the desert. Some people think they can get away
   with anything. By the way, if you want it, it's yours for 50 Kashes.
+fr:
+  message:
+    J'ai récupéré cette voiture dans le désert. Décidément, y 'en a qui se
+    croient vraiment tout permis... D'ailleurs, si elle vous intéresse, je vous
+    la vends... 50 Kashes... ça vous intéresse ?
+de:
+  message: Das Auto hier habe ich in der Wüste gefunden. Manche Leute denken
+    wirklich, sie könnten einfach tun und lassen, was sie wollen ... Wenn Sie
+    mögen, verkaufe ich Ihnen das Ding für ... sagen wir 50 Kashes ... na, wie
+    wär's?
+es:
+  message: Encontré este carro en el desierto. Alguna personas creen que pueden
+    hacer lo que les venga en gana. A propósito, si te interesa, es tuyo por 50
+    Kashes.
+it:
+  message:
+    Ho recuperato questa macchina nel deserto. Decisamente, la gente crede
+    che tutto sia permesso ... A proposito, se le interessa, gliela vendo ... 50
+    Kashes ... le interessa ?
+pt:
+  message:
+    Eu consegui esse carro no deserto. Francamente, tem gente que acha que
+    tudo é permitido... Aliás, se quiser, eu posso vendê-lo por... 50 Kashes...
+    você quer?

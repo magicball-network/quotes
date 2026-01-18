@@ -1,3 +1,14 @@
+textId: 118
 location:
 speaker:
 message: Ferryman's Song
+fr:
+  message: Chanson du passeur
+de:
+  message: Lied des Fährmanns
+es:
+  message: Canción del barquero
+it:
+  message: Canzone del traghettatore
+pt:
+  message: Canç╞o do barqueiro

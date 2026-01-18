@@ -1,4 +1,17 @@
+textId: 261
 location:
 speaker:
 message: Good day, so you've been around the hemisphere? Watch out for the
   icebergs near the Hamalayi mountains!
+fr:
+  message: Bonjour, alors vous avez visité l'hémisphère ? Faites attention aux
+    icebergs vers l'Hamalayi.
+de:
+  message:
+    Guten Tag, Sie haben also die Halbkugel besichtigt ? Achten Sie auf die
+    Eisberge beim Hamalayi.
+es:
+  message: Buenos días, ¿han visitado entonces el hemisferio? Tengan cuidado con
+    los icebergs que hay hacia el Hamalayi.
+it:
+  message: Buongiorno; allora, faccia attenzione agli iceberg verso l'Hamalayi.

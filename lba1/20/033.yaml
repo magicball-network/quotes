@@ -1,3 +1,12 @@
+textId: 32
 location:
 speaker:
 message: Ah, it's impossible to open without a blue card.
+fr:
+  message: Ah, impossible d'ouvrir sans carte bleue.
+de:
+  message: Ach, ohne blauer Karte kann man unmöglich aufmachen.
+es:
+  message: Ah, es imposible de abrir sin tarjeta azul.
+it:
+  message: Ah, impossibile aprire senza tessera blu.

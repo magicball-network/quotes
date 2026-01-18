@@ -1,3 +1,12 @@
+textId: 25
 location:
 speaker:
 message: Where do you want to go Twinsen ?
+fr:
+  message: Où veux-tu aller Twinsen ?
+de:
+  message: Wo möchtest Du hin ?
+es:
+  message: ¿A dónde quieres ir Twinsen ?
+it:
+  message: Dove andiamo, Twinsen ?

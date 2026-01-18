@@ -1,4 +1,21 @@
+textId: 542
 location:
 speaker:
 message: I fish fireflies used to bake tarts. It's awfully good you know, a
   firefly tart.
+fr:
+  message: Moi et ben je chasse des lucioles pour faire des tartes. C'est
+    drôlement bon la tarte aux lucioles.
+de:
+  message: Ich angle Glühwürmchen für den Kuchen. Das ist meine Lieblingsspeise,
+    Glühwürmchenkuchen!
+es:
+  message:
+    Pues yo pesco luciérnagas para hacer tartas. Está buenísima la tarta de
+    luciérnagas.
+it:
+  message: Io ...beh, pesco delle lucciole per fare delle torte. E' veramente
+    buona la torta di lucciole
+pt:
+  message: Eu, eu estou catando pirilampos para fazer tortas. A torta de
+    pirilampos é boa demais.

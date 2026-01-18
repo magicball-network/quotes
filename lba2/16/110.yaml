@@ -1,3 +1,4 @@
+textId: 546
 location:
 speaker:
 message: >-
@@ -7,3 +8,43 @@ message: >-
 
   Meanwhile, and awaiting your visit here, we thank you for your kind attention
   to our modest presentation.
+fr:
+  message: >-
+    Alors seulement, vous quitterez Zeelich, la tête remplie d'images et le
+    coeur plein de flammes.
+
+
+    Mais en attendant de vous voir chez nous, nous vous remercions de
+    l'attention que vous avez gentiment portée à notre présentation.
+de:
+  message: >-
+    Erst dann werden Sie Zeelich verlassen, Ihren Kopf voll von Bildern und ihr
+    Herz mit Flammen gefüllt.
+
+
+    Während wir auf Ihre Rückkehr hoffen, bedanken wir uns für die nette
+    Aufmerksamkeit, die Sie unserer Vorstellung entgegengebracht haben.
+es:
+  message: >-
+    Sólo entonces podrán irse de Zeelich, con la mente repleta de imágenes y el
+    corazón en llamas.
+
+
+    Y, mientras llegan, les agradecemos la atención que tan amablemente han
+    prestado a nuestra presentación.
+it:
+  message: >-
+    Solo allora, lascerete Zeelich dietro di voi, la mente colma di immagini e
+    il cuore pieno di fiamme.
+
+
+    Ma nell'attesa di avervi tra di noi, vi ringraziamo dell'attenzione che
+    avete gentilmente concesso alla nostra presentazione.
+pt:
+  message: >-
+    Somente ent╞o você deixará Zeelich, com a cabeça repleta de recordaçΣes e o
+    coraç╞o ardente.
+
+
+    Esperando tê-lo conosco, agradecemos a atenç╞o que você gentilmente prestou
+    a nossa apresentaç╞o.

@@ -1,5 +1,24 @@
+textId: 39
 location:
 speaker:
 message: I've had it up to my trunk! There are 4 crates in the warehouse that I
   cannot seem to arrange on the 4 crosses painted on the ground. I would gladly
   give a ferry ticket to anyone who could help me out of this mess.
+fr:
+  message:
+    J'en ai ras la trompe ! Il y a 4 caisses dans l'entrepôt et je n'arrive
+    pas à les ranger sur les 4 croix peintes au sol. Je donnerais bien un ticket
+    pour le ferry, à qui sera capable de les ranger à ma place.
+de:
+  message: Ich hab' das Horn voll ! Es gibt 4 Kisten im Lager und ich bringe es
+    nicht fertig sie auf die 4 am Boden gemalten Kreuze zu stellen. Ich gäbe
+    gern einen Fahrschein für die Fähre demjenigen, der sie an meiner Stelle
+    richtig hinstellen kann.
+es:
+  message: ¡Me llega a la punta de la trompa! Hay 4 cajas en el depósito y no
+    logro ordenarlas sobre las 4 cruces pintadas en el suelo. Hasta daría un
+    billete para el ferry, a quien sea capaz de ordenarlas en mi lugar.
+it:
+  message: Basta, ne ho abbastanza! Nel deposito ci sono quattro casse, e non
+    riesco a sistemarle sulle 4 croci dipinte sul pavimento. Regalerò un
+    biglietto per il traghetto a chi sarà in grado di sistemarle.

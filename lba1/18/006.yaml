@@ -1,3 +1,12 @@
+textId: 5
 location:
 speaker:
 message: Quick, get me out of here!
+fr:
+  message: Vite, libérez-moi !
+de:
+  message: Schnell, befreien Sie mich !
+es:
+  message: ¡Rápido, libéreme!
+it:
+  message: Svelto, mi liberi!

@@ -1,4 +1,20 @@
+textId: 124
 location:
 speaker:
 message: '"THE DESPATCH OF ZEELICH: shortage of gazogem, the tankers stopped
   supplying Otringal!"'
+fr:
+  message: '"LA DEPECHE DE ZEELICH : pénurie de gazogem, les tankers ne livrent
+    plus Otringal !"'
+de:
+  message: '"DER ZEELICHER BOTE: GazoGem-Mangel, Tanker fahren Otringal nicht mehr an!"'
+es:
+  message: '"EL NOTICIERO DE ZEELICH: ¡¡¡penuria de gazogem, los petroleros han
+    dejado de abastecer Otringal!!!"'
+it:
+  message:
+    '"IL GAZZETTINO DI ZEELICH .: penuria di gazogem, le navi cisterna non
+    forniscono più carburante a Otringal !"'
+pt:
+  message: '"A GAZETA DE ZEELICH : escassez de gasógeno, os tanqueiros n╞o
+    abastecem mais Otringal !"'

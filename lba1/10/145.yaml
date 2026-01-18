@@ -1,3 +1,12 @@
+textId: 157
 location:
 speaker:
 message: I'd like to help you, but I don't know where they are.
+fr:
+  message: J'aimerais bien t'aider, mais je ne sais pas où ils sont.
+de:
+  message: Ich würde Dir gern helfen, aber ich weiß nicht wo sie sind.
+es:
+  message: Me gustaría tanto ayudarte, pero no sé dónde están.
+it:
+  message: Vorrei proprio aiutarti, ma non so dove siano.

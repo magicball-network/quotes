@@ -1,4 +1,27 @@
+textId: 254
 location:
 speaker:
 message: Dumb! I can't remember what I did with the admission tickets and I'm
   afraid we might be checked!! ...Et er... do you think we can go farther?
+fr:
+  message:
+    He, he, c'est bête, je ne sais plus où j'ai mis les tickets d'entrée et
+    j'ai peur qu'on nous contrôle !! ...Et euh... vous croyez qu'on peut aller
+    plus loin ?
+de:
+  message: Oh - das ist jetzt aber dumm, ich weiß nicht mehr, wo ich die
+    Eintrittskarten hingetan habe. Hoffentlich werden wir nicht kontrolliert!
+    ... Äh ... meinen Sie, da kommt man noch weiter rein?
+es:
+  message: ¡¡Vaya, qué estupidez, no sé dónde he puesto los tickets de entrada y
+    tengo miedo de que nos controlen!! ∙¿Y euh... usted cree que se puede ir más
+    lejos?
+it:
+  message: Ha, ha, che stupido, non so più dove ho messo il mio biglietto e ho
+    paura che ci controllino !! E ... ehm... credete che si possa andare più
+    lontano ?
+pt:
+  message:
+    He, he, que loucura, eu n╞o sei onde coloquei os bilhetes de entrada e
+    tenho medo que venham checar !! ...É, bem... você acha que podemos nos
+    afastar um pouco ?

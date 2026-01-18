@@ -1,6 +1,35 @@
+textId: 244
 location:
 speaker:
 message: Once the four fragments are reunited, you will have the key to Dark
   Monk's temple. According to the prophecy, it will allow you to make the statue
   come out of the volcano's crater, and to open the doors of the temple built in
   it.
+fr:
+  message:
+    Lorsque les quatre fragments auront été réunis, tu posséderas la clé du
+    temple de Dark Monk. D'après la prophétie, elle te permettra de faire sortir
+    la statue du cratère du volcan, et d'ouvrir les portes du temple qui y a été
+    construit.
+de:
+  message:
+    Wenn du die vier Fragmente zusammensetzt, besitzt du den Schlüssel zum
+    Tempel von Dark Monk. Laut der Prophezeiung kannst du damit die Statue aus
+    dem Vulkankrater hochsteigen lassen und die Türen des Tempels öffnen, der
+    dort erbaut wurde.
+es:
+  message: Cuando los cuatro fragmentos se hayan reunido, poseerás la llave del
+    templo de Dark Monk. Según la profecía, te permitirá hacer salir la estatua
+    del cráter del volcán y abrir las puertas del templo que está allí
+    construido.
+it:
+  message:
+    Quando riunirai i quattro frammenti avrai la chiave del tempio di Dark
+    Monk. Secondo al profezia, la chiave ti permetterà di far uscire la statua
+    dal cratere del vulcano e di aprire le porte del tempio che vi è stato
+    costruito.
+pt:
+  message: Quando as quatro partes de chave forem unidas, você terá a chave do
+    Templo de Dark Monk. Segundo a profecia, com ela você poderá tirar a estátua
+    da cratera do vulc╞o e abrir as portas do Templo que foi construído dentro
+    dele.

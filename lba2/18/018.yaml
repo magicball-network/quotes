@@ -1,3 +1,21 @@
+textId: 21
 location:
 speaker:
 message: This way is no good. I need the four fragments.
+fr:
+  message:
+    Je ne peux rien en faire de cette façon. J'ai besoin d'avoir les quatre
+    fragments pour les utiliser ici.
+de:
+  message: So kann ich nichts bewirken, ich brauche die vier Fragmente des
+    Schlüssels, um sie hier verwenden zu können.
+es:
+  message:
+    No puedo hacer nada con esto, así. Necesito los cuatro fragmentos para
+    utilizarlos aquí..
+it:
+  message: Se è in questo stato, non mi serve a nulla. Ho bisogno di avere i
+    quattro frammenti per utilizzarli qui.
+pt:
+  message: Eu n╞o posso fazer nada dessa maneira. Eu preciso ter os quatro
+    fragmentos para usá-los aqui.

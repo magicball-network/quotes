@@ -1,5 +1,31 @@
+textId: 961
 location:
 speaker:
 message: Twinsen, if you want to try out the car, just go to the racetrack or
   the desert. As long as I'm here, I'm going to catch up on a little shopping.
   I'll meet you back at the house.
+fr:
+  message: Twinsen, j'aimerais que tu essayes la voiture. Pour savoir si elle
+    fonctionne bien, tu n'as qu'à aller sur le circuit ou dans le désert.
+    Puisque je suis ici, je vais en profiter pour faire quelques courses. On se
+    retrouvera à la maison.
+de:
+  message:
+    Twinsen, probier' doch bitte aus, ob das Auto richtig funktioniert. Du
+    kannst ja auf der Rennstrecke oder in der Wüste ein paar Runden drehen. Und
+    wo ich schon mal hier bin, werde ich einige Einkäufe erledigen. Wir sehen
+    uns dann zu Hause.
+es:
+  message:
+    Twinsen, me gustaría que probaras el coche. Para saber si funciona bien
+    no tienes más que ir al circuito del desierto. Ya que estoy aquí, voy a
+    aprovechar para hacer algunos recados. Nos vemos en casa.
+it:
+  message: Twinsen, vorrei che tu provassi la macchina. Per sapere se funziona
+    bene, devi andare nel circuito o nel deserto. Siccome sono qui, ne
+    approfitterò per fare qualche spesa. Ci ritroviamo a casa.
+pt:
+  message:
+    Twinsen, Eu gostaria que você testasse o carro. Para saber se ele está
+    funcionando bem, basta ir até o circuito ou ao deserto. Já que estou por
+    aqui, vou aproveitar para fazer algumas compras. Nos encontraremos em casa.

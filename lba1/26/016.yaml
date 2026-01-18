@@ -1,3 +1,4 @@
+textId: 15
 location:
 speaker:
 message: >-
@@ -5,3 +6,28 @@ message: >-
   informant that you claim to have prophetic dreams.
 
   Calm down, we're going to dissect... uh, I mean take care of you!
+fr:
+  message: >-
+    Vous êtes détenu ici car vous êtes un agitateur. Nous savons par un
+    informateur que vous prétendez avoir fait des rêves prophétiques.
+
+    Calmez-vous, nous allons vous autopsi... euh, je veux dire vous soigner !
+de:
+  message: >-
+    Sie werden hier festgehalten, weil Sie ein Aufwiegler sind. Wir haben von
+    einem Informanten erfahren, daß Sie behaupten von Prophezeiungen geträumt zu
+    haben.
+
+    Ruhig Blut, wir werden Sie sezier... öööh, ich meine pflegen !
+es:
+  message: >-
+    Ud. está detenido aquí por agitador. Sabemos por un informador que pretende
+    haber tenido sueños proféticos.
+
+    ¡Cálmese, nosotros lo vamos a autopsi... uy, quiero decir, a sanarlo!
+it:
+  message: >-
+    E' detenuto qui perché è un sovversivo. Sappiamo, tramite un informatore,
+    che dice di aver fatto sogni profetici.
+
+    Si calmi, stiamo per farle un'autops... cioè, adesso la guariamo!

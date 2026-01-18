@@ -1,3 +1,12 @@
+textId: 17
 location:
 speaker:
 message: '" Training pool. Do not throw anything to the shark! "'
+fr:
+  message: '" Piscine d''entraînement. Ne rien jeter au requin ! "'
+de:
+  message: '" Trainingsschwimmbad. Nichts dem Hai zuwerfen ! "'
+es:
+  message: '"Piscina de entrenamiento. No arrojar nada al tiburón!"'
+it:
+  message: '" Vasca di addestramento. Non gettare nulla allo squalo!"'

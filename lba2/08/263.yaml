@@ -1,3 +1,14 @@
+textId: 209
 location:
 speaker:
 message: Nobody touches the cash register!
+fr:
+  message: On ne touche pas à la caisse !
+de:
+  message: Lassen Sie die Finger von der Kasse!
+es:
+  message: ¡La caja no se toca !
+it:
+  message: Non si tocca alla cassa !
+pt:
+  message: Ninguém toca na caixa!

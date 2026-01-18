@@ -1,3 +1,14 @@
+textId: 84
 location:
 speaker:
 message: What should I do, Master?
+fr:
+  message: Que dois-je faire Maître ?
+de:
+  message: Was soll ich tun, Meister?
+es:
+  message: ¿Qué debo hacer, Maestro?
+it:
+  message: Che devo fare, Maestro ?
+pt:
+  message: O que devo fazer Mestre?

@@ -1,4 +1,21 @@
+textId: 300
 location:
 speaker:
 message: The Monk punished our buddy Johnny 'cause he lost the key to the
   chapel. Wasn't even true.
+fr:
+  message:
+    Monsieur le Moine il a puni not copain Jeannot passe qu'il avait perdu
+    la clé de la chapelle. C'était même pas vrai.
+de:
+  message: Der Mönch hat unseren Freund Jan bestraft, weil er den Schlüssel zur
+    Kapelle verloren hatte, aber das hat gar nich' gestimmt.
+es:
+  message: El señor Monje ha castigado a nuestro compañero Juanito porque había
+    perdido la llave de la capilla. Y era mentira.
+it:
+  message: Quel Prete ha punito il nostro compagno Jeannot perchè ha perso la
+    chiave della cappella e non era neanche vero.
+pt:
+  message: O senhor Frade puniu nosso amigo Jonas porque ele perdeu a chave da
+    capela. N╞o é verdade.

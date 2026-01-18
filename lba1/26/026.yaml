@@ -1,5 +1,23 @@
+textId: 27
 location:
 speaker:
 message: I don't know where they are, but with these plans you must enter the
   Center on Brundle island and then sabotage it. Then I can dig under the
   Fortress!
+fr:
+  message: J'ignore où ils sont, mais avec ces plans tu devras entrer dans le
+    Centre sur l'île Brundle, puis le saboter. Alors je pourrai creuser sous la
+    Forteresse !
+de:
+  message:
+    Ich weiß nicht wo sie sind, aber mit diesen Plänen wirst Du ins Zentrum
+    auf der Insel Brundel gelangen müssen um es dann zu sabotieren. Dann werde
+    ich unter der Festung graben können !
+es:
+  message: Ignoro dónde están, pero con estos planos tu deberías poder entrar en
+    el Centro en la isla Brundle, luego sabotearlo. ¡Entonces yo podré cavar
+    bajo la Fortaleza!
+it:
+  message: Non so dove siano, ma con queste mappe dovrai entrare nel Centro
+    sull'Isola Brundle e poi sabotarlo. Solo allora potrò scavare la galleria
+    sotto la Fortezza!

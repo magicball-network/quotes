@@ -1,3 +1,16 @@
+textId: 246
 location:
 speaker:
 message: With the blowtron, you now dispose of a much higher firing rate.
+fr:
+  message: Avec le sarbatron, tu possèdes maintenant une cadence de tir beaucoup
+    plus élevée.
+de:
+  message: Mit der Blasrohrpistole kannst du jetzt viel schneller schießen.
+es:
+  message: Con el cerbatrón ahora tienes una cadencia de tiro mucho más alta..
+it:
+  message: Con la cerbotron, da questo momento in poi, hai una frequenza di tiro
+    maggiore.
+pt:
+  message: Com o zarbatron, você passa a atirar bem mais rápido.

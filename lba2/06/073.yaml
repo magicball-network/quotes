@@ -1,3 +1,14 @@
+textId: 117
 location:
 speaker:
 message: Gallic acid
+fr:
+  message: Acide Gallique
+de:
+  message: Gallussäure
+es:
+  message: Acido Gálico
+it:
+  message: Acido gallico
+pt:
+  message: Acido Gálico

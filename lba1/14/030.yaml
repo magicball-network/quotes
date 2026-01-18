@@ -1,4 +1,19 @@
+textId: 29
 location:
 speaker:
 message: '" I am the Eclipse Stone. The password for the Marked Stone is
   "BURBS". Which word will free me? "'
+fr:
+  message: '" Je suis la Pierre de l''Eclipse. La clef de la Pierre Scellée est
+    "BURBS". Quel est le mot qui doit me délivrer ? "'
+de:
+  message: '" Ich bin der Stein der Finsternis. Der Schlüssel zum Versiegelten
+    Stein ist " BURBS ". Wie heißt das Wort, das mich befreien soll ? "'
+es:
+  message:
+    '"Soy la Piedra del Eclipse. La clave de la Piedra Sellada es "BURBS".
+    "¿Cuál es la palabra que debe liberarme?"'
+it:
+  message:
+    '"Sono la Pietra dell''Eclisse. La chiave della Pietra col Sigillo è "
+    BURBS ". Quale parola mi libererà? "'

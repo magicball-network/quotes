@@ -1,4 +1,20 @@
+textId: 47
 location:
 speaker:
 message: You just found a parade outfit for the wizards. It'll make you look
   like an old wizard.
+fr:
+  message:
+    Tu viens de récupérer une tenue de parade pour les mages. Elle te fera
+    ressembler à un vieux mage.
+de:
+  message: Du hast eine Paradetunika für Magier erhalten. Mit ihr siehst du aus
+    wie ein alter Magier.
+es:
+  message: Acabas de recuperar un uniforme de gala para los magos..
+it:
+  message: Hai recuperato un abito da cerimonia per i maghi. Ti permetterà di
+    assomigliare a un vecchio mago.
+pt:
+  message: Você adquiriu uma veste de gala para magos. Com ela você se parecerá
+    com um velho mago.

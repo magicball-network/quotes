@@ -1,4 +1,17 @@
+textId: 21
 location:
 speaker:
 message: '" Lifeboat. Do not pierce, burn, or bring into contact with an
   incandescent object. "'
+fr:
+  message: '" Embarcation de sauvetage. Ne pas percer, ni brûler ou approcher
+    d''un corps incandescent. "'
+de:
+  message: '" Rettungsboot. Nicht gewaltsam öffnen oder verbrennen, bitte keine
+    heiße Asche einfüllen. "'
+es:
+  message: '"Embarcación de salvamento. No perforar, ni quemar o acercar a un
+    cuerpo incandescente."'
+it:
+  message: '"Scialuppa di salvataggio. Non forare, bruciare o avvicinare a corpi
+    incandescenti. "'

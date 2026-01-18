@@ -1,4 +1,26 @@
+textId: 486
 location:
 speaker:
 message: You succeeded. Maybe I should go see the healing wizard. He told me
   that, if I poured a little gallic acid in my engine, I could go faster!!
+fr:
+  message: Tu as réussi. Je devrais peut être aller chez le mage guérisseur. Il
+    m'a dit qu'en mettant un peu d'acide gallique dans mon moteur, je
+    parviendrais à aller plus vite !!
+de:
+  message: Du hast es geschafft. Vielleicht sollte ich zum Heilmagier gehen. Er
+    hat gesagt, wenn ich ein bißchen Gallussäure in den Motor gebe, könnte ich
+    noch schneller fahren!!!
+es:
+  message:
+    Lo has conseguido. Quizá debiera de ir a ver al mago curandero. ¡¡Me ha
+    dicho que poniendo un poco de ácido gálico en el motor, conseguiría ir más
+    deprisa!!
+it:
+  message: Hai vinto. Forse dovrei andare dal mago guaritore. Mi ha detto che
+    mettendo un po' di acido gallico nel mio motore, potrei andare più veloce !!
+pt:
+  message:
+    Você conseguiu. Eu deveria talvez ir ao Mago Curador. Ele me disse que
+    colocando um pouco de ácido gálico no motor, eu conseguiria andar mais
+    rápido!!

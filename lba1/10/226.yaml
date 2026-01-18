@@ -1,3 +1,12 @@
+textId: 243
 location:
 speaker:
 message: Stop doing that, you're going to put ashes everywhere!
+fr:
+  message: Arrêtez de faire ça, vous allez mettre de la cendre partout !
+de:
+  message: Lassen Sie das sein, sie machen noch alles voll Asche !
+es:
+  message: ¡Deje de hacer eso! ¡Va a esparcir la ceniza por todas partes!
+it:
+  message: La smetta di fare così, spargerà cenere dappertutto!

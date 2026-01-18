@@ -1,3 +1,14 @@
+textId: 115
 location:
 speaker:
 message: I don't have enough Kashes.
+fr:
+  message: Je n'ai pas assez de Kashes.
+de:
+  message: Ich habe nicht genug Kashes.
+es:
+  message: No tengo bastantes Kashes.
+it:
+  message: Non ho abbastanza Kashes.
+pt:
+  message: Eu n╞o tenho Kashes suficientes.

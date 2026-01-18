@@ -1,5 +1,29 @@
+textId: 23
 location:
 speaker:
 message: You can bring me the result of each test at your leisure, but I will
   give you your wizard's diploma and your new level of magic only after you
   succeed in all 3 tests!!
+fr:
+  message: Tu pourras m'apporter le résultat de chaque épreuve quand tu le
+    voudras, mais je ne te donnerai ton diplôme de mage et ton nouveau niveau de
+    magie, que lorsque tu auras surmonté les 3 épreuves !!
+de:
+  message:
+    Du kannst mir das Ergebnis jeder Prüfung bringen, wenn du willst, aber
+    dein Magierdiplom und deine zusätzliche Magiestufe erhältst du erst, wenn du
+    alle drei Prüfungen bestanden hast!
+es:
+  message:
+    ¡¡Podrás traerme el resultado de cada prueba cuando quieras, pero no te
+    daré el diploma de mago y tu nuevo nivel de magia hasta que no hayas
+    superado las tres pruebas!!
+it:
+  message:
+    Potrai portarmi il risultato di ogni prova quando vorrai, ma ti darò il
+    tuo diploma di mago e il tuo nuovo grado di magia solo quando avrai superato
+    le 3 prove !!!
+pt:
+  message: Você poderá trazer o resultado de cada prova quando quiser, mas só
+    receberá o diploma de mago e o novo nível de magia quando houver superado as
+    3 provas!!

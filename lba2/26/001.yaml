@@ -1,3 +1,14 @@
+textId: 1
 location:
 speaker:
 message: No way! I'm going to stop you!!
+fr:
+  message: C'est impossible, je vous en empêcherai !!
+de:
+  message: Das ist unmöglich, davon würde ich Sie abhalten!
+es:
+  message: ¡¡No es posible, se lo impediré!!
+it:
+  message: E' impossibile, lo fermerò !!
+pt:
+  message: É impossível, eu te impedirei !!

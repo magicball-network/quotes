@@ -1,6 +1,34 @@
+textId: 565
 location:
 speaker:
 message: Listen to me, I must inform you of some very concerning news. Almost
   all the wizards of Twinsun have disappeared, and no one knows where they are.
   They must be found, and you are the only one who can accomplish this noble
   task. The school is counting on you Twinsen!
+fr:
+  message: Ecoute moi maintenant, je désire t'entretenir d'une affaire grave.
+    Presque tous les mages de Twinsun ont disparu et personne ne sait où ils se
+    trouvent. Il faut absolument les retrouver et tu es le seul qui puisse
+    accomplir cette noble tâche. L'école compte sur toi, Twinsen !!
+de:
+  message:
+    Hör mir bitte zu, ich habe eine sehr ernste Aufgabe für dich. Fast alle
+    Magier von Twinsun sind verschwunden, und niemand weiß, wo sie sind. Wir
+    müssen sie unbedingt wiederfinden, und nur du bist dieser ehrenvollen
+    Aufgabe gewachsen. Die Schule zählt auf dich, Twinsen!
+es:
+  message:
+    Ahora escúchame. Tengo que hablarte de un asunto grave. Todos los magos
+    de Twinsun han desaparecido y nadie sabe dónde están. Hay que encontrarlos
+    cueste lo que cueste y tú eres el único que puedes llevar a cabo tan noble
+    tarea. ¡¡La escuela cuenta contigo, Twinsen!!
+it:
+  message: Ascoltami adesso, voglio parlarti di un' affare grave. Quasi tutti i
+    maghi di Twinsun sono spariti e nessuno sa dove si trovino. Bisogna
+    assolutamente ritrovarli e tu sei il solo che possa compiere questa nobile
+    prova. La scuola conta su di te, Twinsen !!
+pt:
+  message: Preste atenç╞o, preciso te deixar a par de um assunto grave, quase
+    todos os magos de Twinsun desapareceram e ninguém sabe para onde eles foram.
+    É preciso achá-los de qualquer maneira e você é o único que pode cumprir
+    essa nobre tarefa. A Escola conta com você, Twinsen !!

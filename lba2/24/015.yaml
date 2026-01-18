@@ -1,3 +1,14 @@
+textId: 18
 location:
 speaker:
 message: But, I found it, you know, your fragment!!!
+fr:
+  message: Mais, je l'ai trouvé moi vot' fragment !!!
+de:
+  message: Aber ich habe es doch gefunden, euer Fragment!!!
+es:
+  message: ¡¡¡Pero si lo he encontrado yo, su fragmento!!!
+it:
+  message: Ma, l'ho trovato io il vostro frammento !!!
+pt:
+  message: Ei, encontrei a parte da chave de vocês !!!

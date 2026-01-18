@@ -1,3 +1,12 @@
+textId: 128
 location:
 speaker:
 message: Fool, don't do that! ANYTHING can happen now!
+fr:
+  message: Malheureux, ne faites pas cela ! TOUT est désormais possible !
+de:
+  message: Unseliger, tun Sie das nicht ! Jetzt ist ALLES möglich !
+es:
+  message: ¡Desgraciado, no haga eso! ¡Desde ahora TODO es posible!
+it:
+  message: Idiota, non lo faccia! Ormai TUTTO è possibile!

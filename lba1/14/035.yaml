@@ -1,4 +1,20 @@
+textId: 34
 location:
 speaker:
 message: "My brother was arrested and the house is under surveillance: phony red
   card traffic. Wait a minute, how did you get in here? And who are you?"
+fr:
+  message:
+    "Mon frêre a été arrêté et la maison est surveillée : trafic de fausses
+    cartes rouges. Mais toi comment es-tu entré et qui es-tu ?"
+de:
+  message:
+    "Mein Bruder wurde festgenommen und das Haus wird bewacht : Handel mit
+    falschen roten Karten. Aber Du, wie bist Du hereingekommen, und wer bist Du
+    ?"
+es:
+  message: "Han arrestado a mi hermano y la casa está vigilada: tráfico de
+    tarjetas rojas falsas. Pero tú ¿cómo has entrado, y quién eres?"
+it:
+  message: "Mio fratello è stato arrestato e la casa è controllata: traffico di
+    carte rosse false. Ma come hai fatto a entrare, e chi sei?"

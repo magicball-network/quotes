@@ -1,3 +1,12 @@
+textId: 125
 location:
 speaker:
 message: Wake up, I've just found the escapee!
+fr:
+  message: Réveille-toi, je viens de trouver l'évadé !
+de:
+  message: Wach auf, ich habe den Ausbrecher gefunden !
+es:
+  message: ¡Despiértate, acabo de encontrar al evadido!
+it:
+  message: Svegliati, ho appena trovato l'evaso!

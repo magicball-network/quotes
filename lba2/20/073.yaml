@@ -1,3 +1,19 @@
+textId: 301
 location:
 speaker:
 message: Let's get this over with, so we can go and see the soldiers.
+fr:
+  message:
+    Oh ben vivement qu'on ait fini not office, qu'on puisse aller voir les
+    militaires qui sont descendus chez nous.
+de:
+  message: Los, schnell, wenn wir fertig sind, können wir die Soldaten anschauen!!!
+es:
+  message: Venga, vamos a acabar pronto el oficio para ir a ver a los militares
+    que han bajado hasta aquí.
+it:
+  message: Oh, meno male che abbiamo terminato la nostra orazione così andiamo a
+    trovare i militari che sono scesi da noi.
+pt:
+  message: Que bom que acabamos nosso ofício, e podemos ir ver os militares que
+    vieram até aqui embaixo.

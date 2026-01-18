@@ -1,3 +1,23 @@
+textId: 543
 location:
 speaker:
 message: But how can I do that, you left on your spaceship and I don't have one.
+fr:
+  message:
+    Mais comment puis-je faire, tu es parti à bord de ton engin spatial et
+    moi je n'en possède pas.
+de:
+  message: Aber wie denn, du bist doch mit deinem Raumfahrzeug losgefahren! Ich
+    habe keines da!
+es:
+  message:
+    ¿Y cómo vamos a hacer? Tu te has ido a bordo de ese artefacto espacial
+    y yo no tengo.
+it:
+  message:
+    Ma come posso fare, sei partito sulla tua navetta spaziale ed io non ne
+    ho a mia disposizione.
+pt:
+  message:
+    Mas o que eu posso fazer, você partiu a bordo de sua nave espacial e eu
+    n╞o pude acompanhá-lo. Eu n╞o tenho uma nave.

@@ -1,5 +1,27 @@
+textId: 121
 location:
 speaker:
 message: '"THE INQUIRER : ...group of dissidents who defaced our beautiful city
   with subversive posters.... some will be arrested... the police are looking
   for runaways..."'
+fr:
+  message: '"L''INQUISITEUR : ...groupe de dissidents qui bariola notre belle
+    ville d''affiches subversives.... une partie a été arrêtée... la police
+    recherche les fuyards..."'
+de:
+  message:
+    '"DER INQUISITOR: ... Rebellen, die unsere schöne Stadt mit subversiven
+    Plakaten zukleistern wollen ... teilweise festgenommen ... die Polizei sucht
+    nach den Flüchtigen ..."'
+es:
+  message: '"EL INQUISIDOR: ... grupo de disidentes que mancilló nuestra hermosa
+    ciudad con carteles subversivos..... parte han sido detenidos.... la policía
+    busca a los fugitivos..."'
+it:
+  message: '" L''INQUISITORE : ... gruppo di dissidenti che ha tappezzato la
+    nostra bella città di manifesti sovversivi ... alcuni sono stati arrestati
+    ... la polizia ricerca i fuggiaschi ..."'
+pt:
+  message:
+    '"A TRIBUNA : ...grupo de rebeldes que enchiam nossa cidade de cartazes
+    subversivos.... uma parte foi presa... a polícia procura os fugitivos..."'

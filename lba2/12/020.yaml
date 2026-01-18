@@ -1,3 +1,14 @@
+textId: 495
 location:
 speaker:
 message: '"To the cemetery."'
+fr:
+  message: '"Vers le cimetière."'
+de:
+  message: '"Zum Friedhof."'
+es:
+  message: '"Al cementerio."'
+it:
+  message: '" Verso il cimitero."'
+pt:
+  message: '"Em direç╞o ao Cemitério."'

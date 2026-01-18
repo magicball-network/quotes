@@ -1,4 +1,24 @@
+textId: 286
 location:
 speaker:
 message: Hmmm, you look a lot like the one all the cops are after. You'll be
   fine here but watch your back if you wander away from this little area.
+fr:
+  message:
+    Humm, vous ressemblez drôlement au gars que tous les flics recherchent.
+    Ici vous aurez pas d'ennuis, mais méfiez vous des autres endroits.
+de:
+  message: Hmm, Sie sehen dem Typ, den die Bullen überall suchen, verdammt
+    ähnlich. Hier kriegen Sie keine Schwierigkeiten, aber passen Sie anderswo
+    lieber auf.
+es:
+  message: Humm, se parece usted muchísimo al tipo que está buscando la policía.
+    Aquí no tendrá usted problemas, pero ¡cuidese en los otros sitios!.
+it:
+  message:
+    Ehm... lei assomiglia molto al tipo ricercato da mezza polizia ... Qui
+    non avrà noie, ma faccia attenzione in altri posti.
+pt:
+  message:
+    Humm, você se parece demais com o cara que a polícia procura. Aqui você
+    estará seguro, mas cuidado com os outros lugares.

@@ -1,4 +1,17 @@
+textId: 55
 location:
 speaker:
 message: Calm down, I'll only let you in if the audience likes the group. Work
   it out with the guitarist!
+fr:
+  message: Du calme, je ne te ferai entrer que si le groupe plaît au public.
+    Débrouille-toi avec le guitariste !
+de:
+  message: Ganz ruhig, ich laß Dich nur dann rein, wenn die Gruppe dem Publikum
+    gefällt. Sieh zu wie Du mit dem Gitarristen zurecht kommst !
+es:
+  message: Calma, te haré entrar sólo si el grupo le gusta al público.
+    ¡Arréglatelas con el guitarrista!
+it:
+  message: Calmo! Ti farò entrare solo se il gruppo piace al pubblico. Veditela
+    con il chitarrista!

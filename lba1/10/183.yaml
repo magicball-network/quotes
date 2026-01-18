@@ -1,3 +1,13 @@
+textId: 200
 location:
 speaker:
 message: I don't know anything about pirating, try talking to the sailors instead.
+fr:
+  message: Je n'y connais rien en piraterie, essayez plutôt d'en parler à des marins.
+de:
+  message: Ich weiß nichts über Seeräuberei, versuchen Sie eher mit Seeleuten
+    darüber zu sprechen.
+es:
+  message: No conozco nada sobre piratería, intente mejor hablar de eso con los marinos.
+it:
+  message: Non so nulla di pirateria; ne parli piuttosto ai marinai.

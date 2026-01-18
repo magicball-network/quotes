@@ -1,3 +1,14 @@
+textId: 600
 location:
 speaker:
 message: Elevator to the under-gas.
+fr:
+  message: Ascenseur vers le sous-gaz.
+de:
+  message: Aufzug unter die Gaswolke.
+es:
+  message: Ascensor al sub-gas.
+it:
+  message: Ascensore verso il sotto-gas
+pt:
+  message: Elevador para o sub-gás.

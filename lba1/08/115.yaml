@@ -1,3 +1,12 @@
+textId: 121
 location:
 speaker:
 message: I'd like to help you, but I haven't seen them.
+fr:
+  message: J'aimerais t'aider, mais je les ai jamais vus.
+de:
+  message: Ich würde Dir gern helfen, aber ich habe sie noch nie gesehen.
+es:
+  message: Me gustaría ayudarte, pero no los he visto.
+it:
+  message: Sarei contento di aiutarla, ma non li ho mai visti.

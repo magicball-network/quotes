@@ -1,4 +1,24 @@
+textId: 16
 location:
 speaker:
 message: You just found the Ring of Dissidents. It's their identification sign,
   and it will allow you to be identified by all the dissidents that you meet.
+fr:
+  message: Tu vient de récupérer la bague des dissidents. C'est leur signe de
+    reconnaissance, il te permettra de te faire identifier par tous les
+    dissidents que tu rencontreras.
+de:
+  message: Du hast den Rebellenring. Dieser Ring ist ihr Erkennungszeichen. Wenn
+    du einen Rebellen triffst, kannst du dich ihm damit als Freund zu erkennen
+    geben.
+es:
+  message: Acabas de recuperar el anillo de los disidentes. Es su señal de
+    identidad, te permitirá ser identificado por todos los disidentes que
+    encuentres .
+it:
+  message: Hai recuperato l'anello dei dissidenti. E' il loro segno di
+    riconoscimento, ti permetterà di farti identificare da tutti i dissidenti
+    che incontri.
+pt:
+  message: Você adquiriu o anel de identificaç╞o dos rebeldes. Com ele você será
+    reconhecido por todos os rebeldes que encontrar.

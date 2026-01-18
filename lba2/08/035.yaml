@@ -1,3 +1,14 @@
+textId: 341
 location:
 speaker:
 message: '"Cliffs of the Woodbridge."'
+fr:
+  message: '" Falaises du Pont de bois. "'
+de:
+  message: '"Klippen an der Holzbrücke."'
+es:
+  message: '" Acantilados del Puente de madera"'
+it:
+  message: '"Scogliere del Ponte di legno"'
+pt:
+  message: '" Penhascos da Ponte de Madeira. "'

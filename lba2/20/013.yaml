@@ -1,3 +1,15 @@
+textId: 32
 location:
 speaker:
 message: Ugh, taste in home decor is rather lame.
+fr:
+  message: Ils ont des drôles de goûts pour décorer leur maison ici.
+de:
+  message: In punkto Inneneinrichtung haben sie hier ja wirklich einen seltsamen
+    Geschmack.
+es:
+  message: Aquí tienen un gusto bastante peculiar para decorar las casas...
+it:
+  message: Hanno dei gusti strani nell'arredo della loro casa, in questo posto.
+pt:
+  message: Eles têm um gosto esquisito para decorar suas casas.

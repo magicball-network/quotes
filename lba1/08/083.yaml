@@ -1,3 +1,4 @@
+textId: 89
 location:
 speaker:
 message: '"This room contains information and weapons that were amassed for
@@ -7,3 +8,36 @@ message: '"This room contains information and weapons that were amassed for
   the key. He was attacked and killed by the ruthless pirate LeBorgne during a
   sea voyage. Nobody knows where Leborgne''s treasure, which undoubtedly contains
   the golden key to the room, is today."'
+fr:
+  message: '" Cette pièce contient des renseignements et des armes collectés au
+    fil des générations, pour venir en aide à l''Héritier qui sera un jour
+    désigné au sein de notre famille. La clef de cette pièce fut transmise de
+    génération en génération, mais notre ancêtre Hégésippe en fut le dernier
+    dépositaire. Au cours d''un voyage il périt en mer, victime du terrible
+    pirate LeBorgne. Aujourd''hui nul ne sait où se trouve le trésor de LeBorgne
+    qui, certainement, contient encore cette clef en or. "'
+de:
+  message: '" Dieser Raum enthält Informationen und Waffen, die im Laufe von
+    Generationen gesammelt wurden um dem Erben zu helfen, der eines Tages
+    inmitten unserer Familie bestimmt wird. Der Schlüssel dieses Raums wurde von
+    Generation zu Generation vererbt, jedoch war unserer Uhrahn Hégésippe der
+    letzte Verwahrer dieses Schlüssels. Er kam während einer Reise auf hoher See
+    ums Leben, als Opfer des schrecklichen Piraten EinAuge. Heute weiß niemand
+    wo sich EinAuges Schatz, der sicherlich diesen Goldschlüssel noch enthält,
+    befindet. "'
+es:
+  message: '"Esta estancia contiene información y armas recogidas a lo largo de
+    las generaciones para ayudar al Heredero que será un día designado en el
+    seno de nuestra familia. La llave de esta pieza fue transmitida de
+    generación en generación, y Hegésipo, nuestro antepasado, fue el último
+    depositario. Durante un viaje pereció en el mar, víctima del terrible pirata
+    El Tuerto. Hoy nadie sabe dónde se encuentra el tesoro del pirata El Tuerto
+    que, seguramente, aún contiene esa llave de oro."'
+it:
+  message: '" Questa stanza contiene informazioni e armi raccolte nel corso dei
+    secoli per venire in aiuto all''Erede che un giorno verrà designato
+    all''interno della nostra famiglia. La chiave di questa stanza venne
+    tramandata di generazione in generazione, ma l''avo Egesippo ne fu l''ultimo
+    depositario. Durante un viaggio perì in mare, vittima del Guercio, un
+    terribile pirata. Oggi nessuno sa dove si trovi il tesoro del Guercio, che,
+    sicuramente, contiene anche questa chiave d''oro."'

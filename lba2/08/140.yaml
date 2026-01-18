@@ -1,5 +1,26 @@
+textId: 13
 location:
 speaker:
 message: Mr. Twinsen! Free me, quick!! I am Raph! You know, the lighthouse
   keeper!! I've been caught by the Tralü, he wants to turn me into a
   rabbibunny-melba.
+fr:
+  message: Monsieur Twinsen ! Libérez-moi, vite !! Je suis Raph ! Vous savez, le
+    gardien du phare !! Je me suis fait attraper par le Tralü, y veut me
+    transformer en lapichon-melba.
+de:
+  message: Herr Twinsen! Helfen Sie mir! Schnell! Ich bin's, Raph! Sie wissen
+    schon, der Leuchtturmwärter! Das Tralü hat mich gefangen, es will mich in
+    ein Haasi-Melba verwandeln!
+es:
+  message: ¡Señor Twinsen! ¡¡Sáqueme de aquí, de prisa!! ¡¡Soy Raph, sí, el
+    guardián del faro!! ¡El Tralu me tiene atrapado y quiere convertirme en un
+    conejuno con nata!
+it:
+  message:
+    Signor Twinsen ! Mi liberi, presto !! Sono Raph, il guardiano del faro
+    !! Mi sono fatto catturare dal Tralu, vuole trasformarmi in lapinoide-melba.
+pt:
+  message: Senhor Twinsen ! Liberte-me, rápido !! Eu sou Raph ! Você sabe, o
+    guardi╞o do farol !! Eu fui pego pelo Tralu, ele quer me transformar em um
+    lapichon-melba.

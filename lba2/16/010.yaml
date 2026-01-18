@@ -1,3 +1,14 @@
+textId: 10
 location:
 speaker:
 message: What should I do?
+fr:
+  message: Que dois-je faire ?
+de:
+  message: Was muß ich tun?
+es:
+  message: ¿Qué tengo que hacer?
+it:
+  message: Cosa devo fare ?
+pt:
+  message: O que eu devo fazer?

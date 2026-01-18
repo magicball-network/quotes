@@ -1,3 +1,14 @@
+textId: 209
 location:
 speaker:
 message: So read the inscriptions, there are objects that belonged to LeBorgne here!
+fr:
+  message: Alors lisez les inscriptions, il y a des objets ayant appartenu à
+    LeBorgne ici !
+de:
+  message: Dann lesen Sie die Schilder, es gibt hier Gegenstände, die EinAuge
+    gehört haben !
+es:
+  message: Lea las inscripciones, hay objetos que han pertenecido a El Tuerto ¡aquí!
+it:
+  message: Allora legga le iscrizioni, ci sono oggetti appartenuti al Guercio, qui!

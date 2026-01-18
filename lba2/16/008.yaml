@@ -1,3 +1,14 @@
+textId: 7
 location:
 speaker:
 message: I'm trying to get to island CX.
+fr:
+  message: Je cherche à aller sur l'îlot CX.
+de:
+  message: Ich möchte auf das Eiland CX.
+es:
+  message: Estoy tratando de ir al islote CX.
+it:
+  message: Sto tentando di andare sull'isolotto CX.
+pt:
+  message: Eu estou tentando ir à Ilhota CX.

@@ -1,3 +1,14 @@
+textId: 391
 location:
 speaker:
 message: Follow me!
+fr:
+  message: Suivez-moi !
+de:
+  message: Folgen Sie mir!
+es:
+  message: ¡Sígame!
+it:
+  message: Mi segua !
+pt:
+  message: Siga-me!

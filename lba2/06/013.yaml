@@ -1,4 +1,21 @@
+textId: 12
 location:
 speaker:
 message: You just found the Proto-Pack. Put it on and you'll fly a few inches
   above the ground.
+fr:
+  message: Tu viens de récupérer le Proto-Pack. Il te permet de voler à quelques
+    centimètres au-dessus du sol.
+de:
+  message:
+    Du hast das ProtoPack geholt. Mit ihm kannst du einige Zentimeter über
+    dem Boden fliegen.
+es:
+  message: Acabas de recuperar el Proto-Pack.
+it:
+  message:
+    Hai recuperato il Proto-Pack. Ti permette di volare qualche centimetro
+    sopra la terra.
+pt:
+  message: Você adquiriu o Proto-Pack. Com ele, você pode voar a uma altura de
+    alguns centímetros sobre o solo.

@@ -1,3 +1,14 @@
+textId: 404
 location:
 speaker:
 message: Ummm...I'll buy it back for...shall we say 20 Zlitos?
+fr:
+  message: Je vous le rachète pour 20 Zlitos.
+de:
+  message: Ich kaufe es Ihnen für 20 Zlitos wieder ab.
+es:
+  message: Se lo vuelvo a comprar por 20 Zlitos.
+it:
+  message: Lo ricompro per 20 zlitos.
+pt:
+  message: Eu compro de volta por 20 Zlitos.

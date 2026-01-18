@@ -1,6 +1,38 @@
+textId: 606
 location:
 speaker:
 message: Excellent Twinsen! You just grabbed the blowtron! This weapon makes you
   our equal. You are now welcome in the village of the Mosquibees and we will
   help you reach the island CX. I not only own the key to the passage which
   leads there, I will also open the doors for you as soon as we arrive!!
+fr:
+  message:
+    Bravo Twinsen ! Tu viens de t'emparer du sarbatron. Cette arme fait de
+    toi notre égal. Tu appartiens désormais au village des mosquibees et nous
+    t'aiderons à rejoindre l'îlot CX. Je suis la seule à posséder la clé du
+    passage qui y mène, et je t'ouvrirai les portes dès que nous y serons rendus
+    !!
+de:
+  message:
+    Hervorragend, Twinsen! Du hast die Blasrohrpistole genommen. Mit dieser
+    Waffe bist du uns gleich. Du gehörst nun zum Dorf der Moskibienos, und wir
+    werden dir helfen, auf das Eiland CX zu kommen. Nur ich besitze den
+    Schlüssel zum Gang, der auf dieses Eiland führt. Ich werde dir die Türen
+    öffnen, sobald wir dort sind!
+es:
+  message: ¡Bravo Twinsen! Acabas de apoderarte del cerbatrón. Este arma te
+    convierte en nuestro igual. A partir de ahora perteneces al pueblo de los
+    mosquibitas y te ayudaremos a llegar al islote CX. ¡¡Soy la única que posee
+    la llave del pasadizo que lleva hasta allí y te abriré las puertas en cuanto
+    lleguemos!!
+it:
+  message: Bravo Twinsen ! Ti sei impadronito del cerbotron. Quest'arma fa di te
+    un nostro simile. Appartieni ormai al paese dei Moschibei e ti aiuteremo a
+    raggiungere l'isolotto CX. Solo io possiedo la chiave del passaggio che
+    porta all'isolotto e ti aprirò le porte non appena saremo arrivati !!
+pt:
+  message:
+    Parabéns Twinsen ! Acabou de ganhar um zarbatron. Essa arma faz de você
+    um de nós. De agora em diante, você pertence à vila dos mosquibees, e nós te
+    ajudaremos a chegar à Ilhota CX. Eu sou a única que tem a chave da passagem
+    que leva até lá, e abrirei as portas assim que chegarmos lá !!

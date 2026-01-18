@@ -1,3 +1,14 @@
+textId: 91
 location:
 speaker:
 message: Help!
+fr:
+  message: A l'aide !
+de:
+  message: Hilfe !
+es:
+  message: ¡Auxilio!
+it:
+  message: Aiuto !
+pt:
+  message: Ajudem !

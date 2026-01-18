@@ -1,5 +1,31 @@
+textId: 426
 location:
 speaker:
 message: I don't take anybody in the storm, I hate this weather. And why doesn't
   the Weather Wizard intervene, heh? By the way, did you notice that you could
   jump while you are running?
+fr:
+  message:
+    Je ne transporte personne sous l'orage, je déteste ce temps. Et d'abord
+    pourquoi le Mage Météo n'intervient-il pas, hein ? Au fait, avez vous
+    remarqué que vous pouviez sauter tout en courant ?
+de:
+  message:
+    "Bei dem Sturm nehme ich keine Passagiere mit, ich hasse dieses Wetter.
+    Und außerdem: Wieso unternimmt denn der Wettermagier nichts dagegen, hm?
+    Hast Du eigentlich schon festgestellt, daß Du beim Laufen auch springen
+    kannst?"
+es:
+  message:
+    No transporto a nadie con tormenta, odio este tiempo. Y ante todo ¿por
+    qué no interviene el mago Meteo, eh? Por cierto, ¿te has fijado que podías
+    saltar corriendo?
+it:
+  message:
+    Non prendo a bordo nessuno con questo temporale, detesto questo tempo.
+    E intanto, perchè il Mago Metereologo non interviene, eh ? A proposito, ha
+    notato che può saltare e correre al tempo stesso ?
+pt:
+  message: Eu n╞o transporto ninguém em baixo de chuva, eu detesto esse tempo.
+    Aliás por que O Mago do Tempo n╞o resolve isso, hein ? A propósito, você
+    reparou que você pode saltar enquanto corre ?

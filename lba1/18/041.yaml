@@ -1,3 +1,12 @@
+textId: 42
 location:
 speaker:
 message: Sound the alarm! A prisoner is escaping!
+fr:
+  message: Alerte un détenu s'évade !
+de:
+  message: Alarm, ein Häftling bricht aus !
+es:
+  message: ¡Alerta, un detenido se escapa!
+it:
+  message: Suonate l'allarme, un detenuto sta evadendo!

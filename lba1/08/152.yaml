@@ -1,4 +1,20 @@
+textId: 159
 location:
 speaker:
 message: There is a library on Principal Island, but I don't know if they have
   any books about the Legend there.
+fr:
+  message:
+    Il y a une bibliothèque sur l'île Principale, mais je ne sais si l'on y
+    trouve des livres sur la Légende.
+de:
+  message:
+    Es gibt eine Bibliothek auf der Hauptinsel, aber ich weiß nicht, ob man
+    dort Bücher über die Legende findet.
+es:
+  message:
+    Hay una biblioteca en la isla Principal, pero no sé si allí hay libros
+    sobre la Leyenda.
+it:
+  message: Sull'isola Principale c'è una biblioteca, ma non so se ci siano libri
+    sulla Leggenda.

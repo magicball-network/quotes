@@ -1,3 +1,14 @@
+textId: 103
 location:
 speaker:
 message: Sendell's Ball
+fr:
+  message: Boule de Sendell
+de:
+  message: Kugel von Sendell
+es:
+  message: Bola de Sendell
+it:
+  message: Boccia di Sendell
+pt:
+  message: Bola de Sendell

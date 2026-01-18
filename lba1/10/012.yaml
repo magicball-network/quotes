@@ -1,5 +1,24 @@
+textId: 11
 location:
 speaker:
 message: That old pirate is right, the tap water tastes funny. They should be
   able to improve its quality, and by the way the water tower is located in the
   North mountains (check your holomap).
+fr:
+  message:
+    Ce vieux pirate a raison, l'eau de la ville a un drôle de goût. On doit
+    pouvoir l'améliorer d'ailleurs, le château d'eau est situé dans les
+    montagnes, au Nord (regarde sur ton holomap).
+de:
+  message:
+    Der alte Pirat hat recht, das Leitungswasser schmeckt komisch. Es kann
+    sicher aufgebessert werden, der Wasserturm befindet sich in den Bergen, im
+    Norden (schau auf Deinen Holomap).
+es:
+  message: Este viejo pirata tiene razón, el agua de la ciudad tiene un gusto
+    raro. Además se debe poder mejorar, el castillo de agua está situado en las
+    montañas, al Norte (mira en tu holomapa).
+it:
+  message: Il vecchio pirata ha ragione, l'acqua ha un sapore strano. Dovrebbe
+    essere possibile migliorarlo, il serbatoio dell'acqua si trova nelle
+    montagne, a nord (guarda sulla tua holomap).

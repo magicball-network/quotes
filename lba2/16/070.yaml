@@ -1,4 +1,21 @@
+textId: 210
 location:
 speaker:
 message: But... it's... Twinsen! Yo, Twinsen! It's me, Joe the Elf! Your old
   friend! Good to see you again!!!
+fr:
+  message: Mais... c'est... Twinsen !!! Hey Twinsen ! C'est moi, Joe le lutin !
+    Ton vieil ami !! Comme je suis content de te retrouver !!!
+de:
+  message:
+    Aber das ist ja ... Twinsen!!! He, Twinsen! Ich bin's, Joe, der Kobold!
+    Dein alter Freund! Toll, dich wiederzusehen!!!
+es:
+  message: ¡¡Pero si es Twinsen !! ¡Hey Twinsen! ¡Soy yo, Joe el duende! ¡¡Tu
+    amigo!! ¡¡Qué contento estoy de volver a verte!!
+it:
+  message: Ma ... è ... Twinsen !!! Ehi, Twinsen ! Sono io, il folletto Joe ! Il
+    tuo vecchio amico !! Come sono contento di ritrovarti !!!
+pt:
+  message: Mas... é... Twinsen !!! Ei Twinsen ! sou eu, Joe, o travesso ! Seu
+    velho amigo !! Como é bom te encontrar!!!

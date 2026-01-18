@@ -1,5 +1,29 @@
+textId: 740
 location:
 speaker:
 message: You've seen the visitors. They are Esmers. Supposedly, they're
   peaceloving and just want to trade us their technology for some of the wisdom
   of our wizards.
+fr:
+  message: Vous avez vu les visiteurs. Ce sont des Esmers. Il paraît qu'ils sont
+    pacifiques et qu'ils viennent pour nous transmettre leur connaissances
+    technologiques, en échange du savoir de nos mages.
+de:
+  message: Sie haben doch die Besucher gesehen. Das sind Esmerier. Sie sollen in
+    friedlicher Absicht gekommen sein, um uns ihr technisches Wissen im Tausch
+    gegen das Wissen unserer Magier anzubieten.
+es:
+  message:
+    Ya habrá visto a los visitante. Son esmeres. Al parecer son pacíficos y
+    vienen a transmitirnos sus conocimientos técnicos a cambio del saber de
+    nuestros magos.
+it:
+  message:
+    Ha visto i visitatori ? Sono degli Esmers. Sembra che siano pacifici e
+    che siano venuti per trasmetterci le loro conoscenze tecnologiche, in cambio
+    del sapere dei nostri maghi.
+pt:
+  message:
+    Você viu os visitantes. S╞o Esmers. Parece que s╞o pacíficos e que vêm
+    para nos transmitir seus conhecimentos tecnológicos, em troca da sabedoria
+    de nossos Magos.

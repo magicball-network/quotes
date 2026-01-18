@@ -1,3 +1,12 @@
+textId: 16
 location:
 speaker:
 message: Thank you for saving this village, brave stranger Twinsen.
+fr:
+  message: Merci d'avoir sauvé ce village, noble étranger Twinsen.
+de:
+  message: Danke dafür daß Du dieses Dorf gerettet hast, ehrenwerter Fremdling Twinsen.
+es:
+  message: Gracias por haber salvado este pueblo, noble extranjero Twinsen.
+it:
+  message: Grazie per aver salvato questo villaggio, nobile straniero Twinsen.

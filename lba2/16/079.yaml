@@ -1,3 +1,14 @@
+textId: 233
 location:
 speaker:
 message: No!! Don't touch that!!
+fr:
+  message: Non !! Ne touchez pas à ça !!
+de:
+  message: Nein! Nicht anfassen!
+es:
+  message: ¡¡No!! ¡¡No toque eso!!
+it:
+  message: No !! Non si tocca !!
+pt:
+  message: N╞o !! N╞o toque nisso !!

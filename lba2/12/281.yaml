@@ -1,3 +1,15 @@
+textId: 314
 location:
 speaker:
 message: Bravo sir, you won these magnificent balloons!!!
+fr:
+  message: Bravo Monsieur, vous gagnez ces magnifiques ballons !!!
+de:
+  message: Felicitacióne! Sie haben gewonnen großartige Ballons!!! Bravo, Amigo
+    caro, Bravo! Bravo!
+es:
+  message: ¡¡Bravo señor, ha ganado usted estos magníficos globos!!
+it:
+  message: Bravo Signore, ha vinto questi splendidi palloni !!!
+pt:
+  message: Parabéns Senhor, você ganhou esses lindos balΣes!!!

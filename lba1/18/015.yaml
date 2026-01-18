@@ -1,5 +1,24 @@
+textId: 14
 location:
 speaker:
 message: Thanks to you, we are now in contact with the Northern hemisphere. And
   I've received some information about that black-market city, Funky-Town. You
   will surely find some information over there!
+fr:
+  message:
+    "Grâce à toi nous avons maintenant des contacts avec l'hémisphère Nord.
+    Et j'ai entendu parler de cette ville de trafics : Funky-Town. Tu peux
+    sûrement trouver des informations là-bas !"
+de:
+  message: "Dank Deiner Hilfe haben wir nun Kontakte zur Nord-Halbkugel. Und ich
+    habe von der Schieberstadt gehört : Funky-Town. Du kannst dort sicher
+    Informationen finden !"
+es:
+  message: "Gracias a ti tenemos ahora contacto con el hemisferio Norte. He
+    escuchado hablar de esta ciudad de tráficantes: Funky-Town. Seguro que
+    podrás encontrar informaciones allí abajo!"
+it:
+  message:
+    "Grazie a te adesso abbiamo un contatto con l'emisfero settentrionale.
+    Ho sentito parlare di questa città di traffici: Funky-Town. Là sicuramente
+    troverai informazioni utili!"

@@ -1,4 +1,26 @@
+textId: 581
 location:
 speaker:
 message: Thanks again for your help, Twinsen. These maps begin to make sense.
   You should look at them, they talk of things that would interest you.
+fr:
+  message: Encore merci pour ton aide Twinsen. Ces plans commencent à être
+    compréhensibles. Tu devrais les regarder, ils parlent de choses qui
+    t'intéresseront sûrement.
+de:
+  message:
+    Noch einmal Danke für Deine Hilfe, Twinsen. Diese Pläne werden langsam
+    verständlich. Du solltest sie dir ansehen, es geht um Dinge, die dich sicher
+    interessieren werden.
+es:
+  message: Gracias de nuevo por tu ayuda, Twinsen. Estos planos empiezan a ser
+    comprensibles, Deberías echarles una ojeada, hablan de cosas que sin duda te
+    interesarán.
+it:
+  message: Ancora grazie per il tuo aiuto Twinsen. Queste mappe cominciano ad
+    essere comprensibili. Dovresti darci un'occhiata, contengono cose che ti
+    interesseranno sicuramente.
+pt:
+  message: Mais uma vez obrigado pela sua ajuda Twinsen. Estas plantas começam a
+    ficar legíveis. Você deveria vê-las, elas tratam de assuntos que te
+    interessam.

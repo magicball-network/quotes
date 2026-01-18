@@ -1,4 +1,22 @@
+textId: 367
 location:
 speaker:
 message: I don't know where he might be, but I've always liked him, that Raph.
   Once he even had me over to the lighthouse. The view was impressive!
+fr:
+  message: Je ne sais pas où il est, mais il est gentil le gardien. Une fois il
+    m'a même fait visiter le phare. Tu sais, on voit très bien de là-haut.
+de:
+  message: Keine Ahnung, wo er ist. Aber nett ist er, der Wärter. Einmal durfte
+    ich sogar mit auf den Leuchtturm. Von dort aus hat man wirklich eine tolle
+    Aussicht.
+es:
+  message:
+    No sé dónde está, pero el guardián es muy bueno. Una vez, hasta me dejó
+    visitar el faro. No sabes lo bien que se ve desde ahí arriba.
+it:
+  message: Non so dov'è, ma è gentile il guardiano . Una volta mi ha anche fatto
+    visitare il faro. Sai, si vede proprio bene da lassù.
+pt:
+  message: Eu n╞o sei onde ele está, mas o guardi╞o é um cara legal. Uma vez ele
+    me deixou visitar o farol. Você sabe, a vista lá de cima é muito boa.

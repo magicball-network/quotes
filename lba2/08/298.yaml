@@ -1,3 +1,14 @@
+textId: 275
 location:
 speaker:
 message: Not again. What do you want from me now, Mr. Twinsen?
+fr:
+  message: Allons bon. Que me voulez-vous encore monsieur Twinsen ?
+de:
+  message: Na gut, was wollen Sie noch von mir, Herr Twinsen?
+es:
+  message: Bueno, bueno ¿Y qué quiere ahora de mí, señor Twinsen?
+it:
+  message: Andiamo, signor Twinsen... cosa vuole ancora da me ?
+pt:
+  message: Agora chega. O que mais você quer de mim, senhor Twinsen ?

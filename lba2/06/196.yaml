@@ -1,3 +1,14 @@
+textId: 530
 location:
 speaker:
 message: Emerald Moon.
+fr:
+  message: Lune d'Emeraude.
+de:
+  message: Smaragd-Mond
+es:
+  message: Luna de Esmeralda.
+it:
+  message: Luna di Smeraldo
+pt:
+  message: Lua de Esmeralda.

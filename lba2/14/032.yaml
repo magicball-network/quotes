@@ -1,3 +1,14 @@
+textId: 525
 location:
 speaker:
 message: We've to get out of here!!
+fr:
+  message: Il faut absolument sortir d'ici !!
+de:
+  message: Wir müssen hier unbedingt raus!
+es:
+  message: ¡¡Tenemos que salir de aquí a toda costa!!
+it:
+  message: Bisogna assolutamente uscire da qui !!
+pt:
+  message: Precisamos sair daqui de qualquer maneira !!

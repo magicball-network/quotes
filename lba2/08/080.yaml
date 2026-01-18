@@ -1,3 +1,14 @@
+textId: 507
 location:
 speaker:
 message: Hi Felix.
+fr:
+  message: Salut Félix.
+de:
+  message: Hallo, Felix.
+es:
+  message: Hola Félix.
+it:
+  message: Ciao Felix.
+pt:
+  message: Olá, Félix.

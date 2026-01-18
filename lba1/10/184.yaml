@@ -1,3 +1,12 @@
+textId: 201
 location:
 speaker:
 message: I don't know where they are, kind sir.
+fr:
+  message: J'ignore où ils sont cher monsieur.
+de:
+  message: Ich weiß nicht wo sie sind lieber Herr.
+es:
+  message: Ignoro donde están, estimado señor.
+it:
+  message: Non so dove sono, caro signore.

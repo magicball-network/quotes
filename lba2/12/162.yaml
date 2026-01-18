@@ -1,5 +1,27 @@
+textId: 625
 location:
 speaker:
 message: No. Twinsen, only you can save them. But before you confront the
   Esmers, you will have to reinforce your powers. And only the Ball of Sendell
   can accomplish this.
+fr:
+  message: Non Twinsen, je ne peux rien faire. Toi seul peut les sauver. Mais il
+    te faudra renforcer tes pouvoirs pour affronter les Esmers. Seule la boule
+    de Sendell pourra te les donner.
+de:
+  message: Nein, Twinsen, ich kann nichts dagegen tun. Nur du kannst sie retten.
+    Aber du mußt deine Macht vergrößern, bevor du dich gegen die Esmerier
+    stellst. Diese Macht erhältst du nur durch die Kugel von Sendell.
+es:
+  message: No, Twinsen, no puedo hacer nada. Sólo tú puedes salvarlos. Pero
+    tendrás que reforzar tus poderes para poder hacer frente a los esmeres. La
+    bola de Sendell es la única que podrá proporcionártelos.
+it:
+  message: No, Twinsen, non posso fare niente. Solo tu puoi salvarli. Ma dovrai
+    rinforzare i tuoi poteri per affrontare gli Esmers. Solo la sfera di Sendell
+    potrà conferirteli.
+pt:
+  message:
+    N╞o, Twinsen, eu n╞o posso fazer nada. Apenas você pode salvá-los. Mas
+    você precisa reforçar seus poderes para enfrentar os Esmers. Para isso você
+    precisa da Bola de Sendell.

@@ -1,4 +1,24 @@
+textId: 8
 location:
 speaker:
 message: I'm sorry that the healer Ker'aooc is away. When he'll be back is
   anyone's guess. If it's an emergency, try the School of Magic.
+fr:
+  message: Je suis navrée le guérisseur Ker'aooc est absent et je ne sais pas
+    quand il va revenir. En cas d'urgence essayez d'aller à l'Ecole de Magie.
+de:
+  message:
+    Es tut mir wirklich leid, der Heilmagier Ker'aooc ist verreist, und ich
+    weiß nicht, wann er zurückkommt. Versuchen Sie es mal bei der Zauberschule,
+    wenn es dringend ist.
+es:
+  message: Lo lamento mucho, el curandero Ker'aooc está ausente y no sé cuándo
+    regresará. En caso de urgencia intente ir a la Escuela de Magia..
+it:
+  message:
+    Spiacente, il guaritore Ker'aooc è assente e non so quando tornerà. Se
+    è un caso urgente provi ad andare alla Scuola di Magia.
+pt:
+  message:
+    Eu sinto muito, o Curador Ker'aooc n╞o está e eu n╞o sei quando ele vai
+    voltar. Se for urgente tente ir à Escola de Magia.

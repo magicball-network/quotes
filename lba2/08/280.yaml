@@ -1,3 +1,15 @@
+textId: 237
 location:
 speaker:
 message: Well, I am certain he is not in the sewers, I would have seen him.
+fr:
+  message: Ah ça, je suis sûr qu'il n'est pas dans les égouts, je l'aurais vu.
+de:
+  message: Da bin ich mir ganz sicher, daß das nicht in der Kanalisation sein
+    kann, das hätte ich gesehen.
+es:
+  message: De eso sí que estoy seguro, no está en las cloacas, lo habría visto
+it:
+  message: Ah, sono sicuro che non è nelle fognature, lo avrei visto.
+pt:
+  message: Bem, tenho certeza de que n╞o está nos esgotos, eu o teria visto.

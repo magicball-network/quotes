@@ -1,3 +1,14 @@
+textId: 501
 location:
 speaker:
 message: Saw nothing, heard nothing. Now, beat it.
+fr:
+  message: Moi j'ai rien vu, rien entendu. Allez voir ailleurs !
+de:
+  message: Ich habe nichts gehört und nichts gesehen. Fragen Sie doch einen anderen!
+es:
+  message: ¡Yo no he visto ni oído nada! Pregunte en otro sitio
+it:
+  message: Io non ho visto niente. Vada a vedere altrove !
+pt:
+  message: N╞o vi nada, nem ouvi nada. Tente outro lugar !

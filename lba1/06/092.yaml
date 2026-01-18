@@ -1,5 +1,22 @@
+textId: 227
 location:
 speaker:
 message: |-
   Proxim-City
   (Proxima Island)
+fr:
+  message: |-
+    Proxim-City
+    (Ile Proxima)
+de:
+  message: |-
+    Proxim-City
+    (Insel Proxima)
+es:
+  message: |-
+    Proxim-City
+    (Isla Próxima)
+it:
+  message: |-
+    Proxim-City
+    (Isola Proxima)

@@ -1,3 +1,14 @@
+textId: 48
 location:
 speaker:
 message: Howdy kiddo! How goes it?
+fr:
+  message: Salut p'tite couette ! Ça roule ?
+de:
+  message: Hallo, Kleiner! Na, wie geht's denn so?
+es:
+  message: ¡Hola colita linda! ¿Todo en orden?
+it:
+  message: Ciao codino mio ! Tutto ok ?
+pt:
+  message: Olá gatinho ! Tudo em cima ?

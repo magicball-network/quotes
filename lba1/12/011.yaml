@@ -1,5 +1,24 @@
+textId: 11
 location:
 speaker:
 message: Thanks for opening the grotto. My name is Joe the Elf. I was locked up
   here because I wasn't meant to be in the story, there might have been some
   bugs in the game!
+fr:
+  message: Merci d'avoir ouvert la grotte. Je suis Joe-le-Lutin, on m'a enfermé
+    ici parce que je n'étais pas prévu au scénario, cela aurait pu provoquer des
+    bugs.
+de:
+  message:
+    Danke dafür, daß Du die Höle geöffnet hast. Ich bin Joe-der-Kobold, man
+    hat mich hier eingesperrt, weil ich nicht im Szenario vorgesehen war, das
+    hätte Bugs zur Folge haben können.
+es:
+  message: Gracias por haber abierto la gruta. Yo soy Joe-el-Duende, y me han
+    encerrado aquí porque no estaba previsto en esta historia, hubiera podido
+    provocar un bug.
+it:
+  message:
+    Grazie per aver aperto la grotta. Sono Joe il Folletto, mi hanno chiuso
+    qui perché non ero previsto nella sceneggiatura, avrei potuto provocare dei
+    bug.

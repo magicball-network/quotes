@@ -1,3 +1,20 @@
+textId: 372
 location:
 speaker:
 message: H'lo, Mr. Twinsen. I'm being punished 'cause I ate a whole box of chalk.
+fr:
+  message:
+    Salut m'sieur Twinsen. J'suis puni parce que j'ai mangé toute une boîte
+    de craies.
+de:
+  message: Hallo, Herr Twinsen. Die haben mich bestraft, weil ich 'ne ganze
+    Schachtel Kreide gegessen habe.
+es:
+  message: Hola señor. Toy castigao porque me he zampao una caja entera de tizas.
+it:
+  message: Buongiorno Signor Twinsen ! Sono stato punito perchè ho mangiato una
+    scatola intera di gessi.
+pt:
+  message:
+    Olá, senhor Twinsen. Eu estou de castigo porque comi uma caixa inteira
+    de giz.

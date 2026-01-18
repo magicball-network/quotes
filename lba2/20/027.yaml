@@ -1,3 +1,14 @@
+textId: 504
 location:
 speaker:
 message: Dinner is served!
+fr:
+  message: A table !
+de:
+  message: Das Essen ist fertig!
+es:
+  message: ¡A la mesa!
+it:
+  message: A tavola !
+pt:
+  message: Na mesa !

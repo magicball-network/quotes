@@ -1,3 +1,16 @@
+textId: 750
 location:
 speaker:
 message: Oh! Hello Mr. Twinsen! What an honor to see you here.
+fr:
+  message: Oh ! Bonjour monsieur Twinsen ! Quel honneur de vous voir ici.
+de:
+  message:
+    Oh! Guten Tag, Herr Twinsen! Welch eine Ehre, daß Sie uns einen Besuch
+    abstatten!
+es:
+  message: ¡Oh! Buenos días, señor Twinsen! Es un honor verlo por aquí.
+it:
+  message: Oh ! Buongiorno signor Twinsen ! Che onore vederla qui.
+pt:
+  message: Oh! Bom dia, senhor Twinsen ! Que honra vê-lo aqui.

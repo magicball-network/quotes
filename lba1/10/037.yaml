@@ -1,3 +1,4 @@
+textId: 37
 location:
 speaker:
 message: "This young girl must be someone important if that tyrant FunFrock is
@@ -7,3 +8,38 @@ message: "This young girl must be someone important if that tyrant FunFrock is
   your friend again. If you need to leave the island, I know a friend who can
   help you at Port-Belooga (check your holomap). Tell him that I sent you. And
   be discreet in your quest."
+fr:
+  message: "Cette jeune fille doit être importante pour que ce tyran de FunFrock
+    la détienne en-dehors de l'île de la Citadelle. De plus, il mijote quelque
+    chose en interdisant toute allusion à la Légende : c'est sûrement une faille
+    dans son pouvoir ! Découvre ce que cache cette Légende, c'est ton seul
+    espoir de retrouver ton amie. Si tu as besoin de quitter l'île, j'ai un
+    allié qui peut t'aider à Port-Bélooga (regarde sur ton holomap). Dis-lui
+    juste que tu viens de ma part. Et sois discret dans ta quête."
+de:
+  message: "Dies junge Mädchen muß sehr wichtig für ihn sein, da der Tyrann
+    FunFrock sie außerhalb der Zitadelleninsel gefangen hält. Außerdem führt er
+    etwas im Schilde, da er jegliche Anspielung auf die Legende verbietet : das
+    ist gewiß ein Schwachpunkt innerhalb seiner Macht ! Stelle fest was sich
+    hinter dieser Legende verbirgt, dies ist Deine einzige Hoffnung Deine
+    Freundin wiederzufinden. Falls Du die Insel verlassen mußt, hab' ich einen
+    Verbündeten, der Dir im Hafen von Bélooga helfen kann (schau auf Dein
+    Holomap), sag ihm nur, daß ich Dich schicke. Und bleibe während Deiner Suche
+    unauffällig."
+es:
+  message: "Esa joven debe ser importante para que ese tirano de FunFrock la
+    retenga fuera de la isla de la Ciudadela. Además, está tramando algo al
+    prohibir toda alusión a la Leyenda: ¡Constituye seguramente una debilidad en
+    su poder! Descubre lo que oculta esta Leyenda, es tu única esperanza para
+    encontrar a tu amiga. Si necesitas salir de la isla, tengo un aliado que
+    puede ayudarte en Puerto-Belooga (mira tu holomapa), Dile solamente que
+    vienes de mi parte. Y sé discreto en tus investigaciones."
+it:
+  message: Se quel tiranno di FunFrock ha deciso di imprigionarla al di fuori
+    dell'isola della cittadella, quella ragazza deve essere importante.
+    Oltretutto, sta tramando qualcosa proibendo qualsiasi cenno alla Leggenda.
+    Il suo potere comincia a vacillare. Scopri cosa nasconde la Leggenda, è la
+    tua sola speranza di ritrovare la tua amica. Se hai bisogno di lasciare
+    l'Isola, ho un amico che ti può aiutare a Porto Beluga (guarda sulla tua
+    holomap). Digli che ti mando io. E cerca di essere discreto nella tua
+    ricerca.

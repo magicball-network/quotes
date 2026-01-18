@@ -1,4 +1,22 @@
+textId: 28
 location:
 speaker:
 message: Hmm...er... don't mention it please, it's only... well just a kind of a
   small personal experiment.
+fr:
+  message:
+    Hum...heu... n'en parlez pas s'il vous plaît, c'est juste une... enfin
+    une sorte de petite expérience personnelle.
+de:
+  message:
+    Äh ...hehehe ... bitte, erzählen Sie niemandem davon, das ist bloß ein
+    ... na ja, ein kleines, ganz privates Experiment.
+es:
+  message: Ahhh... ehhh.... no diga nada, se lo ruego. sólo es un... bueno, una
+    especie de pequeña experiencia personal.
+it:
+  message: Uhm ...ehm ...non ne parli, per favore, è solo una ... insomma una
+    specie di piccola esperienza personale.
+pt:
+  message: Hum ... bem ... prefiro n╞o falar nisso, é apenas uma... enfim uma
+    pequena experiência pessoal.

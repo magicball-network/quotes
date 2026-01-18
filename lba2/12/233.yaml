@@ -1,3 +1,14 @@
+textId: 306
 location:
 speaker:
 message: For 15 Kashes, you can get recharged in Life points.
+fr:
+  message: Pour 15 Kashes, tu peux te recharger en points de vie.
+de:
+  message: Für 15 Kashes kannst du deinen Vorrat an Lebenspunkten auffüllen.
+es:
+  message: Por 15 Kashes, puedes recargarte con puntos de vida
+it:
+  message: Per 15 Kashes, puoi ricaricarti in Punti di Vita.
+pt:
+  message: Por 15 Kashes, você pode recarregar seus pontos de vida.

@@ -1,3 +1,12 @@
+textId: 245
 location:
 speaker:
 message: Ewwwww! Teleportation makes me nauseous.
+fr:
+  message: Beuuhhh ! Ca donne la nausée la téléportation.
+de:
+  message: Pouaah ! Vom Biemen wird einem richtig übel.
+es:
+  message: Beuuhhh! Da náuseas la teleportación.
+it:
+  message: Buuhhh ! Il teletrasporto fa venire la nausea!

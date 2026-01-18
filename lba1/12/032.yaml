@@ -1,3 +1,15 @@
+textId: 69
 location:
 speaker:
 message: Then you should go visit the Maritime museum on Proxima island.
+fr:
+  message: Alors tu devrais visiter le musée de la Marine, c'est sur l'île Proxima.
+de:
+  message: Dann solltest Du das Marinemuseum besuchen, das befindet sich auf der
+    Insel Proxima.
+es:
+  message:
+    Entonces tu deberías visitar el Museo de la Marina, que está en la isla
+    Próxima.
+it:
+  message: Allora devi visitare il museo della Marina, è sull'Isola Proxima.

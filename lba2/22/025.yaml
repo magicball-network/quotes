@@ -1,5 +1,28 @@
+textId: 615
 location:
 speaker:
 message: On guard! The Emperor's soldiers!! They're attacking!! There all over
   us!! Your Majesty, we can't hold them, they're already in the village, we must
   retreat!! You must leave now or be captured.
+fr:
+  message:
+    Alerte ! Les soldats de l'Empereur !! Ils arrivent ! Ils nous attaquent
+    !! Majesté, ils sont déjà dans le village, il faut fuir !!! Vous devez
+    partir maintenant, sinon ils vous captureront !!!
+de:
+  message: Alarm! Die Soldaten des Kaisers kommen! Sie greifen an! Sie sind
+    bereits im Dorf, Majestät, wir müssen fliehen! Vor allem Ihr müßt fliehen,
+    sonst nehmen sie Euch gefangen!!!
+es:
+  message:
+    ¡Alerta! ¡¡Los soldados del emperador!! ¡Están llegando! ¡¡Nos atacan!!
+    ¡¡¡Majestad, ya están en el pueblo, hay que huir!!! ¡¡¡Ahora debéis iros o
+    de lo contrario os capturarán!!!
+it:
+  message: All'erta ! I soldati dell'imperatore !! Arrivano ! Ci attaccano !!
+    Maestà, sono già in paese, dobbiamo scappare !!! Deve partire adesso,
+    altrimenti la cattureranno !!!
+pt:
+  message: Alerta ! Os soldados do Imperador !! Eles est╞o chegando! Est╞o nos
+    atacando !! Majestade, eles já est╞o na vila, temos que fugir !!! Você deve
+    partir agora, sen╞o eles v╞o te pegar !!!

@@ -1,4 +1,21 @@
+textId: 187
 location:
 speaker:
 message: If you still want to take the ferry, I can sell you some tickets for
   only 5 kashes each. I print them up myself.
+fr:
+  message:
+    "Si tu as encore envie de prendre le ferry, je te propose des tickets à
+    seulement 5 kashes : je les imprimes moi-même."
+de:
+  message:
+    "Falls Du noch die Fähre nehmen möchtest, biete ich Dir Fahrscheine für
+    nur 5 Kashes an : ich drucke sie eigenhändig."
+es:
+  message:
+    "Si todavía tienes ganas de tomar el ferry te ofrezco billetes a sólo 5
+    kashes: los imprimo yo mismo."
+it:
+  message:
+    "Se hai ancora voglia di prendere il traghetto, ti propongo biglietti a
+    soli 5 Kash: li stampo io stesso."

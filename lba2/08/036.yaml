@@ -1,3 +1,14 @@
+textId: 342
 location:
 speaker:
 message: '"Lighthouse at the end of the island."'
+fr:
+  message: '" Phare du bout de l''île. "'
+de:
+  message: '"Leuchtturm am Ende der Insel."'
+es:
+  message: '"Faro de la punta de la isla"'
+it:
+  message: '"Faro della punta dell''isola"'
+pt:
+  message: '" Farol no extremo da Ilha. "'

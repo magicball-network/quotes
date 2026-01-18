@@ -1,3 +1,12 @@
+textId: 231
 location:
 speaker:
 message: Ask the rabbibunny with the yellow T-shirt, he's the librarian.
+fr:
+  message: Demandez au lapichon avec le T-shirt jaune, c'est lui le bibliothécaire.
+de:
+  message: Fragen Sie den Haasi mit dem gelben T-Shirt, das ist der Bibliothekar.
+es:
+  message: Pregúntele al conejuno que tiene la camiseta amarilla, es el bibliotecario.
+it:
+  message: Chieda al lapinoide con la maglietta gialla, è lui il bibliotecario.

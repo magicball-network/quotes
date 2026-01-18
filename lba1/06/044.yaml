@@ -1,3 +1,12 @@
+textId: 114
 location:
 speaker:
 message: Meca-Penguin. Red clones just hate this stupid toy.
+fr:
+  message: Méca-Pingouin. Les clones rouges détestent ce jouet idiot.
+de:
+  message: Meca-Pinguin. Die roten Klone hassen dieses dumme Spielzeug.
+es:
+  message: Meca-Pingüino. Los clones rojos detestan este juguete idiota.
+it:
+  message: Robo-Pinguino. I cloni rossi odiano questo stupido giocattolo.

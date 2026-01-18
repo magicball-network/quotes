@@ -1,3 +1,14 @@
+textId: 508
 location:
 speaker:
 message: Hello Bob.
+fr:
+  message: Bonjour Bob.
+de:
+  message: Hallo, Bob.
+es:
+  message: Hola Bob.
+it:
+  message: Buongiorno Bob.
+pt:
+  message: Bom dia Bob.

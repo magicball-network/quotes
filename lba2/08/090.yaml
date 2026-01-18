@@ -1,3 +1,14 @@
+textId: 980
 location:
 speaker:
 message: No, not yet.
+fr:
+  message: Non, pas encore.
+de:
+  message: Nein, noch nicht.
+es:
+  message: No, todavía no.
+it:
+  message: No, non ancora.
+pt:
+  message: N╞o, ainda n╞o.

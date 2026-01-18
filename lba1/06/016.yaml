@@ -1,3 +1,12 @@
+textId: 15
 location:
 speaker:
 message: You've just replenished some of your gas supply.
+fr:
+  message: Tu viens de refaire une partie de tes réserves en carburant.
+de:
+  message: Du hast soeben einen Teil Deiner Kraftstoffreserven erneuert.
+es:
+  message: Acabas de recuperar una parte de tus reservas de combustible.
+it:
+  message: Hai appena fatto rifornimento di carburante.

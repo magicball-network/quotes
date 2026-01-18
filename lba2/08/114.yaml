@@ -1,4 +1,21 @@
+textId: 103
 location:
 speaker:
 message: By graduating from magic school, I've earned this horn that I can use
   to treat Dino-Fly.
+fr:
+  message: En passant les épreuves de l'école de magie, j'ai obtenu une conque
+    avec laquelle je vais soigner le Dino-Fly.
+de:
+  message: Ich habe die Prüfungen an der Zauberschule bestanden und eine Muschel
+    bekommen, mit der ich den Dinofly heilen werde.
+es:
+  message: Al superar las pruebas de la escuela de magia he conseguido una
+    caracola con la que voy a curar al Dino-Fly.
+it:
+  message: Superando gli esami della scuola di magia, ho ottenuto una conchiglia
+    che mi servirà per curare il Dino-Fly.
+pt:
+  message:
+    Fazendo as provas da Escola de Magia, consegui uma concha para curar o
+    Dino-Fly.

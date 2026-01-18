@@ -1,4 +1,21 @@
+textId: 128
 location:
 speaker:
 message: '"2:55 p.m., shuttle 65 38, destination planet Zirla for fly safari...
   3:20 p.m., shuttle 007, destination red planet..."'
+fr:
+  message: '"14 h 55, navette 65 38, destination planète Zirla pour
+    safari-mouche... 15 h 20 navette 007, destination planète rouge..."'
+de:
+  message: '"14.55 Uhr, Raumschiff 65 38, Ziel: Fliegensafari Planet Zirla ...
+    15.20 Uhr, Raumschiff 007, Ziel: Roter Planet ... "'
+es:
+  message: '"14 h. 55. nave espacial 65 38 con destino al planeta Zirla para
+    safari-omnibus, 15 h 20 nave espacial 007 con destino al planeta rojo..."'
+it:
+  message:
+    '"Ore14,55, navetta 65 38, destinazione pianeta Zirla per safari-mosca
+    ... ore 15,20 navetta 007, destinazione pianeta rosso ..."'
+pt:
+  message: '"14 h 55, nave 65 38, destino planeta Zirla para safári -... 15 h 20
+    nave 007, destino planeta vermelho..."'

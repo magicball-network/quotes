@@ -1,5 +1,22 @@
+textId: 223
 location:
 speaker:
 message: |-
   Mr. Mies Van der Rooh the architect's house. Bug street
   (Citadel island)
+fr:
+  message: |-
+    Maison de M. Mies Van der Rooh l'architecte. Rue du Scarabée
+    (Ile de la Citadelle)
+de:
+  message: |-
+    Haus des Herrn Mies Van der Rooh, der Architekt. Skarabäus Straße
+    (Zitadelleninsel)
+es:
+  message: |-
+    Casa del arquitecto Mies van der Rooh. Calle del Escarabajo
+    (Isla de la Ciudadela)
+it:
+  message: |-
+    Casa di M. Mies Van der Rooh l'architetto. Via dello Scarabeo
+    (Isola della Cittadella)

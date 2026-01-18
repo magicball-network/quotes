@@ -1,3 +1,14 @@
+textId: 22
 location:
 speaker:
 message: You're at the ferryman's lane.
+fr:
+  message: Vous êtes au chemin du passeur.
+de:
+  message: Sie stehen am Weg des Fährmanns.
+es:
+  message: Está usted en el camino del barquero.
+it:
+  message: Siete sulla strada del traghettatore.
+pt:
+  message: Você está no caminho do barqueiro.

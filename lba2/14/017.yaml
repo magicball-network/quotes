@@ -1,3 +1,14 @@
+textId: 761
 location:
 speaker:
 message: Right code.
+fr:
+  message: Code correct.
+de:
+  message: Code korrekt.
+es:
+  message: Código correcto.
+it:
+  message: Codice corretto.
+pt:
+  message: Senha correta.

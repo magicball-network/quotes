@@ -1,4 +1,20 @@
+textId: 225
 location:
 speaker:
 message: Good day, Master, but... is that you Twinsen? You look terrific as a
   wizard, congratulations.
+fr:
+  message:
+    Bonjour Maître, mais... Twinsen c'est toi ? Mais tu es superbe en mage,
+    félicitations.
+de:
+  message: Guten Tag Meister, aber ... Twinsen, bist du das? Du machst dich aber
+    gut als Magier, herzlichen Glückwunsch.
+es:
+  message: Buenos días Maestro, pero... ¿eres tú, Twinsen? Estás magnífico de
+    mago. Enhorabuena.
+it:
+  message: Buongiorno Maestro, ma ... Twinsen sei tu ? Sei proprio spendido in
+    versione mago, complimenti.
+pt:
+  message: Bom dia Mestre, mas... Twinsen é você? Você está demais como mago, parabéns.

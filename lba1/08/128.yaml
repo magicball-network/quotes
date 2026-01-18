@@ -1,3 +1,12 @@
+textId: 134
 location:
 speaker:
 message: Quiet!
+fr:
+  message: Silence !
+de:
+  message: Ruhe !
+es:
+  message: ¡Silencio!
+it:
+  message: Silenzio!

@@ -1,5 +1,22 @@
+textId: 225
 location:
 speaker:
 message: |-
   Library
   (Principal Island)
+fr:
+  message: |-
+    Bibliothèque
+    (Ile Principale)
+de:
+  message: |-
+    Bibliothek
+    (Hauptinsel)
+es:
+  message: |-
+    Biblioteca
+    (Isla Principal)
+it:
+  message: |-
+    Biblioteca
+    (Isola Principale)

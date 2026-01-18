@@ -1,4 +1,21 @@
+textId: 862
 location:
 speaker:
 message: All thanks to you. Without your help, Sendell and I would never have
   been able to push the moon back.
+fr:
+  message: C'est à vous qu'il faut dire merci. Sans votre aide, Sendell et moi
+    n'aurions jamais réussi à repousser la lune.
+de:
+  message:
+    Ich muß mich bei Ihnen bedanken. Ohne Ihre Hilfe hätten Sendell und ich
+    es niemals geschafft, den Mond zurückzudrängen.
+es:
+  message: Es a usted a quien hay que dar las gracias. Sin su ayuda Sendell y yo
+    jamás habríamos conseguido repeler la luna.
+it:
+  message: E' a lei che dobbiamo dire grazie. Senza il suo aiuto, Sendell ed io
+    non saremmo mai riusciti a respingere la luna.
+pt:
+  message: Eu tenho que te agradecer. Sem a sua ajuda, Sendell e eu n╞o jamais
+    teríamos conseguido empurrar a lua de volta.

@@ -1,3 +1,12 @@
+textId: 32
 location:
 speaker:
 message: I'm non-violent.
+fr:
+  message: Je suis non-violent.
+de:
+  message: Ich verzichte auf Gewalt.
+es:
+  message: Yo soy no-violento.
+it:
+  message: Io sono un non violento.

@@ -1,3 +1,14 @@
+textId: 61
 location:
 speaker:
 message: '"Learning also means completing old problems with new methods."'
+fr:
+  message: '" Apprendre c''est aussi repasser des épreuves avec de nouveaux moyens. "'
+de:
+  message: '"Lernen heißt auch, Prüfungen mit neuen Methoden zu bestehen."'
+es:
+  message: '" Aprender también es repasar las pruebas con medios nuevos."'
+it:
+  message: '" Imparare vuol dire anche ripassare delle prove con dei nuovi mezzi."'
+pt:
+  message: '" Aprender é também refazer as provas com novos conhecimentos. "'

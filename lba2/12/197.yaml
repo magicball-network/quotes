@@ -1,3 +1,14 @@
+textId: 211
 location:
 speaker:
 message: You pest!
+fr:
+  message: Agité !
+de:
+  message: Wahnsinniger!
+es:
+  message: ¡Salvaje!
+it:
+  message: Agitato !
+pt:
+  message: Preocupado!

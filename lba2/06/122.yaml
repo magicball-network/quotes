@@ -1,4 +1,21 @@
+textId: 211
 location:
 speaker:
 message: With this Wannie's glove, you can now touch the fire. This will allow
   you to throw back the fire balls that the monsters from the gas hurl at you.
+fr:
+  message: Avec ce gant de blafard, tu peux maintenant toucher le feu. Cela te
+    permettra de renvoyer les boules de feu lancées par les monstres du gaz.
+de:
+  message: Mit diesem Bleichlingshandschuh kannst du nun Feuer berühren. Dadurch
+    kannst du die Feuerkugeln zurückwerfen, mit denen dich die Gasmonster
+    bewerfen.
+es:
+  message: Con este guante de macilento, ahora puedes tocar el fuego. Eso te
+    permitirá devolver las bolas de fuego lanzadas por los monstruos de gas.
+it:
+  message: Con questo guanto di Pallido puoi toccare il fuoco e rilanciare le
+    bocce di fuoco che ricevi dai mostri del gas.
+pt:
+  message: Com essa luva de Blafard, você pode agora tocar no fogo. Com ela você
+    pode ainda jogar de volta as bolas de fogo lançadas pelos monstros do gás.

@@ -1,3 +1,4 @@
+textId: 50
 location:
 speaker:
 message: '"In the distant past, when the spheros, rabbibunnies, Quetches and
@@ -7,3 +8,40 @@ message: '"In the distant past, when the spheros, rabbibunnies, Quetches and
   how "the Heir," when his time had come, would be called to overthrow a
   tyrant! The secret of the Legend can still be learned somewhere in the White
   Leaf Desert."'
+fr:
+  message: '" En des temps reculés, alors que quatre espèces, bouboules,
+    lapichons, quetchs et grobos émergeaient de la boue originelle, des siècles
+    avant le coup d''état du Dr FunFrock, une prophétie fut énoncée. De nos jours
+    peu se souviennent encore de son texte exact, c''est pourquoi elle est connue
+    sous le nom de " Légende ". Tout ce qui a trait à cette Légende concerne
+    la mission de l''Héritier qui, le jour venu, sera appelé pour abattre un
+    tyran. Une source de savoir à propos de la Légende existe encore, au coeur
+    du Désert de la Feuille Blanche. "'
+de:
+  message: '" Vor ewigen Zeiten, als vier Arten namens Pummel, Haasis, Quetsche
+    und Dickos aus dem ursprünglichen Schlamm hervortraten, Jahrhunderte vor dem
+    Staatsstreich des Dr FunFrock, wurde eine Prophezeiung gemacht. Heute
+    erinnern sich nur noch wenige an ihren genauen Inhalt, deshalb ist sie unter
+    dem Namen " Legende " bekannt. Alles was im Zusammenhang mit dieser Legende
+    steht betrifft den Auftrag des Erben, der, sobald der Tag gekommen, berufen
+    wird einem Tyrann den Garaus zu machen. Es existiert in der Wüste des Leeren
+    Blattes noch eine Informationsquelle, die die Legende betrifft. "'
+es:
+  message:
+    '"En tiempos de antaño, cuando 4 especies, burbujos, conejunos, colines
+    y elefos emergían del lodo original, siglos antes del golpe de estado del
+    Dr. FunFrock, una profecía fue anunciada. Actualmente pocos son los que
+    recuerdan su texto original, por ello se le conoce con el nombre de la
+    "Leyenda". Todo lo que se relaciona a esta Leyenda se refiere a la misión
+    del Heredero que, llegado el día, será llamado a vencer a un tirano. Una
+    fuente de saber a propósito la Leyenda existe todavía en el corazón del
+    Desierto de la Hoja Blanca."'
+it:
+  message: '"In tempi remoti, quando le quattro specie, bobolli, lapinoidi,
+    quetch e grobo emersero dal brodo primordiale, secoli prima del colpo di
+    stato di FunFrock, venne pronunciata una profezia. Ai nostri giorni pochi
+    ricordano ancora il testo esatto, ecco perché essa viene chiamata
+    "Leggenda". La Leggenda parla della missione dell''Erede che, nel giorno
+    stabilito, verrà chiamato per abbattere un tiranno. Una fonte di conoscenza
+    relativa alla Leggenda esiste ancora nel mezzo del Deserto della Foglia
+    Bianca".'

@@ -1,6 +1,34 @@
+textId: 5
 location:
 speaker:
 message: Your reputation has hopped from island to island to reach me, Twinsen.
   You are the hero of this planet and you must know that the Esmers invite the
   wizards to come and study their planet of origin. Watch out, there's something
   fishy.
+fr:
+  message:
+    Ta réputation est passée d'île en île pour venir jusqu'à moi, Twinsen.
+    Tu es le héros de cette planète et tu dois savoir que les Esmers invitent
+    les mages à venir étudier leur planète d'origine. Reste sur tes gardes, cela
+    cache quelque chose.
+de:
+  message: Dein Ruf ist dir von Insel zu Insel bis hin zu mir vorausgeeilt. Du
+    bist unser aller Held und sollst wissen, daß die Esmerier die Magier
+    einladen, ihren Heimatplaneten kennenzulernen. Sei auf der Hut, dahinter
+    steckt irgend etwas.
+es:
+  message: Tu fama ha recorrido las islas para llegar hasta mí, Twinsen. Eres el
+    héroe de este planeta y has de saber que los esmeres están invitando a los
+    magos a ir a estudiar su planeta de origen. Estate alerta, ahí hay gato
+    encerrado.
+it:
+  message: La tua buona reputazione è conosciuta in tutte le isole ed è arrivata
+    fino a me, Twinsen. Sei l'eroe di questo pianeta ! Devi sapere che gli
+    Esmers invitano i maghi a venire a studiare il loro pianeta di origine. Stai
+    attento, c'è qualcosa di losco dietro a tutto questo.
+pt:
+  message:
+    Sua reputaç╞o correu de ilha em ilha até chegar a mim, Twinsen. Você é
+    o herói desse planeta e devo avisá-lo que os Esmers est╞o convidando os
+    magos para irem ao planeta de origem deles. Cuidado, tem algo por trás
+    disso.

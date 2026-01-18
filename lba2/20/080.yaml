@@ -1,4 +1,22 @@
+textId: 325
 location:
 speaker:
 message: Welcome to the Building Company, sir. If you're here to make a cash
   deposit, we can take care of it right away.
+fr:
+  message:
+    Bienvenue à la Building Company monsieur. Si vous venez pour déposer de
+    l'argent, nous pouvons nous en occuper tout de suite.
+de:
+  message: Willkommen bei der Building Company. Wenn Sie hier Geld einbezahlen
+    wollen, kümmern wir uns sofort darum.
+es:
+  message: Bienvenido a la Building Company señor. Si viene a depositar dinero,
+    podemos atenderlo inmediatamente
+it:
+  message:
+    Benvenuto alla Building Company signore. Se viene per un versamento di
+    denaro, possiamo occuparci di lei immediatamente.
+pt:
+  message: Bem-vindo à Building Company senhor. Se o senhor está aqui para
+    depositar dinheiro, podemos tratar disso imediatamente.

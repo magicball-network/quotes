@@ -1,4 +1,19 @@
+textId: 63
 location:
 speaker:
 message: If you already know about that passage, I can open the unguarded door
   for you. After you!
+fr:
+  message:
+    Si tu connais déjà ce passage je peux t'ouvrir le portail qui n'est pas
+    gardé. Passe devant !
+de:
+  message:
+    Wenn Du diesen Durchgang schon kennst, kann ich Dir das unbewachte Tor
+    öffnen. Geh vor !
+es:
+  message: Si ya conoces este pasaje, te puedo abrir el portalón que no está
+    custodiado. ¡Ve tú delante!
+it:
+  message: Se conosci già questo passaggio, posso aprirti il portone che non è
+    custodito. Vai avanti!

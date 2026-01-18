@@ -1,3 +1,12 @@
+textId: 15
 location:
 speaker:
 message: Hang in there Twinsen, your quest is almost over.
+fr:
+  message: Courage Twinsen, ta quête touche à sa fin.
+de:
+  message: Nur Mut Twinsen, Deine Suche ist bald vorbei.
+es:
+  message: Valor Twinsen, tu búsqueda llega a su fin.
+it:
+  message: Coraggio, Twinsen, la tua ricerca è quasi terminata.

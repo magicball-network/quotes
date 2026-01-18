@@ -1,3 +1,12 @@
+textId: 35
 location:
 speaker:
 message: Sold!
+fr:
+  message: J'achète !
+de:
+  message: Kauf' ich !
+es:
+  message: ¡Compro!
+it:
+  message: Va bene!

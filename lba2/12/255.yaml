@@ -1,3 +1,19 @@
+textId: 770
 location:
 speaker:
 message: This temple is absolutely extraordinary. I wonder what we'll see afterwards!?
+fr:
+  message: Ce temple est absolument extraordinaire. Je me demande ce que nous
+    allons voir après !?
+de:
+  message: Dieser Tempel ist einfach unglaublich. Ich frage mich, was wir als
+    Nächstes besichtigen werden!
+es:
+  message: Este templo es realmente extraordinario. ¡Me pregunto qué vamos a ver
+    después!
+it:
+  message: Questo tempio è assolutamente straordinario. Mi chiedo cosa andremo a
+    vedere dopo ?!
+pt:
+  message: Este Templo é absolutamente extraordinário. O que será que vamos ver
+    depois !?

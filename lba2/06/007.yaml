@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: Your neighbor just gave you a pyramid shaped key.
+fr:
+  message: Ton voisin vient de te remettre une clé en forme de pyramide.
+de:
+  message: Dein Nachbar hat dir gerade einen pyramidenförmigen Schlüssel gegeben.
+es:
+  message: Tu vecino acaba de entregrate una llave en forma piramidal.
+it:
+  message: Il tuo vicino ti ha dato una chiave a forma di piramide.
+pt:
+  message: Seu vizinho entregou para você uma chave em forma de pirâmide.

@@ -6,6 +6,7 @@ async function validate_json(filePattern) {
 	let allValid = true;
 	for (let file of files) {
 		try {
+			console.info(`Checking file ${file}`);
 			await jq.run(".", file);
 		} catch (e) {
 			console.error('Invalid JSON file "%s": %s', file, e.message);

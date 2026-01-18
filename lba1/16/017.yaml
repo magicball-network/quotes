@@ -1,3 +1,12 @@
+textId: 18
 location:
 speaker:
 message: You're now one of us, Twinsen.
+fr:
+  message: Maintenant tu es des nôtres Twinsen.
+de:
+  message: Jetzt gehörst Du zu uns Twinsen.
+es:
+  message: Ahora tú eres de los nuestros Twinsen.
+it:
+  message: Ora sei dei nostri, Twinsen.

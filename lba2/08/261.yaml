@@ -1,3 +1,14 @@
+textId: 207
 location:
 speaker:
 message: Three darts cost 4 Kashes.
+fr:
+  message: Trois fléchettes coûtent 4 Kashes.
+de:
+  message: Drei Pfeile kosten 4 Kashes.
+es:
+  message: Tres dardos cuestan 4 Kashes.
+it:
+  message: Tre freccette costano 4 Kashes.
+pt:
+  message: Três dardos custam 4 Kashes.

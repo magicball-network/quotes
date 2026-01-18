@@ -1,4 +1,24 @@
+textId: 536
 location:
 speaker:
 message: I read a message from the Weather Wizard. He needs a pearl of
   incandescence to finish his lightning spell. Where can I get one?
+fr:
+  message: J'ai lu un message laissé par le mage météo. Il a besoin d'une perle
+    d'incandescence pour terminer un sort de foudre. Où puis-je en trouver une ?
+de:
+  message: Ich habe eine Nachricht vom Wettermagier gelesen. Er braucht eine
+    Leuchtperle, um einen Blitzzauber fertigzustellen. Wo kann ich so eine Perle
+    finden?
+es:
+  message: He leído un mensaje que dejó el mago meteo. Necesita una perla de
+    incandescencia para terminar un hechizo de rayo. ¿Dónde la podré encontrar?
+it:
+  message:
+    Ho letto un messaggio lasciato dal mago metereologo. ha bisogno di una
+    perla d'incandescenza per terminare un sortilegio di fulmini. Dove posso
+    trovarne una ?
+pt:
+  message: Eu recebi uma mensagem do Mago do Tempo. Ele precisa de uma pérola
+    incandescente para terminar um feitiço de raio. Você sabe onde eu posso
+    encontrar uma ?

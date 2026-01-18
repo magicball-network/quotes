@@ -1,4 +1,19 @@
+textId: 42
 location:
 speaker:
 message: I've been trying to sell this hair dryer ever since I was on Principal
   island! Come on, I know you can use one for 30 Kashes.
+fr:
+  message: J'essaie de vendre des sèche-cheveux depuis l'île Principale ! Allez,
+    vous m'en prendrez bien un, pour 30 Kashes ?
+de:
+  message: Seit der Hauptinsel versuche ich Föne zu verkaufen ! Ach bitte, Sie
+    kaufen mir doch einen ab für 30 Kashes, nicht ?
+es:
+  message:
+    ¡Trato de vender secadores de pelo desde la isla Principal! Vamos, ¿va
+    a comprarme uno por 30 Kashes ?
+it:
+  message:
+    Sto cercando di vendere degli asciugacapelli, sull'isola Principale non
+    ci sono riuscito. Ne compra uno, a 30 Kash?

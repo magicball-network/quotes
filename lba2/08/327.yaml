@@ -1,4 +1,24 @@
+textId: 369
 location:
 speaker:
 message: Nice to see you, Twinsen ! This storm really chaps my hide. I just
   can't calm down... And you, don't forget that you can change your behavior.
+fr:
+  message:
+    Salut Twinsen ! Cet orage me tape sur le système. Je n'arrive pas à me
+    calmer... Et toi, n'oublie pas que tu peux changer de comportement.
+de:
+  message: Hallo, Twinsen! Der Sturm schlägt mir auf's Gemüt. Ich werde einfach
+    nicht mehr ruhig ... Ach übrigens, vergiß nicht, daß du dein Verhalten
+    ändern kannst.
+es:
+  message:
+    ¡Hola Twinsen! Esta tempestad me pone los nervios de punta. No consigo
+    tranquilizarme. Y tú no olvides que puede que te cambie el carácter.
+it:
+  message: Ciao Twinsen ! Questo temporale mi innervosisce. Non riesco a
+    calmarmi... E tu, non dimenticare che puoi cambiare comportamento.
+pt:
+  message:
+    Olá Twinsen ! Esta tempestade está me deixando zonzo. Eu n╞o consigo me
+    acalmar... E n╞o se esqueça que você pode mudar de comportamento.

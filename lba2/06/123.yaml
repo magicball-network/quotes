@@ -1,4 +1,25 @@
+textId: 212
 location:
 speaker:
 message: It was designed by Jerome Baldino. In order to fly above water, you
   must approach at a low angle. Otherwise, you will sink with your Proto-Pack.
+fr:
+  message: Il a été conçu par Jérôme Baldino. Pour parvenir à voler au-dessus de
+    l'eau, tu dois arriver par une pente douce. Sinon tu couleras avec ton
+    Proto-Pack.
+de:
+  message: "Erfinder: Jerome Baldino. Um über Wasser fliegen zu können, mußt du
+    von leicht abschüssigem Gelände aus starten. Ansonsten gehst du mit dem
+    ProtoPack unter."
+es:
+  message: Lo ha diseñado Jerónimo Baldino. Para conseguir volar por encima del
+    agua, tienes que llegar por una pendiente poco pronunciada. Si no te
+    hundirás con tu Proto-Pack.
+it:
+  message: E' stato ideato da Gerolamo Baldino. Per potere volare sopra l'acqua
+    devi arrivare in un terreno un po' in discesa. Altrimenti affonderai con il
+    tuo Proto-Pack.
+pt:
+  message: Foi feito por Jerônimo Baldino. Para conseguir voar sobre a água você
+    deve chegar até a água por uma encosta suave. Caso contrário você irá
+    afundar com o seu Proto-Pack.

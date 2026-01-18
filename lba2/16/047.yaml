@@ -1,3 +1,14 @@
+textId: 28
 location:
 speaker:
 message: I already have a crystal, so now I'll be able to use this laser pistol.
+fr:
+  message: J'ai déjà un cristal, je vais donc pouvoir utiliser ce pistoler.
+de:
+  message: Ich habe schon einen Kristall, also kann ich den PistoLaser verwenden.
+es:
+  message: Ya tengo un cristal, o sea que podré utilizar esta pistoláser
+it:
+  message: Ho già un cristallo, posso quindi utilizzare questa pistola.
+pt:
+  message: Eu já tenho um cristal, ent╞o posso usar essa pistola.

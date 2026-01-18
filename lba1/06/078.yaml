@@ -1,5 +1,22 @@
+textId: 213
 location:
 speaker:
 message: |-
   Forger's Cell
   (Principal island)
+fr:
+  message: |-
+    Cellule du faussaire
+    (Ile Principale)
+de:
+  message: |-
+    Zelle des Fälschers
+    (Hauptinsel)
+es:
+  message: |-
+    Celda del falsificador
+    (Isla Principal)
+it:
+  message: |-
+    Cella del falsario
+    (Isola Principale)

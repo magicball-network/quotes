@@ -1,3 +1,14 @@
+textId: 502
 location:
 speaker:
 message: Tent of the Weather Wizard.
+fr:
+  message: Tente du Mage Météo.
+de:
+  message: Zelt der Wettermagiers.
+es:
+  message: Tienda del Mago Meteo.
+it:
+  message: Tenda del Mago Metereologo.
+pt:
+  message: Tenda do Mago do Tempo.

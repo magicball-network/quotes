@@ -1,4 +1,24 @@
+textId: 275
 location:
 speaker:
 message: Island CX? You got to be kidding? Lots of guys tried to get there, but
   not one ever came back. I'd be surprised if you get someone to ferry you over.
+fr:
+  message: L'îlot CX ? Vous rigolez ? Pleins de gars ont bien essayé d'y aller,
+    mais y'en a pas un qu'est revenu. Je serais bien étonné que quelqu'un
+    accepte de vous y conduire !!
+de:
+  message: Das Eiland CX? Soll das ein Witz sein? Da haben schon viele versucht,
+    hinzufahren, aber nur einer ist je wieder zurückgekommen. Würde mich echt
+    überraschen, wenn Sie jemand da hinbringen würde!
+es:
+  message:
+    ¿El islote CX? ¿Me está tomando el pelo? Un montón de gente intentó ir
+    pero nadie regresó. ¡¡Me extrañaría que alguien quisiera llevarle!!
+it:
+  message: L'isolotto CX ? Sta scherzando ? Un sacco di gente ha cercato di
+    andare, ma nessuno è tornato. Sarei molto stupito che qualcuno accetti di
+    portarvi !!
+pt:
+  message: A Ilhota CX ? Você está brincando ? Muitos caras bem que tentaram ir
+    até lá, mas nenhum voltou. Me espantaria se alguém aceitasse te levar !!

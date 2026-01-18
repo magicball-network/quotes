@@ -1,3 +1,12 @@
+textId: 22
 location:
 speaker:
 message: To Brundle island.
+fr:
+  message: Sur l'île Brundle.
+de:
+  message: Auf die Insel Brundle.
+es:
+  message: A la isla Brundle.
+it:
+  message: Sull'Isola Brundle.

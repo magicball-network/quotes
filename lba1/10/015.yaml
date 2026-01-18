@@ -1,4 +1,20 @@
+textId: 14
 location:
 speaker:
 message: '"ANNOUNCEMENT #358-G : A prisoner named Twinsen has escaped from the
   Citadel. Anyone seeing the escapee must notify the nearest clone."'
+fr:
+  message:
+    '" ANNONCE N° 358-G : Un détenu du nom de Twinsen s''est échappé de la
+    Citadelle. Toute personne l''apercevant doit le dénoncer au clone le plus
+    proche. "'
+de:
+  message:
+    '" ANNONCE N° 358-G : Ein Häftling namens Twinsen ist aus der Zitadelle
+    entflohen. Jeder der ihn sieht, soll es dem nächsten Klonen melden. "'
+es:
+  message: '"ANUNCIO N° 358-G: Un detenido llamado Twinsen se ha escapado de la
+    Ciudadela. Toda persona que lo viera debe denunciarlo al clon más próximo."'
+it:
+  message: '" ANNUNCIO N° 358-G : Un detenuto chiamato Twinsen è fuggito dalla
+    Cittadella. Chiunque lo scopra deve denunciarlo al clone più vicino. "'

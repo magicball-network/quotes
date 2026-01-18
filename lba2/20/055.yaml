@@ -1,6 +1,37 @@
+textId: 552
 location:
 speaker:
 message: The Monk impatiently awaits the ceremony of the celebration. It's a
   major event for our entire population. It represents the end of the curse
   which lies heavily upon Zeelich. We shall at last resume the course of our
   lives on a hospitable planet, not in this forlorn place.
+fr:
+  message: Monsieur le Moine attend impatiemment la cérémonie de la célébration.
+    C'est un événement capital pour toute notre population. Il représente la fin
+    de la malédiction qui pèse sur Zeelich. On va enfin reprendre le cours de
+    nos vies, vieillir à nouveau et sur une planète hospitalière, pas cet
+    endroit désolé.
+de:
+  message: Der Mönch wartet schon ganz ungeduldig auf die Feier. Das wird ein
+    furchtbar wichtiges Ereignis für alle Völker von Zeelich. Es ist das Ende
+    des Fluchs, der auf Zeelich lastet. Endlich können wir unser normales Leben
+    wieder aufnehmen und wieder auf einem schönen Planeten statt an diesem
+    entsetzlichen Ort alt werden.
+es:
+  message: El señor Monje espera con impaciencia la ceremonia de la celebración.
+    Es un acontecimiento capital para toda nuestra población. Representa el fin
+    de la maldición que pesa sobre Zeelich. Por fin podremos retomar el curso de
+    nuestras vidas, envejecer de nuevo en un planeta acogedor y no en este
+    inhóspito lugar.
+it:
+  message:
+    Il Prete aspetta con impazienza la cerimonia della Celebrazione. E' un
+    evento capitale per tutta la nostra popolazione. Rappresenta la fine della
+    maledizione che pesa su Zeelich. Potremo finalmente riprendere il corso
+    delle nostre vite, invecchiare di nuovo su un pianeta ospitale invece che in
+    questa terra di desolazione.
+pt:
+  message: O senhor Frade espera impacientemente a cerimônia da celebraç╞o. É um
+    evento da maior importância para toda nossa populaç╞o. Representa o fim da
+    maldiç╞o que pesa sobre Zeelich. Finalmente vamos retomar o curso de nossas
+    vidas, envelhecer num planeta hospitaleiro, n╞o nesse lugar devastado.

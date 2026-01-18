@@ -1,4 +1,16 @@
+textId: 201
 location:
 speaker:
 message: Terrific!!! Thank you, Sendell. Without your help, I would have never
   succeeded!
+fr:
+  message: Formidable !!! Merci Sendell, sans ton aide, je n'y serais jamais arrivé !
+de:
+  message: Phantastisch! Danke, Sendell, ohne deine Hilfe hätte ich das nie im
+    Leben geschafft!
+es:
+  message: ¡¡¡Magnífico!!! !Gracias Sendell, sin tu ayuda nunca lo hubiera conseguido!
+it:
+  message: Fantastico !!! Grazie Sendell, senza il tuo aiuto non ci sarei mai arrivato !
+pt:
+  message: Puxa!!! Obrigado, Sendell, sem a sua ajuda, eu jamais teria conseguido !

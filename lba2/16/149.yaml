@@ -1,3 +1,14 @@
+textId: 335
 location:
 speaker:
 message: Hey get lost man!!
+fr:
+  message: Tire-toi !!
+de:
+  message: Verzieh' dich!
+es:
+  message: ¡¡Lárgate!!
+it:
+  message: Scappa !!
+pt:
+  message: Caia fora !!

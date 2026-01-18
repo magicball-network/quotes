@@ -1,3 +1,12 @@
+textId: 92
 location:
 speaker:
 message: Very good sir, wait here please.
+fr:
+  message: Très bien monsieur, restez-là je vous prie.
+de:
+  message: Sehr wohl der Herr, bitte bleiben Sie hier.
+es:
+  message: Muy bien señor, quédese allí por favor.
+it:
+  message: Molto bene, signore, resti lì, per favore.

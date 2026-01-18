@@ -1,4 +1,22 @@
+textId: 371
 location:
 speaker:
 message: Since the weather outside is horrible, the teacher said I could jump
   rope in the classroom. See?
+fr:
+  message:
+    Comme il fait trop mauvais pour sortir, la maîtresse elle a dit que je
+    pouvais sauter à la corde dans la classe.
+de:
+  message: Weil das Wetter zu schlecht ist, um rauszugehen, hat die Lehrerin
+    gesagt, daß ich im Klassenzimmer Seil springen darf.
+es:
+  message: Como hace muy mal tiempo, la maestra ha dicho que podía saltar a la
+    cuerda en clase.
+it:
+  message: Siccome il tempo è troppo cattivo per uscire, la maestra mi ha detto
+    che potevo saltare alla corda in classe.
+pt:
+  message:
+    Como o tempo está muito ruim, a professora me disse que eu podia pular
+    corda dentro da sala.

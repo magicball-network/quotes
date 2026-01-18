@@ -1,4 +1,23 @@
+textId: 30
 location:
 speaker:
 message: "You just received your wizard's diploma. Plus you just earned a new
   level of magic: Green Ball."
+fr:
+  message:
+    "Tu viens d'obtenir ton diplôme de mage. En plus, tu viens de gagner un
+    nouveau niveau de magie : balle verte."
+de:
+  message:
+    Du hast soeben dein Magierdiplom erhalten. Außerdem hast du damit eine
+    weitere Magiestufe erhalten, die Stufe des Grünen Balls.
+es:
+  message: "Acabas de conseguir tu diploma de mago, Además acabas de obtener un
+    nuevo nivel de magia: bola verde.."
+it:
+  message: "Hai ottenuto un diploma di mago. E hai vinto inoltre un' ulteriore
+    grado di magia : sfera verde."
+pt:
+  message:
+    "Você recebeu o diploma de mago. E passou para um novo nível de magia:
+    bola verde."

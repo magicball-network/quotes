@@ -1,4 +1,20 @@
+textId: 27
 location:
 speaker:
 message: Please, don't touch the container on the stove. OK? It contains a
   terrible creature!
+fr:
+  message: S'il vous plaît, vous ne touchez pas au récipient sur le réchaud.
+    D'accord ? Il renferme une créature terrible !
+de:
+  message: Bitte, berühren Sie den Behälter auf dem Herd nicht, ja? Da ist ein
+    ganz mieses Monster drin!
+es:
+  message: Por favor no toque el recipiente que está en el fuego ¿Vale? Contiene
+    una terrible criatura.
+it:
+  message: Per favore, non tocchi il recipiente che è sul fornello. D'accordo ?
+    Dentro è rinchiusa una creatura spaventosa.
+pt:
+  message: Por favor, n╞o toque no recipiente sobre no fogo. Está bem ? Dentro
+    dele tem uma criatura terrível !

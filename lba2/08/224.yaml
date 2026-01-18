@@ -1,4 +1,27 @@
+textId: 577
 location:
 speaker:
 message: The Esmers have forbidden all maritime service.. There is nobody left
   to hop from island to island anyway. They are too scared of the Esmers.
+fr:
+  message: Il n'y a plus de liaisons maritimes depuis que les Esmers les ont
+    interdites. De toute façon, il n'y a plus personne pour aller d'une île à
+    l'autre. Ils ont trop peur des Esmers.
+de:
+  message:
+    Es gibt keine Fährverbindung, seit die Esmerier sie verboten haben. Es
+    will ja sowieso keiner von einer Insel auf die andere, alle haben Angst vor
+    den Esmeriern.
+es:
+  message: No hay comunicaciones marítimas desde que los esmeres las han
+    prohibido. De todas formas ya nadie va de una isla a otra. Todo el mundo
+    teme a los esmeres..
+it:
+  message: Non ci sono più collegamenti marittimi da quando gli Esmers le hanno
+    proibite. In ogni caso, non c'è più nessuno per andare da un'isola
+    all'altra. Hanno troppa paura degli Esmers.
+pt:
+  message:
+    N╞o há mais transportes marítimos entre as ilhas desde que os Esmers os
+    interditaram. De qualquer modo ninguém mais quer ir de uma ilha para outra.
+    Eles est╞o com muito medo dos Esmers.

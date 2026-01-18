@@ -1,3 +1,12 @@
+textId: 24
 location:
 speaker:
 message: Impossible! Nobody gets out of the Citadel alive!
+fr:
+  message: Impossible ! Nul ne ressort vivant de la Citadelle !
+de:
+  message: Unmöglich ! Niemand verläßt die Zitadelle lebendig !
+es:
+  message: ¡Imposible! ¡Nadie sale vivo de la Ciudadela!
+it:
+  message: Impossibile! Non si esce vivi dalla Cittadella!

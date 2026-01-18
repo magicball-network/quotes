@@ -1,4 +1,22 @@
+textId: 108
 location:
 speaker:
 message: The visitors who come from the sky are weird. I heard them invite some
   wizards to their planet.
+fr:
+  message: Les visiteurs qui viennent du ciel sont bizarres. Je les ai entendus
+    inviter des mages sur leur planète.
+de:
+  message:
+    Diese Besucher aus dem All sind schon seltsam. Ich habe gehört, wie sie
+    Magier auf ihren Planeten eingeladen haben.
+es:
+  message: Los visitantes que vienen del cielo son raros. Les he oído que
+    invitaban a los magos a su planeta..
+it:
+  message:
+    I visitatori che vengono dal cielo sono strani. Li ho sentiti invitare
+    dei maghi sul loro pianeta.
+pt:
+  message: Os visitantes vindos do céu s╞o estranhos. Eu os ouvi convidarem os
+    magos para irem ao planeta deles.

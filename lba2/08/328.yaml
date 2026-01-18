@@ -1,4 +1,20 @@
+textId: 370
 location:
 speaker:
 message: Ah, he's disappeared?! Oh, well, I never really liked him! May the
   Tralü take him away!!
+fr:
+  message: Ah il a disparu ?! C'est bien fait, moi j'l'aimais pas !! Que l'Tralü
+    l'emporte !!
+de:
+  message: Er ist verschwunden?! Na prima, ich hab' ihn eh nie gemocht!
+    Hoffentlich hat ihn das Tralü erwischt!
+es:
+  message:
+    ¡¿Así que ha desaparecido?! ¡¡Bien hecho, no me gustaba nada!! ¡¡Que se
+    lo lleve el Tralu !!
+it:
+  message: Ah, è sparito ?! Tanto meglio, a me non piaceva !! Che vada al Tralu !!
+pt:
+  message: Ah, ele desapareceu ?! Bem feito, eu n╞o gostava dele !! Tomara que o
+    Tralu acabe com ele !!

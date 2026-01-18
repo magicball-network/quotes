@@ -1,3 +1,14 @@
+textId: 208
 location:
 speaker:
 message: Please come in, Master.
+fr:
+  message: Veuillez entrer, Maître.
+de:
+  message: Treten Sie doch ein, Meister.
+es:
+  message: Entre, por favor, maestro.
+it:
+  message: Entri, Maestro.
+pt:
+  message: Entre, Mestre.

@@ -1,4 +1,15 @@
+textId: 52
 location:
 speaker:
 message: Come in friend! We will look at them together because they are rather
   complicated.
+fr:
+  message: Entrez donc voisin, nous allons regarder cela ensemble car ils sont
+    très complexes.
+de:
+  message: Kommen Sie doch herein Nachbar, wir schauen uns das gemeinsam an, sie
+    sind ziemlich kompliziert.
+es:
+  message: Entre entonces, vecino, vamos a ver eso juntos, ya que es muy complejo.
+it:
+  message: Entri, vicino, le esamineremo insieme perché sono molto complesse.

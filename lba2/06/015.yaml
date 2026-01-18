@@ -1,4 +1,23 @@
+textId: 14
 location:
 speaker:
 message: You just acquired a superb Nitro-Meca-Penguin. Select it in the
   inventory and it'll explode a few seconds later.
+fr:
+  message: Tu viens de trouver un superbe Nitro-Méca-Pingouin. Après l'avoir
+    sélectionné dans l'inventaire, tu disposes de quelques secondes avant qu'il
+    n'explose.
+de:
+  message:
+    Du bist gerade auf einen genialen Nitro-Meca-Pinguin gestoßen. Wenn du
+    ihn im Inventar auswählst, hast du noch einige Sekunden lang Zeit, bevor er
+    explodiert.
+es:
+  message: Acabas de adquirir un estupendo Nitro-Meca-Pingoüino.
+it:
+  message: Hai guadagnato uno splendido Nitro-Robo-Pinguino. Dopo averlo
+    selezionato nell'inventario, hai solo qualche secondo prima che esploda.
+pt:
+  message:
+    Você adquiriu um magnífico Nitro-Méca-Pingüim. Depois de selecioná-lo a
+    partir da Listagem, você terá alguns segundos antes que ele exploda.

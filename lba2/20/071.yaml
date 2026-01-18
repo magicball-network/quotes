@@ -1,3 +1,14 @@
+textId: 617
 location:
 speaker:
 message: Don't stay here! Escape while you still can!
+fr:
+  message: Ne reste pas ici, échappe-toi !
+de:
+  message: Bleib' nicht hier, lauf schnell weg!
+es:
+  message: ¡No te quedes aquí, escapa!
+it:
+  message: Non restare qui, scappa !
+pt:
+  message: N╞o fique aqui, fuja!

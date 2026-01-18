@@ -1,6 +1,36 @@
+textId: 200
 location:
 speaker:
 message: The Holomap is a 3-D map system. You may use several zoom factors to
   determine your position on the planet. There are also arrows which can point
   to the location of tasks to be accomplished, after some characters have given
   you certain information.
+fr:
+  message: L'Holomap est un système de carte en 3 dimensions. Tu peux employer
+    différents degrés de grossissement pour repérer ta position sur la planète.
+    De plus, des flèches peuvent indiquer l'emplacement de diverses tâches à
+    accomplir, lorsque des personnages t'ont donné certaines informations.
+de:
+  message:
+    Die Holokarte ist ein dreidimensionales Kartensystem. Du kannst sie in
+    verschiedenen Vergrößerungsstufen aufrufen, um festzustellen, an welcher
+    Stelle des Planeten du dich befindest. Außerdem zeigen Pfeile manchmal an,
+    welche Aufgaben zu erledigen sind, wenn dir bestimmte Charaktere die
+    entsprechenden Informationen gegeben haben.
+es:
+  message: El Holomapa es un sistema de mapa en 3 dimensiones. Puedes utilizar
+    diferentes niveles de aumento para situar tu posición en el planeta. Además,
+    las flechas pueden indicar la ubicación de las diversas tareas a realizar
+    cuando los personajes te hayan dado ciertas informaciones.
+it:
+  message:
+    L'holomap è un sistema di mappa in 3 dimensioni. Puoi usare dei diversi
+    gradi d'ingrandimento per trovare la tua posizione sul pianeta. Delle frecce
+    possono indicare, inoltre, la posizione delle diverse operazioni da
+    compiere, quando i personaggi ti hanno dato delle informazioni.
+pt:
+  message: O Holomapa é um sistema de mapeamento em 3 dimensΣes. Você pode usar
+    diferentes graus de aumento para verificar sua posiç╞o no planeta. Além
+    disso, haverá flechas indicando o lugar das várias tarefas a serem
+    cumpridas, sempre que os personagens tiverem dado as informaçΣes
+    necessárias.

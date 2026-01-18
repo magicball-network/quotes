@@ -1,4 +1,13 @@
+textId: 20
 location:
 speaker:
 message: I'm looking for the plans of the Teleportation Center. I'm on a special
   assignment!
+fr:
+  message: Je cherche les plans du Centre de Téléportation. Mission spéciale !
+de:
+  message: Ich suche die Pläne des Biemzentrums. Ein Spezialauftrag !
+es:
+  message: Busco los planos del Centro de Teleportación. ¡Misión Especial!
+it:
+  message: Cerco le mappe del Centro di Teletrasporto. Missione speciale!

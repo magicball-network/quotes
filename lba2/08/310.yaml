@@ -1,4 +1,20 @@
+textId: 300
 location:
 speaker:
 message: I don't know him very well, but try asking around at "Chez Luc," that's
   his big hangout.
+fr:
+  message: Je le connais peu, mais essaie de demander " Chez Luc ", il y va souvent.
+de:
+  message:
+    Ich kenne ihn kaum, aber frag' doch mal in der Kneipe "Chez Luc" nach,
+    da geht er oft hin.
+es:
+  message: No lo conozco mucho, pero inténtalo en" Chez Luc ", va por allí con
+    frecuencia.
+it:
+  message: Lo conosco poco, ma prova a chiedere alla taverna " Chez Luc ", ci va spesso.
+pt:
+  message:
+    Eu o conheço um pouco , mas tente perguntar no" Chez Luc ", ele costuma
+    ir lá.

@@ -1,4 +1,21 @@
+textId: 553
 location:
 speaker:
 message: You should go to the school of magic. Now that you're a wizard, they
   can probably help you!
+fr:
+  message: Tu devrais aller à l'école de magie. Maintenant que tu es mage, ils
+    pourront sûrement t'aider !!
+de:
+  message: Du solltest zur Zauberschule gehen. Jetzt, wo du Magier bist, können
+    sie dir dort sicher helfen!
+es:
+  message:
+    Deberías de ir a la escuela de magia. ¡¡Ahora que eres mago seguro que
+    podrán ayudarte!!
+it:
+  message: Dovresti andare alla Scuola di magia. Adesso che sei mago, potranno
+    sicuramente aiutarti !!
+pt:
+  message: Você deveria ir a Escola de Magia. Agora que você é um mago, eles
+    certamente poder╞o te ajudar !!

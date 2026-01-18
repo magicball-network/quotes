@@ -1,3 +1,14 @@
+textId: 259
 location:
 speaker:
 message: I don't know. I live on Desert Island.
+fr:
+  message: Je ne sais pas. Moi j'habite sur l'île du désert.
+de:
+  message: Keine Ahnung. Ich lebe jedenfalls auf der Wüsteninsel.
+es:
+  message: No sé. Yo vivo en la isla del desierto..
+it:
+  message: Non lo so. Io abito sull'isola del deserto.
+pt:
+  message: Eu n╞o sei. Eu moro na Ilha do Deserto.

@@ -1,3 +1,14 @@
+textId: 120
 location:
 speaker:
 message: Customer's umbrella
+fr:
+  message: Parapluie de la cliente
+de:
+  message: Regenschirm der Frau
+es:
+  message: Paraguas de la clienta
+it:
+  message: Ombrello della cliente
+pt:
+  message: Guarda-chuva da cliente

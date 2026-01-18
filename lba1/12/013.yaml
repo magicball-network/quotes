@@ -1,3 +1,12 @@
+textId: 13
 location:
 speaker:
 message: You're too aggressive! Come back later when you've calmed down.
+fr:
+  message: Tu es trop agressif ! Reviens quand tu seras calmé.
+de:
+  message: Du bist zu agressiv ! Komm wieder wenn Du Dich beruhigt hast.
+es:
+  message: ¡Eres demasiado agresivo! Regresa cuando te hayas calmado.
+it:
+  message: Sei troppo aggressivo! Torna quando ti sarai calmato.

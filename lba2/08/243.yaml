@@ -1,3 +1,14 @@
+textId: 850
 location:
 speaker:
 message: Ah yes, the pharmacist's younger brother. No, I don't know where he is.
+fr:
+  message: Ah oui, le jeune frère de la pharmacienne. Non, je sais pas où il est.
+de:
+  message: Ah ja, der kleine Bruder der Apothekerin. Nein, ich weiß nicht, wo er ist.
+es:
+  message: Ah sí, el hermano pequeño de la farmacéutica. No, no sé dónde está,
+it:
+  message: h, si, il fratello più piccolo della farmacista. No, non so dov'è.
+pt:
+  message: Ah sei, o irm╞o da moça da farmácia. N╞o, n╞o sei onde ele está.

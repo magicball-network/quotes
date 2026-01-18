@@ -1,6 +1,27 @@
+textId: 101
 location:
 speaker:
 message: |-
   "L.B.A.
   Lupin-Burg sewer service
   Dr FunFrock Square"
+fr:
+  message: |-
+    " L.B.A.
+    Service des égouts de Lupin-Bourg
+    Square Dr FunFock "
+de:
+  message: |-
+    " L.B.A.
+    Entwässerungsdienst von Lupin-Burg
+    Dr FunFrock Park "
+es:
+  message: |-
+    "L.B.A.
+    Servicio de alcantarillas de Lupin-Burgo
+    Plaza Dr. FunFrock"
+it:
+  message: |-
+    " L.B.A.
+    Servizio fognario di Lupinburgo
+    Piazza Dottor FunFock "

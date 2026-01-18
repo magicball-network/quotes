@@ -1,5 +1,28 @@
+textId: 248
 location:
 speaker:
 message: Infortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on
   another of his strolls on the cliffs! One of these days it might be nasty,
   with all these rumors about the Tralü...
+fr:
+  message: Hélas, il a disparu monsieur Twinsen! J'espère qu'il n'est pas encore
+    allé se promener sur la corniche ! Un jour ça finira mal... avec ces
+    histoires de Tralü...
+de:
+  message: Er ist einfach verschwunden, Herr Twinsen! Ich hoffe, daß er nicht
+    wieder auf der Küstenstraße spazierengegangen ist! Das wird eines Tages noch
+    böse enden ... mit all den Geschichten um das Tralü ...
+es:
+  message: ¡Desgraciadamente ha desaparecido, señor Twinsen! ¡Espero que no haya
+    ido otra vez a pasear por la cornisa! Un día va acabar mal con esas
+    historias del Tralu...
+it:
+  message:
+    Purtroppo, è scomparso signor Twinsen ! Spero che non sia andato ancora
+    a passeggiare sulla strada panoramica ! Un giorno finirà male ...con queste
+    storie di Tralu...
+pt:
+  message:
+    Infelizmente ele desapareceu, senhor Twinsen! Espero que ele n╞o tenha
+    ido de novo passear no torre╞o ! Um dia isso vai acabar mal... com essas
+    histórias de Tralu...

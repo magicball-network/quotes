@@ -1,3 +1,12 @@
+textId: 35
 location:
 speaker:
 message: Leave me alone! I've got work to do, and no time to play!
+fr:
+  message: Laissez-moi tranquille ! J'ai du travail moi, je ne joue pas moi !
+de:
+  message: Lassen Sie mich in Ruhe ! Ich habe zu tun, ich habe keine Zeit zum Spielen !
+es:
+  message: ¡Déjenme tranquilo! Tengo trabajo que hacer, ¡yo no juego!
+it:
+  message: Mi lasci in pace! Sto lavorando, non sto giocando!

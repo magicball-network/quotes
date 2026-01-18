@@ -1,4 +1,25 @@
+textId: 601
 location:
 speaker:
 message: It's depressing. There's nobody left, so obviously business is down.
   Then the Esmers come and shut my Turkish bath down. I don't get it!
+fr:
+  message:
+    C'est affligeant. Il n'y a plus personne pour venir chez moi. En plus,
+    les Esmers sont venus fermer mon hammam. Je ne sais même pas pourquoi !
+de:
+  message: Es ist eine Katastrophe. Keiner kommt mehr in meine Kneipe. Und
+    außerdem haben die Esmerier mein Dampfbad geschlossen - und ich weiß nicht
+    mal, warum!
+es:
+  message:
+    Es lamentable. Ya nadie viene aquí. Y además, los esmeres han venido a
+    cerrarme el baño turco. ¡Ni tan siquiera sé por qué!
+it:
+  message:
+    Che desolazione... Non c'è anima viva che vanga da me. E peggio ancora,
+    gli Esmers sono venuti a chiudere il mio bagno turco. Non so neanche perchè
+    !
+pt:
+  message: Que afliç╞o. N╞o há mais ninguém para vir aqui. Além disso, os Esmers
+    vieram fechar a minha casa de banho. Eu nem sei porque !

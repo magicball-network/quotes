@@ -1,3 +1,13 @@
+textId: 244
 location:
 speaker:
 message: Don't know where they are, but forget about it! Teleportation makes me sick.
+fr:
+  message: J'sais pas où y sont mais laisse tomber ! Ca donne mal au coeur la
+    téléportation.
+de:
+  message: Weiß nicht wo sie sind, aber lass mal sein ! Vom Biemen wird einem schlecht.
+es:
+  message: ¡No sé dónde están, pero ya no importa! Da náuseas la teleportación.
+it:
+  message: Non so dove siano, ma lascia perdere. Il teletrasporto fa venire la nausea!

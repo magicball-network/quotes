@@ -1,3 +1,20 @@
+textId: 36
 location:
 speaker:
 message: You just bought a pick-ax. Use it to dig or detach rocks and pieces of crystal.
+fr:
+  message: Tu viens d'acheter une pioche. Elle te permettra de creuser le sol ou
+    de détacher des cailloux ou des morceaux de cristaux.
+de:
+  message:
+    Du hast gerade eine Hacke gekauft. Mit ihr kannst du graben oder Kiesel
+    und Kristallstücke lösen.
+es:
+  message: Acabas de comprar un pico.
+it:
+  message:
+    Hai comprato una zappa. Ti permetterà di scavare la terra o di estrarre
+    delle pietre o dei pezzi di cristallo.
+pt:
+  message: Você comprou uma enxada. Com ela você poderá cavar o solo ou soltar
+    pedras ou pedaços de cristal.

@@ -1,3 +1,14 @@
+textId: 410
 location:
 speaker:
 message: That's me, what do you want?
+fr:
+  message: C'est moi, que me voulez-vous ?
+de:
+  message: Ich bin's. Was wollen Sie von mir?
+es:
+  message: Soy yo ¿para qué me quiere?
+it:
+  message: Sono io, cosa vuole ?
+pt:
+  message: Sou eu, o que quer de mim?

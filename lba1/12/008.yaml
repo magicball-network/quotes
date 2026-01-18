@@ -1,4 +1,14 @@
+textId: 8
 location:
 speaker:
 message: I can get you to where you want to go for only 10 Kashes! Where do you
   want to go?
+fr:
+  message: Je peux te faire voyager pour 10 Kashes seulement ! Où veux-tu aller ?
+de:
+  message: Bei mir kannst Du für nur 10 Kashes reisen ! Wo möchtest Du hin ?
+es:
+  message: ¡Ah! Aquí estás otra vez! ¡Puedo hacerte viajar por 10 Kashes
+    solamente! ¿A dónde quieres ir?
+it:
+  message: Ah! Rieccoti! Posso portarti dove vuoi per soli 10 Kash! Dove vuoi andare?

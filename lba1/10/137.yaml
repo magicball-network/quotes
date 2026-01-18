@@ -1,3 +1,4 @@
+textId: 146
 location:
 speaker:
 message: >-
@@ -11,3 +12,61 @@ message: >-
   until he arrives at a light post. He must stand EXACTLY between the 2 lamp
   posts, and then take 8 steps to the North until he arrives at a gate. Captain
   LeBorgne's treasure is in the building behind the gate."
+fr:
+  message: >-
+    Voyons, le trésor ... Ah, on en parle à la fin sur une petite fiche :
+
+    " Pour retrouver le trésor du Capitaine Leborgne, le voyageur qui débarque
+    au port de l'île Proxima doit prendre la borne d'amarrage la plus proche
+    comme repère. En se plaçant dos aux bateaux amarrés, il doit faire le
+    parcours suivant en mode DISCRET :
+
+    6 pas au Nord (droit devant lui), puis 6 pas à l'Est (sur sa droite) dans la
+    petite pente. 2 pas au Nord (droit devant lui) jusqu'à la poubelle en métal,
+    3 pas à l'Est (sur sa droite) pour arriver à un lampadaire. Il doit se
+    placer EXACTEMENT entre les 2 lampadaires, puis faire 8 pas au Nord (droit
+    devant lui) pour atteindre un portail. Le trésor du Capitaine Leborgne se
+    trouve dans le bâtiment derrière le portail. "
+de:
+  message: >-
+    " Um den Schatz des Kapitäns EinAuge wiederzufinden, muß der Reisende, der
+    auf der Insel Proxima an Land geht, die am nächsten stehende Dukdalbe als
+    Anhaltspunkt nehmen. Mit dem Rücken zu den vertäuten Schiffen muß er
+    folgenden Weg im UNAUFFÄLLIG Modus gehen :
+
+    6 Schritt nach Norden (geradeaus), dann 6 Schritt nach Osten (nach rechts)
+    auf der leichten Neigung. 2 Schritt nach Norden (geradeaus) bis zum
+    Mülleimer aus Metall, 3 Schritt nach Osten (nach rechts) bis zu einer
+    Laterne. Er muß sich GENAU zwischen die zwei Laternen stellen, und dann 8
+    Schritt nach Norden (geradeaus) bis zu einem Tor machen. Der Schatz des
+    Kapitäns EinAuge befindet sich im Gebäude hinter dem Tor. "
+es:
+  message: >-
+    Veamos, el tesoro... Ah, se habla al final en una pequeña ficha:
+
+    "Para encontrar el tesoro del Capitán El Tuerto, el viajero que desembarca
+    en el Puerto de la Isla Próxima debe tomar como referencia el punto de
+    amarre más próximo. Colocándose de espaldas a los barcos amarrados, debe
+    realizar el siguiente recorrido en modo DISCRETO:
+
+    6 pasos al Norte (de frente), luego 6 pasos al Este (a la derecha) por la
+    pequeña pendiente. 2 pasos al Norte (de frente) hasta el basurero de metal,
+    3 pasos al Este (a la derecha) para llegar a una lámpara. Debe colocarse
+    EXACTAMENTE entre las dos 2 lámparas, y luego dar 8 pasos al Norte (de
+    frente) para alcanzar un portalón. El tesoro del Capitán El Tuerto se
+    encuentra en el edificio detrás del portalón".
+it:
+  message: >-
+    Dunque, il tesoro... Ah, ne parla alla fine, su un foglietto:
+
+    " Per ritrovare il tesoro del Capitano Guercio, il viaggiatore che sbarca al
+    porto dell'Isola Proxima deve prendere come punto di riferimento l'ormeggio
+    più vicino. Dando le spalle alle navi ormeggiate, deve fare il percorso
+    indicato nel modo DISCRETO:
+
+    6 passi a nord (diritto davanti a sé), poi 6 passi a est (a destra) sulla
+    piccola discesa. 2 passi a nord (diritto davanti a sé) fino al cestino delle
+    immondizie in metallo, poi 3 passi a est (a destra) finché non arriva a un
+    lampione. Deve mettersi ESATTAMENTE fra due lampioni, poi fare 8 passi a
+    nord (diritto davanti a sé) per raggiungere un portone. Il tesoro del
+    Capitano Guercio si trova nell'edificio dietro al portone."

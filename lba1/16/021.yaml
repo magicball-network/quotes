@@ -1,5 +1,23 @@
+textId: 22
 location:
 speaker:
 message: I've heard about an underground city that the clones use as a meeting
   place. It's in the Northern hemisphere, on Tippet island. You should check it
   out!
+fr:
+  message: J'ai entendu parler d'un ville souterraine où des clones viennent
+    trafiquer. C'est dans l'hémisphère Nord, sur l'île Tippett. Tu devrais
+    enquêter là-bas !
+de:
+  message: Ich habe von einer unterirdischen Stadt gehört, wo Klone
+    Schiebergeschäfte machen. Das ist auf der Nord-Halbkugel, auf der Insel
+    Tippett. Du solltest dort Nachforschungen anstellen !
+es:
+  message:
+    He escuchado hablar de una ciudad subterránea donde los clones vienen a
+    traficar. Está en el hemisferio Norte, en la isla Tippett. ¡Deberías
+    investigar allí!
+it:
+  message: Ho sentito parlare di una città sotterranea dove i cloni vengono a
+    trafficare. E' nell'emisfero settentrionale, sull'Isola Tippett. Dovrai
+    indagare là!

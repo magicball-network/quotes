@@ -1,4 +1,17 @@
+textId: 260
 location:
 speaker:
 message: Hi, I've just returned from a trip around this hemisphere and I'm
   selling my boat. Follow me if you're interested.
+fr:
+  message: Salut, je rentre d'un voyage autour de cet hémisphère et je vends mon
+    bateau. Suivez-moi si ça vous intéresse.
+de:
+  message: Hallo, ich komm' gerad' von einer Reise rund um diese Halbkugel und
+    verkaufe mein Boot. Folgen Sie mir, falls Sie Interesse haben.
+es:
+  message: Hola, regreso de un viaje alrededor de este hemisferio y vendo mi
+    barco. Síganme si les interesa.
+it:
+  message: Salve, sono appena tornato da un viaggio attorno a questo emisfero, e
+    vendo la mia nave. Mi segua, se le interessa.

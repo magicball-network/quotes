@@ -1,3 +1,12 @@
+textId: 11
 location:
 speaker:
 message: Yes, I'll take one.
+fr:
+  message: Oui j'en prends une.
+de:
+  message: Ja, ich nehme eine.
+es:
+  message: Sí, déme una.
+it:
+  message: Sì, grazie.

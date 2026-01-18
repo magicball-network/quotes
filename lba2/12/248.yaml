@@ -1,3 +1,14 @@
+textId: 250
 location:
 speaker:
 message: Sir!
+fr:
+  message: Monsieur !
+de:
+  message: Aber, aber!!!
+es:
+  message: ¡Señor!
+it:
+  message: Signore !
+pt:
+  message: Senhor !

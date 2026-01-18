@@ -1,3 +1,16 @@
+textId: 243
 location:
 speaker:
 message: '"Book of Bù. It allows me to speak with the animals of Twinsun."'
+fr:
+  message: C'est le Livre de Bù. Il me permit de parler avec les animaux de Twinsun.
+de:
+  message:
+    '"Das hier ist das Buch von Bu. Mit seiner Hilfe kann ich mich mit den
+    Tieren von Twinsun unterhalten."'
+es:
+  message: '"Es el Libro de Bù. Me permite hablar con los animales de Twinsun."'
+it:
+  message: '" E'' il Libro di Bù. Mi permette di parlare con gli animali di Twinsun."'
+pt:
+  message: É o livro de Bu. Ele me permite falar com os animais de Twinsun.

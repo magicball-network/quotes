@@ -1,3 +1,14 @@
+textId: 345
 location:
 speaker:
 message: The price of admission to the casino is 5 Zlitos. Would you like to enter?
+fr:
+  message: L'accès au casino vous coûtera 5 zlitos. Désirez-vous entrer ?
+de:
+  message: Der Eintritt ins Kasino kostet 5 Zlitos. Möchten Sie hineingehen?
+es:
+  message: La entrada al casino le costará 5 zlitos ¿Quiere entrar?
+it:
+  message: L'accesso al casinò le costerà 5 Zlitos. Desidera entrare ?
+pt:
+  message: O acesso ao cassino te custará 5 zlitos. Você quer entrar?

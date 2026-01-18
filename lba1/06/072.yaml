@@ -1,3 +1,12 @@
+textId: 207
 location:
 speaker:
 message: Brundle Island
+fr:
+  message: Ile Brundle
+de:
+  message: Insel Brundle
+es:
+  message: Isla Brundle
+it:
+  message: Isola Brundle

@@ -1,5 +1,27 @@
+textId: 86
 location:
 speaker:
 message: Here we have a very instructive map of the sewers. Before you can
   consult it, you must wait until I restore it. For that, I need a vial of
   gallic acid. Unfortunately, there's none left on the island.
+fr:
+  message: Il y a là un plan des égouts très instructif. Pour le consulter, tu
+    devras attendre que je l'ai restauré. Pour cela, j'ai besoin d'un flacon
+    d'acide gallique. Malheureusement, il n'y en a plus sur notre île.
+de:
+  message: Hier ist ein sehr interessanter Plan der Kanalisation. Aber du mußt
+    warten, bis ich ihn restauriert habe, bevor du ihn sehen kannst. Dazu
+    brauche ich ein Fläschchen Gallussäure. Leider gibt es davon keine mehr auf
+    unserer Insel.
+es:
+  message: Hay un plano de las cloacas que es muy ilustrativo. Para consultarlo
+    tendrás que esperar a que lo restaure. Y para ello necesito un frasco de
+    ácido gálico. Desgraciadamente en nuestra isla no queda nada. .
+it:
+  message: Qui c'è una mappa delle fognature molto istruttiva. Per consultarla,
+    dovrai aspettarne il restauro. E per farlo, ho bisogno di un flacone di
+    acido gallico. Purtroppo, non ce n'è più sulla nostra isola.
+pt:
+  message: Há uma planta de esgotos bastante instrutiva. Para consultá-la, você
+    deverá esperar que eu a restaure. Para isso, eu preciso de um frasco de
+    ácido gálico. Infelizmente, n╞o há mais nenhum em nossa ilha.

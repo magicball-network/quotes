@@ -1,5 +1,26 @@
+textId: 6
 location:
 speaker:
 message: Did you know that there is a means of getting to Fortress island in my
   basement? I'll let you in there if you improve the quality of the show. The
   atmosphere is terrible nowadays, the patrons are bummed out.
+fr:
+  message:
+    Sais-tu qu'il y a dans ma cave un moyen pour aller jusqu'à l'île de la
+    Forteresse ? Je t'y fais entrer si tu améliores la qualité du spectacle.
+    L'ambiance est minable ces temps-ci, les clients boudent.
+de:
+  message: Weißt Du, daß es in meinem Keller ein Mittel gibt um bis zur
+    Festungsinsel zu gelangen ? Ich laß Dich hinein, wenn Du die Show
+    verbesserst. Die Stimmung ist in letzter Zeit erbärmlich, die Kunden
+    schmollen.
+es:
+  message: ¿Sabes que hay en mi bodega un medio para ir hasta a la isla de la
+    Fortaleza? Puedo dejarte entrar si tú mejoras la calidad del espectáculo. El
+    ambiente es deplorable en estos últimos tiempos, los clientes ponen mala
+    cara.
+it:
+  message:
+    Lo sapevi che nella mia cantina c'è un mezzo per andare fino all'Isola
+    della Fortezza? Te lo faccio usare se tu migliori la qualità dello
+    spettacolo. L'atmosfera è squallida, di questi tempi, i clienti mi snobbano.

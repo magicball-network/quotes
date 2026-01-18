@@ -1,3 +1,14 @@
+textId: 527
 location:
 speaker:
 message: What happened, miss?
+fr:
+  message: Que s'est il passé mademoiselle ?
+de:
+  message: Was ist passiert, gute Frau?
+es:
+  message: Señorita ¿qué ha pasado?
+it:
+  message: Cosa è successo signorina ?
+pt:
+  message: O que aconteceu senhorita ?

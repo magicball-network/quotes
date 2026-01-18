@@ -1,3 +1,15 @@
+textId: 457
 location:
 speaker:
 message: I hope my shuttle will be here soon, I can't wait to get back home.
+fr:
+  message: J'espère que ma navette ne va plus tarder, j'ai hâte de rentrer chez moi.
+de:
+  message: Ich hoffe, mein Raumschiff hat nicht noch mehr Verspätung, ich will
+    jetzt schnellstens nach Hause.
+es:
+  message: Espero que mi nave no tarde. Tengo ganas de volver a casa. .
+it:
+  message: Spero che la mia navetta non ritardi ancora, ho fretta di rientrare a casa.
+pt:
+  message: Espero que minha nave n╞o demore muito, estou com pressa de voltar para casa.

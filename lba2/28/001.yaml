@@ -1,3 +1,14 @@
+textId: 0
 location:
 speaker:
 message: But... who are you?
+fr:
+  message: Mais... qui êtes-vous ?
+de:
+  message: Aber ... wer sind Sie denn?
+es:
+  message: ¿Pero... usted quién es?
+it:
+  message: Ma ... chi è lei ?
+pt:
+  message: Mas... quem é você ?

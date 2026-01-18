@@ -1,3 +1,12 @@
+textId: 17
 location:
 speaker:
 message: '" Reed Boat or Quffa. Primitive boat made from weaved reeds."'
+fr:
+  message: '" Bateau-Panier ou Quffa. Embarcation primitive faite d''osier tressé. "'
+de:
+  message: '" Korb-Schiff oder Quffa. Primitives Boot aus geflochtenen Weiden. "'
+es:
+  message: '"Barco-Canastilla o Cufa. Embarcación primitiva hecha de mimbre trenzado."'
+it:
+  message: '"Barca-paniere. Imbarcazione primitiva in vimini intrecciato. "'

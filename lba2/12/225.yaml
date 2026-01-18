@@ -1,4 +1,23 @@
+textId: 543
 location:
 speaker:
 message: These Esmer visitors are extraordinary. They are supposed to come from
   the Emerald Moon. Would you believe that??
+fr:
+  message:
+    Ces visiteurs Esmers sont extraordinaires. Il paraît qu'ils viennent de
+    la lune d'émeraude. Vous vous rendez-compte ??
+de:
+  message: Diese Esmerier sind wirklich seltsam. Angeblich kommen sie vom
+    Smaragd-Mond. Kaum zu glauben, was?
+es:
+  message: Esos visitantes esmeres son algo extraordinario. Al parecer vienen de
+    la luna de esmeralda ¿Se da usted cuenta?
+it:
+  message:
+    Questi visitatori Esmers sono straordinari. Pare che vengano dalla Luna
+    di smeraldo. Incredibile, no ??
+pt:
+  message:
+    Esses visitantes Esmers s╞o extraordinários. Parece que eles vêm da Lua
+    de Esmeralda. Você tem idéia ??

@@ -1,3 +1,4 @@
+textId: 298
 location:
 speaker:
 message: >-
@@ -12,3 +13,64 @@ message: >-
 
 
   Have trust in our friendship!!
+fr:
+  message: >-
+    Bienvenue sur Zeelich, la planète aux mille merveilles !! 
+
+
+    Sa beauté ravira vos yeux. La gentillesse de ses habitants réchauffera votre
+    coeur !
+
+
+    Nous sommes les artisans de votre bonheur.
+
+
+    Ayez confiance en notre amitié !!
+de:
+  message: >-
+    Willkommen auf Zeelich, dem Planeten der tausend Wunder!
+
+
+    Die Schönheit unseres Planeten wird Sie betören! Die freundliche und
+    herzliche Art der Menschen wird Ihr Herz erfreuen!
+
+
+    Wir sind die Schmiede Ihres Glückes.
+
+
+    Vertrauen Sie auf unsere Freundschaft!
+es:
+  message: >-
+    ¡Bienvenido a Zeelich, el planeta de las mil maravillas!
+
+
+    Su belleza será un placer para sus ojos. La cordialidad de sus habitantes
+    reconfortará su corazón!
+
+
+    Somos los artesanos de su felicidad.
+
+
+    ¡¡Confíe en nuestra amistad!!
+it:
+  message: >-
+    Benvenuti su Zeelich, il pianeta dalle mille meraviglie !!
+
+
+    La sua bellezza farà brillare i vostri occhi. La gentilezza dei suoi
+    abitanti scalderà il vostro cuore !
+
+
+    Siamo gli artefici della vostra felicità.
+
+
+    Abbiate fiducia nella nostra amicizia !!
+pt:
+  message: |-
+    Bem-vindo a Zeelich, o planeta das mil maravilhas!! 
+
+    Você ficará encantado com a sua beleza e com a gentileza de seus habitantes!
+
+    Nós somos os responsáveis pela sua felicidade.
+
+    Confie em nossa amizade !!

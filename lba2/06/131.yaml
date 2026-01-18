@@ -1,3 +1,14 @@
+textId: 220
 location:
 speaker:
 message: This umbrella belongs to a pharmacy customer.
+fr:
+  message: Ce parapluie appartient à une cliente de la pharmacie.
+de:
+  message: Dieser Regenschirm gehört einer Kundin der Apotheke.
+es:
+  message: Este paraguas pertenece a una clienta de la farmacia.
+it:
+  message: Questo ombrello appartiene ad una cliente della farmacia.
+pt:
+  message: Esse guarda-chuva pertence a uma cliente da farmácia.

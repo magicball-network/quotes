@@ -1,3 +1,14 @@
+textId: 271
 location:
 speaker:
 message: Help!!
+fr:
+  message: Au secours !!
+de:
+  message: Hilfe!
+es:
+  message: ¡¡Socorro!!
+it:
+  message: Aiuto ! !
+pt:
+  message: Socorro !!

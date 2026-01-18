@@ -1,4 +1,23 @@
+textId: 572
 location:
 speaker:
 message: I enjoy wandering in the desert. Once, in the Temple of Bù, I found
   lots of little treasures.
+fr:
+  message:
+    J'aime bien me balader dans le désert. Une fois, dans le temple de Bù,
+    j'ai trouvé plein de petits trésors.
+de:
+  message:
+    Ich geh' gern in der Wüste spazieren. Einmal hab' ich ganz viele kleine
+    Kostbarkeiten im Bü-Tempel gefunden.
+es:
+  message: Me gusta mucho pasear por el desierto, Una vez, en el templo de Bú,
+    encontré un montón de tesoros.
+it:
+  message:
+    Mi piace molto gironzolare nel deserto. Una volta, nel tempio di Bù, ho
+    trovato un mucchio di piccoli tesori.
+pt:
+  message: Eu gosto de passear no deserto. Uma vez, no Templo de Bu, eu achei
+    vários tesouros pequenos.

@@ -1,4 +1,22 @@
+textId: 593
 location:
 speaker:
 message: For some time now, I've been observing inexplicable goings-on here. But
   it's too soon to be sure.
+fr:
+  message: Depuis quelques temps, j'observe ici des choses inexpliquées. Mais il
+    est trop tôt pour en être sûr.
+de:
+  message:
+    Seit einiger Zeit habe ich hier unerklärliche Dinge beobachtet. Aber es
+    ist noch zu früh, um sicher zu sein.
+es:
+  message:
+    Desde hace algún tiempo se observan aquí cosas inexplicables. Pero aún
+    es pronto para tener certezas. .
+it:
+  message: Da qualche tempo, noto delle cose strane qui. Ma è troppo presto per
+    esserne sicuro.
+pt:
+  message: Faz algum tempo que vejo coisas estranhas por aqui. Mas ainda é muito
+    cedo para ter certeza.

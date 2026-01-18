@@ -1,4 +1,20 @@
+textId: 908
 location:
 speaker:
 message: Voices in French, English and German. (Subtitles in French, English,
   German, Italian and Spanish).
+fr:
+  message: Voix en Français, Anglais, Allemand (sous titrages en Français,
+    Anglais, Allemand, Italien, Espagnol)
+de:
+  message: Stimmen in Französisch, Englisch, Deutsch (Untertitel in Französisch,
+    Englisch, Deutsch, Italienisch, Spanisch)
+es:
+  message: Voces en francés, inglés, alemán (subtítulos en francés, inglés,
+    alemán, italiano y español)
+it:
+  message: Voci in Francese, Inglese, Tedesco (sottotitoli in Francese, Inglese,
+    Tedesco, Italiano, Spagnolo)
+pt:
+  message: Voix en Français, Anglais, Allemand (sous titrages en Français,
+    Anglais, Allemand, Italien, Espagnol)

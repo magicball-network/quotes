@@ -1,3 +1,14 @@
+textId: 9
 location:
 speaker:
 message: The island of the Wannies.
+fr:
+  message: Sur l'île des Blafards.
+de:
+  message: Auf die Insel der Bleichlinge.
+es:
+  message: A la isla de los macilentos
+it:
+  message: Sull'isola dei Pallidi.
+pt:
+  message: Na Ilha dos Blafards

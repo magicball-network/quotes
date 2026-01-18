@@ -1,4 +1,21 @@
+textId: 591
 location:
 speaker:
 message: Whoever wants to know has to go and see! Now, you must fulfill your
   destiny, my young hero.
+fr:
+  message: Celui qui veut savoir doit toujours aller voir ! Maintenant tu dois
+    accomplir ton destin, jeune héros.
+de:
+  message:
+    Wer etwas erfahren will, muß immer auch dorthin gehen, wo er alles mit
+    eigenen Augen sieht. Jetzt mußt du dein Schicksal erfüllen, junger Held.
+es:
+  message: ¡El que quiera saber debe ir a ver! Ahora has de cumplir con tu
+    destino, joven héroe.
+it:
+  message: Colui che vuole sapere deve sempre andare a vedere ! Adesso devi
+    compiere il tuo destino, giovane eroe.
+pt:
+  message: Aquele que quiser saber deve sempre ir ver! Agora você deve seguir o
+    teu destino, jovem herói.

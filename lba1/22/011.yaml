@@ -1,3 +1,13 @@
+textId: 10
 location:
 speaker:
 message: I must be hallucinating, look, he found the Space Guitar!
+fr:
+  message: J'hallucine ! Regardez, il a retrouvé la Guitare de l'Espace !
+de:
+  message: Ich glaub' ich träume, schaut her, er hat die Gitarre aus dem All
+    wiedergefunden !
+es:
+  message: ¡Alucino, mira, ha encontrado la Guitarra del Espacio!
+it:
+  message: Sogno o son desto? Guardate, ha ritrovato la Chitarra dello Spazio!

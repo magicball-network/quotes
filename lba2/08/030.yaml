@@ -1,3 +1,14 @@
+textId: 295
 location:
 speaker:
 message: '"Dome of the Slate."'
+fr:
+  message: '" Dôme de l''ardoise. "'
+de:
+  message: '"Kreidedom"'
+es:
+  message: '"Cúpula de la pizarra"'
+it:
+  message: '" Duomo dell''ardesia"'
+pt:
+  message: '" Cúpula de ardósia. "'

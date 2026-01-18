@@ -1,4 +1,23 @@
+textId: 38
 location:
 speaker:
 message: Hey mister! If you want, I can carry your crate up to the exit for 102
   little Kashes!
+fr:
+  message: Hé msieur ! Si vous voulez j'peux charrier votre caisse jusqu'à la
+    sortie ! Et pour seulement 102 Kashes !
+de:
+  message: Hallo, Sie da! Wenn Sie wollen, bringe ich Ihre Kiste für nur 102
+    Kashes bis zum Ausgang!
+es:
+  message:
+    ¡He, señor, si quiere puedo acarrear su caja hasta la entrada! ¡Por tan
+    sólo 102 Kashes !
+it:
+  message:
+    Ehi signore ! Se vuole posso trasportare la sua cassa fino all'uscita !
+    E per soli 102 Kashes !
+pt:
+  message:
+    Γoo moço ! Se você quiser eu posso levar sua caixa até a saída ! E por
+    apenas 102 Kashes !

@@ -1,3 +1,12 @@
+textId: 95
 location:
 speaker:
 message: '"Life candy: do you want 10 hearts for 10 Kashes?"'
+fr:
+  message: '" Bonbons à Points d''Vie : voulez-vous 10 coeurs pour 10 Kashes ? "'
+de:
+  message: '" Lebenspunkte-Bonbons : möchten Sie 10 Herzen für 10 Kashes ? "'
+es:
+  message: '"Caramelos con Puntos de Vida: ¿quiere 10 corazones por 10 Kashes?"'
+it:
+  message: '"Caramelle, caramelle: vuole 10 cuori a 10 Kash? "'

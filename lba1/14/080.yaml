@@ -1,3 +1,4 @@
+textId: 80
 location:
 speaker:
 message: I've been working on a Jet-Pack prototype for days now. It's a small
@@ -6,3 +7,30 @@ message: I've been working on a Jet-Pack prototype for days now. It's a small
   I'd like to borrow the rheostat in your hair dryer to fine tune the power of
   the motors (from looking at your hairdo, I don't think you really need the
   dryer, anyway). And if that works, I will have a job offer for you.
+fr:
+  message: Je travaille sur un prototype de Jet-Pack depuis des jours, c'est un
+    petit réacteur dorsal qui permettra de se déplacer en volant. Le problème,
+    c'est que mes derniers essais de moteur ont un peu abîmé le mur Sud. Alors
+    je vais t'emprunter le rhéostat de ton sèche-cheveux pour doser la puissance
+    des moteurs (vu ta coiffure, tu n'en a pas vraiment besoin). Et si ça
+    fonctionne j'aurai une proposition à te faire.
+de:
+  message: Ich arbeite seit Tagen an einem Jet-Pack Prototypen, dies ist ein
+    kleines Rückentriebwerk, ein neues Fortbewegungsmittel mit dem man fliegen
+    kann. Das Problem dabei ist, daß mein letzten Motorentests die Südwand ein
+    wenig beschädigt haben. Ich werde also den Rheostat Deines Föns borgen um
+    die Leistung der Motoren zu dosieren (bei Deiner Frisur hast Du ihn nicht
+    wirklich nötig). Falls es funktionniert, mache ich Dir ein Angebot.
+es:
+  message: Estoy trabajando en un prototipo de Jet-Pack desde hace días, es un
+    pequeño reactor dorsal que permitirá desplazarse volando. El problema, es
+    que mis últimos ensayos de motor han dañado un poco la pared Sur. Voy a
+    utilizar el reostato de tu secador de pelo para dosificar la potencia de los
+    motores (en realidad no lo necesitas, a la vista de tu peinado). Y si
+    funciona te haré una propuesta.
+it:
+  message: Lavoro da giorni su un prototipo di Jet-Pack. E' un piccolo reattore
+    dorsale che permetterà di spostarsi volando. L'unico problema è che gli
+    ultimi esperimenti con il motore hanno un po' sciupato il muro sud. Mi devi
+    prestare il reostato del tuo asciugacapelli (vista la tua capigliatura, tu
+    non ne hai bisogno). Se funziona, ti farò una proposta.

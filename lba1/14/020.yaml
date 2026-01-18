@@ -1,4 +1,17 @@
+textId: 19
 location:
 speaker:
 message: '" Oak barrel. Barrels such as this one were used to serve up the daily
   rations of rum to the sailors. "'
+fr:
+  message: '" Barrique en chêne. De tels tonneaux servaient à distribuer les
+    rations quotidiennes de rhum aux matelots. "'
+de:
+  message: '" Eichenfaß. Solche Fässer dienten zur Ausgabe der täglichen Ration
+    Rum an die Matrosen. "'
+es:
+  message: '"Barrica de roble. Toneles que servían para distribuir las raciones
+    diarias de ron a los marineros."'
+it:
+  message: '"Botte di quercia. Queste botti servivano a distribuire le razioni
+    giornaliere di rum ai marinai. "'

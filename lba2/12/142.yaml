@@ -1,3 +1,14 @@
+textId: 14
 location:
 speaker:
 message: Inscription fee is 120 Kashes. Are you ready to start right away?
+fr:
+  message: L'inscription coûte 120 Kashes. Es-tu prêt à commencer dès maintenant ?
+de:
+  message: Die Einschreibgebühr beträgt 120 Kashes. Möchtest du sofort anfangen?
+es:
+  message: La matrícula cuesta 120 Kashes. ¿Está listo para empezar ahora mismo?
+it:
+  message: L'iscrizione costa 120 Kashes. Sei pronto a cominciare oggi stesso ?
+pt:
+  message: A inscriç╞o custa 120 Kashes. Você está pronto para começar agora ?

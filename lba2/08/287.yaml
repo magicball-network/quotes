@@ -1,5 +1,30 @@
+textId: 249
 location:
 speaker:
 message: I don't understand why the lighthouse is closed and turned off. What
   could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can
   jump over the rocks if you are trapped ?
+fr:
+  message:
+    Je ne comprend pas pourquoi le phare est fermé et éteint. Que fait donc
+    Raph, mon fiancé ? A propos monsieur Twinsen, savez-vous que vous pouvez
+    sauter par dessus les rochers si vous êtes bloqué ?
+de:
+  message:
+    Ich verstehe einfach nicht, wieso der Leuchtturm geschlossen und dunkel
+    ist! Was macht Raph denn bloß! Er ist übrigens mein Verlobter. Wissen Sie
+    übrigens, daß Sie über die Felsen springen können, wenn Sie nicht
+    weiterkommen, Herr Twinsen?
+es:
+  message: No entiendo por qué el faro está cerrado y apagado. ¿Qué estará
+    haciendo mi novio Raph? Por cierto, señor Twinsen, ¿sabe que puede saltar
+    por encima de las rocas si está bloqueado?
+it:
+  message:
+    Non capisco perché il faro sia chiuso e spento. Cosa fa allora Raph, il
+    mio fidanzato ? A proposito signor Twinsen, sa che può saltare sopra gli
+    scogli se per caso è bloccato ?
+pt:
+  message: Eu n╞o entendo porque o farol está fechado e apagado. O que está
+    fazendo Raph, meu noivo? A propósito senhor Twinsen, você sabe que você pode
+    saltar por cima das rochas se você estiver bloqueado?

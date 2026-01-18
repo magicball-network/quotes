@@ -1,3 +1,12 @@
+textId: 223
 location:
 speaker:
 message: Ask the boss or the sailor at the table.
+fr:
+  message: Demandez au patron ou au marin à la table.
+de:
+  message: Fragen Sie den Wirt oder den Seemann dort am Tisch.
+es:
+  message: Pregúntele al patrón o al marinero de la mesa.
+it:
+  message: Chieda all'oste, o al marinaio al banco.

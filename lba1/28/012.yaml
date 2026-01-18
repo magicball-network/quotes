@@ -1,4 +1,17 @@
+textId: 11
 location:
 speaker:
 message: Here, little guy, take the ignition key and bring the bulldozer back
   for me - I'll appreciate it. I don't have time to do it myself.
+fr:
+  message: Tiens petit, prends la clef de contact et rapporte le bulldozer pour
+    moi tu seras gentil. Moi je n'ai pas le temps.
+de:
+  message: Hier Kleiner, nimm den Zündschlüssel und fahr den Bulldozer für mich
+    zurück, das wär lieb von Dir. Ich habe keine Zeit dazu.
+es:
+  message: Niño, toma la llave de contacto y lleva el bulldozer por mí, sé
+    buenito, yo no tengo tiempo.
+it:
+  message: Vieni piccolo, prendi la chiave e portami il buldozer, d'accordo? Io
+    non ho tempo.

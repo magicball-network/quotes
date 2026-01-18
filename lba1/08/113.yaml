@@ -1,4 +1,18 @@
+textId: 119
 location:
 speaker:
 message: You know, the holomap is activated by the "H" key. And you'd better try
   to get it back or buy another one at the bazaar on Principal Island.
+fr:
+  message: Au fait l'holomap c'est la touche " H " ! Et il faut penser à la
+    récupérer ou alors à en acheter une au bazar de l'île Principale.
+de:
+  message: Übrigens, die Taste " H " steht für Holomap ! Denk dran ihn zu
+    ergattern oder einen auf dem Bazar der Hauptinsel zu kaufen.
+es:
+  message:
+    ¡En efecto el holomapa es la tecla"H"! Hay que pensar en recuperarlo o
+    si no en comprar uno en el bazar de la isla Principal.
+it:
+  message: A proposito, l'holomap è il tasto " H ". Faresti meglio a recuperarla
+    oppure ad acquistarne una al bazaar dell'Isola Principale.

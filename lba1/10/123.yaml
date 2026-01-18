@@ -1,5 +1,20 @@
+textId: 132
 location:
 speaker:
 message: Did you know that a wise guy dumped some syrup into the island's water
   supply? I'd like to find that guy so that I can give him a piece of my mind.
   You wouldn't happen to know him, would you?
+fr:
+  message: Figurez-vous qu'un petit malin a versé du sirop dans le réseau d'eau
+    potable de l'île ! J'aimerais bien lui dire deux mots, vous le connaissez ?
+de:
+  message: Stellen Sie sich vor, ein kleiner Teufel hat Sirup in das
+    Trinkwassernetz der Insel gegossen ! Ich würde gern ein paar Worte mit ihm
+    wechseln, kennen Sie ihn ?
+es:
+  message: ¡Figúrese que un listo de esos ha vertido jarabe en la red de agua
+    potable de la isla! Me encantaría decirle dos palabras, ¿lo conoce?
+it:
+  message:
+    Si figuri, un furbacchione ha versato dello sciroppo nella rete idrica
+    dell'isola! Mi piacerebbe dirgli due parolette; lo conosce, per caso?

@@ -1,3 +1,18 @@
+textId: 7
 location:
 speaker:
 message: '"Mr. Kurtz - Retired Colonel - Specializing in non-scientific sciences"'
+fr:
+  message: '"Monsieur Kurtz - Colonel en retraite - Spécialiste des sciences non
+    scientifiques"'
+de:
+  message: '"Kurtz - General im Ruhestand - Experte für unwissenschaftliche
+    Wissenschaften"'
+es:
+  message: '"Señor Kurtz - Coronel retirado - Especialista en ciencias no científicas"'
+it:
+  message: '"Signor Kurtz - Colonnello in pensione - Specialista di scienze non
+    scientifiche"'
+pt:
+  message: '"Senhor Kurtz - Coronel Aposentado - Especialista em ciências n╞o
+    científicas"'

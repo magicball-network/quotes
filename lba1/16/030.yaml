@@ -1,3 +1,12 @@
+textId: 32
 location:
 speaker:
 message: To the harbour.
+fr:
+  message: Au port
+de:
+  message: Zum Hafen.
+es:
+  message: Al puerto.
+it:
+  message: Al porto.

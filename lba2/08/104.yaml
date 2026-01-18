@@ -1,4 +1,23 @@
+textId: 23
 location:
 speaker:
 message: Geez, the counter-clerk is as smart as ever, he never recognizes me.
   What's more, he always charges me admission.
+fr:
+  message:
+    Dites, le guichetier est toujours aussi malin, il n'arrive toujours pas
+    à me reconnaître. Et en plus, il me fait payer l'entrée.
+de:
+  message: Also wirklich, der Pförtner ist so gemein wie eh und je, er erkennt
+    mich immer noch nicht. Außerdem mußte ich Eintritt bezahlen.
+es:
+  message: Vaya, el taquillero sigue siendo igual de listo. Nunca consigue
+    reconocerme. Y, además, me hace pagar la entrada.
+it:
+  message:
+    Ditemi un po', il bigliettaio è sempre così furbo? Non mi riconosce mai
+    e mi fa anche pagare l'ingresso.
+pt:
+  message:
+    Sabe, o bilheteiro é sempre muito esperto, ele nunca me reconhece. Além
+    disso, ele me faz pagar a entrada.

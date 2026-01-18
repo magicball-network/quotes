@@ -1,3 +1,12 @@
+textId: 203
 location:
 speaker:
 message: Proxima Island
+fr:
+  message: Ile Proxima
+de:
+  message: Insel Proxima
+es:
+  message: Isla Próxima
+it:
+  message: Isola Proxima

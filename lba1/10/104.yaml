@@ -1,3 +1,12 @@
+textId: 112
 location:
 speaker:
 message: Good day, mate.
+fr:
+  message: Bonjour vieux.
+de:
+  message: Guten Tag Alter.
+es:
+  message: Buenos días viejo.
+it:
+  message: Buongiorno, amico.

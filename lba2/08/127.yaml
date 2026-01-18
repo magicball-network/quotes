@@ -1,5 +1,29 @@
+textId: 8
 location:
 speaker:
 message: You showed up at the right time. The door at the top of the stairs is
   jammed. We need to find a way to go upstairs to release it and free the bell
   which protects your tunic.
+fr:
+  message:
+    Justement, tu tombes bien. La porte du haut de l'escalier est bloquée.
+    Il faudrait trouver un moyen d'aller à l'étage pour la décoincer et libérer
+    la cloche qui protège ta tunique.
+de:
+  message: Du kommst gerade zur rechten Zeit. Die Tür oben an der Treppe klemmt.
+    Man müßte eine Möglichkeit finden, in das Stockwerk zu gelangen, um sie zu
+    öffnen und die Schutzglocke um deine Tunika zu heben.
+es:
+  message:
+    Pues me vienes de maravilla. Llegas justo a punto. La puerta de arriba
+    de la escalera está bloqueada. Habría que encontrar un sistema para subir a
+    desbloquearla y liberar la campana que protege la túnica..
+it:
+  message:
+    Perfetto, arrivi al momento giusto. La porta in alto, sopra le scale, è
+    bloccata. Bisognerebbe trovare il modo di andare al piano di sopra per
+    sbloccarla e liberare la calotta che protegge la tua tunica.
+pt:
+  message: Você chegou em boa hora. A porta do alto da escada está bloqueada. É
+    preciso encontrar um meio de ir àquele andar para desbloqueá-la e levantar a
+    redoma que protege a túnica.

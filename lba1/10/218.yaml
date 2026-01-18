@@ -1,3 +1,14 @@
+textId: 235
 location:
 speaker:
 message: Ask the librarian, he knows a lot about the history of LeBorgne.
+fr:
+  message: Demandez au bibliothécaire, il s'intéresse aussi à l'histoire de LeBorgne.
+de:
+  message: Fragen Sie den Bibliothekar, er interessiert sich auch für EinAuges
+    Geschichte.
+es:
+  message: Pregúntele al bibliotecario, a él le interesa también la historia del
+    pirata El Tuerto.
+it:
+  message: Chieda al bibliotecario, anche lui è interessato alla storia del Guercio.

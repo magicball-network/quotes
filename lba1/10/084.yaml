@@ -1,3 +1,4 @@
+textId: 91
 location:
 speaker:
 message: "You know Julia? She is a nice girl. She watches a bit too much TV, but
@@ -5,3 +6,29 @@ message: "You know Julia? She is a nice girl. She watches a bit too much TV, but
   islet in front of my house. It is too shallow for a boat to get there by
   water, and since the bridge leading to the islet has collapsed, the only way
   to get there is to fly."
+fr:
+  message:
+    "Tiens, vous connaissez Julia ? C'est une gentille fille. Elle regarde
+    un peu trop la télé mais il y a du vrai dans son histoire : quelqu'un a
+    oublié une boîte à trêfle sur l'îlot devant ma maison. Le fond est trop haut
+    pour un bateau, alors il faudrait voler pour y aller maintenant que le pont
+    s'est écroulé."
+de:
+  message: "Soso, Sie kennen Julia ? Das ist ein nettes Mädchen. Sie sieht ein
+    bißchen zuviel fern, aber an Ihrer Geschichte ist schon etwas dran : jemand
+    hat ein Kleeblatt-Kästchen auf der kleinen Insel vor meinem Haus vergessen.
+    Das Wasser ist für ein Boot nicht tief genug, deshalb müßte man fliegen
+    können, da die Brücke eingestürzt ist."
+es:
+  message: "Mire, ¿Conoce Ud. a Julia? Es una muchacha amable. Mira un poco
+    demasiado la tele, pero hay algo verdadero en su historia: alguien olvidó
+    una caja de tréboles en el islote delante de mi casa. El fondo es demasiado
+    alto para un barco, habría que volar para ir ahora que el puente se ha
+    derrumbado."
+it:
+  message:
+    "Ah sì, conosce Giulia? E' una ragazza a modo. Guarda un po' troppo la
+    tele, ma nella sua storia c'è del vero: qualcuno ha dimenticato una scatola
+    per trifogli sull'isolotto di fronte a casa mia. Il fondale è troppo basso
+    per raggiungerlo con una barca, bisognerebbe poter volare, ora che il ponte
+    è crollato."

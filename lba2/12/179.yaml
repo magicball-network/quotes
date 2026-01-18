@@ -1,3 +1,14 @@
+textId: 75
 location:
 speaker:
 message: Sorry Twinsen, but I don't know where it is.
+fr:
+  message: Désolé Twinsen, mais je ne sais pas où elle se trouve.
+de:
+  message: Tut mir leid, Twinsen, ich weiß nicht, wo sie ist.
+es:
+  message: Lo siento Twinsen, pero no sé dónde se encuentra.
+it:
+  message: Mi dispiace Twinsen ma non so dove si trova.
+pt:
+  message: Sinto muito, Twinsen, mas eu n╞o sei onde ela fica.

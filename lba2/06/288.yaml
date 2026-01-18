@@ -1,3 +1,14 @@
+textId: 901
 location:
 speaker:
 message: Detail-packed 3D isometric interior rendering mode.
+fr:
+  message: Mode de représentation Intérieur en 3D Isométrique fourmillant de détails
+de:
+  message: Darstellungsmodus innen in 3D Isometrisch, vollgespickt mit Details.
+es:
+  message: Modo de representación interior en 3D isométrica repleta de detalles.
+it:
+  message: Modalità di rappresentazione interna in 3D isometrica, ricca di particolari.
+pt:
+  message: Mode de représentation Intérieur en 3D Isométrique fourmillant de détails

@@ -1,3 +1,12 @@
+textId: 207
 location:
 speaker:
 message: Don't know!
+fr:
+  message: Connais pas !
+de:
+  message: Kenn ich nicht !
+es:
+  message: ¡Lo desconozco!
+it:
+  message: Non lo so!

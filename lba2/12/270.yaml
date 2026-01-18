@@ -1,3 +1,20 @@
+textId: 767
 location:
 speaker:
 message: Wizards? Those fellows with the funny hats? Nope, I didn't see any!
+fr:
+  message: Les mages c'est les bonhommes avec les chapeaux rigolos ? Ah ben non,
+    j'en ai pas vus !!
+de:
+  message: Sind Magier diese lustigen Männer mit den ulkigen Hüten? Nein, dann
+    hab' ich keine gesehen.
+es:
+  message: ¿Los magos son esos personajes que llevan unos sombreros muy
+    divertidos? ¡¡Pues no, no he visto a ninguno!!
+it:
+  message:
+    I maghi sono quei tipi con dei cappelli buffi ? Ah... ehm... no, non ne
+    ho visti !!
+pt:
+  message: Os magos s╞o aqueles homenzinhos com um chapéu engraçado ? Ah n╞o, eu
+    n╞o vi !!

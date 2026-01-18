@@ -1,3 +1,4 @@
+textId: 1
 location:
 speaker:
 message: >-
@@ -10,3 +11,47 @@ message: >-
 
   Good bye, you will never realize the prophecy because I will be the one who
   encounters Sendell and I will inherit her powers.
+fr:
+  message: >-
+    Ne pouvant détruire la pierre, j'ai bâti ma forteresse autour pour la
+    dissimuler. A propos, il semble que tu aies détruit deux de mes usines, mais
+    peu importe ! Je vais bientôt disposer de tels pouvoirs, qu'il me suffira
+    d'un instant pour cloner ou téléporter la totalité des habitants de la
+    planète. Je pourrai aussi te faire revivre indéfiniment les pires moments de
+    ton existence ...
+
+    Adieu, tu ne réaliseras jamais la prophétie car c'est moi qui vais rejoindre
+    Sendell et je vais hériter de ses pouvoirs.
+de:
+  message: >-
+    Da ich den Stein nicht zerstören konnte, habe ich meine Festung ringsum
+    errichtet, um ihn zu verbergen. A propos, es scheint Du hättest zwei meiner
+    Fabriken zerstört, aber das macht nichts ! Ich werde bald über solche Mächte
+    vefügen, daß ich im Handumdrehen alle Bewohner des Planeten klonen oder
+    biemen kann. Ich könnte Dich auch ständig die schlimmsten Erlebnisse Deines
+    Lebens durchstehen lassen ...
+
+    Adieu, Du wirst die Prophezeiung niemals erfüllen, weil ich es sein werde,
+    der zu Sendell stoßen und ihre Macht erben wird.
+es:
+  message: >-
+    No pudiendo destruir la piedra, he construido mi fortaleza alrededor para
+    disimularla. A propósito, parece que has destruido dos de mis fábricas,
+    ¡pero poco importa! Dentro de poco voy a disponer de tales poderes, que me
+    bastará un instante para clonar o teleportar la totalidad de los habitantes
+    del planeta. Podré también hacerte revivir indefinidamente los peores
+    momentos de tu existencia...
+
+    Adiós, no realizarás jamás la profecía ya que soy yo el que voy a reunirme
+    con Sendell, y voy a heredar sus poderes.
+it:
+  message: >-
+    Non potendo distruggere la Pietra, ho costruito attorno ad essa la mia
+    fortezza per nasconderla. A proposito, pare che tu abbia distrutto due delle
+    mie fabbriche, ma non fa niente. Presto avrò poteri tali per cui mi basterà
+    un secondo per clonare o teletrasportare tutti gli abitanti del pianeta. E
+    potrò anche farti rivivere all'infinito i peggiori momenti della tua
+    esistenza...
+
+    Addio; non realizzerai mai la profezia, perché sarò io e e non tu a
+    raggiungere Sendell e a ereditarne i poteri.

@@ -1,5 +1,28 @@
+textId: 260
 location:
 speaker:
 message: Thank you for saving us, Twinsen. It is FunFrock who has chained us to
   this machine. He is alive! He has come back!! He is impersonating Dark Monk
   and he wants to destroy Twinsun!!
+fr:
+  message:
+    Merci de nous avoir libéré Twinsen. C'est FunFrock qui nous a enchaîné
+    à cette machine. Il est vivant ! Il est revenu !! Il se fait passer pour
+    Dark Monk et il veut détruire Twinsun !!
+de:
+  message: Danke, daß du uns befreit hast, Twinsen. FunFrock hat uns an diese
+    Maschine gekettet! Twinsen, er lebt und ist wieder da! Er gibt sich als Dark
+    Monk aus und will Twinsun zerstören!!!
+es:
+  message:
+    Gracias por liberarnos, Twinsen. Funfrock fue quien nos encadenó a esta
+    máquina. ¡Está vivo! ¡¡Ha vuelto!! ¡¡Se hace pasar por Dark Monk y quiere
+    destruir Twinsun!!
+it:
+  message: Ti ringraziamo di averci aiutato Twinsen. Siamo stati incatenati a
+    questa macchina da Funfrock. E' vivo, ed è tornato !! Si fa passare per Dark
+    Monk e vuole distruggere Twinsun !!
+pt:
+  message: Obrigado por nos libertar Twinsen. Foi Funfrock que nos acorrentou
+    nessa máquina. Ele está vivo ! Ele voltou !! Ele se faz passar por Dark Monk
+    e quer destruir Twinsun !!

@@ -1,4 +1,17 @@
+textId: 113
 location:
 speaker:
 message: Snowboard. Can only be used in the Himalayi, near the ski lift. Place
   yourself in between any two flags before using.
+fr:
+  message: Snowboard. Il ne peut être employé que dans l'Hamalayi, entre deux
+    drapeaux marquant le début d'une piste.
+de:
+  message: Snowboard. Das kann nur im Hamalayi benutzt werden, zwischen zwei
+    Fähnchen die den Beginn der Strecke markieren.
+es:
+  message: Monoesquí. Se puede emplear solamente en el Hamalayi, entre dos
+    banderas que marquen el inicio de una pista.
+it:
+  message: Snowboard. Solo nell'Hamalayi, tra due bandiere che indicano l'inizio
+    di una pista.

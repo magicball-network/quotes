@@ -1,4 +1,17 @@
+textId: 32
 location:
 speaker:
 message: I don't know where they are, ask your flying animal over there. In
   fact, can you eat that animal?
+fr:
+  message: Je ne sais pas où ils sont, demandez à votre bestiau volant, là. Au
+    fait, ça se mange cet animal ?
+de:
+  message: Ich weiß nicht wo sie sind, fragen Sie ihr Vieh dort am Steuer.
+    Übrigens, läßt sich dieses Tier essen ?
+es:
+  message: No sé dónde están, pregúntele a su bestia voladora. En realidad, ¿se
+    come ese animal?
+it:
+  message: Non so dove siano, chieda alla sua bestia volante. A proposito, è
+    commestibile il suo animale?

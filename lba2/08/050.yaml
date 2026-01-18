@@ -1,6 +1,34 @@
+textId: 407
 location:
 speaker:
 message: '"In the secret room, in the center of the sewers, there is an
   enchanted globe. The Weather Wizard put it there. According to him, it has to
   do with the Prophecy of Sendell. I preferred to lock this room : it can be
   opened only with the small pyramid."'
+fr:
+  message: '" Dans la pièce secrète, au centre des égouts, se trouve un globe
+    enchanté. C''est le mage météo qui l''a mis là. D''après lui, il est en rapport
+    avec la Prophétie de Sendell. J''ai préféré verrouiller cette salle : elle ne
+    s''ouvre qu''avec la petite pyramide. "'
+de:
+  message: '"In der geheimen Kammer inmitten der Kanalisation befindet sich eine
+    Zauberkugel. Der Wettermagier hat sie dort hingestellt. Er behauptet, daß
+    sie in Zusammenhang mit Sendells Weissagung steht. Ich habe den Raum
+    vorsichtshalber abgeschlossen: Er läßt sich nur mit der kleinen Pyramide
+    öffnen."'
+es:
+  message:
+    '"En el cuarto secreto, en medio de las cloacas, se encuentra el globo
+    encantado. El mago meteo fue quien lo puso ahí. Según él está relacionado
+    con la Profecía de Sendell. He preferido dejar esta habitación cerrada; sólo
+    se puede abrir con la pequeña pirámide."'
+it:
+  message: '"Nella stanza segreta, al centro delle fognature, si trova un globo
+    magico. Lo ha messo il mago meteorologico. Secondo lui, il globo ha un
+    rapporto con la Profezia di Sendell. Ho preferito bloccare questa sala : si
+    apre solo con la piccola chiave piramidale. "'
+pt:
+  message: '" No quarto secreto, no meio dos esgotos, se encontra um globo
+    encantado. Foi o Mago do Tempo que o colocou ali. Segundo ele, o globo está
+    relacionado com a Profecia de Sendell. Eu preferi trancar esta sala: ela só
+    pode ser aberta com a pequena pirâmide. "'

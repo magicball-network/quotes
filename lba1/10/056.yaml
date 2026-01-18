@@ -1,4 +1,19 @@
+textId: 62
 location:
 speaker:
 message: I don't know if I can help you. I am a locksmith and I can open
   doors... but only for people that I can trust!
+fr:
+  message:
+    Je ne sais si je peux t'aider. Je suis serrurier et je peux ouvrir bien
+    des portes mais ... juste aux gens de confiance !
+de:
+  message: Ich weiß nicht, ob ich Dir helfen kann. Ich bin Schlosser und kann
+    einige Türen öffnen, aber... nur Vertrauenspersonen !
+es:
+  message: No sé si puedo ayudarte. Soy cerrajero y puedo abrir muchas puertas,
+    pero ...¡sólo a personas de confianza!
+it:
+  message:
+    Non so se posso aiutarti. Faccio il fabbro e posso certamente aprire le
+    porte, ma... solo alle persone fidate!

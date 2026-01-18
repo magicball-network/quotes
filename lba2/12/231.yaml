@@ -1,3 +1,14 @@
+textId: 303
 location:
 speaker:
 message: Good day sir, welcome to my shop.
+fr:
+  message: Bonjour monsieur, bienvenue dans mon magasin.
+de:
+  message: Guten Tag. Willkommen in meinem Laden.
+es:
+  message: Buenos días, señor, bienvenido a mi tienda.
+it:
+  message: Buongiorno signore, benvenuto nel mio negozio.
+pt:
+  message: Bom dia senhor, bem-vindo à minha loja.

@@ -1,3 +1,14 @@
+textId: 531
 location:
 speaker:
 message: This portrait of Zoé is magnificent.
+fr:
+  message: Ce portrait de Zoé est magnifique.
+de:
+  message: Dieses Bild von Zoe ist phantastisch.
+es:
+  message: Este retrato de Zoé es estupendo.
+it:
+  message: Questo ritratto di Zoe è stupendo.
+pt:
+  message: Este retrato de Zoé é magnífico.

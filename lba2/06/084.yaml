@@ -1,3 +1,14 @@
+textId: 128
 location:
 speaker:
 message: Magic Slate
+fr:
+  message: Ardoise Magique
+de:
+  message: Zauberkreide
+es:
+  message: Pizarra Mágica
+it:
+  message: Ardesia Magica
+pt:
+  message: Ardósia Mágica

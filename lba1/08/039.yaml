@@ -1,3 +1,12 @@
+textId: 40
 location:
 speaker:
 message: Hey! You over there, come here!
+fr:
+  message: Hep ! Vous là bas, venez ici !
+de:
+  message: He ! Sie da, kommen Sie her !
+es:
+  message: ¡Eh...! ¡Usted allí, venga!
+it:
+  message: Ehi, lei, venga qui!

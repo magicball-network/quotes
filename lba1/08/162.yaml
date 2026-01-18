@@ -1,3 +1,12 @@
+textId: 169
 location:
 speaker:
 message: Sorry, I don't know where they are.
+fr:
+  message: Désolé je ne sais pas où ils sont.
+de:
+  message: Tut mir leid, ich weiß nicht wo sie sind.
+es:
+  message: Lo siento, no sé dónde están.
+it:
+  message: Spiacente, non so proprio dove siano.

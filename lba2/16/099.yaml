@@ -1,3 +1,14 @@
+textId: 295
 location:
 speaker:
 message: You came to pick up your itinerary token as well?
+fr:
+  message: Vous aussi vous êtes venu chercher votre disque de route ?
+de:
+  message: Suchen Sie auch Ihre Routenscheibe?
+es:
+  message: ¿Usted también ha venido a buscar su disco de ruta?
+it:
+  message: Anche lei è venuto a prendere il suo disco di percorso ?
+pt:
+  message: Você também veio procurar o seu disco de rota ?

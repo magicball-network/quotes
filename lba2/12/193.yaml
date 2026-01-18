@@ -1,3 +1,14 @@
+textId: 42
 location:
 speaker:
 message: Get out!
+fr:
+  message: Dehors !
+de:
+  message: Raus!
+es:
+  message: ¡Fuera!
+it:
+  message: Fuori !
+pt:
+  message: Fora !

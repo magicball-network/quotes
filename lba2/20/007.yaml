@@ -1,3 +1,14 @@
+textId: 13
 location:
 speaker:
 message: I'm trying to find the Mosquibees. Can you help me out?
+fr:
+  message: Je cherche à aller chez les mosquibees. Pourriez-vous m'aider ?
+de:
+  message: Ich möchte zu den Moskibienos. Können Sie mir helfen?
+es:
+  message: Trato de ir donde los mosquibitas ¿podría ayudarme?
+it:
+  message: Sto cercando di andare dai Moschibei. Potrebbe aiutarmi ?
+pt:
+  message: Eu quero encontrar os mosquibees. Você pode me ajudar ?

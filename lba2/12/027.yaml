@@ -1,3 +1,14 @@
+textId: 404
 location:
 speaker:
 message: Do you happen to know where he lives?
+fr:
+  message: Et vous savez où il habite ?
+de:
+  message: Wissen Sie, wo er wohnt?
+es:
+  message: ¿Y sabe usted dónde vive?
+it:
+  message: E lei sa dove abita ?
+pt:
+  message: E você sabe onde ele mora ?

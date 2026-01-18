@@ -1,5 +1,23 @@
+textId: 8
 location:
 speaker:
 message: Greetings! Our village is harassed by the mutants. But these monsters
   are not a result of the climate - they are produced in a nearby factory built
   by FunFrock.
+fr:
+  message:
+    Salut ! Notre village est harcelé par les mutants. Mais ces monstres ne
+    sont absolument pas dûs au climat, ils viennent d'une usine proche bâtie par
+    FunFrock.
+de:
+  message: Hallo ! Unser Dorf wird von Mutanten heimgesucht. Diese Monster haben
+    absolut nichts mit dem Klima zu tun, sie kommen aus einer nahstehenden
+    Fabrik, die von FunFrock errichtet wurde.
+es:
+  message: ¡Hola! Nuestro pueblo está acosado por los mutantes. Pero estos
+    monstruos no se deben en absoluto al clima, vienen de una fábrica cercana
+    construida por FunFrock.
+it:
+  message: "Salve! Il nostro villaggio è infestato dai mutanti. Ma questi esseri
+    mostruosi non sono assolutamente frutto di questo clima: vengono da una
+    fabbrica vicina, costruita da FunFrock."

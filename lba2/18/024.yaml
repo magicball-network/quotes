@@ -1,3 +1,14 @@
+textId: 145
 location:
 speaker:
 message: For 5 Zlitos, I can take you somewheres. Where do you wanna go?
+fr:
+  message: Pour 5 zlitos, je peux vous conduire quelque part. Où désirez-vous aller ?
+de:
+  message: Für 5 Zlitos kann ich Sie fahren. Wo wollen Sie hin?
+es:
+  message: Por 5 zlitos, puede llevarle a algún sitio ¿Adónde quiere ir?
+it:
+  message: Per 5 Zlitos, posso portarla da qualche parte. Dove vuole andare ?
+pt:
+  message: Por 5 zlitos, posso levá-lo a qualquer lugar. Onde você quer ir?

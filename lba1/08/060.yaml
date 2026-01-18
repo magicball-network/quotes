@@ -1,3 +1,12 @@
+textId: 65
 location:
 speaker:
 message: 10 Kashes! That's too expensive!
+fr:
+  message: 10 Kashes ! C'est trop cher !
+de:
+  message: 10 Kashes ! Das ist zu teuer !
+es:
+  message: ¡10 Kashes! ¡Es demasiado caro!
+it:
+  message: 10 Kash! Troppo caro!

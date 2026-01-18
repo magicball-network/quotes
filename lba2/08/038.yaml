@@ -1,3 +1,14 @@
+textId: 432
 location:
 speaker:
 message: '"Wizard''s lane."'
+fr:
+  message: '" Chemin du mage. "'
+de:
+  message: '"Magierweg."'
+es:
+  message: '"Camino del mago"'
+it:
+  message: '" Strada del mago"'
+pt:
+  message: '" Caminho do mago. "'

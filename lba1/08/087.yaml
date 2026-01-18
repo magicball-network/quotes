@@ -1,3 +1,12 @@
+textId: 93
 location:
 speaker:
 message: You don't have enough Kashes, come back later!
+fr:
+  message: Vous n'avez pas assez de Kashes, revenez plus tard !
+de:
+  message: Sie haben nicht genügend Kashes, kommen Sie später wieder !
+es:
+  message: ¡No tiene suficientes kashes, regrese más tarde!
+it:
+  message: Non ha abbastanza Kash. Torni più tardi!

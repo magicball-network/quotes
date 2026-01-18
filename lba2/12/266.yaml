@@ -1,3 +1,14 @@
+textId: 343
 location:
 speaker:
 message: No idea. Since I'm been here, I have not seen a single one!
+fr:
+  message: Aucune idée. Depuis que je suis ici, je n'en ai pas vu passer un seul !
+de:
+  message: Keine Ahnung. Seit ich hier bin, habe ich nicht einen einzigen mehr gesehen!
+es:
+  message: Ni idea. ¡Desde que estoy aquí, no he visto pasar a ninguno!
+it:
+  message: Non ne ho la più pallida idea. Da quando sono qui, non ne ho visti passare !
+pt:
+  message: N╞o tenho a menor idéia. Desde que estou aqui, n╞o vi passar sequer um deles!

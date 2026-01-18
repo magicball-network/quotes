@@ -1,3 +1,12 @@
+textId: 39
 location:
 speaker:
 message: Too bad!
+fr:
+  message: Tant pis !
+de:
+  message: Was soll's !
+es:
+  message: ¡Qué pena!
+it:
+  message: Pazienza!

@@ -1,3 +1,12 @@
+textId: 135
 location:
 speaker:
 message: Thanks, mate!
+fr:
+  message: Merci vieux !
+de:
+  message: Danke Alter !
+es:
+  message: ¡Gracias viejo!
+it:
+  message: Grazie, amico!

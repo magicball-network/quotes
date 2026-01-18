@@ -1,3 +1,12 @@
+textId: 2
 location:
 speaker:
 message: Stop squirming, prisoner Twinsen!
+fr:
+  message: Détenu Twinsen, cessez de vous agiter !
+de:
+  message: Häftling Twinsen, stehen Sie still !
+es:
+  message: Prisionero Twinsen, ¡deje de moverse!
+it:
+  message: Detenuto Twinsen, smetta di agitarsi!

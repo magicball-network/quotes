@@ -1,3 +1,12 @@
+textId: 195
 location:
 speaker:
 message: No. Not at all.
+fr:
+  message: Non pas du tout.
+de:
+  message: Nein, überhaupt nicht.
+es:
+  message: No, de ninguna manera.
+it:
+  message: No, assolutamente.

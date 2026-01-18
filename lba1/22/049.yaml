@@ -1,4 +1,18 @@
+textId: 56
 location:
 speaker:
 message: Ask the rabbibunny with the sunglasses who is at the entrance to
   Funky-Town, he's an informer.
+fr:
+  message: Demande au lapichon avec des lunettes de soleil qui est à l'entrée de
+    FunKy-Town, c'est un indic.
+de:
+  message:
+    Frag den Haasi mit der Sonnenbrille, der am Eingang von FunKy-Town ist,
+    das ist ein Spitzel.
+es:
+  message: Pregúntale al conejuno con gafas de sol que está a la entrada de
+    FunKy-Town, es un soplón.
+it:
+  message: Chiedi al lapinoide con gli occhiali da sole all'ingresso di
+    Funky-Town; è un informatore.

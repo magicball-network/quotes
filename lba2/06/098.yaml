@@ -1,3 +1,14 @@
+textId: 142
 location:
 speaker:
 message: Fire Magic Ball
+fr:
+  message: Balle Magique de Feu
+de:
+  message: Magischer Feuerball
+es:
+  message: Bola Mágica de Fuego
+it:
+  message: Sfera Magica di Fuoco
+pt:
+  message: Bola Mágica de Fogo

@@ -1,4 +1,19 @@
+textId: 4
 location:
 speaker:
 message: Don't jive me, my predecessor was killed in combat! Well, I guess
   that's life, huh? Shall we go?
+fr:
+  message: Ne me cache rien, mon prédécesseur est mort au combat ! Bon c'est la
+    vie hein, on y va ?
+de:
+  message: Verheimlich mir nichts, mein Vorgänger ist im Kampf gefallen ! Nun,
+    c'est la vie, gehen wir ?
+es:
+  message:
+    No me ocultes nada, mi predecesor murió en el combate. Bueno, así es la
+    vida ¿no? ¿vamos?
+it:
+  message:
+    Non nascondermi niente; il mio predecessore è morto in battaglia! E' la
+    vita, no? Andiamo.

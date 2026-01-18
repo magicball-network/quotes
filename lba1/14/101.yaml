@@ -1,3 +1,19 @@
+textId: 201
 location:
 speaker:
 message: So go in front of LeBorgne's chest, which is in the museum, and read the sign!
+fr:
+  message:
+    Alors placez-vous devant le coffre de LeBorgne qui est dans le musée et
+    lisez la pancarte !
+de:
+  message:
+    Dann stellen Sie sich vor EinAuges Truhe, die im Museum ist, und lesen
+    das Schild !
+es:
+  message:
+    Colóquese entonces delante del cofre de El Tuerto que está en el museo,
+    y ¡lea el cartel!
+it:
+  message: Allora, si metta davanti allo scrigno del Guercio, nel museo, e legga
+    la targa!

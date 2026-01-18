@@ -1,3 +1,12 @@
+textId: 0
 location:
 speaker:
 message: What are you doing here? This sector is off limits to the public.
+fr:
+  message: Que faites vous ici ? Ce secteur est interdit au public.
+de:
+  message: Was machen Sie hier ? Dieser Sektor ist für Unbefugte gesperrt.
+es:
+  message: ¿Qué hacen aquí? Este sector está prohibido al público.
+it:
+  message: Cosa ci fa qui? Questo settore è chiuso al pubblico.

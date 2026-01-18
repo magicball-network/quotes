@@ -1,3 +1,22 @@
+textId: 5
 location:
 speaker:
 message: He left work? Hmm! I'll bet he went to play his guitar by the cliffs again!
+fr:
+  message:
+    Il a quitté son poste ? Mmmh ! Je parie qu'il est encore allé jouer de
+    la guitare vers les falaises !
+de:
+  message: Er hat seinen Platz verlassen? Hmmm ... ich wette, er ist zu den
+    Klippen gegangen, um dort Gitarre zu spielen!
+es:
+  message:
+    ¿Que ha abandonado su puesto? ¡Mmmh! ¡Me apuesto lo que sea a que se ha
+    ido otra vez a tocar la guitarra a los acantilados!
+it:
+  message: Ha lasciato il suo posto ? Humm ! Scommetto che è andato ancora a
+    suonare la chitarra dalle parti della scogliera !
+pt:
+  message:
+    Ele abandonou seu posto ? Humm ! Aposto que foi tocar viol╞o outra vez
+    perto do penhasco !

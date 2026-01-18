@@ -1,5 +1,25 @@
+textId: 235
 location:
 speaker:
 message: This key will allow you to open the doors of the passage, whose
   entrance is in the village of the Mosquibees, and which will allow you to go
   up to islet CX.
+fr:
+  message: Cette clé te permettra d'ouvrir les portes du passage, dont l'entrée
+    est dans le village des mosquibees, et qui te permettra de remonter jusqu'à
+    l'îlot CX.
+de:
+  message:
+    Mit diesem Schlüssel kannst du die Türen zum Gang öffnen, der zur Insel
+    CX führt. Der Eingang befindet sich im Dorf der Moskibienos.
+es:
+  message: Esta llave te permitirá abrir las puertas del pasadizo cuya entrada
+    está en el pueblo de los Mosquibitas y que te permitirá subir hasta el
+    islote CX.
+it:
+  message:
+    Questa chiave ti permetterà di aprire le porte del passaggio che risale
+    fino all' isolotto CX e la cui entrata si trova nel paese dei Moschibei.
+pt:
+  message: Com essa chave você abrirá as portas da passagem que sai da vila dos
+    mosquibees e leva até a Ilhota CX.

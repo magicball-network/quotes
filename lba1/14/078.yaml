@@ -1,3 +1,12 @@
+textId: 78
 location:
 speaker:
 message: Oh yes, it's great!
+fr:
+  message: Oh oui, c'est royal !
+de:
+  message: Oh ja, fürstlich !
+es:
+  message: ¡Ah sí, es magnífico!
+it:
+  message: Oh, che splendore!

@@ -1,4 +1,21 @@
+textId: 241
 location:
 speaker:
 message: This is where we calculate the flight plans for the shuttles. You have
   no business being in here!!
+fr:
+  message: Ecoutez, ici nous établissons le plan de vol des navettes. Alors vous
+    n'avez rien à faire ici !!
+de:
+  message: Hören Sie, wir stellen gerade den Flugplan für die Raumschiffe
+    zusammen, Sie haben hier also nichts verloren!
+es:
+  message:
+    ¡¡Oiga, aquí es donde planificamos el orden de vuelo de las naves; así
+    que no puede estar aquí!!
+it:
+  message: Senta, in questo posto si mettono a punto i piani di volo delle
+    navette. Allora lei non ha niente da fare qui !!
+pt:
+  message: Escute, aqui nós estabelecemos o plano de vôo das naves. Você n╞o tem
+    nada o que fazer aqui !!

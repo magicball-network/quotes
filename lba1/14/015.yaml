@@ -1,5 +1,22 @@
+textId: 14
 location:
 speaker:
 message: '" Rear starboard propeller of the FunFrock 2. It was lost when the
   ship was launched from Principal island. The boat ran out of gas three days
   later, and finally stopped turning around in circles. "'
+fr:
+  message: '" Hélice arrière droite du FunFrock 2. Perdue en rade de l''île
+    Principale lors du lancement du bâtiment. Trois jours plus tard, le navire à
+    court de carburant arrêta de tourner en rond. "'
+de:
+  message: '" Rechte Schiffschraube des FunFrock 2. In der Reede der Hauptinsel
+    während des Stapellaufs verlorengegangen. Drei Tage später, nachdem dem
+    Schiff der Kraftstoff ausging, hörte es auf sich im Kreis zu drehen. "'
+es:
+  message: '"La hélice trasera del FunFrock 2. Perdida en la bahía de la isla
+    Principal en la botadura del navío. Tres días más tarde, el navío por falta
+    de combustible dejó de dar vueltas".'
+it:
+  message: '"Elica posteriore destra del FunFrock 2. Persa in rada all''Isola
+    Principale in occasione del varo. Tre giorni dopo, la nave a corto di
+    carburante cessò di girare in tondo. "'

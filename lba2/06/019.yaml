@@ -1,4 +1,20 @@
+textId: 18
 location:
 speaker:
 message: You just learned the ferryman's song. It will help you to get to
   Mosquibee Island.
+fr:
+  message: Tu viens d'apprendre la chanson du passeur. Grâce à elle, tu vas
+    pouvoir te rendre jusqu'à l'île des mosquibees.
+de:
+  message: Du hast gerade das Lied des Fährmanns gelernt. Mit diesem Lied kannst
+    Du zur Insel der Moskibienos gelangen.
+es:
+  message: Acabas de aprender la canción del barquero.
+it:
+  message: Hai imparato la canzone del traghettatore. Potrai quindi andare fino
+    all'isola dei Moschibei.
+pt:
+  message:
+    Você aprendeu a canç╞o do barqueiro. Com ela, você poderá ir até a Ilha
+    dos mosquibees.

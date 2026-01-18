@@ -1,3 +1,14 @@
+textId: 146
 location:
 speaker:
 message: Blowtron
+fr:
+  message: SarbaTron
+de:
+  message: Blasrohrpistole
+es:
+  message: CerbaTrón
+it:
+  message: Cerbotron
+pt:
+  message: Zarbatron

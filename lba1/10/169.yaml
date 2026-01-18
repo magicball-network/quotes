@@ -1,3 +1,12 @@
+textId: 181
 location:
 speaker:
 message: Calm down!
+fr:
+  message: Du calme !
+de:
+  message: Ruhe !
+es:
+  message: ¡Calma!
+it:
+  message: Calma!

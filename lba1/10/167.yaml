@@ -1,3 +1,12 @@
+textId: 179
 location:
 speaker:
 message: Sorry, I don't know what you're talking about.
+fr:
+  message: Navré, connais pas !
+de:
+  message: Tut mir leid, kenne ich nicht !
+es:
+  message: ¡Lo siento, no conozco!
+it:
+  message: Mi spiace, non lo so!

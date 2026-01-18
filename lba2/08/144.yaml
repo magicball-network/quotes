@@ -1,3 +1,4 @@
+textId: 26
 location:
 speaker:
 message: This storm...I wanted to get rid of it but the lighthouse was closed
@@ -5,3 +6,35 @@ message: This storm...I wanted to get rid of it but the lighthouse was closed
   the building where I have the view I need to utter a conjuration. It's the
   only way to stop this storm that neutralizes the island. But I need the
   lighthouse keeper.
+fr:
+  message: Cette tempête... Je n'y peux rien. J'aurais bien aimé nous en
+    débarrasser, mais le phare est fermé et je n'ai pas trouvé le gardien. Lui
+    seul peut me faire accéder au sommet du bâtiment. De là-haut, je pourrai
+    lancer une conjuration. C'est l'unique moyen de neutraliser cette tempête
+    qui isole l'île. Pas de gardien, pas de conjuration. C'est comme ça.
+de:
+  message: Dieser Sturm ... Dagegen kann ich nichts tun. Ich würde ihn nur zu
+    gerne loswerden, aber der Leuchtturm ist zu, und ich kann den Wärter nicht
+    finden. Nur er kann mich ganz nach oben lassen. Von dort oben aus kann ich
+    das Wetter beschwören. Und nur so kann man diesem Sturm, der die Insel vom
+    Rest der Welt abschneidet, ein Ende bereiten. Ohne Wärter keine Beschwörung.
+    So ist das nun mal.
+es:
+  message: Esta tempestad... Y no puedo hacer nada. Me habría gustado hacerla
+    desaparecer, pero el faro está cerrado y no he podido encontrar al guardián.
+    Sólo él puede permitirme el acceso a la cima del edificio. Desde allí arriba
+    podría lanzar un conjuro. Es la única manera de neutralizar esta tempestad
+    que deja aislada la isla. Sin guardián no hay conjuro. Así es.
+it:
+  message: Questa tempesta ... Non posso farci niente. Mi sarebbe piaciuto
+    evitarla, ma il faro è chiuso e non ho trovato il guardiano. Solo lui può
+    farmi arrivare in cima all'edificio, dove potrò lanciare uno scongiuro. E'
+    l'unico modo per neutralizzare questa tempesta che separa l'isola. Niente
+    guardiano, niente scongiuri. E' la regola.
+pt:
+  message:
+    Essa tempestade... N╞o posso fazer nada. Eu bem que gostaria de acabar
+    com ela, mas o farol está fechado e eu n╞o encontrei o guardi╞o. Só ele pode
+    me ajudar a subir no topo do farol. Lá de cima, eu poderia lançar um
+    feitiço. É o único meio de neutralizar esta tempestade que isola a ilha. Sem
+    guardi╞o, sem feitiço. N╞o tem jeito.

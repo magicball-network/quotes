@@ -1,3 +1,14 @@
+textId: 318
 location:
 speaker:
 message: A portrait of me, back when I was charged with the power of Sendell...
+fr:
+  message: C'est un portrait de moi, lorsque j'étais investi du Pouvoir de Sendell.
+de:
+  message: Das ist ein Bild von mir, als mir die Macht von Sendell übertragen wurde.
+es:
+  message: Es un retrato mío de cuando estaba investido con el Poder de Sendell.
+it:
+  message: E' un mio ritratto, all'epoca in cui ero investito del Potere di Sendell.
+pt:
+  message: Esse retrato é meu, quando eu possuía o Poder de Sendell.

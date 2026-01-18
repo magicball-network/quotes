@@ -1,4 +1,22 @@
+textId: 411
 location:
 speaker:
 message: Shut up! Are you nuts? Never mention the rebels in public! Meet me in
   my room, we can talk without danger.
+fr:
+  message: Taisez-vous !! Vous êtes fou ? Ne parlez jamais des dissidents en
+    public ! Rejoignez-moi dans ma chambre, nous en parlerons sans risques.
+de:
+  message: Sind Sie wohl still!??! Sie sind ja übergeschnappt! Sprechen Sie nie
+    öffentlich von den Rebellen! Kommen Sie mit in mein Zimmer, dort können wir
+    uns unterhalten, ohne daß uns jemand hören kann.
+es:
+  message: ¡¡Cállese!! ¿Está usted loco? ¡No hable nunca de los disidentes en
+    público! Reúnase conmigo en mi habitación y allí hablaremos sin problema.
+it:
+  message:
+    Stia zitto !! E' pazzo , Non parli mai dei dissedenti in pubblico ! Mi
+    raggiunga nella mia camera, potremo parlarne senza rischiare.
+pt:
+  message: Fique quieto !! Está maluco ? Nunca fale dos rebeldes em público !
+    Venha comigo para o meu quarto, falaremos disso em segurança.

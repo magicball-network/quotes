@@ -1,3 +1,14 @@
+textId: 551
 location:
 speaker:
 message: Crystal.
+fr:
+  message: Cristal.
+de:
+  message: Kristall.
+es:
+  message: Cristal.
+it:
+  message: Cristallo.
+pt:
+  message: Cristal.

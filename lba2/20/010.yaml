@@ -1,3 +1,16 @@
+textId: 17
 location:
 speaker:
 message: Hey! how can I find the Queen of the Mosquibees?
+fr:
+  message: Sais-tu comment je peux faire pour trouver la Reine des mosquibees ?
+de:
+  message:
+    Kannst du mir sagen, was ich tun muß, um die Königin der Moskibienos zu
+    finden?
+es:
+  message: ¿Sabes dónde puedo encontrar a la reina de los mosquibitas?
+it:
+  message: Sai come posso fare per trovare la Regina dei Moschibei ?
+pt:
+  message: Você sabe como devo fazer para encontrar a Rainha dos mosquibees ?

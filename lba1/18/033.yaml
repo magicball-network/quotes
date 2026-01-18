@@ -1,3 +1,12 @@
+textId: 34
 location:
 speaker:
 message: I'm looking for the plans for the Teleportation Center.
+fr:
+  message: Je cherche les plans du Centre de Téléportation.
+de:
+  message: Ich suche die Pläne des Biemzentrums.
+es:
+  message: Busco los planos del Centro de Teleportación.
+it:
+  message: Cerco le mappe del Centro di Teletrasporto.

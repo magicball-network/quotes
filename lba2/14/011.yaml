@@ -1,4 +1,20 @@
+textId: 511
 location:
 speaker:
 message: Hey, Twinsen, take this translator, and you will conveniently
   understand the language of Zeelich!!
+fr:
+  message: Tiens Twinsen, prend ce traducteur, et tu comprendras le langage de
+    Zeelich !!
+de:
+  message: Hier, Twinsen, nimm den Kommunikator, damit kannst du die Sprache der
+    Zeelicher verstehen!
+es:
+  message: ¡¡Toma Twinsen, coge este traductor y entenderás el lenguaje de Zeelich!!
+it:
+  message: Tieni Twinsen, prendi questo traduttore e potrai capire la lingua
+    parlata su Zeelich !!
+pt:
+  message:
+    Toma Twinsen, pegue esse tradutor, assim você irá entender a língua de
+    Zeelich !!

@@ -1,3 +1,14 @@
+textId: 206
 location:
 speaker:
 message: Hello, Twinsen.
+fr:
+  message: Hello Twinsen.
+de:
+  message: Hallo, Twinsen.
+es:
+  message: Hola Twinsen.
+it:
+  message: Hello Twinsen.
+pt:
+  message: Alô, Twinsen.

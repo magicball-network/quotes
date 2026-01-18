@@ -1,4 +1,20 @@
+textId: 125
 location:
 speaker:
 message: Coffee Pot. You must return it to one Lanktir who lives next to the
   bazaar on Proxima island.
+fr:
+  message:
+    Cafetière. Il faut la rendre à un certain Lanktir, qui habite à coté du
+    bazar sur l'île Proxima.
+de:
+  message:
+    Kaffeekanne. Sie muß einem gewissen Lanktir zurückgebracht werden, der
+    neben dem Bazar auf der Insel Proxima wohnt.
+es:
+  message: Cafetera. Hay que devolverla a un tal Lanktir que vive al lado del
+    bazar en la isla Próxima.
+it:
+  message:
+    Caffettiera. Bisognerà restituirla a un certo Lanktir che abita vicino
+    al bazar sull'isola Proxima.

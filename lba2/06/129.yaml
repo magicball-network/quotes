@@ -1,4 +1,24 @@
+textId: 218
 location:
 speaker:
 message: If you sing it at the end of the ferryman's wharf, you will see him
   emerge from the mist and come to offer to take you to another island.
+fr:
+  message:
+    Si tu la chantes au bout de la jetée du passeur, tu le verras sortir de
+    la brume et venir vers toi, pour te proposer de t'emmener sur une autre île.
+de:
+  message: Wenn du dich ans Ende des Landestegs des Fährmanns stellst und dieses
+    Lied singst, kommt der Fährmann aus dem Nebel auf dich zu und bietet dir an,
+    dich auf eine andere Insel zu bringen.
+es:
+  message: Si la cantas al borde del muelle del barquero lo verás salir de la
+    niebla y venir hacia ti para ofrecerse a llevarte a otra isla.
+it:
+  message:
+    Se la canti in fondo al molo del traghettatore, lo vedrai uscire dalla
+    coltre di nebbia e venire verso di te per proporti di portarti su un'altra
+    isola.
+pt:
+  message: Se você a cantar na ponta do píer, ele sairá da neblina virá na sua
+    direç╞o, e se oferecerá para levá-lo até a outra ilha.

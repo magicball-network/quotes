@@ -1,4 +1,19 @@
+textId: 226
 location:
 speaker:
-message: I'm a huge STAR WARS™ fan. The saga's sequel should be released soon,
+message: I'm a huge STAR WARS┐ fan. The saga's sequel should be released soon,
   so I already reserved my seat in the movie theater!
+fr:
+  message: Je suis un fan de STAR WARS┐. Normalement le prochain épisode de la
+    saga doit bientôt sortir, alors j'ai déjà réservé ma place dans la salle de
+    projection !
+de:
+  message: Ich bin ein Fan von STAR WARS┐. Die nächste Folge der Saga erscheint
+    demnächst, darum habe ich bereits meinen Platz im Vorführraum reserviert !
+es:
+  message: ¡Soy un fanático de STAR WARS┐. Normalmente el próximo episodio de la
+    saga debe salir pronto, y yo ya he reservado mi butaca en la sala de
+    proyección!
+it:
+  message: Sono un fan di GUERRE STELLARI┐. Fra poco uscirà il prossimo episodio
+    della saga, quindi ho già prenotato un posto in sala!

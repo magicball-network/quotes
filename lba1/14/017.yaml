@@ -1,3 +1,17 @@
+textId: 16
 location:
 speaker:
 message: '" Loan shark. This species of shark belongs to the movie producer family. "'
+fr:
+  message: '" Requin financier. Ce spécimen de squale est de la famille des
+    producteurs cinématographiques. "'
+de:
+  message: '" Finanzhai. Dieses Haifischexemplar gehört zur Familie der
+    Filmproduzenten. "'
+es:
+  message:
+    '"Rapaz financiero. Este espécimen es de la familia de los productores
+    cinematográficos."'
+it:
+  message: '"Squalo finanziario. Questo esemplare appartiene alla famiglia dei
+    produttori cinematografici. "'

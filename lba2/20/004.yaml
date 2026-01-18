@@ -1,3 +1,14 @@
+textId: 10
 location:
 speaker:
 message: Do you know where the Mosquibee village is at?
+fr:
+  message: Vous savez où se trouve le village des mosquibees ?
+de:
+  message: Wissen Sie, wo das Dorf der Moskibienos liegt?
+es:
+  message: ¿Sabe usted dónde está el pueblo de los mosquibitas?
+it:
+  message: Sa dove si trova il paese dei Moschibei ?
+pt:
+  message: Você sabe onde fica a vila dos mosquibees ?

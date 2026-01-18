@@ -1,3 +1,14 @@
+textId: 337
 location:
 speaker:
 message: I didn't know about this cave.
+fr:
+  message: Je ne connaissais pas l'existence de cette grotte.
+de:
+  message: Ich wußte gar nicht, daß diese Grotte existiert.
+es:
+  message: Desconocía la existencia de esta gruta.
+it:
+  message: Non conoscevo l'esistenza di questa grotta.
+pt:
+  message: Eu n╞o sabia da existência desta gruta.

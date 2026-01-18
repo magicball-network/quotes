@@ -1,3 +1,14 @@
+textId: 33
 location:
 speaker:
 message: '"Out of order, no gazogem"'
+fr:
+  message: '"Hors service - Gazogem épuisé"'
+de:
+  message: '"Außer Betrieb - GazoGem ausverkauft"'
+es:
+  message: '"Fuera de servicio - Sin existencias de gazogem"'
+it:
+  message: '"Fuori servizio - Gazogem esaurito"'
+pt:
+  message: '"Fechado - Gasógeno esgotado"'

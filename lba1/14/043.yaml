@@ -1,3 +1,12 @@
+textId: 43
 location:
 speaker:
 message: You don't have enough Kashes, see you later.
+fr:
+  message: Vous n'avez pas assez de Kashes, à plus tard.
+de:
+  message: Sie haben nicht genügend Kashes, bis später.
+es:
+  message: No tiene sufientes Kashes, hasta mas tarde.
+it:
+  message: Non ha abbastanza Kash, a più tardi.

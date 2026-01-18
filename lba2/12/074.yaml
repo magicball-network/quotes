@@ -1,3 +1,16 @@
+textId: 204
 location:
 speaker:
 message: Here! Here's the part that Zoé needs for your car.
+fr:
+  message: Tiens ! Voici la pièce dont Zoé a besoin pour votre voiture.
+de:
+  message: Hier ist das Bauteil, das Zoe noch für euer Auto braucht.
+es:
+  message: ¡Toma! Ante todo la pieza que necesita Zoé para vuestro coche.
+it:
+  message:
+    Tieni ! Intanto ecco il pezzo di ricambio di cui Zoe ha bisogno per la
+    vostra macchina.
+pt:
+  message: Toma! Aqui está a peça que Zoé precisa para o carro.

@@ -1,4 +1,18 @@
+textId: 7
 location:
 speaker:
 message: '"Long live the venerable Dr. FunFrock, the one who saved us from all
   the superstitions."'
+fr:
+  message: '" Longue vie et Gloire au vénéré Dr FunFrock, qui nous sauve des
+    superstitions. "'
+de:
+  message: '" Langes Leben und Heil dem verehrten Dr FunFrock, der uns vor dem
+    Aberglauben rettet. "'
+es:
+  message: '"Larga vida y Gloria al venerado Dr FunFrock, que nos salva de las
+    supersticiones."'
+it:
+  message:
+    '" Lunga vita e gloria al venerato Dottor FunFrock, che ci salva dalle
+    superstizioni. "'

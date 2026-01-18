@@ -1,4 +1,19 @@
+textId: 271
 location:
 speaker:
 message: I'm sorry sir you may not enter here. It is restricted to the astroport
   personnel.
+fr:
+  message: Vous ne pouvez pas entrer ici. Seul le personnel de l'astroport y est
+    autorisé.
+de:
+  message:
+    Hier dürfen Sie nicht rein. Diesen Raum darf nur das Raumhafenpersonal
+    betreten.
+es:
+  message: No puede entrar aquí. Sólo el personal del astropuerto está autorizado
+it:
+  message: Non può entrare qui. Solo il personale dell'astroporto è autorizzato.
+pt:
+  message: Você n╞o pode entrar aqui. Só os funcionários do astroporto est╞o
+    autorizados.

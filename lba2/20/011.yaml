@@ -1,3 +1,20 @@
+textId: 30
 location:
 speaker:
 message: "I went shopping. Be back soon. Signed: your housemaid."
+fr:
+  message: "Je suis sortie vous faire quelques courses, je reviens très bientôt.
+    Signé : votre employée de maison."
+de:
+  message:
+    "Gehe nur kurz einige Einkäufe machen, bin gleich zurück. Unterschrift:
+    Ihr Hausmädchen."
+es:
+  message: "He salido a hacer unos recados. vuelvo enseguida. Firmado: la asistenta"
+it:
+  message: "Sono uscita per fare un po' di spesa, torno presto. Firmato : la sua
+    donna di servizio."
+pt:
+  message:
+    "Eu saí para fazer algumas compras, volto logo. Assinado: sua empregada
+    doméstica."

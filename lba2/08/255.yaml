@@ -1,3 +1,14 @@
+textId: 93
 location:
 speaker:
 message: Last time I saw him, he was hanging around in town.
+fr:
+  message: La dernière fois que je l'ai vu, il traînait en ville.
+de:
+  message: Als ich ihn das letzte Mal gesehen habe, hing er in der Stadt herum.
+es:
+  message: La última vez que lo vi, andaba deambulando por la ciudad.
+it:
+  message: L'ultima volta che l'ho visto, stava vagabondando in città.
+pt:
+  message: A última vez em que o vi, estava perambulando pela cidade.

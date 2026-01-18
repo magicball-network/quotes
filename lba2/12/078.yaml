@@ -1,4 +1,23 @@
+textId: 216
 location:
 speaker:
 message: In spite of my powerful telescope, I saw only a couple of flying
   saucers pass behind the Moon. The Esmers must live on the hidden side.
+fr:
+  message:
+    Malgré mon puissant télescope, je n'ai vu passer que quelques soucoupes
+    derrière la Lune. Les Esmers doivent vivre sur la face cachée.
+de:
+  message: Auch mit diesem besonders guten Teleskop habe ich nur ein paar
+    fliegende Untertassen hinter dem Mond vorbeihuschen sehen. Die Esmerier
+    müssen wohl auf der anderen Seite leben.
+es:
+  message:
+    A pesar de mi potente telescopio sólo he visto pasar algunos platillos
+    por detrás de la Luna. Los esmeres deben de vivir en su cara oculta.
+it:
+  message: Anche se ho un potente telescopio, non ho visto passare che qualche
+    disco dietro la luna. Gli Esmers devono vivere sul lato nascosto.
+pt:
+  message: Apesar do meu possante telescópio, eu vi passar apenas alguns
+    discos-voadores atrás da Lua. Os Esmers devem viver na face oculta.

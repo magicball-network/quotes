@@ -1,3 +1,12 @@
+textId: 8
 location:
 speaker:
 message: You now have the Red Magnetic Card.
+fr:
+  message: Tu possèdes désormais la Carte Magnétique Rouge.
+de:
+  message: Du besitzt von nun an die rote Magnetkarte.
+es:
+  message: De ahora en adelante eres poseedor de la Tarjeta Magnética Roja.
+it:
+  message: Ora possiedi la Carta Magnetica Rossa.

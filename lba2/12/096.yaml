@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: Well, what've you learned?
+fr:
+  message: Et alors, qu'est-ce qui vous a pris ?
+de:
+  message: Und, was ist mit Ihnen los?
+es:
+  message: ¿Así que qué le ha pasado?
+it:
+  message: E allora, cosa le ha preso ?
+pt:
+  message: Mas o que foi que te deu ?

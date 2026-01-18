@@ -1,3 +1,14 @@
+textId: 541
 location:
 speaker:
 message: Space Shuttle.
+fr:
+  message: Navette de l'espace.
+de:
+  message: Raumschiff.
+es:
+  message: Nave espacial.
+it:
+  message: Veicolo spaziale.
+pt:
+  message: Nave espacial.

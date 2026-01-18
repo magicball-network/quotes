@@ -1,3 +1,14 @@
+textId: 335
 location:
 speaker:
 message: Where are you taking me, Moya?
+fr:
+  message: Où est-ce que tu m'emmène Moya ?
+de:
+  message: Wohin bringst du mich, Moya?
+es:
+  message: ¿Adónde me llevas, Moya?
+it:
+  message: Dove mi porti, Moya ?
+pt:
+  message: Para onde você está me levando, Moya ?

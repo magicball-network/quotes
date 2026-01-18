@@ -1,3 +1,12 @@
+textId: 29
 location:
 speaker:
 message: Good going, the telepods are no longer working, follow me!
+fr:
+  message: Bravo, les télépodes sont hors-service, suis-moi !
+de:
+  message: Bravo, die Biemzellen sind außer Betrieb, folge mir !
+es:
+  message: Bravo, los teléportadores están fuera de servicio, ¡sígueme!
+it:
+  message: Ottimo, i telepodi sono fuori servizio! Seguimi!

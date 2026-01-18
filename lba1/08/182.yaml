@@ -1,4 +1,20 @@
+textId: 190
 location:
 speaker:
 message: Sorry, but someone came by for the robot. Apparently, they needed it at
   a top secret construction site.
+fr:
+  message:
+    Ah désolé mais on a enlevé le robot, il paraît qu'on en a besoin sur un
+    chantier classé top-secret.
+de:
+  message:
+    Ach, tut mir leid, aber der Roboter wurde abgeholt, es scheint, daß er
+    auf einer streng geheimen Baustelle benötigt wird.
+es:
+  message:
+    Ah lo siento, pero han secuestrado el robot, parece que se necesita uno
+    en una obra clasificada top-secret.
+it:
+  message: Ah, spiacente, ma hanno portato via il robot, sembra che ne abbiano
+    bisogno in un cantiere top-secret.

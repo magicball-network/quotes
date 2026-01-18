@@ -1,3 +1,12 @@
+textId: 22
 location:
 speaker:
 message: The bottle is now empty.
+fr:
+  message: Maintenant ton flacon est vide.
+de:
+  message: Jetzt ist Deine Flasche leer.
+es:
+  message: Ahora tu frasco está vacío.
+it:
+  message: Ora il flacone è vuoto.

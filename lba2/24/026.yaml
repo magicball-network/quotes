@@ -1,4 +1,21 @@
+textId: 255
 location:
 speaker:
 message: Since everyone started looking for our fragment, I've turned the bazaar
   into a treasure hunter's shop.
+fr:
+  message: Depuis que tout le monde cherche notre fragment, j'ai transformé mon
+    bazar en magasin de chercheur de trésors !!
+de:
+  message: Seit alle unser Fragment suchen, habe ich meinen Kramladen in einen
+    Schatzsucherladen umgewandelt!
+es:
+  message: ¡¡Desde que todo el mundo anda buscando nuestro fragmento, he
+    transformado mi bazar en tienda de buscadores de tesoros!!
+it:
+  message: Da quando tutti cercano il nostro frammento, ho trasformato il mio
+    bazar in magazzino di cercatori di tesori !!
+pt:
+  message:
+    Desde que todos procuram nossa parte da chave, transformei meu bazar em
+    loja de caçador de tesouros!!

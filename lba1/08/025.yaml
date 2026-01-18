@@ -1,3 +1,12 @@
+textId: 26
 location:
 speaker:
 message: It is forbidden to use that robot !
+fr:
+  message: Il est interdit d'utiliser ce robot !
+de:
+  message: Es ist verboten diesen Roboter zu benutzen !
+es:
+  message: ¡Nadie puede utilizar ese robot!
+it:
+  message: E' vietato utilizzare questo robot!

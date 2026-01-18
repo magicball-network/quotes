@@ -1,3 +1,14 @@
+textId: 100
 location:
 speaker:
 message: Holomap
+fr:
+  message: Holomap
+de:
+  message: Holokarte
+es:
+  message: Holomapa
+it:
+  message: Holomap
+pt:
+  message: Holomapa

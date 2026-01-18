@@ -1,3 +1,12 @@
+textId: 26
 location:
 speaker:
 message: Halt. It is forbidden to touch the exhibits.
+fr:
+  message: Halte. Il est formellement interdit de toucher aux oeuvres.
+de:
+  message: Halt. Es ist ausdrücklich untersagt die Werke zu berühren.
+es:
+  message: Alto. Está formalmente prohibido tocar las obras.
+it:
+  message: Alt! E' formalmente vietato toccare le opere.

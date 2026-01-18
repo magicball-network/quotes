@@ -1,3 +1,14 @@
+textId: 35
 location:
 speaker:
 message: '"Personnel only."'
+fr:
+  message: '" Accès réservé au personnel. "'
+de:
+  message: '"Zutritt nur für Personal."'
+es:
+  message: '"Acceso reservado al personal"'
+it:
+  message: '" Accesso riservato al personale. "'
+pt:
+  message: '" Acesso restrito aos funcionários. "'

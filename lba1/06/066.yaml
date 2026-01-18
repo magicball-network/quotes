@@ -1,3 +1,12 @@
+textId: 201
 location:
 speaker:
 message: Principal Island
+fr:
+  message: Ile Principale
+de:
+  message: Hauptinsel
+es:
+  message: Isla Principal
+it:
+  message: Isola Principale

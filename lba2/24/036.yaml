@@ -1,4 +1,22 @@
+textId: 285
 location:
 speaker:
 message: This Roger de la Fontaine, he used to go pretty close to the gas. Could
   well be where he hid it, our fragment!!
+fr:
+  message:
+    Le Roger de la Fontaine, il avait bien l'habitude d'aller tout près du
+    gaz. Ça peut être que là qu'il l'a caché, not fragment !!
+de:
+  message: Dieser Holger Brunnenschein hatte die Angewohnheit, ganz nah an die
+    Gaswolke ranzugehen. Vielleicht hat er unser Fragment dort versteckt!
+es:
+  message:
+    El Roger de la Fontaine, tenía la costumbre de acercarse mucho al gas.
+    ¡¡Igual fue allí donde escondió nuestro fragmento!!
+it:
+  message: Quel Roger de la Fontaine aveva l'abitudine di andare molto vicino al
+    gas. Forse l'ha nascosto là il nostro frammento !!
+pt:
+  message: Roger de la Fontaine, ele tinha o costume de chegar bem perto do gás.
+    Acho que foi lá que ele escondeu nossa parte da chave !!

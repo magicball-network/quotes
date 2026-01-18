@@ -1,3 +1,12 @@
+textId: 234
 location:
 speaker:
 message: Sorry, I don't know what you're talking about.
+fr:
+  message: Désolé, je ne vois pas de quoi vous parlez.
+de:
+  message: Tut mir leid, ich weiß nicht wovon Sie sprechen.
+es:
+  message: Lo siento, no sé de qué habla.
+it:
+  message: Spiacente, non so di cosa stia parlando.

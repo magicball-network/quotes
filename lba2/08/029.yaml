@@ -1,3 +1,14 @@
+textId: 326
 location:
 speaker:
 message: Hello miss.
+fr:
+  message: Bonjour mademoiselle.
+de:
+  message: Guten Tag.
+es:
+  message: Buenos días, señorita.
+it:
+  message: Buongiorno signorina.
+pt:
+  message: Bom dia senhorita.

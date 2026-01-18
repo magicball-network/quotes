@@ -1,3 +1,12 @@
+textId: 8
 location:
 speaker:
 message: For 10 Kashes, where do you want to go, Twinsen ?
+fr:
+  message: Pour 10 Kashes, où veux-tu aller, Twinsen ?
+de:
+  message: Wo möchtest Du hin für 10 Kashes Twinsen ?
+es:
+  message: Por 10 Kashes, ¿Adónde quieres ir, Twinsen ?
+it:
+  message: Per 10 Kash, dove vuoi andare, Twinsen?

@@ -1,3 +1,12 @@
+textId: 113
 location:
 speaker:
 message: Bye, say hi to my cousin when you see him.
+fr:
+  message: Salut, embrasse mon cousin quand tu le verras.
+de:
+  message: Tschüs, grüß meinen Cousin von mir, wenn Du ihn siehst.
+es:
+  message: Hola, saluda a mi primo cuando lo veas.
+it:
+  message: Ciao; saluta mio cugino da parte mia, quando lo vedi.

@@ -1,3 +1,12 @@
+textId: 42
 location:
 speaker:
 message: Hold on a minute, I'm going to taste the water.
+fr:
+  message: Attendez je vais goûter l'eau.
+de:
+  message: Warten Sie, ich werde das Wasser probieren.
+es:
+  message: Espere, voy a probar el agua.
+it:
+  message: Un attimo, provo ad assaggiare l'acqua.

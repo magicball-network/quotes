@@ -1,3 +1,14 @@
+textId: 50
 location:
 speaker:
 message: I don't have enough gems.
+fr:
+  message: Je n'ai pas assez de gemmes.
+de:
+  message: Ich habe nicht genug Juwelen.
+es:
+  message: No tengo suficientes gemas.
+it:
+  message: Non ho abbastanza gemme.
+pt:
+  message: Eu n╞o tenho pedras preciosas suficientes.

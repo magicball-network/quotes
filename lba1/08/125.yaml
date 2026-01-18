@@ -1,4 +1,13 @@
+textId: 131
 location:
 speaker:
 message: Calm down quickly! If you are going to be like that, I won't speak to
   you any more.
+fr:
+  message: Mais calmez-vous enfin, si c'est comme ça je ne vous parle plus !
+de:
+  message: Nun beruhigen Sie sich endlich, sonst rede ich nicht mehr mit Ihnen.
+es:
+  message: Pero cálmese, o no le hablaré más.
+it:
+  message: Ma si calmi, insomma, se continua così non le parlo più.

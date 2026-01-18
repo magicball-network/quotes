@@ -1,3 +1,4 @@
+textId: 515
 location:
 speaker:
 message: >-
@@ -5,3 +6,33 @@ message: >-
   fare.
 
   Where do you want to go?
+fr:
+  message: >-
+    Celui qui veut franchir l'océan de feu doit en payer le prix. Quatre gemmes
+    en est le tribut.
+
+    Où veux-tu aller ?
+de:
+  message: >-
+    Wer über das Feuermeer will, muß auch den Preis dafür bezahlen. Vier
+    Edelsteine kostet die Überfahrt.
+
+    Wohin willst du?
+es:
+  message: >-
+    El que quiera franquear el océano de fuego debe pagar su precio. Cuatro
+    gemas es el tributo.
+
+    ¿Adónde quieres ir?
+it:
+  message: >-
+    Colui che vuole oltrepassare l'oceano di fuoco deve pagarne il prezzo. Il
+    tributo è di quattro gemme.
+
+    Dove vuoi andare ?
+pt:
+  message: >-
+    Aquele que quiser atravessar o oceano do fogo deve pagar o preço. Quatro
+    pedras preciosas é o preço.
+
+    Onde você quer ir ?

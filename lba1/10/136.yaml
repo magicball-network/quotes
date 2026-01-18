@@ -1,4 +1,22 @@
+textId: 145
 location:
 speaker:
 message: As you know, this is a French game, and our respect for the culinary
   arts prevents us from revealing the ingredients used in pirate recipes.
+fr:
+  message: Vous savez c'est un jeu français, alors par décence autant que par
+    respect pour la Gastronomie, on ne peut pas citer tous les ingrédients qui
+    entrent dans la composition d'une recette de cuisine pirate.
+de:
+  message: Wissen Sie, dies ist ein französisches Spiel, daher verbietet sowohl
+    der Anstand als auch der Respekt vor der Gastronomie, daß man all' die
+    Zutaten, die in einem Rezept der Piratenküche aufgeführt werden, nennt.
+es:
+  message:
+    Sabe Ud., es un juego francés, tanto por decencia como por respeto por
+    la Gastronomía, no se puede citar todos los ingredientes que entran en la
+    composición de una receta de cocina pirata.
+it:
+  message: Questo è un gioco francese, quindi per decenza e per rispetto alla
+    Gastronomia non è possibile rivelare tutti gli ingredienti che servono per
+    le ricette di cucina dei pirati.

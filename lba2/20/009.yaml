@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: No thank you, honest!
+fr:
+  message: Merci, sans façon !
+de:
+  message: Herzlichen Dank!
+es:
+  message: ¡Gracias, majete!
+it:
+  message: Grazie, senza complimenti !
+pt:
+  message: Obrigado, do coraç╞o !

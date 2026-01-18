@@ -1,5 +1,23 @@
+textId: 193
 location:
 speaker:
 message: I read some extracts from the captain's log - LeBorgne was ruthless! If
   you're still interested in the log, it's for sale at the Old Burg bazaar on
   Principal Island.
+fr:
+  message:
+    J'ai lu des passages de son livre de bord, ce LeBorgne était terrible !
+    Si ça t'intéresses, il est en vente au bazar du Vieux Bourg, sur l'île
+    Principale.
+de:
+  message: Ich habe Auszüge aus seinem Logbuch gelesen, dieser EinAuge war
+    fürchterlich ! Falls es Dich interessiert, es steht auf dem Bazar der
+    Altstadt auf der Hauptinsel zum Verkauf.
+es:
+  message:
+    He leído pasajes de su bitácora, ¡el tal El Tuerto era terrible! Si te
+    interesa está en venta en el bazar del Viejo Burgo, en la isla Principal.
+it:
+  message: "Ho letto alcuni brani del suo libro di bordo: il Guercio era
+    terribile! Se ti interessa, è in vendita al bazaar del Vecchio Borgo,
+    sull'Isola Principale."

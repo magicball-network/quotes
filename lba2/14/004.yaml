@@ -1,3 +1,14 @@
+textId: 4
 location:
 speaker:
 message: Code Operation GREEN MOON
+fr:
+  message: Code Opération GREEN MOON.
+de:
+  message: Der Code lautet Operation GREEN MOON.
+es:
+  message: Código Operación GREEN MOON
+it:
+  message: Codice Operazione GREEN MOON
+pt:
+  message: Código operaç╞o LUA VERDE

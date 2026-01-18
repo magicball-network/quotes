@@ -1,3 +1,12 @@
+textId: 177
 location:
 speaker:
 message: Sorry neighbor, I don't know what you're talking about.
+fr:
+  message: Navré voisin, je ne vois pas de quoi vous parlez.
+de:
+  message: Tut mir leid Nachbar, ich weiß nicht wovon Sie sprechen.
+es:
+  message: Lo siento vecino, no sé de qué habla.
+it:
+  message: Mi spiace, amico, ma non so proprio cosa intende dire.

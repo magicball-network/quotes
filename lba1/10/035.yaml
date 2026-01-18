@@ -1,5 +1,22 @@
+textId: 35
 location:
 speaker:
 message: So you're the one that beats up on clones? Good job! I haven't seen
   your friend but you should go see the Astronomer. He will certainly be able to
   help you.
+fr:
+  message: Alors c'est toi qui tape sur les clones ? Bravo ! Je n'ai pas vu ton
+    amie, mais tu devrais aller chez l'Astronome, il peut sûrement t'aider.
+de:
+  message: Du bist es also, der auf Klone einschlägt ? Bravo ! Ich habe Deine
+    Freundin nicht gesehen, aber Du solltest zum Astronomen gehen, der kann Dir
+    sicher helfen.
+es:
+  message:
+    Entonces, ¿eras tú el que le pegaba a los clones? ¡Bravo! No he visto a
+    tu amiga, pero deberías ir a ver al Astrónomo, seguramente él puede
+    ayudarte.
+it:
+  message:
+    Ah, sei tu quello che picchia i cloni! Complimenti! Non ho visto la tua
+    amica, ma prova a parlare con l'Astronomo, lui probabilmente potrà aiutarti.

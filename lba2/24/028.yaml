@@ -1,3 +1,14 @@
+textId: 257
 location:
 speaker:
 message: A pick-ax costs 20 Zlitos.
+fr:
+  message: Une pioche coûte 20 zlitos.
+de:
+  message: Eine Hacke kostet 20 Zlitos.
+es:
+  message: Un pico cuesta 20 zlitos.
+it:
+  message: Una zappa costa 20 Zlitos.
+pt:
+  message: Uma enxada custa 20 zlitos.

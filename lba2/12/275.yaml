@@ -1,3 +1,14 @@
+textId: 339
 location:
 speaker:
 message: Sorry, I didn't see any.
+fr:
+  message: Désolé, je n'en ai vu aucun.
+de:
+  message: Tut mir leid, ich hab' keinen gesehen.
+es:
+  message: Lo siento no he visto a ninguno.
+it:
+  message: Mi dispiace, non ne ho visti.
+pt:
+  message: Sinto muito, n╞o vi nenhum.

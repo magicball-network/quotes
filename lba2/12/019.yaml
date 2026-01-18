@@ -1,3 +1,14 @@
+textId: 494
 location:
 speaker:
 message: '"You are at Bald Mountain."'
+fr:
+  message: '"Vous êtes au Mont Chauve."'
+de:
+  message: '"Sie sind am Kahlen Berg. "'
+es:
+  message: '"Está usted en el Monte Pelado."'
+it:
+  message: '"Siete al Monte-Calvo."'
+pt:
+  message: '"Você está no Monte Careca."'

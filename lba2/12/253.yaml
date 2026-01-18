@@ -1,3 +1,14 @@
+textId: 249
 location:
 speaker:
 message: Magnificent!
+fr:
+  message: Magnifique !
+de:
+  message: Herrlich!
+es:
+  message: ¡Magnífico!
+it:
+  message: Fantastico !
+pt:
+  message: Magnífico !

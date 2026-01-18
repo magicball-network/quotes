@@ -1,3 +1,18 @@
+textId: 23
 location:
 speaker:
 message: I gotta find the Queen. Her Highness has the key of passage to island CX!!
+fr:
+  message: Je dois retrouver la Reine, c'est elle qui possède la clé du passage
+    vers l'îlot CX !!
+de:
+  message: Ich muß die Königin finden, sie hat den Schlüssel für das Eiland CX!
+es:
+  message: ¡¡Tengo que encontrar a la Reina, es ella la que tiene la llave del
+    pasadizo que lleva al islote CX!!
+it:
+  message: Devo ritrovare la Regina, solo lei ha la chiave del passaggio verso
+    l'isolotto CX !!
+pt:
+  message: Tenho que encontrar a Rainha. Ela tem a chave da passagem que leva à
+    Ilhota CX !!

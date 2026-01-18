@@ -1,3 +1,16 @@
+textId: 264
 location:
 speaker:
 message: Mr. Twinsen! Could you tell me why you're following me?!
+fr:
+  message: Monsieur Twinsen ! Pourriez vous me dire pourquoi vous me suivez ?!
+de:
+  message:
+    Herr Twinsen! Vielleicht können Sie mir einmal verraten, wieso Sie mich
+    verfolgen?!
+es:
+  message: ¡Señor Twinsen! ¡¿Podría decirme por qué me sigue?!
+it:
+  message: Signor Twinsen ! Potrebbe dirmi perché mi segue ?
+pt:
+  message: Senhor Twinsen ! Você pode me dizer por que está me seguindo?!

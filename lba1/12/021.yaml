@@ -1,3 +1,13 @@
+textId: 56
 location:
 speaker:
 message: Hello fellow elf.
+fr:
+  message: Salut frêre lutin. Si tu as toujours ta carte, j'ai un cadeau pour toi.
+de:
+  message: Hallo Bruder Kobold. Wenn Du Deine Karte noch hast, habe ich ein
+    Geschenk für Dich.
+es:
+  message: Hola hermano duende. Si sigues teniendo tu tarjeta, tengo un regalo para ti.
+it:
+  message: Salve, fratello folletto. Se hai ancora la tessera ti faccio un regalo.

@@ -1,4 +1,18 @@
+textId: 262
 location:
 speaker:
 message: You might get into trouble with the authorities if you carry this flag.
   It's a rebel's emblem.
+fr:
+  message: Avec ce drapeau vous risquez des ennuis avec les autorités. C'est un
+    emblème rebelle.
+de:
+  message:
+    Mit diesem Banner riskieren Sie Ärger mit den Ordnungskräften. Das ist
+    ein Emblem der Rebellen.
+es:
+  message: Con esa bandera corre el riesgo de buscarse problemas con las
+    autoridades. Es un emblema de los rebeldes.
+it:
+  message: Con quella bandiera rischia di avere noie con le autorità. E' un
+    emblema dei ribelli.

@@ -1,3 +1,14 @@
+textId: 125
 location:
 speaker:
 message: Slice of Tart
+fr:
+  message: Morceau de tarte
+de:
+  message: Stück Kuchen
+es:
+  message: Trozo de tarta de luciérnagas
+it:
+  message: Pezzo di torta
+pt:
+  message: Pedaço de torta

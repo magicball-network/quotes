@@ -1,3 +1,14 @@
+textId: 600
 location:
 speaker:
 message: Hello, Twinsen my friend.
+fr:
+  message: Bonjour ami Twinsen.
+de:
+  message: Hallo, Twinsen, alter Freund!
+es:
+  message: Buenos días amigo Twinsen.
+it:
+  message: Buongiorno Twinsen, amico mio.
+pt:
+  message: Bom dia, amigo Twinsen.

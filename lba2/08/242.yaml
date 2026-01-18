@@ -1,4 +1,23 @@
+textId: 406
 location:
 speaker:
 message: The gallic acid has revealed a text previously invisible. It mentions a
   small pyramid that was in my possession. Here! It's yours!
+fr:
+  message:
+    L'acide gallique a révélé un texte auparavant invisible. Il parle d'une
+    petite pyramide que j'avais en ma possession. Tiens ! Je te la donne !
+de:
+  message: Die Gallussäure hat einen Text zum Vorschein gebracht, der zuvor
+    unsichtbar war. Hier ist von der kleinen Pyramide die Rede, die ich haben
+    soll. Hier, nimm sie!
+es:
+  message:
+    El ácido gálico ha desvelado un texto antes invisible que habla de una
+    pequeña pirámide que estaba en mi poder. ¡Toma, te la doy!
+it:
+  message: L'acido gallico ha rivelato un testo non visibile prima. Parla di una
+    piccola piramide in mio possesso. Tieni ! Te la do !
+pt:
+  message: O ácido gálico fez aparecer um texto antes invisível. Ele fala de uma
+    pequena pirâmide que eu possuía. Tome ! Agora ela é sua !

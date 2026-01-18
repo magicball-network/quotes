@@ -1,4 +1,25 @@
+textId: 575
 location:
 speaker:
 message: You know, since people are scared, there are only a few shops left
   open. The Esmers are looking for you, they even had your museum closed down!
+fr:
+  message:
+    Vous savez, depuis que les gens ont peur, il ne reste plus que quelques
+    magasins ouverts. Les Esmers vous recherchent, ils ont même fait fermer
+    votre musée !
+de:
+  message: Wissen Sie, seit die Leute Angst haben, sind nur noch wenige Läden
+    geöffnet. Die Esmerier suchen Sie, sie haben sogar Ihr Museum schließen
+    lassen!
+es:
+  message: ¿Sabe? desde que la gente tiene miedo, sólo quedan algunas tiendas
+    abiertas ¡Los esmeres lo buscan, incluso han mandado cerrar su museo!
+it:
+  message:
+    Sa, da quando la gente ha paura, restano solo pochi negozi aperti. Gli
+    Esmers la cercano, hanno fatto chiudere anche il suo museo !
+pt:
+  message: Sabe, desde que as pessoas ficaram com medo, tem pouquíssimas lojas
+    abertas. Os Esmers est╞o te procurando, eles até mandaram fechar o seu museu
+    !

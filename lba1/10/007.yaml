@@ -1,3 +1,4 @@
+textId: 6
 location:
 speaker:
 message: I can't help you. Except perhaps... considering the risks you've taken,
@@ -5,3 +6,29 @@ message: I can't help you. Except perhaps... considering the risks you've taken,
   a fake red card to my brother who was living on Proxima island. He will give
   it to you if you say "Amos" to him (the location of the house is now indicated
   on your Holomap).
+fr:
+  message:
+    'Je ne peux rien faire pour toi. Sauf peut-être ... vu les risques que
+    tu as pris je peux te faire confiance. J''ai été arrêté sur cette île, mais
+    avant cela j''avais confié une fausse carte rouge à mon frère qui habite
+    l''île Proxima. Il te la donnera si tu lui dis : " Amos " (notre maison est
+    maintenant indiquée sur ton Holomap).'
+de:
+  message:
+    Ich kann nichts für Dich tun. Außer vielleicht ... bei dem Risiko, daß
+    Du eingegangen bist, kann ich Dir vertrauen. Ich bin auf dieser Insel
+    festgenommen worden, aber zuvor habe ich meinem Bruder, der auf der Insel
+    Proxima wohnt, eine falsche rote Karte anvertraut. Wenn Du ihm " Amos "
+    sagts, gibt er sie Dir (unser Haus wird nun auf Deinem Holomap angegeben).
+es:
+  message: 'No puedo hacer nada por ti. Salvo quizá ... en vista de los riesgos
+    que has tomado pueda confiar en ti. Fui arrestado en esta isla, pero antes
+    de ello, le había confiado una falsa tarjeta roja a mi hermano que vive en
+    la isla Próxima. Te la dará si le dices: "Amos" (nuestra casa está ahora
+    indicada en tu Holomapa)'
+it:
+  message: Non posso far niente per te. Forse... visto i rischi che hai corso,
+    posso rivelarti qualcosa. Sono stato arrestato su quest'isola, ma prima di
+    essere imprigionato avevo dato una carta rossa falsa a mio fratello, che
+    abita sull'Isola Proxima. Te la darà se gli dirai "Amos" (ora sulla tua
+    holomap è indicata casa nostra).

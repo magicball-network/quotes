@@ -1,3 +1,14 @@
+textId: 202
 location:
 speaker:
 message: What do you mean?
+fr:
+  message: Comment cela ?
+de:
+  message: Wie das?
+es:
+  message: ¿Cómo?
+it:
+  message: Come mai ?
+pt:
+  message: Como assim?

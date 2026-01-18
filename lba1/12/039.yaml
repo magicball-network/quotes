@@ -1,4 +1,17 @@
+textId: 76
 location:
 speaker:
 message: I don't know anything about it, but I think a while ago the library had
   some books that spoke of it.
+fr:
+  message: Je n'y connais rien, mais il paraît qu'avant à la bibliothèque, il y
+    avait des ouvrages qui en parlaient.
+de:
+  message: Davon verstehe ich nichts, aber anscheinend hat es früher in der
+    Bibliothek Werke gegeben, die davon handelten.
+es:
+  message: No sé nada, pero parece que antes en la biblioteca había obras que
+    hablaban de eso.
+it:
+  message: Non ne so niente, però sembra che alla biblioteca avessero dei libri
+    che ne parlavano.

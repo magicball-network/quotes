@@ -1,5 +1,22 @@
+textId: 77
 location:
 speaker:
 message: |-
   "Peg Leg Street
   (Principal island)"
+fr:
+  message: |-
+    " Rue du Pied-Bot
+    (Ile Principale) "
+de:
+  message: |-
+    " Klumpfuß Straße
+    (Hauptinsel) "
+es:
+  message: |-
+    "Calle Chueca
+    (Isla Principal) "
+it:
+  message: |-
+    " Via del Piè-Scarpa
+    (Isola Principale) "

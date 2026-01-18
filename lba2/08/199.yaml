@@ -1,4 +1,22 @@
+textId: 61
 location:
 speaker:
 message: These "Esmers" look quite nice, they ask lots of questions though.
   Everything interests them.
+fr:
+  message:
+    Ils ont l'air sympa ces " Esmers ", ils posent plein de questions, ils
+    s'intéressent à tout.
+de:
+  message: Ich finde diese "Esmerier" nett. Sie stellen viele Fragen und sind an
+    allem interessiert.
+es:
+  message: Parecen majos esos " esmeres ", hacen montones de preguntas, todo les
+    interesa.
+it:
+  message: Hanno l'aria simpatica questi "Esmers", fanno tante domande, si
+    interessano a tutto.
+pt:
+  message:
+    Eles parecem simpáticos estes " Esmers ", eles fazem muitas perguntas,
+    se interessam por tudo.

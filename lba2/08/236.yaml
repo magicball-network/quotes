@@ -1,4 +1,18 @@
+textId: 860
 location:
 speaker:
 message: Thank you, Twinsen. Without you, who knows what would have happened to
   our planets.
+fr:
+  message: Merci Twinsen. Sans vous, qui sait ce qu'il serait advenu de nos planètes.
+de:
+  message: Danke, Twinsen. Wer weiß, was ohne Euch mit unserem Planeten geschehen wäre.
+es:
+  message: Gracias Twinsen. Quién sabe qué habría sido de nuestros planetas sin usted.
+it:
+  message:
+    Grazie Twinsen. Senza di lei, chissà cosa sarebbero diventati i nostri
+    pianeti.
+pt:
+  message: Obrigado Twinsen. Sem você, n╞o sei o que teria acontecido com nossos
+    planetas.

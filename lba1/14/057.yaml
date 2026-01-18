@@ -1,5 +1,20 @@
+textId: 57
 location:
 speaker:
 message: Welcome, dear customer, and thank you for honoring my humble
   establishment with your presence. Move in front of the item that you desire
   and use the ACTION command.
+fr:
+  message: Bienvenue noble client et merci d'honorer mon établissement de votre
+    visite. Placez-vous contre l'article qui vous plaît et faites ACTION.
+de:
+  message:
+    Willkommen werter Kunde, Ihr Besuch ist mir eine Ehre. Stellen Sie sich
+    gegen den Artikel Ihrer Wahl und aktivieren ACTION.
+es:
+  message:
+    Bienvenido noble cliente y gracias por honrar mi establecimiento con su
+    visita. Colóquese contra el artículo que desee y pulse ACCION.
+it:
+  message: Benvenuto, nobile cliente, e grazie per farmi l'onore di visitare il
+    mio bazaar. Si metta davanti all'articolo che le interessa e prema AZIONE.

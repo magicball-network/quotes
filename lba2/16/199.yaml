@@ -1,4 +1,24 @@
+textId: 412
 location:
 speaker:
 message: You are lucky to come on behalf of Rick. The government is looking for
   the dissidents, and you are very rash. What do you want?
+fr:
+  message:
+    Vous avez de la chance de venir de la part de Rick. Les dissidents sont
+    recherchés par le gouvernement, et vous êtes très imprudent. Qu'est-ce que
+    vous voulez ?
+de:
+  message:
+    Sie haben Glück, daß Sie von Rick zu mir geschickt wurden. Die Rebellen
+    werden von der Polizei und der Regierung gesucht. Das war sehr unvorsichtig
+    von Ihnen. Was wollen Sie von mir?
+es:
+  message: Tiene suerte viniendo de parte de Rick. El gobierno busca a los
+    disidentes y usted es muy imprudente. ¿Qué quiere?
+it:
+  message: Se è Rick ad inviarlo, è fortunato. I dissidenti sono ricercati dal
+    governo, e lei è estremamente imprudente. Cosa vuole ?
+pt:
+  message: Você tem sorte de ser indicado por Rick. Os rebeldes s╞o procurados
+    pelo governo, e você é muito imprudente. O que você quer ?

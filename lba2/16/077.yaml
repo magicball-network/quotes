@@ -1,3 +1,14 @@
+textId: 231
 location:
 speaker:
 message: You have no business here, sir!!
+fr:
+  message: Vous n'avez rien à faire ici monsieur !!
+de:
+  message: Sie haben hier nichts zu suchen!
+es:
+  message: ¡¡Señor, no puede estar aquí!
+it:
+  message: Non ha niente da fare qui, signore !!
+pt:
+  message: Você n╞o tem nada o que fazer aqui, senhor !!

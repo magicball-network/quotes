@@ -1,4 +1,19 @@
+textId: 6
 location:
 speaker:
 message: Don't know who rigged the telepods, I just succeeded in picking the
   lock of my cell, and I ended up here!
+fr:
+  message: Ch'sais pas qui c'est qui a trafiqué les télépodes, je venais de
+    réussir à crocheter la serrure de ma cellule et j'aterris ici !
+de:
+  message: Null Ahnung wer an den Biemzellen rumgebastelt hat, ich hatte gerade
+    geschafft das Schloß meiner Zelle mit dem Dietrich zu öffnen, und da lande
+    ich plötzlich hier !
+es:
+  message: ¡Quién me mandó meter la mano en los teléportadores, acabo de lograr
+    violar la cerradura de mi celda, y aterrizo aquí!
+it:
+  message:
+    Non so chi abbia manomesso i telepodi, ero appena riuscito ad aprire la
+    serratura della mia cella e sono atterrato qui!

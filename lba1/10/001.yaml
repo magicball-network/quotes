@@ -1,3 +1,12 @@
+textId: 0
 location:
 speaker:
 message: Halt!
+fr:
+  message: Halte !
+de:
+  message: Halt !
+es:
+  message: ¡Alto!
+it:
+  message: Alt!

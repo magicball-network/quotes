@@ -1,5 +1,29 @@
+textId: 20
 location:
 speaker:
 message: Hi Twinsen. If you want to see Moya the turtle, you may find her at the
   small oasis or on the other side of the harbor. To call her, just ring the
   bell.
+fr:
+  message:
+    Salut Twinsen. Si tu veux voir Moya la tortue, tu peux la trouver à la
+    petite oasis ou de l'autre côté du port. Pour l'appeler, il te suffit de
+    faire sonner la cloche
+de:
+  message:
+    Hallo, Twinsen. Wenn du zu der Schildkröte Moya willst, die findest du
+    in der kleinen Oase auf der anderen Seite des Hafens. Du kannst sie rufen,
+    indem du die Glocke läutest.
+es:
+  message: Hola Twinsen. Si quieres ver a Moya, la tortuga, la encontrarás en el
+    pequeño oasis que está en el otro extremo del puerto. Para llamarla no
+    tienes más que tocar la campana.
+it:
+  message: Ciao Twinsen. Se vuoi vedere la tartaruga Moya, puoi trovarla alla
+    piccola oasi oppure all'altro lato del porto. Per chiamarla, devi
+    semplicemente suonare la campana.
+pt:
+  message:
+    Olá, Twinsen. Se você quiser ver Moya, a tartaruga, poderá encontrá-la
+    no pequeno oásis ou do outro lado do porto. Para chamá-la, basta tocar o
+    sino

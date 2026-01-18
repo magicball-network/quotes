@@ -1,3 +1,14 @@
+textId: 402
 location:
 speaker:
 message: I am looking for the healing wizard, I must treat my Dino-Fly.
+fr:
+  message: Je cherche le mage guérisseur. Je dois soigner mon Dino-Fly.
+de:
+  message: Ich suche den Heilmagier. Ich muß meinen Dinofly heilen.
+es:
+  message: Tengo que curar a mi Dino-Fly.
+it:
+  message: Devo curare il mio Dino-Fly.
+pt:
+  message: Eu procuro o Mago Curador. Eu tenho que curar o Dino-Fly.

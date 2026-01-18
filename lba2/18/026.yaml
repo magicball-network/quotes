@@ -1,3 +1,16 @@
+textId: 150
 location:
 speaker:
 message: That's it, my man, it's here. You'll find him easily, he sells souvenirs.
+fr:
+  message: Voilà mon gars, c'est ici. Tu le trouveras facilement, y vend des souvenirs.
+de:
+  message: Hier ist es, mein Junge. Er ist ganz leicht zu finden, er verkauft Souvenirs.
+es:
+  message: Ya estamos, chaval, aquí es. Lo encontrarás fácilmente. Vende recuerdos.
+it:
+  message:
+    Ecco ragazzo mio, è qui. Lo troverai facilmente, vende dei souvenir in
+    questo posto.
+pt:
+  message: Pronto moço, é aqui. Você vai achá-lo com facilidade, ele vende lembranças.

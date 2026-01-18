@@ -1,4 +1,21 @@
+textId: 225
 location:
 speaker:
 message: Here we are, Master, on our way to Zeelich! Relax, the trip will not be
   very long.
+fr:
+  message: Voilà Maître, nous sommes en route pour Zeelich ! Détendez vous, le
+    voyage ne sera pas bien long.
+de:
+  message: Nun sind wir auf dem Weg nach Zeelich, Meister! Machen Sie es sich
+    bequem, die Reise wird nicht allzu lange dauern.
+es:
+  message: Listo, Maestro, estamos rumbo a Zeelich !Póngase cómodo, el viaje no
+    será muy largo!
+it:
+  message: Ecco Maestro, siamo in viaggio verso Zeelich ! Si rilassi, il viaggio
+    non sarà lungo.
+pt:
+  message:
+    Pronto Mestre, estamos a caminho de Zeelich ! Fique sossegado, a viagem
+    n╞o será muito longa.

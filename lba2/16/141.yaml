@@ -1,5 +1,26 @@
+textId: 321
 location:
 speaker:
 message: Listen, mac. Do what you want, but don't give us trouble! Otherwise
   Riri and Momo'll twist you into a pretzel and dip you in hot cider! That's how
   we handle your type around here. You dig?
+fr:
+  message:
+    Ecoute mec. Tu fais s'que tu veux, mais tu viens pas faire de problème
+    ici ! Sinon Riri et Momo s'occuperont de toi !! ok ?
+de:
+  message:
+    Jetzt hör' mir mal gut zu. Du kannst ja tun und lassen, was du willst,
+    aber hier machst du kein Theater, verstanden? Sonst kümmern sich Riri und
+    Momo um dich, kapiert?
+es:
+  message:
+    ¡Oye tío! ¡¡Haz lo que te de la gana, pero aquí no quiero problemas! De
+    lo contrario Riri y Momo de ocuparán de ti!! ¿entendido?
+it:
+  message: Ascolta bello. Fai quello che ti pare, ma non venire qui a creare
+    problemi ! Altrimenti Riri e Momo ti fanno la festa !! Okay ?
+pt:
+  message:
+    Escute aqui cara, você faz o que quiser, mas n╞o venha causar problemas
+    aqui ! Sen╞o Riri e Momo cuidar╞o de você !! OK ?

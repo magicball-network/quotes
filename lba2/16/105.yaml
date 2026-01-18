@@ -1,6 +1,42 @@
+textId: 541
 location:
 speaker:
 message: |-
   At the palace doors, you will get a look at his personal guard.
 
   They are imperial warriors, who perform a majestic parade every day.
+fr:
+  message: >-
+    Aux portes de son palais, vous apercevrez sa garde personnelle.
+
+
+    Elle est formée par de majestueux hussards, dont l'inégalable et somptueuse
+    parade s'effectue quotidiennement.
+de:
+  message: >-
+    An den Türen seines Palastes sehen Sie seine Leibgarde.
+
+
+    Diese besteht aus den Husaren seiner Majestät, deren einzigartige und
+    prunkvolle Parade täglich stattfindet.
+es:
+  message: >-
+    A la puerta de su palacio, podrán ver a su guardia personal
+
+
+    Formada por majestuosos húsares que realizan diariamente su inigualable y
+    suntuoso desfile.
+it:
+  message: >-
+    Alle porte del suo palazzo, scorgerete la sua guardia personale.
+
+
+    E' formata da solenni ussari e la loro sontuosa e eccezionale parata ha
+    luogo tutti i giorni.
+pt:
+  message: >-
+    Nas portas do seu palácio, você notará sua guarda pessoal.
+
+
+    Ela é formada por majestosos cavaleiros, cuja inigualável e suntuosa parada
+    se repete diariamente.

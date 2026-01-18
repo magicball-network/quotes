@@ -1,5 +1,19 @@
+textId: 124
 location:
 speaker:
 message: Keypad that controls a digital locking system. Once placed on one door
   inside the Teleportation Center, it allows access to a room filled with
   Meca-Penguins.
+fr:
+  message: Digicode. Une fois placé sur une porte à l'intérieur du Centre de
+    Téléportation, il donne accès à une pièce remplie de Méca-Pingouins.
+de:
+  message:
+    Türcode. Neben einer bestimmten Tür im Innern des Biemzentrums gesetzt,
+    gibt er Zugang zu einem Raum voller Meca-Pinguine.
+es:
+  message: Teclado Numérico. Una vez colocado en una puerta dentro del Centro de
+    Teleportación, da acceso a una habitación llena de Meca-Pingüinos.
+it:
+  message: Digicode. Se viene appoggiato su una porta all'interno del Centro di
+    Teletrasporto, consente di accedere a una stanza piena di Robo-Pinguini.

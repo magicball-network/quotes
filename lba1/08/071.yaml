@@ -1,3 +1,12 @@
+textId: 77
 location:
 speaker:
 message: It is forbidden to talk about it!
+fr:
+  message: Il est interdit d'en parler !
+de:
+  message: Es ist verboten davon zu sprechen !
+es:
+  message: ¡Está prohibido hablar de esto!
+it:
+  message: E' vietato parlarne!

@@ -1,4 +1,17 @@
+textId: 570
 location:
 speaker:
 message: Ah no, I don't know where they are. In fact, it has been awhile since I
   saw any.
+fr:
+  message: Ah non, je ne sais pas où ils se trouvent. Ça fait même un moment que
+    je n'en ai pas vu.
+de:
+  message: Nein, ich weiß nicht, wo sie sind. Ich habe auch schon ziemlich lange
+    keinen mehr gesehen.
+es:
+  message: Pues no, no sé dónde están. Hace un rato que no los veo.
+it:
+  message: Ah no, non so dove si trovino. E' da un bel po' di tempo che non ne ho visti.
+pt:
+  message: Ah n╞o, eu n╞o sei onde eles est╞o. Faz tempo que eu n╞o os vejo.

@@ -1,4 +1,16 @@
+textId: 136
 location:
 speaker:
 message: Oh, so Dr. FunFrock is taking care of us now. Funny, I find it hard to
   believe that it was him.
+fr:
+  message: Oh, le Dr FunFrock prend soin de nous, pourtant ça m'étonnerait que
+    cela vienne de lui.
+de:
+  message: Oh, Dr FunFrock ist um uns besorgt, jedoch würde es mich arg wundern,
+    daß er es gewesen ist.
+es:
+  message: Oh, el Dr. FunFrock cuida de nosotros, sin embargo, me asombraría que
+    esto viniera de su parte.
+it:
+  message: Ah sì, il dottor FunFrock si prende cura di noi? Ma mi sembra strano...

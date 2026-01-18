@@ -1,4 +1,19 @@
+textId: 2
 location:
 speaker:
 message: I will at last see Sendell's face. If everything goes as planned, I'll
   make you my jester when I come back. Ha, ha, ha!
+fr:
+  message: Je vais enfin voir le visage de Sendell. Si je n'ai pas changé d'avis
+    en ressortant, je ferai de toi mon bouffon. Ha, ha, ha !
+de:
+  message: Ich werde endlich Sendells Gesicht sehen. Falls ich es mir beim
+    Hinausgehen nicht anders überlegt habe, mache ich Dich zu meinem Narren. Ha,
+    ha, ha !
+es:
+  message:
+    Por fin voy a ver el rostro de Sendell. Y si no he cambiado de opinión
+    al salir, haré de ti mi bufón. Ja ja ja!
+it:
+  message: Finalmente vedrò il volto di Sendell. Se quando esco non ho cambiato
+    idea, diventerai il mio buffone di corte, Twinsen. Ha ha ha!

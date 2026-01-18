@@ -1,3 +1,14 @@
+textId: 335
 location:
 speaker:
 message: Let's go to the lighthouse!
+fr:
+  message: Allons au phare !
+de:
+  message: Auf zum Leuchtturm!
+es:
+  message: ¡Vayamos al faro!
+it:
+  message: Andiamo al faro !
+pt:
+  message: Vamos ao Farol!

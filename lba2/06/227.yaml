@@ -1,3 +1,14 @@
+textId: 561
 location:
 speaker:
 message: Wannies' fragment.
+fr:
+  message: Fragment des blafards.
+de:
+  message: Fragment der Bleichlinge.
+es:
+  message: Fragmento de los macilentos.
+it:
+  message: Frammento dei Pallidi.
+pt:
+  message: Parte de chave dos blafards.

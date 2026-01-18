@@ -1,6 +1,36 @@
+textId: 38
 location:
 speaker:
 message: '"WANTED: The so-called "Twinsen." Master criminal - Trying to oppose
   Dark Monk and prevent the great celebration - Wears blue tunic - If you see
   him, call the police - Anyone helping bring this miscreant into custody will
   be rewarded the amount of 10,000 Zlitos."'
+fr:
+  message: '"ON RECHERCHE : le dénommé Twinsen. Grand criminel - Il tente de
+    s''opposer à Dark Monk et d''empêcher la grande célébration - Il est vêtu
+    d''une tunique bleue - Si vous l''apercevez, prévenez la police - Toute
+    dénonciation efficace se verra récompensée par la somme de 10 000 Zlitos"'
+de:
+  message:
+    '"GESUCHT: Twinsen. Gefährlicher Verbrecher - versucht, sich gegen Dark
+    Monk zu stellen und die große Feier zu verhindern - trägt eine blaue Tunika
+    - benachrichtigen Sie die Polizei, wenn Sie ihn sehen - Für Informationen,
+    die zu seiner Festnahme führen, ist eine Belohnung von 10000 Zlitos
+    ausgesetzt."'
+es:
+  message:
+    '"¡SE BUSCA! al peligroso criminal llamado Twinsen. Trata de oponerse a
+    Dark Monk e impedir la gran celebración. Viste túnica azul. Caso de verlo,
+    avisen a la policía. Todas las denuncias con fundamento serán recompensadas
+    con la cantidad de 10.000 Zlitos"'
+it:
+  message:
+    '"RICERCHIAMO : tale Twinsen, criminale - Tenta di opporsi a Dark Monk
+    e vuole impedire lo svolgimento della grande celebrazione - Indossa una
+    tunica blu - Chiunque lo veda, deve avvisare la polizia - Chiunque fornirà
+    informazioni importanti sarà ricompensato con 10.000 Zlitos".'
+pt:
+  message: '"PROCURA-SE : conhecido como Twinsen. Grande criminoso - Ele tenta
+    opor-se a Dark Monk e impedir a grande celebraç╞o - Está vestido com uma
+    túnica azul - Quem o avistar deve avisar à polícia - Qualquer denúncia bem
+    fundada será recompensada com a soma de 10.000 Zlitos"'

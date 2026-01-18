@@ -1,3 +1,14 @@
+textId: 6
 location:
 speaker:
 message: I'd like to buy some gazogem.
+fr:
+  message: Je voudrais acheter du gazogem.
+de:
+  message: Ich möchte gerne etwas GazoGem kaufen.
+es:
+  message: Quisiera comprar gazogem.
+it:
+  message: Vorrei comprare del gazogem.
+pt:
+  message: Eu queria comprar gasógeno.

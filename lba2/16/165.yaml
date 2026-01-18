@@ -1,4 +1,21 @@
+textId: 340
 location:
 speaker:
 message: I can't wait for my shift to be over, I got to go buy some gazogem at
   the service station of Otringal.
+fr:
+  message: Vivement que j'ai fini mon service, il faut que j'aille acheter du
+    gazogem à la station service d'Otringal.
+de:
+  message: Wäre doch bloß die Arbeit schon vorbei, ich muß unbedingt noch zur
+    Tankstelle von Otringal, um GazoGem zu kaufen.
+es:
+  message:
+    En cuanto acabe mi turno, tengo que ir corriendo a comprar gazogem a la
+    estación de servicio de Otringal .
+it:
+  message: Per fortuna ho finito il mio servizio... devo andare a prendere del
+    gazogem alla stazione di servizio di Otringal.
+pt:
+  message: Ainda bem que acabei o meu trabalho, preciso ir comprar gasógeno no
+    posto de Otringal.

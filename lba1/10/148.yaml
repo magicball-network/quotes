@@ -1,3 +1,12 @@
+textId: 160
 location:
 speaker:
 message: Hiiii hi ! Bbbrrfff !
+fr:
+  message: Hiiii hi ! Bbbrrfff !
+de:
+  message: Hüüüü hü ! Bbbrrfff !
+es:
+  message: ¡Hiiii hi! Bbbrrfff!
+it:
+  message: Hiiii hi ! Bbbrrfff !

@@ -1,3 +1,18 @@
+textId: 256
 location:
 speaker:
 message: Don't forget to go to the welcoming building and have your passage registered.
+fr:
+  message: N'oubliez pas de passer au bâtiment d'accueil pour faire enregistrer
+    votre passage.
+de:
+  message:
+    Vergessen Sie nicht, im Empfangsgebäude Ihre Durchfahrt registrieren zu
+    lassen.
+es:
+  message: No olvide pasar por el edificio de recepción para que registren su entrada.
+it:
+  message: Non dimenticate di passare al servizio accoglienza dell'immobile per
+    registrare il vostro passaggio.
+pt:
+  message: N╞o se esqueça de passar na recepç╞o para registrar sua entrada.

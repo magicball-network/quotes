@@ -1,3 +1,12 @@
+textId: 90
 location:
 speaker:
 message: My poor friend! I really don't know what you are talking about.
+fr:
+  message: Mon pauvre ami ! Je ne vois vraiment pas de quoi vous me parlez.
+de:
+  message: Mein armer Freund ! Ich weiß wirklich nicht wovon Sie sprechen.
+es:
+  message: ¡Mi pobre amigo! No veo realmente de qué me está hablando.
+it:
+  message: Povero amico mio! Non so di cosa mi stia parlando.

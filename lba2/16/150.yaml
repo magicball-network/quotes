@@ -1,3 +1,14 @@
+textId: 336
 location:
 speaker:
 message: You're on!
+fr:
+  message: A toi !
+de:
+  message: Du bist dran !
+es:
+  message: ¡Eso tú!
+it:
+  message: Per te !
+pt:
+  message: Sua vez !

@@ -1,3 +1,12 @@
+textId: 160
 location:
 speaker:
 message: I don't know anything about that story.
+fr:
+  message: Je ne sais rien de cette histoire.
+de:
+  message: Ich weiß nichts von dieser Geschichte.
+es:
+  message: No sé nada de esa historia.
+it:
+  message: Non so nulla di questa storia.

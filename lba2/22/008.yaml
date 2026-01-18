@@ -1,3 +1,14 @@
+textId: 102
 location:
 speaker:
 message: Hello
+fr:
+  message: Hello.
+de:
+  message: Hi.
+es:
+  message: Buenos días.
+it:
+  message: Hello
+pt:
+  message: Oi

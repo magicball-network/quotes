@@ -1,3 +1,14 @@
+textId: 9
 location:
 speaker:
 message: What? The lighthouse keeper? Ah, no! No, no I didn't see him!
+fr:
+  message: Comment ? Le gardien du phare ? Ah, non ! Non, non je ne l'ai pas vu !
+de:
+  message: Wen? Den Leuchtturmwärter? Nein, den habe ich nicht gesehen!
+es:
+  message: ¿Cómo? ¿El guardián del faro? Pues no. ¡No, no, no lo he visto!
+it:
+  message: Come ? Il guardiano del faro ? Ah, no ! No, non l'ho visto !
+pt:
+  message: Quem ? O guardi╞o do Farol ? Ah, n╞o ! N╞o, eu n╞o o vi

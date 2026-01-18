@@ -1,3 +1,16 @@
+textId: 489
 location:
 speaker:
 message: If you want to do a few laps, you should go get a car!!
+fr:
+  message: Si tu veux faire quelques tours de circuit, tu devrais aller te
+    chercher une voiture !!
+de:
+  message: Wenn du Rennen fahren willst, brauchst du erst mal 'n Auto!
+es:
+  message: ¡¡Si quieres dar unas vueltas al circuito, tendrás que ir a buscar un coche!!
+it:
+  message: Se vuoi fare qualche giro nel circuito, dovresti andare a cercare una
+    macchina !!
+pt:
+  message: Se você quiser dar algumas voltas no circuito, procure um carro!!

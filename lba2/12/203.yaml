@@ -1,4 +1,22 @@
+textId: 213
 location:
 speaker:
 message: I usually play better than that, but my back's killing me. The healer
   Ker'aooc went out and forgot to leave me some poultice.
+fr:
+  message: D'habitude je joue mieux, mais là j'ai mal au dos. Le guérisseur
+    Ker'aooc s'est absenté en oubliant de me laisser des cataplasmes.
+de:
+  message:
+    Normalerweise spiele ich besser, aber heute tut mir der Rücken weh. Der
+    Heilmagier Ker'aooc ist einfach auf und davon und hat vergessen, mir meine
+    Umschläge dazulassen.
+es:
+  message: Generalmente juego mejor, pero hoy me duele la espalda. El curandero
+    Ker'aooc se ha ido y ha olvidado dejarme las cataplasmas..
+it:
+  message: Di solito gioco meglio, ma oggi ho mal di schiena. Il guaritore
+    Ker'aooc si è assentato dimenticando di lasciarmi dei cataplasmi.
+pt:
+  message: Normalmente eu jogo melhor, mas agora estou com dor nas costas. O
+    Curador Ker'aooc foi embora e esqueceu de me deixar os analgésicos.

@@ -1,4 +1,19 @@
+textId: 275
 location:
 speaker:
 message: Wherever you go, come back soon. We are waiting for the imminent return
   of a solitary navigator, and he will sell his boat.
+fr:
+  message: Où que vous partiez, revenez vite. On attend bientôt le retour d'un
+    navigateur solitaire et il va vendre son bateau.
+de:
+  message:
+    Wohin Sie auch gehen, kommen Sie schnell wieder. Man erwartet bald die
+    Rückkehr eines einsamen Seefahrers, der wird sein Boot verkaufen.
+es:
+  message: Donde quiera que vaya, regrese pronto. Esperamos pronto el regreso de
+    un navegante solitario, y va a vender su barco.
+it:
+  message:
+    Ovunque vada, torni alla svelta. Presto tornerà un navigatore solitario
+    che venderà la sua nave.

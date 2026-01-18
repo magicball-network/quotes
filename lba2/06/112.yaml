@@ -1,5 +1,30 @@
+textId: 201
 location:
 speaker:
 message: "You can throw the Magic Ball and make it bounce in different ways: For
   that, you need the Tunic since it allows you to store Magic power that the
   Ball consumes at each throw."
+fr:
+  message:
+    "Tu peux lancer la Balle Magique en lui faisant faire toutes sortes de
+    rebonds : pour cela il te faut la Tunique car elle te permet de stocker de
+    la Magie et la Balle en consomme à chaque lancer."
+de:
+  message: Du kannst den Magischen Ball werfen und zurückprallen lassen. Dazu
+    brauchst du die Tunika, da du mit ihr Magie speichern kannst und der Ball
+    bei jedem Wurf Magie verbraucht.
+es:
+  message:
+    Puedes lanzar la Bola mágica haciéndola rebotar como desees. Para ello
+    necesitas la Túnica que te permite acumular Magia y la Bola consume cada vez
+    que se lanza.
+it:
+  message: "Puoi lanciare la Sfera Magica facendole fare qualsiasi tipo di
+    rimbalzo : per farlo hai bisogno della Tunica che ti permette di
+    immagazzinare della Magia e la Sfera ne consuma molta tutte le volte che la
+    lanci."
+pt:
+  message:
+    "Você pode lançar a Bola Mágica fazendo ela quicar de qualquer maneira:
+    para isso você precisa da Túnica pois com ela você pode armazenar magia que
+    a Bola consome a cada lançamento."

@@ -1,3 +1,14 @@
+textId: 516
 location:
 speaker:
 message: The door's jammed. We have to find some way to open it.
+fr:
+  message: La porte est bloquée. Il faudrait trouver comment l'ouvrir.
+de:
+  message: Die Tür ist blockiert. Wir müssen sie irgendwie aufbekommen.
+es:
+  message: La puerta está bloqueada. Habría que encontrar un medio para abrirla.
+it:
+  message: La porta è bloccata. Bisogna trovare il modo di aprirla.
+pt:
+  message: A porta está bloqueada. Temos que descobrir como abri-la.

@@ -1,3 +1,12 @@
+textId: 25
 location:
 speaker:
 message: Never seen them, I don't know anything about teleportation.
+fr:
+  message: Jamais vus, je ne connais rien à la téléportation.
+de:
+  message: Nie gesehen, ich verstehe nichts vom Biemen.
+es:
+  message: Nunca lo he visto, no conozco nada de teleportación.
+it:
+  message: Mai visti,; non so niente di teletrasporto.

@@ -1,3 +1,14 @@
+textId: 38
 location:
 speaker:
 message: Good day, one ticket for... Sound the alarm! It's the escapee!
+fr:
+  message: Bonjour, vous désirez un ticket pour le ... Alerte c'est l'évadé !
+de:
+  message:
+    Guten Tag, sie möchten einen Fahrschein für die ... Alarm, das ist der
+    Ausbrecher !
+es:
+  message: Buenos días, desea un boleto para el... ¡Alerta, es el evadido!
+it:
+  message: Buongiorno, vuole un biglietto per... Suonate l'allarme, è l'evaso!

@@ -1,5 +1,22 @@
+textId: 224
 location:
 speaker:
 message: "You know that it is forbidden to talk about that! But this is your
   lucky day: I'd most happily turn you in, but that would deprive me of a chance
   to line my pockets with your Kashes."
+fr:
+  message: Mais il est interdit d'en parler ! Vous avez de la chance, je vous
+    dénoncerai bien, mais ça me priverai du plaisir de vous extorquer des
+    Kashes.
+de:
+  message:
+    Es ist doch verboten davon zu sprechen ! Sie haben Glück, ich würde Sie
+    gerne verraten, aber das würde mich um das Vergnügen bringen Ihnen Kashes
+    abzujagen.
+es:
+  message: ¡Pero está prohibido hablar de eso! Tiene suerte, me gustaría
+    denunciarlo, pero me privaría del placer de extorsionarle algunos Kashes.
+it:
+  message:
+    Ma è vietato parlarne! E' fortunato, la denuncerei, ma così non potrei
+    estorcerle Kash.

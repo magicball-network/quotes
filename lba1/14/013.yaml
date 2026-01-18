@@ -1,3 +1,12 @@
+textId: 12
 location:
 speaker:
 message: No, museums put me to sleep.
+fr:
+  message: Non, les musées m'ennuient.
+de:
+  message: Nein, Museen langweilen mich.
+es:
+  message: No, los museos me aburren.
+it:
+  message: No, i musei mi annoiano.

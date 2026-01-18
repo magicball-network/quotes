@@ -1,6 +1,33 @@
+textId: 65
 location:
 speaker:
 message: Not being from here, I find your island rather strange. I don't
   understand why your Weather Wizard does nothing about this storm. By the way,
   do you know that it's possible to search the garbage cans, the vases and the
   closets by standing in front of them and doing "ACTION"?
+fr:
+  message: Moi qui ne suis pas d'ici, je trouve votre île bien étrange. Je ne
+    comprends pas pourquoi votre mage météo ne fait rien contre cet orage. Au
+    fait, savez-vous qu'il est possible de fouiller les poubelles, les vases et
+    les placards en vous mettant devant et en faisant " ACTION " ?
+de:
+  message: Also, ich bin ja nich' von hier. Seltsame Insel habt Ihr hier. Wieso
+    unternimmt denn Euer Wettermagier nichts gegen den Sturm? Wissen Sie
+    übrigens, daß Sie Mülleimer, Vasen und Schränke durchsuchen können, wenn Sie
+    sich davorstellen und "AKTION" drücken?
+es:
+  message: Yo, que no soy de aquí, me parece que esta isla es muy rara. No
+    entiendo por qué su mago meteo no hace nada contra esta tempestad. Por
+    cierto, ¿sabe que se puede hurgar en los cubos de la basura, los jarrones y
+    los armarios poniéndose delante y pulsando "acción"
+it:
+  message:
+    Io che non sono di qui, trovo la vostra isola così strana. Non capisco
+    perché il vostro mago metereologo non faccia niente contro questo temporale.
+    A proposito, sa che è possibile frugare le pattumiere, i vasi e gli armadi
+    mettendosi davanti e premendo il tasto "azione" ?
+pt:
+  message: Eu que n╞o sou daqui, acho a sua ilha muito estranha. Eu n╞o entendo
+    por que o seu Mago do Tempo n╞o faz nada contra essa tempestade. A
+    propósito, você sabia que é possível revistar as lixeiras, os vasos e os
+    armários se posicionando na frente deles e clicando em " AÇ╟O " ?

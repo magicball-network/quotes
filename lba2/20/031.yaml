@@ -1,3 +1,14 @@
+textId: 510
 location:
 speaker:
 message: He bothering me!!
+fr:
+  message: Y m'embête !!
+de:
+  message: Er nervt mich!
+es:
+  message: ¡¡Me está molestando!!
+it:
+  message: Mi annoio !!
+pt:
+  message: Ele me chateia !!

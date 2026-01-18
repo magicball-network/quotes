@@ -1,3 +1,14 @@
+textId: 592
 location:
 speaker:
 message: Hello to you, Twinsen !
+fr:
+  message: Bonjour à toi, Twinsen !
+de:
+  message: Guten Tag, Twinsen!
+es:
+  message: ¡Saludos a ti, Twinsen!
+it:
+  message: Buongiorno, Twinsen !
+pt:
+  message: Bom dia, Twinsen !

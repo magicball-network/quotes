@@ -1,3 +1,14 @@
+textId: 127
 location:
 speaker:
 message: Garden Balsam
+fr:
+  message: Balsamine Impatiente
+de:
+  message: Ungeduldige Balsamine
+es:
+  message: Balsamina Impaciente
+it:
+  message: Balsamina Impatiens
+pt:
+  message: Balsamina Impaciente

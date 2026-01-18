@@ -1,3 +1,14 @@
+textId: 521
 location:
 speaker:
 message: J. Baldino's House.
+fr:
+  message: Maison de J. Baldino.
+de:
+  message: Haus von J. Baldino.
+es:
+  message: Casa de J. Baldino.
+it:
+  message: Casa di G.Baldino.
+pt:
+  message: Casa de J. Baldino.

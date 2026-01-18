@@ -1,3 +1,12 @@
+textId: 186
 location:
 speaker:
 message: I don't know where they could be.
+fr:
+  message: Je ne vois pas où ils peuvent être.
+de:
+  message: Ich weiß nicht wo sie sein können.
+es:
+  message: No veo dónde pueden estar.
+it:
+  message: Non so dove potrebbero essere.

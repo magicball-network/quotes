@@ -1,5 +1,25 @@
+textId: 24
 location:
 speaker:
 message: Did you know that there is a Clear Water lake very near here. It is
   located close to the Door of the Sacred Carrot and it has a close connection
   with a prophecy.
+fr:
+  message:
+    Savais-tu qu'il y a un lac d'Eau Claire tout près d'ici ? Il est situé
+    près de la Porte Carotte Sacrée et il est en étroit rapport avec une
+    prophétie.
+de:
+  message:
+    Wußtest Du, daß es einen See Klares Wasser hier ganz in der Nähe gibt.
+    Er befindet sich neben der Tür Heilige Karotte und er steht in engem
+    Zusammenhang mit einer Prophezeiung.
+es:
+  message:
+    ¿Sabías que hay un Lago de Agua Clara cerca de aquí? Está situado cerca
+    de la Puerta de la Zanahoria Sagrada y está en estrecha relación con una
+    profecía.
+it:
+  message: Sapevi che non lontano da qui c'è un lago di Acqua Limpida? Si trova
+    vicino alla Porta della Carota Sacra, ed è strettamente connesso a una
+    profezia.

@@ -1,6 +1,29 @@
+textId: 81
 location:
 speaker:
 message: Well, well. It seems that you too have found an authentic secret map of
   Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the
   bazaar, back his coffee pot. I'm so ashamed, I should have given it back long
   ago.
+fr:
+  message:
+    Tiens, on dirait que vous aussi vous avez trouvé une authentique carte
+    secrète du Capitaine LeBorgne ! Voudriez-vous me rendre service ? Allez
+    rendre cette cafetière à Lanktir qui habite à coté du bazar. Je dois la lui
+    rapporter depuis si longtemps, j'ai honte !
+de:
+  message: Nanu, es scheint als hätten sie auch eine echte Geheimkarte des
+    Kapitäns EinAuge gefunden ! Könnten Sie mir einen Gefallen tun ? Bringen Sie
+    Lanktir diese Kaffeekanne wieder, er wohnt neben dem Bazar. Ich soll ihm sie
+    schon seit langem zurückbringen, es ist mir richtig peinlich !
+es:
+  message:
+    Mire, se diría que Ud. también encontró una auténtica carta secreta del
+    Capitán El Tuerto! ¿Quisiera hacerme un servicio? Vaya y devuelva esa
+    cafetera a Lanktir que vive al lado del bazar. Debo entregársela desde hace
+    mucho tiempo, ¡me da vergüenza!
+it:
+  message: Si direbbe che anche lei ha trovato un'autentica mappa segreta del
+    Capitano Guercio! Mi farebbe un favore? Vada a restituire questa caffettiera
+    a Lankir, che abita vicino al bazaar. E' da tanto che gliela devo rendere,
+    mi vergogno!

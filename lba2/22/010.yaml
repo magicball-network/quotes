@@ -1,3 +1,14 @@
+textId: 25
 location:
 speaker:
 message: Tourism is really big around here!
+fr:
+  message: Du tourisme, c'est joli ici !
+de:
+  message: Tourismus, es ist doch sehr schön hier!
+es:
+  message: ¡Turismo, esto es muy bonito!
+it:
+  message: Turismo ... è carino qui !
+pt:
+  message: Turismo, é bonito aqui !

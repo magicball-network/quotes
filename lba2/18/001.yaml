@@ -1,3 +1,14 @@
+textId: 5
 location:
 speaker:
 message: Are you the one who went to island CX and made it back alive?
+fr:
+  message: C'est vous qui êtes allé jusqu'à l'îlot CX et qui en êtes revenu vivant ?
+de:
+  message: Sind Sie der, der lebend vom Eiland CX zurückgekehrt ist?
+es:
+  message: ¿Usted es el que fue al islote de CX y regresó vivo?
+it:
+  message: E' lei quello che è andato fino all'isolotto CX ed è tornato vivo ?
+pt:
+  message: Foi você que foi até a Ilhota CX e voltou vivo ?

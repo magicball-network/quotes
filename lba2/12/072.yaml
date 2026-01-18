@@ -1,3 +1,15 @@
+textId: 802
 location:
 speaker:
 message: By the way, could you ask Baldino for the car-part he promised me?
+fr:
+  message: Au fait, peux tu demander à Baldino la pièce de voiture qu'il m'a promise ?
+de:
+  message: Könntest du Baldino fragen, ob er das versprochene Bauteil fürs Auto hat?
+es:
+  message: Por cierto, ¿puedes pedirle a Baldino la pieza del coche que me ha prometido?
+it:
+  message: A proposito, puoi chiedere a Baldino il pezzo di ricambio della
+    macchina che mi ha promesso?
+pt:
+  message: Será que você pode pedir para o Baldino a peça do carro que ele me prometeu ?

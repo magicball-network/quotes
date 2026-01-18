@@ -1,3 +1,12 @@
+textId: 174
 location:
 speaker:
 message: Leave me alone, I have nothing to say.
+fr:
+  message: Laissez-moi tranquille, je n'ai rien à vous dire.
+de:
+  message: Lassen Sie mich in Ruhe, ich habe Ihnen nichts zu sagen.
+es:
+  message: Déjeme tranquilo, no tengo nada que decirle.
+it:
+  message: Mi lasci in pace, non ho niente da dirle.

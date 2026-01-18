@@ -1,5 +1,23 @@
+textId: 129
 location:
 speaker:
 message: Ha, ha! You too are looking for his treasure? Well, I sure once had an
   old dusty book about LeBorgne, but a customer bought it this morning. It was a
   rabbibunny. I know that he works over at the library.
+fr:
+  message: Hé, hé ! Vous aussi vous recherchez son Trésor ? Bah, j'avais bien un
+    vieux bouquin poussiéreux à propos de LeBorgne, mais un client me l'a acheté
+    ce matin. C'était un lapichon, je sais qu'il travaille à la bibliothèque.
+de:
+  message:
+    He, he ! Sie suchen auch nach seinem Schatz ? Ha, ich hatte in der Tat
+    ein altes verstaubtes Buch über EinAuge, aber ein Kunde hat es mir heute
+    morgen abgekauft. Es war ein Haasi, er arbeitet in der Bibliothek.
+es:
+  message: ¡Je, je! ¿También Ud. está buscando su Tesoro? Bah, yo tenía un viejo
+    libro polvoriento que hablaba del pirata El Tuerto, pero un cliente me lo
+    compró esta mañana. Era un conejuno, yo sé que trabaja en la biblioteca.
+it:
+  message: Eh eh eh! Anche lei cerca il Tesoro? Boh, io avevo un vecchio e
+    polveroso libro sul Guercio, ma un cliente lo ha comprato proprio questa
+    mattina. Era un lapinoide, so che lavora alla biblioteca.

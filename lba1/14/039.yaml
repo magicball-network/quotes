@@ -1,5 +1,24 @@
+textId: 38
 location:
 speaker:
 message: I'm really happy for you, Twinsen! But my brother is being held in
   FunFrock's headquarters. His cell has a window that is right on the street. If
   you could tell me how he's doing, I will give you a red card in gratitude.
+fr:
+  message:
+    J'en suis ravi pour toi Twinsen ! Mais mon frêre est emprisonné dans le
+    Q.G. de FunFrock, la fenêtre de sa cellule donne sur la rue. Alors si tu
+    pouvais me donner de ses nouvelles, tu gagnerais une carte rouge en échange.
+de:
+  message: Das freut mich für Dich Twinsen ! Aber mein Bruder ist in FunFrocks
+    Hauptquartier gefangen, das Fenster seiner Zelle liegt auf der Straßenseite.
+    Wenn Du Nachrichten von Ihm hast, kriegst Du dafür eine rote Karte.
+es:
+  message:
+    ¡Estoy feliz por ti Twinsen! Pero mi hermano está prisionero en el C.G.
+    de FunFrock, la ventana de su celda da a la calle. Si tú pudieras darme
+    noticias de él, te ganarías una tarjeta roja a cambio.
+it:
+  message: Sono felice per te, Twinsen! Ma mio fratello è imprigionato nel
+    Quartier Generale di FunFrock, la finestra della sua cella dà sulla strada.
+    Se tu potessi darmi sue notizie, ti guadagneresti una carta rossa in cambio.

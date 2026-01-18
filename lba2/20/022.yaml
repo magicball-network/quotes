@@ -1,3 +1,14 @@
+textId: 21
 location:
 speaker:
 message: You're at the Building Company, in front of the gem mine.
+fr:
+  message: Vous êtes à la Building Company, devant la mine de gemmes.
+de:
+  message: Sie sind bei der Building Company, vor der Juwelenmine.
+es:
+  message: Está usted en la Building Company, ante la mina de gemas.
+it:
+  message: Siete alla Building Company , davanti alla miniera di gemme.
+pt:
+  message: Você está na Building Company, em frente à mina de pedras preciosas.

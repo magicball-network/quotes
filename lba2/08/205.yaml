@@ -1,3 +1,14 @@
+textId: 106
 location:
 speaker:
 message: Hey!, we need some music here!
+fr:
+  message: Pfou, ça manque de zique ici !
+de:
+  message: Ey, hier fehlt die Musik, Mann!
+es:
+  message: ¡Pufff, aquí falta algo de musiquilla!
+it:
+  message: Uffa, non c'è molta musica qui !
+pt:
+  message: Argh, está faltando um som aqui!

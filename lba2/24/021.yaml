@@ -1,6 +1,33 @@
+textId: 260
 location:
 speaker:
 message: Roger de la Fontaine, he was my brother. He was the local burgermaster
   you know, who was responsible of our fragment. Roger, he kept hiding the
   fragment somewhere without telling anyone, until the accident... Pity, he was
   eaten by a monster from the gas.
+fr:
+  message:
+    Roger de la Fontaine, c'était mon frérot. C'était le bourgmestre d'ici,
+    c'est lui qui était responsable de not fragment. Roger il cachait toujours
+    le fragment quêque part sans le dire à personne... J'suis triste passe qu'y
+    s'est fait manger par un monstre du gaz.
+de:
+  message: Holger Brunnenschein, ja, das war mein jüngerer Bruder. Er war hier
+    Bürgermeister und somit verantwortlich für unser Fragment. Er hat das Ding
+    immer irgendwo versteckt, ohne jemandem zu verraten, wo es war ... es macht
+    mich ziemlich fertig, daß er von einem Gasmonster gefressen wurde.
+es:
+  message: Roger de la Fontaine era mi hermanito. Era el burgomaestre de aquí y
+    era el responsable de nuestro fragmento. Roger siempre escondía el fragmento
+    en algún sitio sin decir ni pío a nadie... Estoy triste porque se lo ha
+    comido un monstruo del gas.
+it:
+  message: Roger de la Fontaine, era il mio fratellino. Era il borgomastro del
+    paese, e il responsabile del nostro frammento. Roger nascondeva sempre il
+    frammento da qualche parte senza dire niente a nessuno ... Sono triste
+    perchè si è fatto mangiare da un mostro del gas.
+pt:
+  message: Roger de la Fontaine, era meu irm╞o menor. Era o prefeito daqui,
+    responsável pela nossa parte da chave. Ele a escondia sempre em algum lugar
+    sem dizer a ninguém... Estou triste por que ele foi comido por um monstro do
+    gás.

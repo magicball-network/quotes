@@ -1,3 +1,12 @@
+textId: 163
 location:
 speaker:
 message: What's a Teleportation Center?
+fr:
+  message: C'est quoi un Centre de téléportation ?
+de:
+  message: Was ist das ein Biemzentrum ?
+es:
+  message: ¿Qué es un Centro de Teleportación?
+it:
+  message: Cos'è un Centro di Teletrasporto?

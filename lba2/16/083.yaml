@@ -1,4 +1,17 @@
+textId: 251
 location:
 speaker:
 message: You must vacate the premises, sir. You are disturbing the work of our
   technicians.
+fr:
+  message: Je vous prie de sortir monsieur, vous dérangez le travail de nos techniciens.
+de:
+  message: Ich muß Sie bitten, diesen Raum zu verlassen, Sie stören unsere
+    Techniker bei der Arbeit.
+es:
+  message: Le ruego que salga, señor, molesta a los técnicos que están trabajando
+it:
+  message: La prego di uscire signore, sta disturbando il lavoro dei nostri tecnici.
+pt:
+  message: Senhor, saia, por favor, você está atrapalhando o trabalho de nossos
+    técnicos.

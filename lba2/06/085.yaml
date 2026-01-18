@@ -1,3 +1,14 @@
+textId: 129
 location:
 speaker:
 message: Translator
+fr:
+  message: Traducteur
+de:
+  message: Kommunikator
+es:
+  message: Traductor
+it:
+  message: Traduttore
+pt:
+  message: Tradutor

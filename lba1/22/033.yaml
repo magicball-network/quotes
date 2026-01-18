@@ -1,3 +1,12 @@
+textId: 39
 location:
 speaker:
 message: I refuse to fight when I'm not on duty.
+fr:
+  message: Quand je ne suis pas en service, je refuse de me battre.
+de:
+  message: Ich kämpfe nicht, wenn ich nicht im Dienst bin.
+es:
+  message: Cuando no estoy de servicio, me niego a luchar.
+it:
+  message: Quando non sono in servizio, non combatto.

@@ -1,4 +1,25 @@
+textId: 209
 location:
 speaker:
 message: Everybody talks about these guys from outer space, they say they landed
   on several islands. But that should not interrupt our game.
+fr:
+  message: Tout le monde parle de ces types venus de l'espace, on dit qu'ils ont
+    atterri sur plusieurs îles. Mais ça ne doit quand même pas arrêter notre
+    partie.
+de:
+  message: Alle reden nur noch von diesen Typen aus dem All. Angeblich sind sie
+    gleich auf mehreren Inseln gelandet. Aber von so was lassen wir uns nicht
+    aufhalten.
+es:
+  message:
+    Todo el mundo habla de esos tipos que han venido del espacio, dicen que
+    han aterrizado en varias islas. Pero no vamos a interrumpir la partida por
+    tan poca cosa.
+it:
+  message: Tutti parlano di questi tipi venuti dallo spazio, pare che siano
+    atterrati su diverse isole. Ma non dobbiamo interrompere la nostra partita
+    per colpa loro.
+pt:
+  message: Todos est╞o falando desses sujeitos vindos do espaço, parece que eles
+    pousaram em várias ilhas. Mas isso n╞o deve atrapalhar a nossa partida.

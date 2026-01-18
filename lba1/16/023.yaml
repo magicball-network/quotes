@@ -1,3 +1,12 @@
+textId: 24
 location:
 speaker:
 message: The end is near for FunFrock.
+fr:
+  message: C'est bientôt la fin pour FunFrock.
+de:
+  message: FunFrocks Ende naht.
+es:
+  message: El final se avecina para FunFrock.
+it:
+  message: Presto sarà la fine per FunFrock.

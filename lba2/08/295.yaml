@@ -1,4 +1,23 @@
+textId: 270
 location:
 speaker:
 message: But, Mr. Twinsen, I assure you that I don't have your tunic. Maybe you
   should look at home.
+fr:
+  message: Mais monsieur Twinsen, je vous assure que je n'ai pas votre tunique.
+    Peut-être que vous devriez fouiller chez vous.
+de:
+  message: Aber, Herr Twinsen, ich versichere Ihnen, daß ich Ihre Tunika nicht
+    habe. Vielleicht sollten Sie mal zu Hause nachsehen!
+es:
+  message:
+    Señor Twinsen, claro que no tengo su túnica. Quizá debiera usted buscar
+    en su casa.
+it:
+  message:
+    Ma signor Twinsen, le assicuro che non ho la sua tunica. Forse dovrebbe
+    frugare meglio a casa sua.
+pt:
+  message:
+    Mas senhor Twinsen, tenho certeza que n╞o estou com sua túnica. Talvez
+    você devesse procurar em casa.

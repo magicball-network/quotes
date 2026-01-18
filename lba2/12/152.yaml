@@ -1,4 +1,22 @@
+textId: 54
 location:
 speaker:
 message: Bravo Twinsen, you have earned this blowgun. It provides accurate and
   rapid shots.
+fr:
+  message:
+    Bravo Twinsen, tu as gagné cette sarbacane. Elle permet des tirs précis
+    et rapides.
+de:
+  message:
+    Gratuliere, Twinsen, du hast dir dieses Blasrohr verdient. Damit kannst
+    du schnell und präzise schießen.
+es:
+  message: Bravo Twinsen, has ganado esta cerbatana. Te permitirá realizar
+    disparos precisos y raudos.
+it:
+  message: Bravo Twinsen, hai vinto questa cerbottana. Ti permette dei tiri
+    precisi e rapidi.
+pt:
+  message: Parabéns, Twinsen, você ganhou essa zarabatana. Com ela você pode dar
+    tiros rápidos e precisos.

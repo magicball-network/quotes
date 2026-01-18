@@ -1,3 +1,12 @@
+textId: 165
 location:
 speaker:
 message: I've never seen those plans.
+fr:
+  message: J'ai jamais vu ces plans-là.
+de:
+  message: Ich habe diese Pläne nie gesehen.
+es:
+  message: Nunca he visto esos planos.
+it:
+  message: Mai viste quelle carte.

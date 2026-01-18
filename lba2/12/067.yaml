@@ -1,4 +1,22 @@
+textId: 104
 location:
 speaker:
 message: There's a piece missing here, something disc-shaped. I guess it allows
   the shuttle to take off.
+fr:
+  message: Il manque un objet à cet endroit. Une sorte de disque. Apparemment,
+    c'est lui qui permet à la navette de décoller.
+de:
+  message:
+    Hier fehlt etwas, eine Art Scheibe. Anscheinend kann das Raumschiff nur
+    damit starten.
+es:
+  message: Aquí falta algo. Una especie de disco. A primera vista, es lo que
+    permite que la nave despegue.
+it:
+  message:
+    Manca un'oggetto in questo posto. Una specie di disco. Apparentemente,
+    permette alla navetta di decollare.
+pt:
+  message: Está faltando um objeto neste lugar. Um tipo de disco. Parece que a
+    nave precisa dele para decolar.

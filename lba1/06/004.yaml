@@ -1,3 +1,17 @@
+textId: 3
 location:
 speaker:
 message: You've just found Gawley's Horn, an object left for you by your ancestors.
+fr:
+  message:
+    Tu viens de découvrir la Trompe de Gawley, que tes ancêtres laissèrent
+    là à ton intention.
+de:
+  message: Du hast soeben das Horn von Gawley entdeckt, das Deine Vorfahren Dir
+    hinterlassen haben.
+es:
+  message: Acabas de descubrir la Trompa de Gawley, que tus antepasados habían
+    dejado ahí para ti.
+it:
+  message: Hai appena trovato la Tromba di Gawley, che i tuoi avi hanno lasciato
+    proprio per te.

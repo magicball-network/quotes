@@ -1,4 +1,22 @@
+textId: 392
 location:
 speaker:
 message: Downstairs you'll find the rest of the dissidents waiting for you.
   Johnny has told us you are coming.
+fr:
+  message: En bas, vous trouverez les autres dissidents. Ils vous attendent,
+    Johnny nous a fait prévenir de votre arrivée.
+de:
+  message: Unten finden Sie noch weitere Rebellen. Sie werden schon erwartet.
+    Johnny hat uns gesagt, daß Sie kommen.
+es:
+  message:
+    Abajo encontrará a los otros disidentes. Lo esperan, Johnny ha avisado
+    de su llegada .
+it:
+  message: Troverà giù gli altri dissidenti. La aspettano, Johnny ci ha fatto
+    avvertire del suo arrivo.
+pt:
+  message:
+    Em baixo, você encontrará os outros rebeldes. Eles est╞o te esperando,
+    Johnny nos preveniu sobre sua chegada.

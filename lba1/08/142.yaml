@@ -1,3 +1,12 @@
+textId: 149
 location:
 speaker:
 message: I don't know what that is all about.
+fr:
+  message: Je ne vois pas de quoi il s'agit.
+de:
+  message: Ich weiß nicht worum es geht.
+es:
+  message: No veo de qué se trata.
+it:
+  message: Non ho idea di che cosa si tratti.

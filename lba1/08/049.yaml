@@ -1,5 +1,24 @@
+textId: 54
 location:
 speaker:
 message: You will need my card to get into the center. It is on the drawing
   table. If you do succeed in catching this vandal with his weird Horn, I would
   appreciate it if you would kick his rear end for me!
+fr:
+  message:
+    Vous aurez besoin de ma carte pour entrer dans le centre. Elle est sur
+    la table à dessin. Et si vous attrapez ce vandale avec sa Trompe bizarre,
+    bottez-lui l'arrière-train de ma part !
+de:
+  message:
+    Sie brauchen meine Karte um ins Zentrum zu gelangen. Sie liegt auf dem
+    Zeichentisch. Und falls sie diesen Vandalen mit dem komischen Horn
+    erwischen, treten Sie ihm an meiner Stelle ins Hinterteil !
+es:
+  message: Necesitará mi tarjeta para entrar en el centro. Está sobre la mesa de
+    dibujo. Y si atrapa a ese vándalo con su rara Trompa, ¡déle un buen puntapié
+    en el trasero de mi parte!
+it:
+  message: Avrà bisogno della mia mappa per entrare nel centro. E' sul tavolo da
+    disegno. E se acciuffa il vandalo con la sua strana Tromba, gli dia pure un
+    calcione nel posteriore da parte mia!

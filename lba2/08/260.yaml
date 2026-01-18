@@ -1,3 +1,14 @@
+textId: 995
 location:
 speaker:
 message: A holomap costs 10 kashes.
+fr:
+  message: Une holomap coûte 10 kashes.
+de:
+  message: Eine Holokarte kostet 10 Kashes.
+es:
+  message: Un holomapa cuesta 10 kashes.
+it:
+  message: Una holomap costa 10 Kashes.
+pt:
+  message: Um holomapa custa 10 Kashes.

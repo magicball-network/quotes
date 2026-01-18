@@ -1,3 +1,4 @@
+textId: 25
 location:
 speaker:
 message: |-
@@ -5,3 +6,22 @@ message: |-
   take me across the raging seas,
   for a few gems, I take your boat,
   I cannot swim, I cannot float!!
+fr:
+  message: Passeur, passeur, sur ton embarcation je veux traverser la mer en
+    fusion, quelques gemmes m'ouvriront le passage, c'est tellement mieux que
+    d'y aller à la nage !!
+de:
+  message: Fährmann, ich muß über's Meer, Bring dein Boot zu mir hierher, Ein
+    Edelstein bezahlt die Fahrt, Wenn das Land nur recht bald naht!
+es:
+  message: Barquero, barquero, en tu embarcación quiero cruzar la mar en
+    ebullición, las gemas me permitirán ir pasando, que es mucho mejor que ir
+    nadando
+it:
+  message: Traghettatore, traghettatore, sulla tua imbarcazione vorrei
+    attraversare il mare in fusione, alcune gemme mi apriranno il passaggio, è
+    più bello che andare a braccio !!
+pt:
+  message: Barqueiro, barqueiro, contigo quero navegar Algumas pedras preciosas
+    tenho para pagar Barqueiro, barqueiro, o mar quero atravessar No seu barco é
+    bem melhor do que sozinho nadar

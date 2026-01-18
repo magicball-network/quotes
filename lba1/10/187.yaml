@@ -1,3 +1,12 @@
+textId: 204
 location:
 speaker:
 message: I don't know what you're talking about!
+fr:
+  message: Connais pas !
+de:
+  message: Kenne ich nicht !
+es:
+  message: ¡Lo desconozco!
+it:
+  message: Non ne so niente!

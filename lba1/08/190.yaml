@@ -1,3 +1,12 @@
+textId: 198
 location:
 speaker:
 message: I can't help you, ask someone else.
+fr:
+  message: Je ne peux pas t'aider, demande à quelqu'un d'autre.
+de:
+  message: Ich kann Dir nicht helfen, frage jemand anders danach.
+es:
+  message: No puedo ayudarte. Pídeselo a otro.
+it:
+  message: Non posso aiutarti, chiedi a qualcun altro.

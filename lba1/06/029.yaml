@@ -1,6 +1,29 @@
+textId: 101
 location:
 speaker:
 message: Magic Ball (ALT) key. Each time you reach a higher level of magic, the
   Magic Ball's striking power will increase. Its trajectories will also become
   more effective with each new level, as long as you have enough magic in stock!
   The Ball will use up magic each time it is thrown.
+fr:
+  message: Balle Magique Touche (ALT). Lorsque tu atteins un nouveau niveau de
+    magie, elle acquiert une nouvelle puissance de frappe. Ses trajectoires
+    deviennent également plus efficaces à chaque niveau, à condition d'avoir
+    assez de magie en réserve ! Car la Balle en consomme à chaque lancé.
+de:
+  message: Magischer Ball (ALT) Taste. Wenn Du eine neue Energiestufe erreichst,
+    erhält sie neue Schlagkraft. Seine Flugbahn wird ebenfalls mit jeder Stufe
+    verbessert, unter der Bedingung daß man über genügend Magie verfügt ! Da der
+    Ball bei jedem Wurf Magie verbraucht.
+es:
+  message:
+    Bola Mágica Tecla (ALT). Cuando alcanzas un nuevo nivel de magia, ésta
+    adquiere un nuevo nivel de poder de encantamiento. Sus trayectorias se
+    vuelven también más eficaces en cada nivel, ¡siempre y cuando tengas
+    suficiente magia en reserva! Ya que la Bola consume magia cada vez que es
+    lanzada.
+it:
+  message: Sfera Magica Tasto (ALT). Quando raggiungi un nuovo livello di magia,
+    acquisisce una maggior potenza d'urto. Allo stesso modo, la sua traiettoria
+    diventa sempre più precisa con l'aumentare del livello, sempre che si abbia
+    una sufficiente scorta di magia, perché la Sfera si consuma a ogni lancio.

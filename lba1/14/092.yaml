@@ -1,3 +1,12 @@
+textId: 192
 location:
 speaker:
 message: Here, this will help you keep your strength up!
+fr:
+  message: Tiens, reprends des forces !
+de:
+  message: Warte, verschnauf ein bißchen !
+es:
+  message: ¡Mira, retoma fuerzas!
+it:
+  message: Tieni, riprendi le forze!

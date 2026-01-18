@@ -1,3 +1,12 @@
+textId: 34
 location:
 speaker:
 message: Thief, that's too expensive!
+fr:
+  message: Escroc, c'est trop cher !
+de:
+  message: Das ist zu teuer, Du Gauner !
+es:
+  message: ¡Estafador, es muy caro!
+it:
+  message: Imbroglione, è troppo caro!

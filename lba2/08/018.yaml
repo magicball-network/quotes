@@ -1,3 +1,14 @@
+textId: 267
 location:
 speaker:
 message: Errr, ... nothing. See ya.
+fr:
+  message: Euh ... rien. Salut !
+de:
+  message: Äh ... nichts. Hallo!
+es:
+  message: Pues... nada. ¡Hola!
+it:
+  message: Eh... niente. Salve !
+pt:
+  message: Hum ... nada. Tchau !

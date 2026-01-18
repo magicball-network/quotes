@@ -1,5 +1,31 @@
+textId: 271
 location:
 speaker:
 message: Wannie representative. The race of the Wannies lives in the under-gas.
   They are the workers of the gem mine, from which gazogem is made. The mine is
   being run by the Building Company, under imperial supervision.
+fr:
+  message:
+    Représentant blafard. La race des blafards habite dans le sous-gaz. Ce
+    sont les ouvriers de la mine de gemmes, à partir desquelles est fabriqué le
+    gazogem. L'exploitation de la mine est assurée par la Building Company, sous
+    contrôle impérial.
+de:
+  message: Vertreter der Bleichlinge. Das Volk der Bleichlinge lebt unter der
+    Gaswolke. Sie sind die Arbeiter, die in der Juwelenmine arbeiten. Aus diesen
+    Juwelen wird GazoGem hergestellt. Der Bergbau in der Mine wird von der
+    Building Company gesteuert, die direkt dem Kaiser untersteht.
+es:
+  message:
+    Representante Macilento. La raza de los macilentos vive en el sub-gas.
+    Son los obreros de la mina de gemas a partir de las cuales se elabora el
+    gazogem. La Building Companie explota la mina, bajo el control imperial.
+it:
+  message: Rappresentante dei Pallidi. La razza dei Pallidi abita nel sotto-gas.
+    Ci sono i minatori della miniera di gemme, da cui si estrae il gazogem . E'
+    la Building Company a gestire la miniera, sotto controllo imperiale.
+pt:
+  message:
+    Representante Desbotado. A raça dos Desbotados vive nos sub-gás. S╞o os
+    trabalhadores da mina de pedras preciosas, de onde é fabricado o gasógeno. A
+    exploraç╞o da mina é feita pela Building Company, sob controle Imperial.

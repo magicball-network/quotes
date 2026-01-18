@@ -1,4 +1,20 @@
+textId: 25
 location:
 speaker:
 message: You must wait for your partner when you change zones if you want to
   make it through this mission.
+fr:
+  message:
+    Il faut attendre ton équipier lorsque tu changes de zone, pour réussir
+    cette mission.
+de:
+  message:
+    Du mußt auf Deinen Kameraden warten, wenn Du den Bereich wechselst, um
+    diesen Auftrag erfolgreich zu meistern.
+es:
+  message: Para triunfar en esta misión, hay que esperar a tu compañero cuando
+    cambies de zona.
+it:
+  message:
+    Devi aspettare il tuo compagno prima di cambiare zona, se vuoi riuscire
+    in questa missione.

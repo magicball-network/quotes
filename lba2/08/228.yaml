@@ -1,3 +1,14 @@
+textId: 55
 location:
 speaker:
 message: "Insert 5 Kashes if you want to listen to a title:"
+fr:
+  message: "Insérez 5 Kashes si vous désirez écouter un titre :"
+de:
+  message: Werfen Sie 5 Kashes ein, um einen Titel zu hören.
+es:
+  message: "Inserte 5 Kashes si desea oír un título :"
+it:
+  message: Inserite 5 Kashes se desiderate ascolare una canzone.
+pt:
+  message: "Deposite 5 Kashes se quiser escutar uma música :"

@@ -1,3 +1,12 @@
+textId: 117
 location:
 speaker:
 message: You are being held here because you are a trouble maker.
+fr:
+  message: Vous êtes détenu ici car vous êtes un agitateur.
+de:
+  message: Sie werden hier festgehalten, weil Sie ein Aufwiegler sind.
+es:
+  message: Ud. está detenido aquí por agitador.
+it:
+  message: E' detenuto qui perché è un sovversivo.

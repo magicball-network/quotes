@@ -1,4 +1,24 @@
+textId: 67
 location:
 speaker:
 message: '"Honor roll of most recent wizard graduates: Aril van Koow, Hougo
   Dolphar, Carnogeel, Twinsen."'
+fr:
+  message:
+    '" Derniers apprentis reçus à l''examen de mage : Aril van Koow, Hougo
+    Dolphar, Carnogeel, Twinsen. "'
+de:
+  message: '"Das Magierexamen haben bestanden: Aril van Koow, Hugo Dolphar,
+    Carnogeel, Twinsen. "'
+es:
+  message:
+    '"Ultimos aprendices que han aprobado el examen de mago: Aril van Koow,
+    Hougo Dolphar, Carnogeel, Twinsen."'
+it:
+  message:
+    '""Ultimi candidati ricevuti all''esame di mago : Aril van Koow, Hougo
+    Dolphar, Carnogeel, Twinsen. "'
+pt:
+  message:
+    '" Θltimos aprendizes aprovados no exame de mago: Aril van Koow, Hougo
+    Dolphar, Carnogeel, Twinsen. "'

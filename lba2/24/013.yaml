@@ -1,3 +1,14 @@
+textId: 16
 location:
 speaker:
 message: You are at the gazogem refinery.
+fr:
+  message: Vous êtes à la raffinerie de gazogem.
+de:
+  message: Sie sind bei der GazoGem-Raffinerie.
+es:
+  message: Está usted en la refinería de gazogem.
+it:
+  message: Siete alla raffineria di gazogem .
+pt:
+  message: Você está na refinaria de gasógeno.

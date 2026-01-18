@@ -1,4 +1,18 @@
+textId: 187
 location:
 speaker:
 message: Pirates, phooey! Those sailors will say anything to get someone to buy
   them a drink!
+fr:
+  message: Des pirates, peuh ! Les marins raconteraient bien n'importe quoi pour
+    se faire payer à boire !
+de:
+  message: Piraten, pff ! Seemänner erzählen alles mögliche nur um einen Drink
+    spendiert zu bekommen !
+es:
+  message:
+    ¡Tenían que ser piratas, peuh! Los marinos contarían cualquier cosa con
+    tal de hacerse pagar un trago!
+it:
+  message: Pirati? Puah! I marinai racconterebbero qualsiasi cosa pur di farsi
+    offrire da bere!

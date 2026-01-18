@@ -1,3 +1,12 @@
+textId: 153
 location:
 speaker:
 message: I can't help you out, my friend. Don't know what you're talking about.
+fr:
+  message: Je ne peux rien pour vous mon ami. Vois pas de quoi vous parlez.
+de:
+  message: Ich kann nichts für Sie tun mein Freund. Weiß nicht wovon Sie sprechen.
+es:
+  message: No puedo hacer nada por Ud. amigo. No tengo nada que decirle.
+it:
+  message: Non posso far niente per lei, amico. Non so cosa intende dire.

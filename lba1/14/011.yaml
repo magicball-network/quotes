@@ -1,3 +1,13 @@
+textId: 10
 location:
 speaker:
 message: Good day, a ticket for the museum costs 5 Kashes. Would you like one?
+fr:
+  message: Bonjour, la visite vous coûtera 5 Kashes. Voulez-vous une entrée ?
+de:
+  message: Guten Tag, ein Museumsbesuch kostet Sie 5 Kashes. Möchten Sie eine
+    Eintrittskarte ?
+es:
+  message: Buenos días, la visita le costará 5 Kashes. ¿Quiere una entrada?
+it:
+  message: Buongiorno, la visita costa 5 Kash. Desidera un biglietto?

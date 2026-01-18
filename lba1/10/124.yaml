@@ -1,3 +1,12 @@
+textId: 133
 location:
 speaker:
 message: It was me! Not bad, huh?
+fr:
+  message: C'est moi, génial non ?
+de:
+  message: Das war ich, genial nicht ?
+es:
+  message: Soy yo, genial, ¿no ?
+it:
+  message: Sono stato io. Idea geniale, non è vero?

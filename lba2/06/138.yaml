@@ -1,3 +1,14 @@
+textId: 227
 location:
 speaker:
 message: You must bring this flower to the Rector of the School of Magic.
+fr:
+  message: Il te faut rapporter cette fleur au Recteur de l'Ecole de Magie.
+de:
+  message: Diese Blume mußt du dem Direktor der Zauberschule bringen.
+es:
+  message: Tienes que llevar esta flor al Rector de la Escuela de Magia.
+it:
+  message: Devi riportare questo fiore al Rettore della Scuola di Magia.
+pt:
+  message: Você tem que levar essa flor ao Reitor da Escola de Magia.

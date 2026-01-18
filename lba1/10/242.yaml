@@ -1,3 +1,14 @@
+textId: 259
 location:
 speaker:
 message: Go try at the Old Burg tavern, and talk to the bar tender.
+fr:
+  message: Allez donc voir à la taverne du Vieux Bourg, parlez-en au barman.
+de:
+  message:
+    Gehen Sie mal zur Taverne in der Altstadt, sprechen Sie mit dem Kellner
+    darüber.
+es:
+  message: Entonces prueba en la taberna del Viejo Burgo, hábla con el barman.
+it:
+  message: Vada alla taverna del Vecchio Borgo, ne parli al barman.

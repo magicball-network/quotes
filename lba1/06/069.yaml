@@ -1,3 +1,12 @@
+textId: 204
 location:
 speaker:
 message: Rebellion Island
+fr:
+  message: Ile de la Rébellion
+de:
+  message: Rebellion-Insel
+es:
+  message: Isla de la Rebelión
+it:
+  message: Isola della Ribellione

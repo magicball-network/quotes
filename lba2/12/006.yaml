@@ -1,4 +1,24 @@
+textId: 76
 location:
 speaker:
 message: Disappeared?? Master, this is grave news. I'll do all in my power to
   find them. Trust me!!
+fr:
+  message:
+    Disparus ?? Je comprends que l'affaire soit grave Maître ! Je ferai ce
+    que je peux pour les retrouver, faites-moi confiance !!
+de:
+  message: Verschwunden? Das hört sich ernst an, Meister! Ich werde mein
+    möglichstes tun, um sie zu finden, verlassen Sie sich auf mich!
+es:
+  message:
+    ¿¿Desaparecidos?? ¡Evidentemente el asunto es grave, Maestro! Haré todo
+    lo posible por encontrarlos ¡¡Confíe en mí!!
+it:
+  message:
+    Scomparsi ?? Capisco che l'affare sia grave, Maestro ! Farò quello che
+    posso per ritrovarli, abbia fiducia in me !!
+pt:
+  message:
+    Desapareceram ?? Estou vendo que o assunto é grave, Mestre! Eu farei o
+    que puder para encontrá-los, confie em mim !!

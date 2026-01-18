@@ -1,5 +1,27 @@
+textId: 551
 location:
 speaker:
 message: Ah Twinsen, you are here! It's horrible. The Esmers have kidnapped the
   children aboard a shuttle. Nobody knows where they are or how to find them!!
   You have to go look for them!
+fr:
+  message: Ah Twinsen, tu es là ! C'est horrible. Les Esmers ont enlevé les
+    enfants à bord d'une navette. Personne ne sait où ils se trouvent ni comment
+    les retrouver !! Tu dois absolument partir à leur recherche !
+de:
+  message: Da bist du ja! Twinsen, die Esmerier haben die Kinder mit einem
+    Raumschiff entführt! Und keiner weiß, wo sie sind oder wie man sie finden
+    kann! Du mußt sie finden!
+es:
+  message: ¡Por fin has llegado Twinsen! ¡Es terrible! !!Los esmeres se han
+    llevado a los niños a bordo de una nave. Nadie sabe dónde están ni cómo
+    encontrarlos !! ¡Tienes que ir a buscarlos!
+it:
+  message: Ah Twinsen, sei qui ! E' orribile. Gli Esmer hanno rapito i bambini e
+    li hanno portati su una navetta. Nessuno sa dove siano né come ritrovarli !!
+    Devi assolutamente partire alla loro ricerca !!
+pt:
+  message:
+    Ah, Twinsen, você está aí ! Foi horrível. Os Esmers levaram a força as
+    crianças a bordo de uma nave. Ninguém sabe onde elas est╞o nem como
+    encontra-las!! Você precisa ir atrás delas !

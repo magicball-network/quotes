@@ -1,3 +1,14 @@
+textId: 546
 location:
 speaker:
 message: Yes, the family will soon be larger.
+fr:
+  message: Et oui, la famille va bientôt s'agrandir.
+de:
+  message: Unsere Familie bekommt bald Zuwachs.
+es:
+  message: Pues sí, pronto aumentará la familia.
+it:
+  message: E si, la famiglia crescerà presto.
+pt:
+  message: É, a família vai aumentar logo.

@@ -1,3 +1,15 @@
+textId: 196
 location:
 speaker:
 message: It's going to take me quite a while longer to finish up on the vessel here.
+fr:
+  message: Il va me falloir encore un bon bout de temps pour terminer le vaisseau.
+de:
+  message: Ich brauche noch ein bißchen Zeit, bis ich das Raumschiff fertig habe.
+es:
+  message: Todavía voy a necesitar un rato para terminar la nave.
+it:
+  message: Avrò bisogno ancora di un bel po' di tempo per finire di riparare il
+    vascello.
+pt:
+  message: Vou precisar ainda de um bom tempo para terminar a nave.

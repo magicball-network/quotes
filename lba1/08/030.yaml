@@ -1,3 +1,12 @@
+textId: 31
 location:
 speaker:
 message: You are charged with aiding an escapee. Follow us!
+fr:
+  message: Vous êtes accusé de complicité avec un évadé. Suivez-nous.
+de:
+  message: Sie sind wegen Beihilfe zur Flucht angeklagt. Folgen Sie uns.
+es:
+  message: Están acusados de complicidad con un evadido. Sígannos.
+it:
+  message: E' accusata di complicità con un evaso. Ci segua.

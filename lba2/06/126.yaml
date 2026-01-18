@@ -1,4 +1,21 @@
+textId: 215
 location:
 speaker:
 message: After you give it to Jerome, this can of gazogem will allow your friend
   to turn your proto-pack into a super-jetpack.
+fr:
+  message:
+    Ce bidon de gazogem, une fois que tu l'auras donné à Jérôme, permettra
+    à ton ami de transformer ton proto-pack en super-jetpack.
+de:
+  message: Wenn du diesen Behälter mit GazoGem Jerome gibst, kannst du dein
+    ProtoPack in ein SuperJetPack verwandeln.
+es:
+  message: Este bidón de gazogem, después de que se lo hayas dado a Jerónimo,
+    permitirá que tu amigo transforme tu proto-pack en super-jetpack.
+it:
+  message: Quando avrai dato questo bidone di gazogem a Gerolamo, il tuo amico
+    potrà trasformare il tuo Proto-Pack in Super Jet-pack.
+pt:
+  message: Entregando esse gal╞o de gasógeno a Jerônimo, ele poderá transformar
+    seu proto-pack em um super-jetpack.

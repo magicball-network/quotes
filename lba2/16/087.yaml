@@ -1,9 +1,49 @@
+textId: 263
 location:
 speaker:
 message: >-
   Thank you for having freed me. I am a dissident of the government. The emperor
   and Dark Monk, our reincarnated God, manipulate the people of Zeelich. They
-  lie continually.
+  lie continually. 
 
   But let's not waste any time. If you want to get out of here, don't take the
   main entrance, it is being watched by soldiers.
+fr:
+  message: >-
+    Merci de m'avoir libéré. Je suis un dissident au gouvernement. L'Empereur et
+    notre Dieu réincarné Dark Monk manipulent la population de Zeelich. Ils
+    mentent continuellement.
+
+    Mais ne perdons pas de temps. Si tu veux sortir d'ici, ne passe pas par
+    l'entrée principale, elle est surveillée par des soldats.
+de:
+  message: >-
+    Danke, daß ihr mich befreit habt. Ich bin einer der Rebellen. Der Kaiser und
+    unser wiedergeborener Gott Dark Monk belügen die Bevölkerung von Zeelich. 
+
+    Aber wir haben keine Zeit zu verlieren. Wenn du hier raus willst, geh' nicht
+    durch den Haupteingang, der wird von Soldaten bewacht.
+es:
+  message: >-
+    Gracias por liberarme. Soy un disidente del gobierno. El emperador y nuestro
+    Dios reencarnado Dark Monk tienen a la población de Zeelich engañada.
+    Mienten sin cesar.
+
+    Pero no perdamos tiempo. Si quieres salir de aquí. no pases por la entrada
+    principal, los soldados la vigilan.
+it:
+  message: >-
+    Ti ringrazio di avermi liberato. Sono un dissidente al governo. L'imperatore
+    e il nostro Dio reincarnato Dark Monk manipolano la popolazione di Zeelich,
+    mentendo di continuo. 
+
+    Ma non perdiamo tempo. Se vuoi uscire da qui, non passare attraverso
+    l'entrata principale, i soldati la sorvegliano.
+pt:
+  message: >-
+    Obrigado por ter me soltado. Eu sou um rebelde contra o governo. O Imperador
+    e nosso deus reencarnado Dark Monk manipulam a populaç╞o de Zeelich. Eles
+    mentem sem parar.
+
+    Mas n╞o percamos tempo. Se quiser sair daqui, n╞o vá pela entrada principal,
+    ela está sendo vigiada por soldados.

@@ -1,3 +1,4 @@
+textId: 261
 location:
 speaker:
 message: >-
@@ -6,3 +7,38 @@ message: >-
   our disposal is going to be channeled into breaking that thing down!!!
 
   Let's do it!
+fr:
+  message: >-
+    Il les retient prisonniers dans une cage. Il sont en haut, dans la tête de
+    la statue. La grille qui y accède est fermée, mais nous allons t'aider !
+    Nous allons utiliser tout notre savoir magique pour la briser !!!
+
+    Laisse-nous faire !!!
+de:
+  message: >-
+    Er hält sie in einem Käfig gefangen. Sie sind ganz oben, im Kopf der Statue.
+    Das Gitter ist verschlossen, aber wir werden dir helfen! Wir werden unser
+    ganzes Wissen einsetzen, um es aufzubrechen!
+
+    Überlaß das ruhig uns!!!
+es:
+  message: >-
+    Los tiene prisioneros en una jaula. Están arriba, en la cabeza de la
+    estatua. ¡La reja que permite el acceso está cerrada, pero te ayudaremos!
+    ¡¡¡Usaremos todo nuestro saber mágico para romperla !!!
+
+    ¡¡¡Déjanos a nosotros!!!
+it:
+  message: >-
+    Li tiene prigionieri in una gabbia. Sono in alto, nella testa della statua.
+    Un'inferriata protegge l'entrata ed è chiusa, ma potremo aiutarti. Useremo
+    tutte le nostri poteri magici per spezzarla !!!
+
+    Lascia fare a noi !!!
+pt:
+  message: >-
+    Ele os prendeu numa jaula. Est╞o no alto, na cabeça da estátua. A grade que
+    leva até eles está fechada, mas nós vamos te ajudar ! Vamos usar todo o
+    nosso conhecimento mágico para quebrá-la !!!
+
+    Deixe conosco !!!

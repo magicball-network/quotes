@@ -1,3 +1,14 @@
+textId: 506
 location:
 speaker:
 message: Hello Mr. Bazoo.
+fr:
+  message: Bonjour monsieur Bazoo.
+de:
+  message: Guten Tag, Herr Bazoo.
+es:
+  message: Buenos días señor Bazoo.
+it:
+  message: Buongiorno Signor Bazoo.
+pt:
+  message: Bom dia, senhor Bazoo.

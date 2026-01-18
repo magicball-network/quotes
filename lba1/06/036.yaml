@@ -1,4 +1,22 @@
+textId: 107
 location:
 speaker:
 message: Flask of Clear Water. With this magical symbol, you have just earned
   the fourth level of power.
+fr:
+  message: Flacon d'Eau Claire. Grâce à ce symbole magique, tu viens d'atteindre
+    le 4ème niveau de puissance. Tu peux neutraliser même les clones les plus
+    puissants !
+de:
+  message:
+    Flasche Klares Wasser. Dank dieses magischen Symbols hast Du soeben die
+    vierte Kraftstufe erreicht. Du kannst selbst die mächtigsten Klone
+    ausschalten !
+es:
+  message:
+    Frasco de Agua Clara. Gracias a este símbolo mágico, acabas de alcanzar
+    el cuarto nivel de poder. ¡Puedes neutralizar hasta los clones más
+    poderosos!
+it:
+  message: Boccetta di Acqua Limpida. Con questo simbolo magico raggiungi il
+    quarto livello di potenza. Puoi ora neutralizzare anche i cloni più potenti!

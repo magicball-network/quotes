@@ -1,3 +1,14 @@
+textId: 508
 location:
 speaker:
 message: Brrravo!!!
+fr:
+  message: Brrravo !!!
+de:
+  message: Bravo!!!
+es:
+  message: ¡¡¡Brrravo!!!
+it:
+  message: Brrravo !!!
+pt:
+  message: Parabéens !!!

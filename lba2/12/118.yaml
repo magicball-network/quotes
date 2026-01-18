@@ -1,3 +1,14 @@
+textId: 513
 location:
 speaker:
 message: Hello sir.
+fr:
+  message: Bonjour monsieur
+de:
+  message: Guten Tag.
+es:
+  message: Buenos días señor
+it:
+  message: Buongiorno signore
+pt:
+  message: Bom dia, senhor

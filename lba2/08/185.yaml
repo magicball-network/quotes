@@ -1,4 +1,19 @@
+textId: 40
 location:
 speaker:
 message: Go back upstairs. You'll get your crate, I'm sending it directly to the
   reception!
+fr:
+  message: Retournez là-haut. Z'allez voir vôt caisse, je vous l'envoie
+    directement à l'accueil !
+de:
+  message: Gehen Sie wieder nach oben. Wenn Sie Ihre Kiste sehen wollen, schicke
+    ich sie direkt an den Empfang!
+es:
+  message: Vuelva arriba. Ya le llega su caja, ya se la mando a recepción.
+it:
+  message: Ritorni su . Vada a vedere la sua cassa, gliela mando direttamente
+    all'entrata !
+pt:
+  message: Volte lá para cima. Você vai ver, vou mandar sua caixa direto para o
+    balc╞o da recepç╞o !

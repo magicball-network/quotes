@@ -1,3 +1,12 @@
+textId: 163
 location:
 speaker:
 message: I was not informed about this mission!
+fr:
+  message: Je ne suis pas au courant de cette mission !
+de:
+  message: Ich weiß nichts von diesem Auftrag !
+es:
+  message: ¡No estoy al corriente de esta misión!
+it:
+  message: Non sono al corrente di questa missione!

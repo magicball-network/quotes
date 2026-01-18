@@ -1,4 +1,27 @@
+textId: 127
 location:
 speaker:
 message: '"THE OFFICIAL RUMOR: Emperor Reveals: Dark Monk Warned Me! He
   predicted a Twinsunian dressed in blue would try to prevent our ceremony..."'
+fr:
+  message:
+    '" LA RUMEUR OFFICIELLE : La révélation de l''Empereur : Dark Monk m''a
+    prévenu ! Il a annoncé qu''un twinsunien vêtu de bleu tenterait d''empêcher
+    notre cérémonie..."'
+de:
+  message: '"DAS OFFIZIELLE GERÜCHT: Enthüllung des Kaisers: Dark Monk hat mich
+    gewarnt! Ein blau gekleideter Twinsunier wird versuchen, unsere Zeremonie zu
+    verhindern ..."'
+es:
+  message:
+    '"EL RUMOR OFICIAL: Revelación del Emperador: ¡Dark Monk me ha avisado!
+    Ha anunciado que un twinsiano vestido de azul trataría de impedir nuestra
+    ceremonia...""'
+it:
+  message: '" LE INDISCREZIONI UFFICIALI : Le dichiarazioni dell''Imperatore :
+    Dark Monk mi ha parlato ! Ha annunciato che un Twinsuniano in tunica blu
+    tenterà di ostacolare la nostra cerimonia ..."'
+pt:
+  message: '" O RUMOR OFICIAL: A revelaç╞o do Imperador: Dark Monk me preveniu!
+    Ele anunciou que um twinsuniano vestido de azul tentaria impedir nossa
+    cerimônia..."'

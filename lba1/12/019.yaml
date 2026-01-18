@@ -1,5 +1,25 @@
+textId: 54
 location:
 speaker:
 message: You are the Heir that the prophecy spoke of, Twinsen ! Find your
   ancestors' legacy, hidden in your home, and pursue your quest. Come back and
   see me some time.
+fr:
+  message: Tu es bien l'Héritier dont parle la prophétie Twinsen ! Retrouve le
+    legs de tes ancêtres qui est chez toi et poursuis ta quête. Reviens me voir
+    à l'occasion.
+de:
+  message:
+    Du bist tatsächlich der Erbe von dem die Prophezeiung spricht, Twinsen
+    ! Finde das Vermächtnis Deiner Vorfahren, das bei Dir ist und setze Deine
+    Suche fort. Komm bei Gelegenheit mal wieder vorbei.
+es:
+  message:
+    ¡Tú eres verdaderamente el Heredero del que habla la profecía Twinsen!
+    Encuentra el legado de tus antepasados en tu casa y sigue tu búsqueda.
+    Regresa a verme cuando hayas terminado.
+it:
+  message:
+    Sei tu l'Erede di cui parla la profezia, Twinsen! Ritrova l'eredità che
+    ti hanno lasciato i tuoi avi, a casa tua, e prosegui nella ricerca. Torna da
+    me, se lo riterrai opportuno.

@@ -1,3 +1,12 @@
+textId: 142
 location:
 speaker:
 message: Pirate recipes.
+fr:
+  message: Sur la cuisine pirate.
+de:
+  message: Über die Piratenküche.
+es:
+  message: Sobre la cocina pirata.
+it:
+  message: Un brano sulla cucina dei pirati.

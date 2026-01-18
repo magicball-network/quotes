@@ -1,5 +1,23 @@
+textId: 9
 location:
 speaker:
 message: "Our group is sort of lacking: we don't have half the material we need,
   and we're eight hit songs short of an album. I'm begging you: find a guitar
   for me!"
+fr:
+  message:
+    "On est un peu limite comme groupe : il nous manque la moitié du matos
+    et huit tubes pour faire un album. Je t'en supplie : trouve-moi une guitare
+    !"
+de:
+  message: "Unsere Gruppe ist ein bißchen beschränkt : uns fehlt die Hälfte des
+    Materials und acht Hits um ein Album rauszubringen. Ich flehe Dich an :
+    besorg' mir eine Gitarre !"
+es:
+  message: "Estamos algo limitados como grupo: nos falta la mitad del material y
+    ocho hits para hacer un álbum. Te lo suplico: ¡Consígueme una guitarra!"
+it:
+  message:
+    "Come gruppo, siamo un po' limitati: ci mancano metà degli strumenti e
+    otto canzoni di successo per fare un album. Ti prego: procurami una
+    chitarra!"

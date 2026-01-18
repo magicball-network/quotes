@@ -1,3 +1,12 @@
+textId: 9
 location:
 speaker:
 message: Stop fidgeting prisoner Twinsen!
+fr:
+  message: Détenu Twinsen, cessez de vous agiter !
+de:
+  message: Häftling Twinsen, stehen Sie still !
+es:
+  message: Detenido Twinsen, ¡cese de agitarse!
+it:
+  message: Detenuto Twinsen, la smetta di agitarsi!

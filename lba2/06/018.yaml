@@ -1,4 +1,20 @@
+textId: 17
 location:
 speaker:
 message: You just found a flask of gallic acid. It's often used to restore
   ancient documents.
+fr:
+  message:
+    Tu viens de trouver un flacon d'acide gallique. Il est souvent utilisé
+    pour la restauration d'anciens documents.
+de:
+  message: Du hast soeben ein Fläschchen Gallussäure gefunden. Gallussäure wird
+    häufig zur Restaurierung alter Dokumente verwendet.
+es:
+  message: Acabas de encontrar un frasco de ácido gálico.
+it:
+  message: Hai trovato un flacone di acido gallico. Viene usato spesso per il
+    restauro di vecchi documenti.
+pt:
+  message: Você encontrou um frasco de ácido gálico. Ele é bastante utilizado na
+    restauraç╞o de antigos documentos.

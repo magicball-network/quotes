@@ -1,3 +1,14 @@
+textId: 37
 location:
 speaker:
 message: You just found the Francos Burgermaster's key.
+fr:
+  message: Tu viens de récupérer la clé du Bourgmestre Knarta.
+de:
+  message: Du hast gerade den Schlüssel des Bürgermeisters der Bifiden erhalten.
+es:
+  message: Acabas de recuperar la llave del Burgomaestre Purlón.
+it:
+  message: Hai recuperato la chiave del borgomastro Knartas.
+pt:
+  message: Você adquiriu a chave do prefeito de Knarta.

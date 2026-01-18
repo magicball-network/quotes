@@ -1,3 +1,12 @@
+textId: 215
 location:
 speaker:
 message: '" Jérôme Baldino. Diverse Gadgets & Inventions. "'
+fr:
+  message: '" Jérôme Baldino. Gadgets & Inventions Diverses. "'
+de:
+  message: '" Jérôme Baldino. Geräte & Verschiedene Erfindungen. "'
+es:
+  message: '"Jerónimo Baldino. Gadgets e Invenciones Diversas."'
+it:
+  message: '"Gerolamo Baldino. Gadget & Invenzioni Varie. "'

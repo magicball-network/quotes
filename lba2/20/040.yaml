@@ -1,4 +1,23 @@
+textId: 521
 location:
 speaker:
 message: Oh, thanks a bunch, pal! Listen, this kid, he give me the key to the
   chapel. Here, take it. I've had enough fun with it.
+fr:
+  message: Ho ben merci mon gars ! Ecoute un gamin m'a donné la clé de la
+    chapelle. Tiens je t'la donne, maintenant je m'suis assez amusé.
+de:
+  message: Oho, danke, mein Kleiner! Hör zu, irgend so ein Junge hat mir den
+    Schlüssel für die Kapelle gegeben. Hier, nimm ihn, ich weiß eh' nicht, was
+    ich damit anfangen soll.
+es:
+  message: ¡Gracias, gracias mozuelo, Oye, un chaval me dio la llave la capilla.
+    Mira te la doy, ya me he divertido bastante.
+it:
+  message: Oh... beh grazie, ragazzo mio ! Ascolta, un ragazzino mi ha dato la
+    chiave della cappella. Tieni, te la do', adesso mi sono divertito
+    abbastanza.
+pt:
+  message:
+    Ho obrigado, moço ! Escuta, um moleque me deu a chave da capela. Toma,
+    fique com ela, já me diverti bastante.

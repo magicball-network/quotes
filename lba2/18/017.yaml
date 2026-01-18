@@ -1,6 +1,31 @@
+textId: 19
 location:
 speaker:
 message: '"... and when the stranger appears, alone capable of reuniting the
   four keys, Dark Monk will oppose... ...in the ultimate celebration the
   monsters and the gas will disappear... in forgetfulness Dark Monk will go...
   ... and life will Zeelich regain..."'
+fr:
+  message: '"... et lorsque paraîtra l''étranger, seul capable de réunir les
+    quatre clés, Dark Monk s''opposera... ...dans la célébration ultime les
+    monstres et le gaz disparaîtront... dans l''oubli Dark Monk s''en ira... ...
+    et la vie, Zeelich retrouvera..."'
+de:
+  message: '" ... und wenn der Fremde erscheint, der als einziger die vier
+    Schlüssel zusammensetzen kann, wird sich Dark Monk gegen ihn stellen ...'
+es:
+  message: '"... y cuando aparezca el extranjero, único que podrá reunir las
+    cuatro llaves, Dark Monk se opondrá... ...en la última celebración los
+    monstruos y el gas desaparecerán.... en el olvido Dark Monk se irá... ... y
+    la vida, Zeelich recuperará..."'
+it:
+  message: '" ...e quando apparirà lo straniero, il solo a poter riunire le
+    quattro chiavi, Dark Monk si opporrà ... ... durante l''ultima celebrazione i
+    mostri e il gas spariranno ... Dark Monk andrà via, dimenticato da tutti ...
+    ... e Zeelich ritroverà la vita ..."'
+pt:
+  message:
+    '"... e quando o forasteiro aparecer, o único capaz de reunir as quatro
+    chaves, Dark Monk se oporá... ...no auge da celebraç╞o os monstros e o gás
+    desaparecer╞o... Dark Monk será esquecido... ... e Zeelich achará de novo a
+    vida..."'

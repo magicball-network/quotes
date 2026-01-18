@@ -1,4 +1,25 @@
+textId: 46
 location:
 speaker:
 message: This Turkish bath is too hot for me! Sometimes, it's so hot that I have
   hallucinations... I see wizards everywhere!!!
+fr:
+  message: Il fait trop chaud pour moi dans ce hammam ! Parfois il y fait
+    tellement chaud que j'en ai des hallucinations... je vois des mages partout
+    !!!
+de:
+  message: Mir ist es in diesem Dampfbad zu heiß! Manchmal ist es hier so heiß,
+    daß ich Halluzinationen bekomme ... dann sehe ich überall Magier!
+es:
+  message:
+    ¡Para mi gusto hace demasiado calor en este baño turco! A veces siento
+    tanto calor que tengo hasta alucinaciones... ¡¡¡veo magos por todas
+    partes!!!
+it:
+  message:
+    Fa troppo caldo per me in questo bagno turco ! A volte, il caldo è tale
+    che ho quasi le allucinazioni ...vedo dei maghi dappertutto !!!
+pt:
+  message:
+    Eu sinto muito calor aqui nessa casa de banho! As vezes faz tanto calor
+    que tenho alucinaçΣes... vejo magos por todos os lados!!!

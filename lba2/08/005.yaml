@@ -1,3 +1,14 @@
+textId: 252
 location:
 speaker:
 message: I'm looking for something to cure my injured Dino-fly.
+fr:
+  message: Je cherche un remède pour mon Dino-Fly qui s'est blessé.
+de:
+  message: Ich brauche eine Medizin für meinen Dinofly. Er hat sich verletzt.
+es:
+  message: Busco algún remedio para mi Dino-Fly que está herido
+it:
+  message: Il mio Dino-Fly si è ferito e cerco una medicina per curarlo.
+pt:
+  message: Eu estou procurando um remédio para o Dino-Fly que se machucou.

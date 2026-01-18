@@ -1,3 +1,14 @@
+textId: 682
 location:
 speaker:
 message: Yep!
+fr:
+  message: Ouaip !
+de:
+  message: Genau!
+es:
+  message: ¡Uap!
+it:
+  message: Whaw !
+pt:
+  message: Sim !

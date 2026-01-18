@@ -1,4 +1,17 @@
+textId: 31
 location:
 speaker:
 message: Ask one of the helmet-less groboclones, they come here to traffic and
   listen to music.
+fr:
+  message: Demandez à l'un des groboclones sans casque, ils viennent ici pour
+    trafiquer et écouter de la musique.
+de:
+  message: Fragen Sie einen der Dickoklone ohne Helm, die kommen hier her um
+    Schiebergeschäfte zu machen und Musik zu hören.
+es:
+  message: Pregúntale a uno de los elefoclones sin casco, ellos vienen aquí para
+    traficar y escuchar música.
+it:
+  message: Chieda a uno dei grobocloni senza casco, vengono qui per trafficare e
+    per ascoltare la musica.

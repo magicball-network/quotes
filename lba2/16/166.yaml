@@ -1,3 +1,14 @@
+textId: 350
 location:
 speaker:
 message: Hello, sir, and welcome to Gambling Paradise!
+fr:
+  message: Bonjour monsieur et bienvenue au paradis du jeu !
+de:
+  message: Guten Tag und willkommen im Spielparadies!
+es:
+  message: ¡Buenos días, señor y bienvenido al paraíso del juego!
+it:
+  message: Buongiorno signore e benvenuto nel paradiso del gioco.
+pt:
+  message: Bom dia, senhor e bem-vindo ao paraíso do jogo !

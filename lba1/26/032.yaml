@@ -1,4 +1,23 @@
+textId: 33
 location:
 speaker:
 message: We no longer fear the threat of the teleportations, but you must get
   rid of the guards and the assault tank for us. I will then be able to dig.
+fr:
+  message: On ne craint plus d'être dérangé par des téléportations, mais il faut
+    que tu nous débarasses des gardes et du char d'assaut. Je pourrai creuser
+    ensuite.
+de:
+  message:
+    Wir brauchen keine Angst mehr haben vom Biemen gestört zu werden, aber
+    Du mußt uns von den Wachen und vom Kampfpanzer befreien. Dann werde ich
+    graben können.
+es:
+  message:
+    Ya no tememos ser molestados por las teleportaciones, pero necesito que
+    nos libres de los guardias y del tanque de asalto. Después podré empezar a
+    excavar.
+it:
+  message:
+    Penso che non saremo più disturbati dai teletrasporti, però bisogna che
+    tu ci liberi dalle guardie e dal carro armato. Solo dopo potrò scavare.

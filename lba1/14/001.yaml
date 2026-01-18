@@ -1,6 +1,27 @@
+textId: 0
 location:
 speaker:
 message: |-
   " Maritime Museum, rates:
   Children ... 3 Kashes
   Adults ... 5 Kashes. "
+fr:
+  message: |-
+    " Musée de la Marine, tarifs :
+    Enfants ... 3 Kashes
+    Adultes ... 5 Kashes. "
+de:
+  message: |-
+    " Marinemuseum, Eintritt :
+    Kinder ... 3 Kashes
+    Erwachsene ... 5 Kashes. "
+es:
+  message: |-
+    "Museo de la Marina, tarifas:
+    Niños ... 3 Kashes
+    Adultos ... 5 Kashes."
+it:
+  message: |-
+    " Museo della Marina, prezzo dei biglietti:
+    Bambini... 3 Kash
+    Adulti... 5 Kash. "

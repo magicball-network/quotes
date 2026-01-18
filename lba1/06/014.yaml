@@ -1,3 +1,12 @@
+textId: 13
 location:
 speaker:
 message: The Kamis have given you a Snowboard.
+fr:
+  message: Les Kami t'ont donné un Snowboard.
+de:
+  message: Die Kami haben Dir ein Snowboard gegeben.
+es:
+  message: Los Kami te han dado un Monoesquí.
+it:
+  message: I Kami ti hanno dato una Snowboard.

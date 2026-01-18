@@ -1,3 +1,14 @@
+textId: 516
 location:
 speaker:
 message: He's in his room.
+fr:
+  message: Il est dans sa chambre.
+de:
+  message: Er ist in seinem Zimmer.
+es:
+  message: Está en su habitación.
+it:
+  message: E' in camera sua.
+pt:
+  message: Ele está em seu aposento.

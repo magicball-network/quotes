@@ -1,4 +1,25 @@
+textId: 26
 location:
 speaker:
 message: Mmm, I love the smell of Garden Balsam. Anyway, in exchange for the
   flower, here's the Horn of the Blue Triton. It'll make you a Healer.
+fr:
+  message:
+    Mmh, j'adore l'odeur de la Balsamine Impatiente. En échange de la fleur
+    voici la Conque du Triton Bleu, elle fait de toi un Guérisseur.
+de:
+  message: Mmmh, ich liebe den Duft der Ungeduldigen Balsamine. Gib mir ein
+    Blütenblatt, und du erhältst die Blaue Tritonmuschel, die dich zum
+    Heilmagier macht.
+es:
+  message: Mmm, me encanta el aroma de la Balsamina Impaciente. A cambio de un
+    pétalo de la flor, toma la caracola del Tritón Azul, te convertirá en
+    curandero.
+it:
+  message:
+    Mmh, adoro l'odore della Blsamina Impatiens. In cambio di un petalo di
+    fiore ecco la Conchiglia del Tritone Blu, farà di te un guaritore.
+pt:
+  message:
+    Hum, eu adoro o cheiro da Balsamina Impaciente. Em troca da flor, eis a
+    Concha do Trit╞o Azul, que fará de você um Curador.

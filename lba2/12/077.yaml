@@ -1,6 +1,30 @@
+textId: 208
 location:
 speaker:
 message: I could've called it an "integrated super dynamo circuitry mechanism"
   but I decided to go with "portable radio". A little catchier, huh?
   Incidentally, I'll let you know when the Proto-Pack is ready, it'll let you
   fly around in complete safety.
+fr:
+  message:
+    J'aurais pu l'appeler " Talk-Boy " mais finalement radio portable c'est
+    plus sobre. Au fait je te ferai prévenir dès que le Proto-Pack sera prêt, il
+    te permettra de voler en toute sécurité.
+de:
+  message: Ich hätte es auch "Talk-Boy" oder so nennen können, aber
+    Funksprechgerät ist doch irgendwie sachlicher. Ich sag dir Bescheid, sobald
+    das ProtoPack fertig ist, mit dem kannst du dann gefahrlos fliegen.
+es:
+  message:
+    Habría podido llamarlo " Talk-Boy " pero definitivamente radio portátil
+    es más sobrio. Por cierto, en cuanto el Proto-Pack esté listo te avisaré, te
+    permitirá volar con la máxima seguridad.
+it:
+  message:
+    Avrei potuto chiamarlo "Talk-Boy" ma in fondo radio portatile è un nome
+    più sobrio. A proposito ti farò avvertire quando il Proto-Pack sarà pronto.
+    Ti permetterà di volare in tutta sicurezza.
+pt:
+  message: Eu poderia tê-lo chamado de " Talk-Boy " mas rádio portátil é mais
+    simples. A propósito, te aviso assim que o Proto-pack ficar pronto, com ele
+    você poderá voar com toda segurança.

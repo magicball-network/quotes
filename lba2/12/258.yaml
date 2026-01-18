@@ -1,3 +1,14 @@
+textId: 773
 location:
 speaker:
 message: No. Didn't see any.
+fr:
+  message: Ah non, je n'en ai pas vu passer.
+de:
+  message: Nein, ich habe leider keine vorbeikommen sehen.
+es:
+  message: Pues no, no he visto pasar a ninguno.
+it:
+  message: Ah no, non ne ho visti passare.
+pt:
+  message: Ah n╞o, n╞o os vi passar.

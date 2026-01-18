@@ -1,4 +1,22 @@
+textId: 423
 location:
 speaker:
 message: Nobody knows for sure. Some guy found that drifting in space. Supposed
   to come from a very distant garbage can planet...
+fr:
+  message: On ne sait pas trop. C'est un gars qu'a trouvé ça qui dérivait dans
+    l'espace. Paraîtrait que ça vient d'une planète poubelle très éloignée..."
+de:
+  message: Das wissen wir nicht so genau. Irgend jemand hat das irgendwo im
+    Weltall aufgegabelt. Kam wohl von einem sehr weit entfernten Müllplaneten
+    ...
+es:
+  message: No sabemos muy bien. Fue un tipo el que encontró eso que andaba a la
+    deriva en el espacio. Al parecer viene de un planeta basurero muy lejano"
+it:
+  message: Non ne sappiamo molto. E' un tipo che l'ha trovato, alla deriva nello
+    spazio. Pare che venga da un pianeta discarica molto lontano ...
+pt:
+  message:
+    N╞o sabemos muito. Foi um cara que encontrou isso flutuando no espaço.
+    Parece que isso vem de um planeta lixo muito distante..."

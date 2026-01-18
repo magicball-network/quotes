@@ -1,5 +1,22 @@
+textId: 108
 location:
 speaker:
 message: |-
   A prisoner is escaping!
   Sound the alarm!
+fr:
+  message: |-
+    Un prisonnier s'évade !
+    Déclenchez l'alarme !
+de:
+  message: |-
+    Ein Häftling bricht aus !
+    Schlagen Sie Alarm !
+es:
+  message: |-
+    ¡Se está evadiendo un prisionero!
+    ¡Activen la alarma!
+it:
+  message: |-
+    Un prigioniero sta evadendo!
+    Suonate l'allarme!

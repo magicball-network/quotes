@@ -1,3 +1,12 @@
+textId: 33
 location:
 speaker:
 message: To the rabbibunny village.
+fr:
+  message: Au village lapichon.
+de:
+  message: Zum Haasi Dorf.
+es:
+  message: Al pueblo conejuno.
+it:
+  message: Al villaggio dei lapinoidi.

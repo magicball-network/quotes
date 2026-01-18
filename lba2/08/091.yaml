@@ -1,3 +1,14 @@
+textId: 350
 location:
 speaker:
 message: Desert Island.
+fr:
+  message: Sur l'île du désert.
+de:
+  message: Auf die Wüsteninsel.
+es:
+  message: A la isla del desierto.
+it:
+  message: Sull' Isola del deserto.
+pt:
+  message: Na Ilha do Deserto.

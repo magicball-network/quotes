@@ -1,5 +1,22 @@
+textId: 228
 location:
 speaker:
 message: |-
   Mutant Factory
   (The Hamalayi mountains)
+fr:
+  message: |-
+    Usine de mutants
+    (Chaîne de l'Hamalayi)
+de:
+  message: |-
+    Mutantenfabrik
+    (Hamalayi-Kette)
+es:
+  message: |-
+    Fábrica de mutantes
+    (Cadena del Hamalayi)
+it:
+  message: |-
+    Fabbrica di mutanti
+    (Catena dell'Hamalayi)

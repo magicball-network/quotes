@@ -1,5 +1,25 @@
+textId: 211
 location:
 speaker:
 message: 'Someone made a mistake in the address and sent me this object by
   accident: it''s a keypad that opens a door at the "Teleportation Center".
   This opens a room full of meca-penguins.'
+fr:
+  message:
+    'Quelqu''un s''est trompé d''adresse et m''a envoyé cet objet par erreur :
+    il s''agit d''un clavier pour ouvrir une porte du " Centre de Téléportation
+    ". Cela ouvre une pièce pleine de méca-pingouins.'
+de:
+  message: 'Jemand hat sich in der Adresse geirrt, und mir versehentlich diesen
+    Gegenstand geschickt : es handelt sich dabei um eine Tastatur mit der man
+    eine Tür des " Biemzentrums " öffnen kann. Dies öffnet einen Raum voller
+    Meca-Pinguine.'
+es:
+  message:
+    'Alguien se ha equivocado de dirección y me ha enviado este objeto por
+    error: se trata de un teclado para abrir una puerta del "Centro de
+    Teleportación". Esto abre una habitación repleta de Meca-Pingüinos.'
+it:
+  message: 'Qualcuno ha sbagliato indirizzo e mi ha spedito per errore questo
+    oggetto: si tratta di una tastiera per aprire una porta del "Centro di
+    Teletrasporto"; si accede a una stanza piena di robo-pinguini.'

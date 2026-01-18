@@ -1,4 +1,24 @@
+textId: 206
 location:
 speaker:
 message: This Pyramid is a key. If you put it in the right place, it will
   activate a mechanism giving you access to a secret place.
+fr:
+  message:
+    Cette Pyramide est une clé. En la plaçant au bon endroit, tu activeras
+    un mécanisme qui te permettra d'accéder dans un endroit secret.
+de:
+  message: Diese Pyramide ist ein Schlüssel. Wenn du sie an den richtigen Platz
+    stellst, wird dadurch ein Mechanismus aktiviert, der dir Zutritt zu einem
+    geheimen Ort gewährt.
+es:
+  message:
+    Esta pirámide es una llave. Colocándola en el lugar adecuado, activarás
+    un mecanismo que te permitirá acceder a un lugar secreto.
+it:
+  message: Questa piramide è una chiave. Introducendola nel luogo adatto,
+    attiverai un meccanismo che ti permetterà di accedere in un luogo segreto.
+pt:
+  message:
+    Essa pirâmide é uma chave. Colocando ela no devido lugar, você ativará
+    um mecanismo que te dará acesso a um lugar secreto.

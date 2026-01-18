@@ -1,5 +1,22 @@
+textId: 57
 location:
 speaker:
 message: |-
   Those guys on stage are fabulous!
   But it's too bad that they don't play anything.
+fr:
+  message: |-
+    Ces types sur scène sont fabuleux !
+    Mais c'est quand même dommage qu'ils ne jouent rien.
+de:
+  message: |-
+    Diese Typen auf der Bühne sind sagenhaft !
+    Es ist nur schade, daß sie nichts spielen.
+es:
+  message: |-
+    Estos tipos que están en escena son fabulosos
+    Pero es una pena que no toquen nada.
+it:
+  message: |-
+    I tipi sul palco sono fantastici!
+    Peccato però che non suonino niente.

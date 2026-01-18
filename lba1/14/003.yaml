@@ -1,3 +1,12 @@
+textId: 2
 location:
 speaker:
 message: '" Guard post - open 24 hours a day. Do not disturb... "'
+fr:
+  message: '" Poste de garde 24h/24. Ne pas réveiller ... "'
+de:
+  message: '" Wachposten Tag u. Nacht. Nicht aufwecken ... "'
+es:
+  message: '"Puesto de guardia 24h/24. No despertar ..."'
+it:
+  message: '"Posto di guardia 24 ore su 24. Non svegliare..."'

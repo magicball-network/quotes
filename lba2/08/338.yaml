@@ -1,3 +1,4 @@
+textId: 912
 location:
 speaker:
 message: |-
@@ -7,3 +8,43 @@ message: |-
   But it might make your head swell
   Sendell is the prettiest
   FunFrock is a dirty beast."
+fr:
+  message: |-
+    " C'est Sendell qui a son nid,
+    dans le coeur de la planète.
+    Sendell fait de la Magie,
+    ça peut faire tourner la tête.
+    Sendell est la plus jolie,
+    FunFrock était une sale bête. "
+de:
+  message: |-
+    "Sendell hat ihr Nest gemacht
+    Wo sie ist, das sieht man nicht
+    Sendell hat Magie gemacht
+    Schenkt uns Glück und schenkt uns Licht
+    Sendell ist so schön und lacht
+    FunFrock war der Bösewicht. "
+es:
+  message: |-
+    "Su nido lo tiene Sendell
+    en el seno del planeta
+    la magia que hace Sendell
+    te hace perder la chaveta
+    tan hermosa como es Sendell
+    fue Fun Fronck de mala bestia"
+it:
+  message: |-
+    " Nel cuore dei pianeti
+    Sendell ha la sua casa.
+    Sendell fa i sortilegi,
+    la testa è intorpidita
+    Sendell la più adorata
+    Funfrock è tra i brutali. "
+pt:
+  message: |-
+    " É Sendell quem nos dá uma m╞o,
+    com sua magia do centro do planeta.
+    Nós cantamos a canç╞o,
+    enquanto tocamos a corneta.
+    Mas cuidado FunFrock é o bicho pap╞o,
+    e com ele n╞o se meta. "

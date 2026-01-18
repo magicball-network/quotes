@@ -1,5 +1,27 @@
+textId: 41
 location:
 speaker:
 message: Looking for a costume or Magic accessories? Well, Chedil Amiradoo has a
   deal that'll make your head spin. Low, low prices and after-sales service.
   Currently doing the rounds on your island.
+fr:
+  message: '" Vous cherchez un costume ou des accessoires de Magie ? Chedil
+    Amiradoo est à votre service. Prix compétitifs et service après-vente.
+    Actuellement en tournée sur votre île. "'
+de:
+  message: '"Suchen Sie ein Magierkostüm oder eine Magierausrüstung? Chedil
+    Amiradoo stets zu Ihren Diensten. Günstige Preise, Wartungs- und
+    Reparaturarbeiten. Derzeit auf Ihrer Insel."'
+es:
+  message: '" ¿Busca usted un traje o accesorios de Magia? Chedil Amiradoo a su
+    servicio. Precios competitivos y servicio post-venta. Actualmente de gira
+    por su isla."'
+it:
+  message:
+    '" Cercate un costume o degli accessori di Magia ? Chedil Amiradoo è a
+    vostra disposizione. Prezzi competitivi e servizio di assistenza.
+    Attualmente, in tournée sulla vostra isola."'
+pt:
+  message: '" Você está procurando um traje ou acessório de magia ? Chedil
+    Amiradoo está ao seu dispor. Preços competitivos e garantia de qualidade.
+    Atualmente fazendo uma tournê na sua ilha. "'

@@ -1,3 +1,14 @@
+textId: 375
 location:
 speaker:
 message: For 15 Kashes, you can get recharged in Magic points.
+fr:
+  message: Pour 15 Kashes, tu peux te recharger en points de magie.
+de:
+  message: Für 15 Kashes kannst du deinen Vorrat an Zauberpunkten auffüllen.
+es:
+  message: Por 15 Kashes, puedes recargarte con puntos de magia.
+it:
+  message: Per 15 Kashes, puoi ricaricarti in punti di magia.
+pt:
+  message: Por 15 Kashes, você pode recarregar seus pontos de magia.

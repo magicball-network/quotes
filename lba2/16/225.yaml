@@ -1,4 +1,20 @@
+textId: 495
 location:
 speaker:
 message: You can't climb to the upper city, sir. The elevators are temporarily
   out of order.
+fr:
+  message: Vous ne pouvez pas monter jusqu'à la ville haute monsieur. Les
+    ascenseurs sont momentanément arrêtés.
+de:
+  message: Sie kommen derzeit nicht in die Oberstadt, die Aufzüge stehen still.
+es:
+  message: No puede subir hasta la ciudad alta, señor. Los ascensores han dejado
+    momentáneamente de funcionar.
+it:
+  message:
+    Non può salire fino alla città alta, signore. Gli ascensori sono fermi
+    per il momento.
+pt:
+  message: Você n╞o poderá subir até a cidade alta, senhor. Os elevadores est╞o
+    temporariamente parados.

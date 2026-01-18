@@ -1,3 +1,13 @@
+textId: 49
 location:
 speaker:
 message: You don't have enough Kashes to make the trip Twinsen. See you later!
+fr:
+  message: Tu n'as pas assez de Kashes pour que je t'emmène Twinsen, à plus tard.
+de:
+  message: Du hast nicht genügend Kashes Twinsen, damit ich dich mitnehmen kann,
+    bis später.
+es:
+  message: No tienes suficiente dinero para que te lleve Twinsen, hasta más tarde.
+it:
+  message: Non hai abbastanza soldi, Twinsen, a più tardi.

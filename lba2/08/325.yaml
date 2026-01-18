@@ -1,3 +1,14 @@
+textId: 375
 location:
 speaker:
 message: Never heard it.
+fr:
+  message: J'le connais pas.
+de:
+  message: Kenn' ich nicht.
+es:
+  message: No lo conozco.
+it:
+  message: Non lo conosco.
+pt:
+  message: Eu n╞o conheço ele.

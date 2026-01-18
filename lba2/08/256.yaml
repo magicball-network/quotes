@@ -1,3 +1,14 @@
+textId: 493
 location:
 speaker:
 message: Sorry sir, our ferries do not serve that island.
+fr:
+  message: Désolé monsieur, nos ferrys ne desservent pas cet îlot.
+de:
+  message: Bedaure, unsere Fähren fahren dieses Eiland nicht an.
+es:
+  message: Lo siento señor, nuestros ferrys no van a ese islote.
+it:
+  message: Mi dispiace, signore, i nostri traghetti non vanno in questo isolotto.
+pt:
+  message: Sinto muito senhor, nossas barcas n╞o v╞o até esta ilhota.

@@ -1,3 +1,14 @@
+textId: 2
 location:
 speaker:
 message: You have found three darts.
+fr:
+  message: Tu as récupéré trois fléchettes.
+de:
+  message: Du hast drei Pfeile wiederbekommen.
+es:
+  message: Has recuperado tres dardos.
+it:
+  message: Hai recuperato tre freccette.
+pt:
+  message: Você adquiriu três dardos.

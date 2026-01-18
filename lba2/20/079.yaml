@@ -1,3 +1,14 @@
+textId: 590
 location:
 speaker:
 message: You don't have business here, get lost!!!
+fr:
+  message: Vous n'avez rien à faire ici, dégagez !!
+de:
+  message: Weg da, Sie haben hier nichts zu suchen!
+es:
+  message: ¡¡Aquí no pinta usted nada, apártese!!
+it:
+  message: Non ha niente da fare qui, vada via !!
+pt:
+  message: Você n╞o tem nada para fazer aqui, vá embora !!

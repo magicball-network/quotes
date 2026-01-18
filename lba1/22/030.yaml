@@ -1,3 +1,12 @@
+textId: 36
 location:
 speaker:
 message: You don't have enough Kashes, my poor little quetch.
+fr:
+  message: Tu n'as pas assez de Kashes, mon pauvre petit quetch.
+de:
+  message: Du hast nicht genügend Kashes, mein armer kleiner Quetsch.
+es:
+  message: No tienes sufcientes Kashes, mi estimado colines.
+it:
+  message: Non hai abbastanza Kash, mio piccolo quetch.

@@ -1,3 +1,14 @@
+textId: 55
 location:
 speaker:
 message: You've just got back all the objects that were in your inventory!
+fr:
+  message: Tu viens de retrouver tous les objets que contenait ton inventaire !
+de:
+  message:
+    Du hast soeben alle Gegenstände wiedergefunden, die in Deinem Inventar
+    enthalten waren !
+es:
+  message: ¡Acabas de encontrar todos los objetos que contenía tu inventario!
+it:
+  message: Hai appena ritrovato tutti gli oggetti contenuti nel tuo inventario!

@@ -1,5 +1,31 @@
+textId: 305
 location:
 speaker:
 message: Me, I declare this fellow... [hic!] I didn't trust him so much, [hic!!]
   I knew darn well we were all digging for nothing, hic!! If I'd known, I'd've
   spent a little more time at Franckie's instead of digging [hic!]!
+fr:
+  message:
+    Moi j'dis que ce gars... hips ! J'avais pas trop confiance en lui, hips
+    !! J'savais bien qu'on creusait tous pour rien, hips !! Si j'aurais su,
+    j'aurais passé un peu plus de temps chez Franckie plutôt qu'à piocher, hips
+    !!
+de:
+  message:
+    Also, ich hab ja immer schon gesacht, daß der Junge ... hick! ... hab'
+    dem nie vertraut! Hab' ich doch gewußt ... hick ... daß die gansse Graberei
+    umsons' war, hick! Mann, wenn ich das gewußt hätte ... hick ... hätt' ich
+    länger bei Franckie inner Kneipe bleiben können ... hick!!!
+es:
+  message: Yo, lo que digo es que ese tipo... hips ¡¡no me fiaba mucho de él,
+    hips!! ¡¡Ya sabía yo que estábamos haciendo agujeros para nada, hips!! ¡¡Si
+    lo hubiera sabido habría estado más tiempo donde Franckie en vez de cavar,
+    hips!!
+it:
+  message: Io dico che questo tipo ... hic ! Non avevo tanta fiducia in lui, hic
+    !! Sapevo che avremmo scavato per niente, hic !! Se avessi saputo, avrei
+    passato un po' più di tempo da Franckie invece di zappare, hic !!
+pt:
+  message: Eu sabia que esse moço... hic ! Eu n╞o confiava muito nele, hic !!
+    sabia que estávamos cavando a toa, hic !! Se eu soubesse, teria passado mais
+    tempo no Franckie, hic !!

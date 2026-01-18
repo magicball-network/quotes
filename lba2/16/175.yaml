@@ -1,3 +1,14 @@
+textId: 355
 location:
 speaker:
 message: Stand in front of one of the four markers, and place your bets.
+fr:
+  message: Placez vous devant l'une des quatre bornes, et faites votre mise.
+de:
+  message: Stellen Sie sich vor eines der vier Geräte, und machen Sie Ihren Einsatz.
+es:
+  message: Sitúese delante de uno de los cuatro terminales y haga su apuesta
+it:
+  message: Mettetevi davanti ad una delle quattro colonnine e puntate.
+pt:
+  message: Posicione-se em frente a uma das quatro marcaçΣes, e faça sua aposta.

@@ -1,3 +1,12 @@
+textId: 8
 location:
 speaker:
 message: With an atmosphere like this, I'm gonna be rich!
+fr:
+  message: Avec une ambiance pareille, je fais des affaires en or !
+de:
+  message: Mit so einer Stimmung mache ich Bombengeschäfte !
+es:
+  message: ¡Con un ambiente como éste, me voy a hacer de oro!
+it:
+  message: Con uno spettacolo simile, faccio affari d'oro!

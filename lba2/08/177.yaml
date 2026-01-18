@@ -1,3 +1,14 @@
+textId: 606
 location:
 speaker:
 message: By the way, did you pick up the portable radio at Baldino's?
+fr:
+  message: Au fait, tu es allé chercher la radio portable chez Baldino ?
+de:
+  message: Hast du übrigens schon das Funksprechgerät bei Baldino abgeholt?
+es:
+  message: Por cierto ¿has ido a buscar la radio portátil donde Baldino?
+it:
+  message: A proposito, sei andato a prendere la radio portatile da Baldino ?
+pt:
+  message: A propósito, você foi buscar o rádio portátil com o Baldino ?

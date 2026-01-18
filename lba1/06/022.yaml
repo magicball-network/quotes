@@ -1,3 +1,12 @@
+textId: 21
 location:
 speaker:
 message: You've just found a Bottle of Syrup!
+fr:
+  message: Tu viens de trouver un Flacon de Sirop !
+de:
+  message: Du hast soeben eine Flasche Sirup gefunden !
+es:
+  message: ¡Acabas de encontrar un Frasco de Jarabe!
+it:
+  message: Hai appena trovato un Flacone di Sciroppo!

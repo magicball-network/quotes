@@ -1,3 +1,14 @@
+textId: 110
 location:
 speaker:
 message: Emperor's Sword
+fr:
+  message: Sabre de L'Empereur
+de:
+  message: Säbel des Kaisers
+es:
+  message: Sable del emperador
+it:
+  message: Sciabola dell'imperatore
+pt:
+  message: Sabre do Imperador

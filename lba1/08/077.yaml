@@ -1,3 +1,12 @@
+textId: 83
 location:
 speaker:
 message: "A piece of advice: surrender instead of trying to provoke us."
+fr:
+  message: "Un conseil : rendez-vous au lieu de nous provoquer."
+de:
+  message: "Ein Ratschlag : ergeben Sie sich, anstatt uns zu provozieren."
+es:
+  message: "Un consejo: ríndase en lugar de provocarnos."
+it:
+  message: "Un consiglio: si arrenda, invece di provocarci."
